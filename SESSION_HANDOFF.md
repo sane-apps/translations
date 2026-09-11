@@ -1,5 +1,34 @@
 # Translations — session handoff
 
+## 2026-09-11 (Help us + one-command start)
+
+- Site nav **Help** → `/contribute/`: donate (GitHub Sponsors), buy a Mac app (saneapps.com, one-time, no prices), point an AI (`claims.py start`), spot-check Greek/Latin (GitHub issue).
+- Contributors: point an AI at `docs/START_HERE.md`, then `python3 scripts/claims.py start --agent YourName`. That takes the next free slice and prints the brief.
+- Visual: `websites/fathers.saneapps.com/outputs/visual-audit-2026-09-11-help/`.
+
+## 2026-09-11 (reader witness disclosure)
+
+- Public works: collapsed **About this text** names copy-text, checked prints, and real joins (`text_history`). Reading column stays clean. Italic cue only for a stretch supplied from another witness (none live yet).
+- Jeremiah pattern: GCS 1901 copy-text; TEI/DjVu checks of the same print; joins at Hom. 1.1, 1.5, 1.11. `publish_homilies: [1, 2]` so later JSON drafts do not ship. No PG 13 / Jerome claim yet.
+- Same About block on the other live works, honest to what is actually locked. Site `/about/` states the method.
+
+## 2026-09-11 (two-pass pipeline on live works)
+
+`python3 -m pipeline.check_pass_ab` (Pass A gloss ≠ B, lemmas, choices, real source_text):
+
+| Work | Receipts | Checker |
+|------|----------|---------|
+| On Prayer (Gebet) | 34 | ok |
+| Martyrdom | 52 | ok (some Greek slices overlap chapters; A follows locked block) |
+| Heraclides | 28 | ok (was Greek dumped as A; now English gloss) |
+| Pascha | 149 | ok |
+| Cyril Adoration 1 | 39 | ok (was 36× A==B) |
+| Jeremiah Homilies 1–2 | 19 | ok |
+| Julian To Florus 1 | 141 | ok |
+| Julian rest | in flight | Books 2–6 + fragments |
+
+Jeremiah 3–7 stub files exist without English; not live; not `source_verified` in the two-pass sense.
+
 ## 2026-09-11 (reader SOP + two-pass bar)
 
 - Works reader SOP is live (`websites/fathers.saneapps.com/AGENTS.md`). Mini visual: `outputs/visual-audit-2026-09-11-reader-sop/`. Rail, thought-chunks, text-first at 375, cite “Read continuously.”
