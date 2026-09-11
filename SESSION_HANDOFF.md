@@ -3,7 +3,7 @@
 ## 2026-09-11 (Help us + one-command start)
 
 - Site nav **Help** → `/contribute/`: donate (GitHub Sponsors), buy a Mac app (saneapps.com, one-time, no prices), point an AI (`claims.py start`), spot-check Greek/Latin (GitHub issue).
-- Contributors: point an AI at `docs/START_HERE.md`, then `python3 scripts/claims.py start --agent YourName`. That takes the next free slice and prints the brief.
+- Contributors: copy `docs/START_HERE.md` into the AI (site Help has a Copy prompt button). GitHub README: four one-click links.
 - Visual: `websites/fathers.saneapps.com/outputs/visual-audit-2026-09-11-help/`.
 
 ## 2026-09-11 (reader witness disclosure)
