@@ -10,6 +10,7 @@ Canonical path: `~/SaneApps/clients/translations/books/origen-jeremiah-samuel/`
 - Legal: private study; new English from GCS 1901. First1KGreek TEI is a transcription of that edition. PDF + djvu.txt retained as witnesses. Do not copy FOTC 97 (Smith).
 
 ## State
+- 2026-09-11 (parallel): Literary two-pass of Homilies **6–7** against GCS (TEI ἀπάπης→love; inverted “God of evil” fixed). Not published. Mini still owns Homily 5/8. Do not rsync english JSON onto Mini mid-burn.
 
 - 2026-09-11 (evening): **Homilies 3–4** two-pass English from GCS (8 §§). Checker green. Site `publish_homilies: [1, 2, 3, 4]`. CF drafts 6–7, 9–10 stay off the public reader. Homily 8 still Mini NVIDIA promote — do not re-claim.
 - 2026-09-11 (EOD): **Homily 8 (`jer-h8`)** claimed by `overnight-mini-nv`. English draft present; AI promote may still be running on Mini. Do not re-claim. Next free Homily 5 splits `jer-h5a/b/c`, then 11–20. Overnight: Mini calendar 21:10 + flock locks (`docs/AI_CROSSCHECK.md`).
