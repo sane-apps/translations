@@ -1,5 +1,10 @@
 # Translations — session handoff
 
+## 2026-09-11 (Homilies 3–4 shipped; CF drafts held)
+
+- Combined the earlier choice: fill the 3–4 gap at the Homily 1–2 bar; do **not** upload CF 6–7, 9–10 until a literary pass. Homily 8 still running on Mini NVIDIA — leave it.
+- Site `publish_homilies: [1, 2, 3, 4]`. Checker 8/8 for 3–4. Machine drafts stay in JSON off the public reader.
+
 ## 2026-09-11 (EOD wrap — flock overnight + jer-h8)
 
 - **Shipped:** dual-lane Mini overnight is calendar-only (21:10 local, no KeepAlive). Concurrency is kernel `fcntl.flock` (`scripts/fathers_run_lock.py`): global burn + per-claim locks. Promote exits: `0` done, `1` content, `2` API, `3` lock busy, `4` claim wall. Docs: `docs/AI_CROSSCHECK.md`. Install: `scripts/install-mini-overnight-quota.sh`. Regression: `python3 scripts/test_fathers_run_lock.py`.
