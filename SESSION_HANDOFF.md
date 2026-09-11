@@ -1,5 +1,10 @@
 # Translations — session handoff
 
+## 2026-09-11 (overnight hang watch)
+
+- Live Mini burn is **HEALTHY** (jer-h8 → done, jer-h5a NVIDIA promote in flight). Do not bootout.
+- Hang hole closed: `run_bounded` kills draft/promote process groups after `claim_wall_s` (exit 4). `draft_claim.py` has the same wall. Health: `python3 scripts/fathers_overnight_health.py` (`--kill` only if the log is silent). Grok scheduler every 30m.
+
 ## 2026-09-11 (Homilies 3–4 shipped; CF drafts held)
 
 - Combined the earlier choice: fill the 3–4 gap at the Homily 1–2 bar; do **not** upload CF 6–7, 9–10 until a literary pass. Homily 8 still running on Mini NVIDIA — leave it.
