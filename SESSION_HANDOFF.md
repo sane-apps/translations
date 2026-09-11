@@ -1,5 +1,12 @@
 # Translations — session handoff
 
+## 2026-09-11 (EOD wrap — flock overnight + jer-h8)
+
+- **Shipped:** dual-lane Mini overnight is calendar-only (21:10 local, no KeepAlive). Concurrency is kernel `fcntl.flock` (`scripts/fathers_run_lock.py`): global burn + per-claim locks. Promote exits: `0` done, `1` content, `2` API, `3` lock busy, `4` claim wall. Docs: `docs/AI_CROSSCHECK.md`. Install: `scripts/install-mini-overnight-quota.sh`. Regression: `python3 scripts/test_fathers_run_lock.py`.
+- **Live on Mini (leave alone):** `jer-h8` claimed by `overnight-mini-nv`; one promote may still be running under the LaunchAgent job. Do **not** free/re-claim, second-burn, or `bootout`/`kickstart` while locks/`ai_promote` are live. When idle: sync Mini → Air `docs/CLAIMS.md` + Jeremiah `jeremiah_english.json` + `reviews/justifications/jeremiah_8_*.json`, then confirm claim `done` or leave `claimed` for next calendar burn.
+- CF lane near reserve today (~9.7k+/10k used earlier); NV lane independent. Logos still Air-only.
+- SaneProcess `scripts/automation/recurring-jobs.md` updated to match (no KeepAlive).
+
 ## 2026-09-11 (Help us + one-command start)
 
 - Site nav **Help** → `/contribute/`: donate (GitHub Sponsors), buy a Mac app (saneapps.com, one-time, no prices), point an AI (`claims.py start`), spot-check Greek/Latin (GitHub issue).

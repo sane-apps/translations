@@ -2,7 +2,7 @@
 
 **Updated:** 2026-09-11  
 **TTL:** 14d (re-check Workers AI catalog + Mini RAM before baking)  
-**Decision target:** bake-off shortlist → then overnight draft queue (never auto-`done`)
+**Decision target:** bake-off shortlist → overnight dual-lane burn → `ai_promote.py` → claim `done` (see `docs/AI_CROSSCHECK.md`; no standing human review gate)
 
 ## Hardware fact (blocks fantasy locals)
 
@@ -140,7 +140,7 @@ Official MLX LoRA path matches what you used: https://github.com/ml-explore/mlx-
 2. Build `clients/translations/training_data/` JSONL from verified pairs only (`pass_a_gloss` present).  
 3. Start from **SmolLM3-3B-4bit** or **Qwen3 0.6B/1.5B** using the same mini LoRA knobs (not Llama 3.2 3B until it stops exit-134).  
 4. Eval = same SOP checks as CF bake (§6.1 fixture + held-out sections) — promote only if it beats unadapted base.  
-5. Keep CF Tier A for volume; use Mini adapter for overnight **draft** under `review`, same as before.
+5. Keep CF Tier A for volume; NVIDIA NIM for parallel draft/check. Promote via `ai_promote.py` (API fail → next model; content fail stops that claim).
 
 **Bottom line:** Training on the Mini is a **proven capability you already built** (MLX LoRA, ≤3B). Re-enabling it for Fathers is engineering + data + eval — not a hardware impossibility. What failed last time was **task/quality** (SaneAI workflow gates), and the nightly agents were deliberately turned off for that reason.
 
@@ -155,7 +155,7 @@ Another model’s summary (Qwen2.5 7B Q4 / Gemma 2 9B / Aya Expanse 8B via Ollam
 | 8GB is small-model territory; close other apps; keep context short | Agree. Unified memory + macOS leaves little slack. |
 | No purpose-built Ancient Greek/Latin→English model that fits 8GB | Agree for **local**. Research-grade **LITERA** (NAACL 2025 Findings / [arXiv:2504.10660](https://arxiv.org/abs/2504.10660)) is a multi-layer pipeline on **fine-tuned GPT-4o / GPT-4o-mini**, not a Mini GGUF. |
 | Classical ability in open instruct models is mostly **pretrain leakage** (Perseus/PD English in the soup), not a dedicated classical FT | Agree as default prior until we measure. |
-| Hybrid (local draft + stronger cloud check) | Matches our CF Tier A + `review` plan. |
+| Hybrid (local/cloud draft + stronger cloud check) | Matches CF + NVIDIA lane config → `ai_promote` → `done`. |
 | Ollama `qwen2.5:7b` exists | Live Ollama library: **`qwen2.5:7b` ≈ 4.7GB** download ([ollama.com/library/qwen2.5](https://ollama.com/library/qwen2.5)). |
 
 ### What it conflates or understates
@@ -201,11 +201,11 @@ Lane C — Volume / quality ceiling (Cloudflare Workers AI Tier A)
 | **C. Air overnight** | Power + time | **16 GB** is the right box for 7B Q4 chat or serious LoRA *after* A/B fail. |
 | **D. Mini local** | Free, tight | ≤3B LoRA / tiny inference only. |
 
-**AGENTS note:** “NVIDIA-agent” ban = legacy **`nv` sweeps / `nvidia_vision`**, not a ban on **NIM prototype APIs** for private-study draft queues. Drafts only; never auto-`done`.
+**AGENTS note:** “NVIDIA-agent” ban = legacy **`nv` sweeps / `nvidia_vision`**, not a ban on **NIM prototype APIs** for private-study draft/check. Overnight path ends in `done` via AI cross-check (`docs/AI_CROSSCHECK.md`).
 
 ### Play order
 
 1. **Bake once** (same §6.1 + SOP scorer): CF Tier A + 2–3 NVIDIA Free Endpoints (+ optional Air `qwen2.5:7b`).  
-2. **Winner free/cheap** → nightly draft queue → `review` → human/Cursor promote. Cap CF to free neurons; NVIDIA to RPM/credits.  
+2. **Winner free/cheap** → Mini dual-lane overnight → `ai_promote` → `done`. Cap CF to free neurons; NVIDIA to RPM/credits.  
 3. **All free lanes fail classical fidelity** → Air LoRA on verified `pass_a_gloss` JSONL; Mini only for small challengers.  
 4. **Do not** train first “because we can.” Your SaneAI history: easy to run LoRA, hard to win the wrong objective.
