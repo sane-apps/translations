@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_30
+- Claim `commodian-instr-30-mine` → **faith-and-obedience**.
+- Solomon: gifts corrupt judges; belly-god; without adoring crucified Lord you perish; temper self to Christ.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_60
 - Claim `commodian-instr-60-mine` → **faith-and-obedience**.
 - Few crowned in agony; help the brother under arms; Dominus bids feed even enemies; Dominica — call a poor man to lunch; spes in those refreshed from your goods.
