@@ -1,3 +1,73 @@
+## Air mine 2026-09-12 — commodian_instr_27
+- Claim `commodian-instr-27-mine` → **salvation-by-christ**.
+- Justice/goodness → live after fate; earthly judges preview; do not mock heavenly God; hand yourself to Christ for good deeds to follow.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_42
+- Claim `commodian-instr-42-mine` → **reward-and-judgment**.
+- Trumpet/lion; Dominus ends silence; fire judges iniquos; iustos non tanget ignis.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_47
+- Claim `commodian-instr-47-mine` → **faith-and-obedience**.
+- Birds/beasts snared; humans have lex/doctrina vitae; do not sin against the king; washed → have charity; avoid death’s bait; bloodless martyrdoms.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_28
+- Claim `commodian-instr-28-mine` → **reward-and-judgment**.
+- Rich delays; says no hope when dead; ungrateful to God who made/feeds him; learn God; if you disbelieve → tartarus; eternal spiritual penalty.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_34
+- Claim `commodian-instr-34-mine` → **atonement-recapitulation**.
+- Adam falls; death enters by wood; seek life’s fruit on wood; second law from wood; turn to Christ; God’s law raises the dead.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_52
+- Claim `commodian-instr-52-mine` → **faith-and-obedience**.
+- Militia name binds; leave pristina gesta/luxurias; Imperio Regis parendum; last glad times for good miles.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_44
+- Claim `commodian-instr-44-mine` → **reward-and-judgment**.
+- De die iudicii for incredulos; God’s fire; unbelieving nations; sanctorum castra spared; heaven and earth changed.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_43
+- Claim `commodian-instr-43-mine` → **reward-and-judgment**.
+- City from heaven in first anastasis; we who were devoted rise incorrupt without death; martyrs under Antichrist receive goods.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_48
+- Claim `commodian-instr-48-mine` → **faith-and-obedience**.
+- Paenitens: pray night/day; stay near mother; Altissimus misericors; weep guilt; seek medicus; ask summo de Rege help lest you perish from the people.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_45
+- Claim `commodian-instr-45-mine` → **baptism-and-new-birth**.
+- Credentes in Christo leave idols; for salutaria; baptism genitali sola donantur; avoid grave post-baptism sin.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_35
+- Claim `commodian-instr-35-mine` → **atonement-recapitulation**.
+- Double lignum: death then life; Rex per crucem; refuse Domini credere crucem; nails; Abel’s line believes Christo.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_25
+- Claim `commodian-instr-25-mine` → **reward-and-judgment**.
+- Refuse disciplina caelestis → death/inferno; world joys vain; spes in futuro; God judges; begin to feel Dei iudicia.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_24
+- Claim `commodian-instr-24-mine` → **faith-and-obedience**.
+- Fool refuses Christum cognoscere; harvest ready; tempus vitae credenti; urgues credere Christo.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_13
+- Claim `arnobius-nations-2-13-mine` → **salvation-by-christ**.
+- Do not mock hope in the Father, future resurrection, or care for souls’ salvation; Plato himself urges mind toward God.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_33
 - Claim `arnobius-nations-2-33-mine` → **salvation-by-christ**.
 - Fear = soul destruction; cling to liberator; pagans bank on self-salvation/self-deification; Christians hope nothing from infirmity; heaven only with the Lord.
