@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_carmen_241_280
+- Claim `commodian-carmen-241-280-mine` → **salvation-by-christ**.
+- Carmen 241–280; exile after wood; cornerstone; prophetic cross texts; Father in Son, majesty in flesh.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
 ## Air mine 2026-09-12 — commodian_carmen_201_240
 - Claim `commodian-carmen-201-240-mine` → **faith-and-obedience**.
 - Carmen 201–240; leave luxuries; prophets murdered; Christ heals by word; prophecy filled.
