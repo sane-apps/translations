@@ -1,8 +1,14 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — Cyril Adoration Book 5 §§11–20 tip)
+
+- Claim `cyril-adoration5-11-20-oet`: Book 5 §§11–20 Pass A≠B OET (Marah wood→Christ; Taberah/serpents; ark/cloud; manna/quail; tent/cloud; silver trumpets). Tip pending SHA stamp after `98121d3`.
+- Melito skipped. Never Cyril Matthew. `jer-h20b` intact.
+- Next: Book 5 §§21–26 CLOSEOUT (26/26).
+
 ## 2026-09-12 (Air — Cyril Adoration Book 5 §§1–10 tip)
 
-- Claim `cyril-adoration5-1-10-oet`: Book 5 Greek ingested (26 §§, PG 68.360–68.408); §§1–10 Pass A≠B OET (no previous complete English). Theme: ἀνδρεία ἐν Χριστῷ (Jericho/Achan/Ai). Tip pending SHA stamp.
+- Claim `cyril-adoration5-1-10-oet`: Book 5 Greek ingested (26 §§, PG 68.360–68.408); §§1–10 Pass A≠B OET (no previous complete English). Theme: ἀνδρεία ἐν Χριστῷ (Jericho/Achan/Ai). Tip `98121d3`.
 - Melito skipped. Never Cyril Matthew. `jer-h20b` intact. No Logos/`build_book.py`.
 - Next: Book 5 §§11–20, then §§21–26 CLOSEOUT (26/26).
 
