@@ -1,3 +1,23 @@
+## Air mine 2026-09-12 — arnobius_nations_2_17
+- Claim `arnobius-nations-2-17-mine` → **image-likeness**.
+- 2.17: rationales boast fails; beasts have providentia/sapientiae simulacra.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_57
+- Claim `arnobius-nations-2-57-mine` → **faith-and-obedience**.
+- 2.57: rival soul-opinions all 'probable'; divina by human coniectura.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_46
+- Claim `arnobius-nations-2-46-mine` → **free-will**.
+- 2.46: deus salus rerum not miseriarum causa; sacrilege to make him author of wretched birth.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_41
+- Claim `arnobius-nations-2-41-mine` → **image-likeness**.
+- 2.41: idcirco animas misit? not for amphitheater/luxury ruin.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_73
 - Claim `arnobius-nations-2-73-mine` → **true-worship**.
 - 2.73: Isis/Magna Mater late; religio nunc nata; missus shows deus/cultus.
