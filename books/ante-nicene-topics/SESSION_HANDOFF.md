@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_carmen_81_120
+- Claim `commodian-carmen-81-120-mine` → **image-likeness**.
+- Carmen 81–120; choose life-cup; one God in Word; F/S/Sp; made visible — even flesh.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
 ## Air mine 2026-09-12 — commodian_carmen_41_80
 - Claim `commodian-carmen-41-80-mine` → **true-worship**.
 - Carmen 41–80; Noah→Abraham→law→many prophets; flesh for us; deaf refuse warning vs warner.
