@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_21
+- Claim `commodian-instr-21-mine` → **two-ways**.
+- I grieve citizens dulled by the world; lots, birds, blood omens; beware images; seek Almighty’s law; demons roam for our proving; you entered two ways — learn the right.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_16
 - Claim `commodian-instr-16-mine` → **true-worship**.
 - Few wicked empty seers delude; fake mysteries for their living; Bellona frenzy faked for stipend; all feigned; they shade the suppliant people lest the perishing believe; no majesty of theirs has spoken.
