@@ -40,9 +40,13 @@ Canonical path: `~/SaneApps/clients/translations/books/cyril-alexandria-matthew-
 | `cyril-matt-frag-a41` | done | entries 161–164 (ed. fr.185–188; Mt 15:17–31) Pass A≠B |
 | `cyril-matt-frag-a42` | done | entries 165–168 (ed. fr.189,191–193; Mt 15:34–16:19) Pass A≠B |
 | `cyril-matt-frag-a43` | done | entries 169–172 (ed. fr.194–197; Mt 16:20–17:1) Pass A≠B |
+| `cyril-matt-frag-a44` | done | entries 173–176 (ed. fr.198–200,1; Mt 17:2–5) Pass A≠B |
+| `cyril-matt-frag-a45` | done | entries 177–180 (ed. fr.2–5; Mt 17:6–15) Pass A≠B |
+| `cyril-matt-frag-a46` | done | entries 181–184 (ed. fr.6–9; Mt 17:17–23) Pass A≠B |
+| `cyril-matt-frag-a47` | done | entries 185–188 (ed. fr.210–213; Mt 17:22–18:1) Pass A≠B |
 
 ## Next
 
-- `cyril-matt-frag-a44` from entry 173
+- `cyril-matt-frag-a48` from entry 189
 - Keep IA OCR out of reading text
 - Skip Melito; preserve jer-h20b; no CSS; CPG 5219/5220 stay closed
