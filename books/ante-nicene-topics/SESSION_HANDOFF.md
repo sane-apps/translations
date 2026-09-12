@@ -1664,3 +1664,15 @@
 - Oct. 6: religiones traditas; local gods; vetustas=sanctitas.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Minucius minucius_octavius_8
+- Oct. 8: gentium consensio; lucifuga faction vs temples/gods.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Minucius minucius_octavius_9
+- Oct. 9: calumniae (asinus/crux/infans/convivium) as two-ways foil.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Minucius minucius_octavius_10
+- Oct. 10: no arae/templa; unicus deus; ubique curiosus mock.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
