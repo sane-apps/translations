@@ -2460,3 +2460,15 @@
 - Adv. Marc. 2.18: talio; gula; sacrificia ab idolis.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_1_10
+- Adv. Marc. 1.10: a primordio notus; animae dos.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_19
+- Adv. Marc. 2.19: lex benignitas; prophetae misericordia.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_3_12
+- Adv. Marc. 3.12: Emmanuhel = nobiscum Deus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
