@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_carmen_672_703
+- Claim `commodian-carmen-672-703-mine` → **two-ways**.
+- Carmen 672–703; after corrupt 671; washings vs heart; idols; two ways; one Lord.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
 ## Air mine 2026-09-12 — commodian_carmen_621_670
 - Claim `commodian-carmen-621-670-mine` → **salvation-by-christ**.
 - Carmen 621–670; God-in-flesh; miracle chain; hope in Christ; lacuna dots locked as HTML.
