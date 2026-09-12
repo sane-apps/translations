@@ -1780,3 +1780,19 @@
 - Inst. 3.10: summum bonum in sola religione; no cult → pecudum vita.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Lactantius lactantius_inst_1_3
+- Inst. 1.3: unius Dei potestas; subordinate 'gods' not gods.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_2_5
+- Inst. 2.5: oculos to deus verus; mundus like domus under factor.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_2_13
+- Inst. 2.13: diluvium/Noah; gentile cults not prior to Dei religio.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_2_18
+- Inst. 2.18: oculos in caelum; upright vs quadruped; caelo dignus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
