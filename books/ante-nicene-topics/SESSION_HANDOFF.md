@@ -1,3 +1,38 @@
+## Air mine 2026-09-12 — arnobius_nations_2_1
+- Claim `arnobius-nations-2-1-mine` → **salvation-by-christ**.
+- 2.1: nomen Christi; no empire/avarice/lust/pride offenses.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_69
+- Claim `arnobius-nations-2-69-mine` → **true-worship**.
+- 2.69: novellum nomen; artes also timed; Tages/Theut.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_49
+- Claim `arnobius-nations-2-49-mine` → **image-likeness**.
+- 2.49: pauculi boni vs genus; pars≠totum.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_44
+- Claim `arnobius-nations-2-44-mine` → **free-will**.
+- 2.44: sua voluntate vs non prohibendo; causa malorum charge.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_20
+- Claim `arnobius-nations-2-20-mine` → **image-likeness**.
+- 2.20: pretium hominis; closed chamber / nothum lumen setup.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_77
+- Claim `arnobius-nations-2-77-mine` → **reward-and-judgment**.
+- 2.77: persecution→liberatio/lux; pelliculae vs life.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_10
+- Claim `arnobius-nations-2-10-mine` → **faith-and-obedience**.
+- 2.10: suspiciones of schools; shared credulitas vs mocked fides.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_23
 - Claim `arnobius-nations-2-23-mine` → **image-likeness**.
 - 2.23: untaught subject vs foods/tools; bovis ritu / inarticulatum.
