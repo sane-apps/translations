@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_marcion_3_18
+- Claim `tertullian-marcion-3-18-mine` → **atonement-recapitulation**.
+- cross passion preached for Creator’s Christ; Isaac wood, Joseph, Moses arms/serpent figure the cross; horns=cross ends.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_marcion_1_24
 - Claim `tertullian-marcion-1-24-mine` → **salvation-by-christ**.
 - Marcion’s goodness imperfect if few saved; salvation only to the soul = halved; perfect goodness saves the whole man; part-rising = punishment.
