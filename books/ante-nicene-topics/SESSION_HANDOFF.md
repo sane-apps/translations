@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — minucius_octavius_34
+- Claim `minucius-octavius-34-mine` → **reward-and-judgment**.
+- incendium mundi; denuo reformari; elementorum custodia.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — minucius_octavius_22
 - Claim `minucius-octavius-22-mine` → **true-worship**.
 - simulacra; artifex; dedicatio; nosse ante colere.
