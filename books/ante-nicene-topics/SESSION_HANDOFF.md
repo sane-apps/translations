@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — Lactantius Inst. 7.13
+- Claim `lactantius-inst-7-13-mine` closed; excerpt `lactantius_inst_7_13` → **reward-and-judgment**.
+- Hermes / Apollo / Sibylla testes immortalitatis; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — Lactantius Inst. 7.12
 - Claim `lactantius-inst-7-12-mine` closed; excerpt `lactantius_inst_7_12` → **reward-and-judgment**.
 - contra Lucretium / anima non cum corpore interit; Book 7 eschatology lane.
