@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — arnobius_nations_2_35
+- Claim `arnobius-nations-2-35-mine` → **grace-and-assistance**.
+- How mid-quality become immortal: trust omnipotent king; nothing hard to him; gods/angels also mid; only unbegotten Father immortal by nature.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_63
 - Claim `arnobius-nations-2-63-mine` → **universal-call**.
 - Objection: why late Christ? Unknowns about prior souls; royal pity and divine benefits ran equally; they were saved/freed.
