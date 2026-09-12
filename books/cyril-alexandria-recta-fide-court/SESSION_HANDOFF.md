@@ -89,3 +89,4 @@ Translate from locked `*_source.json` (Pass A/B) → DOCX → site (era banner; 
 - 2026-09-12: **pulcheria-rf-a2** CPG 5220 §§5–8 Pass A≠B (poverty/curse/Heb 2 priest-victim).
 - 2026-09-12: **pulcheria-rf-a3** §§9–12 Pass A≠B (greek_clean_a3; Jews/seed/sent; lift Son of Man; not two Christs; kenosis growth).
 - 2026-09-12: **pulcheria-rf-a4** §§13–16 Pass A≠B (greek_clean_a4; day unknown; forsaken cry; Phil 2 kenosis vs two Christs).
+- 2026-09-12: **pulcheria-rf-a5** §§17–20 Pass A≠B (greek_clean_a5; Phil Name; Col firstborn/fullness; against two Christs; Rom obedience).
