@@ -2384,3 +2384,107 @@
 - Adv. Marc. 1.25: sola bonitas; Epicurus≠Christus; aemulatio/adfectus.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_3_21
+- Adv. Marc. 3.21: nationes; lex ex Sion=euangelium; pacifer.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_3_17
+- Adv. Marc. 3.17: seruus inglorius; flos Iesse; ouis/medicus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_20
+- Adv. Marc. 2.20: Aegypti uasa=merces; mandatum iustum.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_3_13
+- Adv. Marc. 3.13: uirgo signum; Magi spolia; vs Herodes.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_39
+- Adv. Marc. 4.39 DEDICATED: nomina; eschaton/prophetae; Filius hominis; ficus=regnum Creatoris.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_3_15
+- Adv. Marc. 3.15: Christi nomen; unctio ⇒ corpus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_10
+- Adv. Marc. 2.10: diabolus sponte; liberum arbitrium; spatium certamini.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_41
+- Adv. Marc. 4.41: uae Iudae; zelotes; filius hominis / dextera.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_7
+- Adv. Marc. 1.7: summum magnum ex substantia; nec pares nec dispares.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_3
+- Adv. Marc. 1.3: si non unus non est; summum magnum unicum.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_8
+- Adv. Marc. 2.8: homo mortem adtraxit; libertas uictorem.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_32
+- Adv. Marc. 4.32: ouis/drachma Creatoris; paenitentia.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_4
+- Adv. Marc. 1.4: regna non exemplar; nulli communicandum.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_6
+- Adv. Marc. 1.6: dispares dii; diuinitas negat diuersitatem.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_3
+- Adv. Marc. 2.3: noluit latere; bonitas aeterna.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_3_10
+- Adv. Marc. 3.10: ueritas carnis vs phantasma.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_5
+- Adv. Marc. 1.5: si duo cur plura; cultus anceps.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_8
+- Adv. Marc. 1.8: nouus deus falsus; aeternitas sine tempore.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_18
+- Adv. Marc. 2.18: talio; gula; sacrificia ab idolis.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_10
+- Adv. Marc. 1.10: a primordio notus; animae dos.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_19
+- Adv. Marc. 2.19: lex benignitas; prophetae misericordia.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_3_12
+- Adv. Marc. 3.12: Emmanuhel = nobiscum Deus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_21
+- Adv. Marc. 2.21: sabbatum humana; arca opus Dei.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_3_5
+- Adv. Marc. 3.5: futura ut facta; allegoriae; petra Christus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_22
+- Adv. Marc. 2.22: similitudo/idolatria; sacrificia honor.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_13
+- Adv. Marc. 1.13: mundus non indignus; flos artificem.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
