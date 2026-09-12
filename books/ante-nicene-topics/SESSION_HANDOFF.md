@@ -2512,3 +2512,23 @@
 - Adv. Marc. 1.18: natura/doctrina; non mathematici.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_2_23
+- Adv. Marc. 2.23: praesentia merita; Saul/Salomon.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_25
+- Adv. Marc. 2.25: ubi es; confessio; spes Adami.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_26
+- Adv. Marc. 2.26: iurat per se; Moyses figura Christi.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_28
+- Adv. Marc. 2.28: antitheses aemulae; ueritas paucis.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_21
+- Adv. Marc. 5.21: Philemon; Pastorals recusati; clausula.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
