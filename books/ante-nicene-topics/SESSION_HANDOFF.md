@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_20
+- Claim `commodian-instr-20-mine` → **true-worship**.
+- You say mountain gods rule the field; darkened by evil you swear with alien mind — leave rural numina; serve the Lord.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_19
 - Claim `commodian-instr-19-mine` → **true-worship**.
 - You say Titans are your guardians; thus you ask Mute and Silent goddesses under your roof — vain hush-cult.
