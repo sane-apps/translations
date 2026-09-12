@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — novatian_trinitate_4
+- Claim `novatian-trinitate-4-mine` → **free-will**.
+- De Trinitate IV; God alone good; evil by will’s withdrawal; unchangeable I AM.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed; single Latin Library witness on disk.
+
 ## Air mine 2026-09-12 — novatian_trinitate_19
 - Claim `novatian-trinitate-19-mine` → **salvation-by-christ**.
 - De Trinitate XIX; God-angel theophanies; Son seen; Christ God and angel.
