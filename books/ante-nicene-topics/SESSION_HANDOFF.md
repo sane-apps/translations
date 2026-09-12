@@ -2004,3 +2004,15 @@
 - Inst. 4.11: prophets/Spirit; spes immortalitatis for every gens.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Lactantius lactantius_inst_4_6
+- Inst. 4.6: genuit Filium ante mundum; primogenitus; fabricatio mundi.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_4_30
+- Inst. 4.30: haereses/scissus; Dei fons; next iustitia.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_4_21
+- Inst. 4.21: day-40 ascension; Daniel; disciples preach.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
