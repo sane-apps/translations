@@ -53,6 +53,48 @@
 
 - Claim `pulcheria-rf-a9`: post-baptism temptation type; Word as high priest and lamb; passes heavens bodily and divinely; Heb 5 call/obedience; we pray in him as second firstfruit; neither bare man nor fleshless Word—impassible in own flesh. Pass A ≠ B; Greek locked `greek_clean_a9`.
 
+## 2026-09-12 (Air — lactantius-inst-5-22-mine)
+
+- Claim `lactantius-inst-5-22-mine`: Inst. 5.22 patience / fatherly chastening / living God under torment; Pass A ≠ B; Latin locked CSEL TEI 5.22.
+- Beyond 2.17 / 5.18 / 5.5 / 5.7 / 5.8 / 5.9 / 5.13 / 5.14 / 5.15 / 5.19 / 5.21 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20 / 4.30 / 4.17 / 4.22 / 4.23 / 4.24 / 4.27 / 4.28. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — lactantius-inst-5-13-mine)
+
+- Claim `lactantius-inst-5-13-mine`: Inst. 5.13 truth's force / penitence-faith / die rather than betray faith; Pass A ≠ B; Latin locked CSEL TEI 5.13.
+- Beyond 2.17 / 5.18 / 5.5 / 5.7 / 5.8 / 5.9 / 5.14 / 5.15 / 5.19 / 5.21 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20 / 4.30 / 4.17 / 4.22 / 4.23 / 4.24 / 4.27 / 4.28. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — lactantius-inst-5-9-mine)
+
+- Claim `lactantius-inst-5-9-mine`: Inst. 5.9 justice hated / truth hated / faith without crime as religion; Pass A ≠ B; Latin locked CSEL TEI 5.9.
+- Beyond 2.17 / 5.18 / 5.5 / 5.7 / 5.8 / 5.14 / 5.15 / 5.19 / 5.21 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20 / 4.30 / 4.17 / 4.22 / 4.23 / 4.24 / 4.27 / 4.28. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — lactantius-inst-5-21-mine)
+
+- Claim `lactantius-inst-5-21-mine`: Inst. 5.21 odium ueritatis / contaminated spirits / virtue as soul good; Pass A ≠ B; Latin locked CSEL TEI 5.21.
+- Beyond 2.17 / 5.18 / 5.5 / 5.7 / 5.8 / 5.14 / 5.15 / 5.19 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20 / 4.30 / 4.17 / 4.22 / 4.23 / 4.24 / 4.27 / 4.28. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — lactantius-inst-5-19-mine)
+
+- Claim `lactantius-inst-5-19-mine`: killers of souls serve damned demons; religion cannot be forced (words not blows); wash the mind by one bath of virtue and faith. Pass A ≠ B; Latin locked CSEL TEI 5.19.
+- Beyond 2.17 / 5.18 / 5.5 / 5.7 / 5.8 / 5.14 / 5.15 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20 / 4.30 / 4.17 / 4.22 / 4.23 / 4.24 / 4.27 / 4.28. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — lactantius-inst-5-8-mine)
+
+- Claim `lactantius-inst-5-8-mine`: justice already in sight if they will be good; golden age returns only by worshiping the true God; impious cult of the gods brings all social evils. Pass A ≠ B; Latin locked CSEL TEI 5.8.
+- Beyond 2.17 / 5.18 / 5.5 / 5.7 / 5.14 / 5.15 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20 / 4.30 / 4.17 / 4.22 / 4.23 / 4.24 / 4.27 / 4.28. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
 ## 2026-09-12 (Air — lactantius-inst-5-15-mine)
 
 - Claim `lactantius-inst-5-15-mine`: with justice fountains changed, justice returns to heaven; Christians call each other brothers as equals; humble yourself and be exalted. Pass A ≠ B; Latin locked CSEL TEI 5.15.
