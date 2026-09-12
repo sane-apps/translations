@@ -21,3 +21,14 @@
 - `outputs/reviews/second_model_hold_unlock_audit_2026-09-10.md`
 - `outputs/reviews/caveat_settlement_2026-09-10.md`
 - `docs/PROFESSIONAL_BAR.md` · `docs/HUMAN_CLEAR.md`
+
+
+## Air mine 2026-09-12 — Victorinus Fabrica Christ–Adam days
+- Claim `victorinus-fabrica-christ-adam-mine` closed; excerpt `victorinus_fabrica_christ_adam_days`.
+- Beyond sixth-day `victorinus_creation`; Latin Migne/Wikisource lock + OCR.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — Lactantius Inst. 4.26
+- Claim `lactantius-inst-4-26-mine` closed; excerpt `lactantius_inst_4_26`.
+- Beyond 2.17 / 5.18 / 4.25; cross-reason + Passover blood figure; Cyprian still 465.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.

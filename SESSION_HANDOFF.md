@@ -52,6 +52,71 @@
 ## 2026-09-12 (Air — pulcheria-rf-a9 Pulcheria §§33–36)
 
 - Claim `pulcheria-rf-a9`: post-baptism temptation type; Word as high priest and lamb; passes heavens bodily and divinely; Heb 5 call/obedience; we pray in him as second firstfruit; neither bare man nor fleshless Word—impassible in own flesh. Pass A ≠ B; Greek locked `greek_clean_a9`.
+
+## 2026-09-12 (Air — lactantius-inst-4-21-mine)
+
+- Claim `lactantius-inst-4-21-mine`: ascension; disciples lay church foundations everywhere; equipped with power; Peter/Paul preach at Rome. Pass A ≠ B; Latin locked CSEL TEI IV.21. Ecclesiology densification (`apostolic-succession`).
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — lactantius-inst-4-19-mine)
+
+- Claim `lactantius-inst-4-19-mine`: voluntary laying-down of the spirit; temple veil / midday darkness; third-day resurrection; immortality only by believing and taking up the cross. Pass A ≠ B; Latin locked CSEL TEI IV.19.
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — lactantius-inst-4-15-mine)
+
+- Claim `lactantius-inst-4-15-mine`: Jordan baptism for the flesh he bore (not his own sin); baptism saves the nations; heavenly works by one word because he is God’s Word; Sibyl/prophets opened after fulfillment. Pass A ≠ B; Latin locked CSEL TEI IV.15.
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — lactantius-inst-4-12-mine)
+
+- Claim `lactantius-inst-4-12-mine`: Spirit fills the virgin; Emmanuel = God with us in flesh; Jesus the Savior; Daniel’s son of man; two advents (announce / reign). Pass A ≠ B; Latin locked CSEL TEI IV.12.
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13. Merge hygiene deferred. Cyprian still 465.
+- Also this Air slice: `cyril-rf-a24` §§93–96; `cyril-rf-a25` §§97–100 (**CPG 5219 complete**).
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — lactantius-inst-4-13-mine)
+
+- Claim `lactantius-inst-4-13-mine`: teacher of justice from heaven; Son born twice (ἀπάτωρ / ἀμήτωρ); middle substance God and human; prophets witness God and man; church the true temple (not Solomon’s walls). Pass A ≠ B; Latin locked CSEL TEI IV.13.
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18. Merge hygiene deferred (would block content). Cyprian still 465.
+- Also this Air slice: `cyril-rf-a23` Arcadia §§89–92; `pulcheria-rf-a12` §§45–48 (CPG 5220 complete).
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — lactantius-inst-4-18-mine)
+
+- Claim `lactantius-inst-4-18-mine`: must suffer and be killed *pro salute multorum*; Christ himself the true temple of God; God hung by the worshipers of God; prophetic cross (Zech / David Ps 21 / Solomon). Pass A ≠ B; Latin locked CSEL TEI IV.18.
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14. Distinct from 4.14 eternal temple=church. Cyprian still 465.
+- Also this Air slice: `cyril-rf-a22` Arcadia §§85–88; `pulcheria-rf-a11` §§41–44.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — lactantius-inst-4-14-mine)
+
+- Claim `lactantius-inst-4-14-mine`: Christ fabricator of eternal temple (church) with everlasting priesthood; never called himself God lest he add another beside the One; receives priest/king/judge/God name for faithfulness. Pass A ≠ B; Latin locked CSEL TEI IV.14.
+- Chose **4.14** over 4.18 (passion for many / true temple) to keep temple-priesthood distinct from cross mines. Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29. Cyprian still 465.
+- Also this Air slice: `cyril-rf-a21` Arcadia §§81–84; `pulcheria-rf-a10` §§37–40.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+## 2026-09-12 (Air — lactantius-inst-4-29-mine)
+
+- Claim `lactantius-inst-4-29-mine`: Father and Son one mind/spirit/substance; fountain–stream / sun–ray; inseparable; worship of highest God only through Son; door of temple / doorway of life. Pass A ≠ B; Latin locked CSEL TEI IV.29.
+- Picked **4.29** over 4.14 (eternal temple/priest) and 4.18 (passion for many). Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10. Cyprian still 465.
+- Also this Air slice: `cyril-rf-a20` Arcadia §§77–80; `pulcheria-rf-a9` §§33–36.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+## 2026-09-12 (Air — Lactantius Inst. 4.10 mine)
+
+- Claim `lactantius-inst-4-10-mine`: Son descends *in figura hominis et condicione mortali*, takes up death, rises for the human he put on (`quem induerat, quem gerebat`). Pass A ≠ B; Latin locked CSEL TEI IV.10.
+- Beyond prior Lactantius mines 2.17 / 5.18 / 4.25 / 4.26. Cyprian beyond Unity still 465 — skipped.
+- Also this Air slice: `cyril-rf-a19` Arcadia §§73–76; `pulcheria-rf-a8` §§29–32.
 - `jer-h20b` intact. No site CSS. Melito skipped.
 
 ## 2026-09-11 (overnight hang watch)
