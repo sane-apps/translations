@@ -1,5 +1,10 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — cyril-rf-a20 Arcadia §§77–80)
+
+- Claim `cyril-rf-a20`: Gal 4 Spirit of the Son; Eph 4 one ascending–descending Lord; Phil 2 kenosis/exaltation of the economy; Col 1 image/firstborn from dead in own flesh; Heb 1–2 radiance by own blood; sanctifier/sanctified one Son. Pass A ≠ B; Greek locked `greek_clean_a20`.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
 ## 2026-09-11 (overnight hang watch)
 
 - Live Mini burn is **HEALTHY** (jer-h8 → done, jer-h5a NVIDIA promote in flight). Do not bootout.
