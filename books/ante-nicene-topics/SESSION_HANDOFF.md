@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — arnobius_nations_2_3
+- Claim `arnobius-nations-2-3-mine` → **true-worship**.
+- Adv. Nat. 2.3: deus naturaliter; religio vera; error insidiosus.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_carmen_1001_1053
 - Claim `commodian-carmen-1001-1053-mine` → **reward-and-judgment**.
 - Carmen 1001–1053 (end); cosmic fire; Christ-marked dew; descent/rapture; lacunae disclosed; Amen.
