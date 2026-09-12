@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_5
+- Claim `commodian-instr-5-mine` → **true-worship**.
+- Fools say Jupiter thunders; leave infant play; Saturn aged on earth; no prophet foretold him; histories seduce; you pray the impure born of giants and raise a parricide on high.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_22
 - Claim `commodian-instr-22-mine` → **faith-and-obedience**.
 - While you serve the belly you claim innocence; without law you seek to live; you refuse dinner precepts; if you disbelieve God judges the dead, do you make yourself heaven’s Rector? Profane then holy — you will feel in the fates.
