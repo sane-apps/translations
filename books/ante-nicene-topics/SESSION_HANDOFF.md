@@ -2344,3 +2344,19 @@
 - Adv. Marc. 1.28: baptisma sine iudicio/generatione; caro exors salutis.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_4_27
+- Adv. Marc. 4.27: calix interior; dilectio Dei; clauis legis fautor.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_31
+- Adv. Marc. 4.31: cena Creatoris; sepes gentes; deus motus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_3_23
+- Adv. Marc. 3.23: desolatio Iudaeae; Creator ulciscitur suum Christum.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_37
+- Adv. Marc. 4.37: Zacchaeus salus; quod periit⇒caro; iudex seuerus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
