@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_29
+- Claim `commodian-instr-29-mine` → **faith-and-obedience**.
+- Rich man lifted on wealth; feed poor; be common to the least; put off fraud; expiate with benefactis from Summus.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_61
 - Claim `commodian-instr-61-mine` → **reward-and-judgment**.
 - Envy of another’s gain; vain desire under fragile life; Deus: Stulte, this night you are called; Dominus supplies daily; live good; watch the end.
