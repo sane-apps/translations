@@ -1,5 +1,38 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — cyril-rf-a25 Arcadia §§97–100)
+
+- Claim `cyril-rf-a25`: faith into the name as God become human; Cana/signs show deity; official believes as toward God; faith in Son = faith in Sender; Son of Man seeks Word-flesh faith; closing springs of salvation charge. Pass A ≠ B; Greek locked `greek_clean_a25`. **CPG 5219 Arcadia complete.**
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — cyril-rf-a24 Arcadia §§93–96)
+
+- Claim `cyril-rf-a24`: faith into Christ as into God; deep mystery of the Word made as we are (not bare person-union); unsearchable riches; word of faith; Christ proclaimed as God; gift to believe and suffer; God manifested in flesh; taken up in glory; believers in God believe Christ; faith into his name. Pass A ≠ B; Greek locked `greek_clean_a24`.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — cyril-rf-a23 Arcadia §§89–92)
+
+- Claim `cyril-rf-a23`: stone of stumbling / Symeon; Christ end of law who justifies; confess Lord Jesus; gospel mystery = God become human; mediator of promises; justified in his name; not another Jesus; Son revealed in Paul; Emmanuel justifies; sealed in him. Pass A ≠ B; Greek locked `greek_clean_a23`.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — cyril-rf-a22 Arcadia §§85–88)
+
+- Claim `cyril-rf-a22`: true Lord with flesh; sanctified humanly / sanctifies divinely; one from both; firstborn among brothers; own Father; divine will + human hand; David’s Lord from David’s seed; faith toward Christ as toward God. Pass A ≠ B; Greek locked `greek_clean_a22`.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+## 2026-09-12 (Air — cyril-rf-a21 Arcadia §§81–84)
+
+- Claim `cyril-rf-a21`: high priest at the right; Jordan shows Word with flesh; receives Spirit humanly / baptizes divinely; bronze-serpent likeness yet life-giving as God. Pass A ≠ B; Greek locked `greek_clean_a21`.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+## 2026-09-12 (Air — cyril-rf-a20 Arcadia §§77–80)
+
+- Claim `cyril-rf-a20`: Gal 4 Spirit of the Son; Eph 4 one ascending–descending Lord; Phil 2 kenosis/exaltation of the economy; Col 1 image/firstborn from dead in own flesh; Heb 1–2 radiance by own blood; sanctifier/sanctified one Son. Pass A ≠ B; Greek locked `greek_clean_a20`.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
 ## 2026-09-11 (overnight hang watch)
 
 - Live Mini burn is **HEALTHY** (jer-h8 → done, jer-h5a NVIDIA promote in flight). Do not bootout.
