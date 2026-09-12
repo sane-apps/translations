@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — novatian_trinitate_28
+- Claim `novatian-trinitate-28-mine` → **image-likeness**.
+- imago Dei Patris / expandi manus / imitator operum paternorum.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — novatian_trinitate_21
 - Claim `novatian-trinitate-21-mine` → **atonement-recapitulation**.
 - mediator / stola caro / lauit in sanguine uuae / passio.
