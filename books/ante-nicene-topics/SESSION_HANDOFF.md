@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — minucius_octavius_16
+- Claim `minucius-octavius-16-mine` → **two-ways**.
+- Octavius will wash bitter insults with a stream of true words; Caecilius’s opinion has wavered — need to see whether culture or truth guides him.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — minucius_octavius_40
 - Claim `minucius-octavius-40-mine` → **two-ways**.
 - Caecilius will not wait for the verdict: we have won; Octavius conquers him, he triumphs over error — conversion closes the dialogue.
