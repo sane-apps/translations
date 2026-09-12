@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_17
+- Claim `tertullian-de-anima-17-mine` → **salvation-by-christ**.
+- sensus / Christus uerus / Marcion phantasma / Thomas.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_11
 - Claim `tertullian-de-anima-11-mine` → **free-will**.
 - sola anima / spiritus dei uel diaboli / Hermogenes.
