@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — novatian_trinitate_2
+- Claim `novatian-trinitate-2-mine` → **image-likeness**.
+- De Trinitate II: continet cuncta; immensus/aeternus; maior mente et sermone.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed; single Latin Library witness on disk.
+
 ## Air mine 2026-09-12 — novatian_trinitate_6
 - Claim `novatian-trinitate-6-mine` → **true-worship**.
 - De Trinitate VI; anthropomorphism decoded; Spirit-worship; simple ubiquity.
