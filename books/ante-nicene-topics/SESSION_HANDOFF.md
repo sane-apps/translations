@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — novatian_trinitate_10
+- Claim `novatian-trinitate-10-mine` → **baptism-and-new-birth**.
+- uerbum caro / baptisma / culpa sublata / caro ad salutem.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — novatian_trinitate_8
 - Claim `novatian-trinitate-8-mine` → **universal-call**.
 - apostoli in totum orbem / condicio generis humani / Pater in postulationibus.
