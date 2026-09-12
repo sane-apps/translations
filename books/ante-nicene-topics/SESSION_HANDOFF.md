@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_carmen_401_440
+- Claim `commodian-carmen-401-440-mine` → **salvation-by-christ**.
+- Carmen 401–440; Emmanuel; passion proofs; nations prior; pit-smear answered.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
 ## Air mine 2026-09-12 — commodian_carmen_361_400
 - Claim `commodian-carmen-361-400-mine` → **true-worship**.
 - Carmen 361–400; drinks death/rises; Son sent; God on earth; magician slur vs hardened heart.
