@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — arnobius_nations_2_66
+- Claim `arnobius-nations-2-66-mine` → **salvation-by-christ**.
+- Purity/rites cannot win immortality; only Christ-bestowed immortality and true life; prefer better → hope of salvation.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_35
 - Claim `arnobius-nations-2-35-mine` → **grace-and-assistance**.
 - How mid-quality become immortal: trust omnipotent king; nothing hard to him; gods/angels also mid; only unbegotten Father immortal by nature.
