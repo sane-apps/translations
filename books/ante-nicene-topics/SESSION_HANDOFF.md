@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_carmen_501_540
+- Claim `commodian-carmen-501-540-mine` → **two-ways**.
+- Carmen 501–540; Just One from heaven; new people; two peoples / lesser excels.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
 ## Air mine 2026-09-12 — commodian_carmen_464_500
 - Claim `commodian-carmen-464-500-mine` → **salvation-by-christ**.
 - Carmen 464–500; after corrupt 463; lays down life; just one’s tomb not a pit; Solomon presses the just.
