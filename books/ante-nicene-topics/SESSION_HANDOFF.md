@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_41
+- Claim `tertullian-de-anima-41-mine` → **baptism-and-new-birth**.
+- originis uitium / spiritus nouae natiuitatis / caro spiritui.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_40
 - Claim `tertullian-de-anima-40-mine` → **sin-and-death**.
 - in Adam censetur / in Christo recenseatur / caro ministerium.
