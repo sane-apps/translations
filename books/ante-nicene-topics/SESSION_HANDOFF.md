@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_67
+- Claim `commodian-instr-67-mine` → **faith-and-obedience**.
+- Deacons: exercise Christ’s ministry chaste; do Master’s precepts; keep place; devote to highest God; give unhurt holy things; bow to pastors — thus proven in Christ.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_66
 - Claim `commodian-instr-66-mine` → **faith-and-obedience**.
 - Readers: give matter by living example; flee strife; press terror; not proud; obey elders; make yourselves like Christ the teacher; be lilies; Christ’s lamps among the people.
