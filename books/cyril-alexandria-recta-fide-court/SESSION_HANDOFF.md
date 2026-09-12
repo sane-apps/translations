@@ -15,8 +15,13 @@ Canonical path: `~/SaneApps/clients/translations/books/cyril-alexandria-recta-fi
 
 ## State
 
-- 2026-09-11: Pusey 1877 locked (`sources/pusey1877_de_recta_fide.pdf` + `_djvu.txt`, IA `SPNCyrilli7`). *Ad Arcadiam Marinamque* running heads start ~p. 155; *ad Pulcheriam et Eudociam* ~p. 265. Skip *ad Theodosium* (opens the volume). Not yet sliced into source JSON.
+- 2026-09-11: Pusey 1877 locked (`sources/pusey1877_de_recta_fide.pdf` + `_djvu.txt`, IA `SPNCyrilli7`). *Ad Arcadiam Marinamque* running heads start ~p. 155; *ad Pulcheriam et Eudociam* ~p. 265. Skip *ad Theodosium* (opens the volume).
+- 2026-09-12: **Source lock done** (claim `cyril-rf-lock`). Sliced OCR Greek into:
+  - `translations/ad_arcadiam_marinamque_source.json` (CPG 5219, Pusey pp. 155–264)
+  - `translations/ad_pulcheriam_eudociamque_source.json` (CPG 5220, Pusey pp. 265–333)
+  - Ingest: `scripts/ingest_pusey_recta_fide.py`
+  - No English in this claim.
 
 ## Next
 
-Slice Pusey Greek for CPG 5219–5220 only → translate → DOCX → site (era banner; treatises with no earlier English).
+Translate from locked `*_source.json` (Pass A/B) → DOCX → site (era banner; treatises with no earlier English). OCR cleanup as needed while translating.
