@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — arnobius_nations_2_4
+- Claim `arnobius-nations-2-4-mine` → **faith-and-obedience**.
+- Adv. Nat. 2.4: non impietatem docuisse; Non credimus; spes / salutis amissio.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_2
 - Claim `arnobius-nations-2-2-mine` → **salvation-by-christ**.
 - Adv. Nat. 2.2: lumen vitae; vias ad caelum; pietatis ianuas.
