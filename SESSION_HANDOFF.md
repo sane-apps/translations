@@ -1,5 +1,12 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — lactantius-inst-5-20-mine)
+
+- Claim `lactantius-inst-5-20-mine`: Inst. 5.20 forced sacrifice curse / no compulsion / temple-vs-theater; Pass A ≠ B; Latin locked CSEL TEI 5.20.
+- Beyond 2.17 / 5.18 / 5.5 / 5.7 / 5.8 / 5.9 / 5.10 / 5.11 / 5.12 / 5.13 / 5.14 / 5.15 / 5.16 / 5.17 / 5.19 / 5.21 / 5.22 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20 / 4.30 / 4.17 / 4.22 / 4.23 / 4.24 / 4.27 / 4.28. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
 ## 2026-09-12 (Air — lactantius-inst-5-17-mine)
 
 - Claim `lactantius-inst-5-17-mine`: Inst. 5.17 justice as folly / die rather than kill / wisdom not craft; Pass A ≠ B; Latin locked CSEL TEI 5.17.
