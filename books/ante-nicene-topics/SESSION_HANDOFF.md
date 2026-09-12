@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_15
+- Claim `tertullian-de-anima-15-mine` → **image-likeness**.
+- First, whether there is some highest vital and sapiential grade in the soul, which they call hegemonikon, i.e. principal — for if it is denied, the whole status of the soul is endangered.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_12
 - Claim `tertullian-de-anima-12-mine` → **image-likeness**.
 - Likewise animus — or mens, nous among the Greeks — we understand as nothing other than the soul’s inborn, implanted, native equipment by which it acts and understands.
