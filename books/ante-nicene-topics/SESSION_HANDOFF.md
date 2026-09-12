@@ -1,3 +1,288 @@
+## Air mine 2026-09-12 — commodian_carmen_81_120
+- Claim `commodian-carmen-81-120-mine` → **image-likeness**.
+- Carmen 81–120; choose life-cup; one God in Word; F/S/Sp; made visible — even flesh.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
+## Air mine 2026-09-12 — commodian_carmen_41_80
+- Claim `commodian-carmen-41-80-mine` → **true-worship**.
+- Carmen 41–80; Noah→Abraham→law→many prophets; flesh for us; deaf refuse warning vs warner.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
+## Air mine 2026-09-12 — commodian_carmen_1_40
+- Claim `commodian-carmen-1-40-mine` → **true-worship**.
+- Carmen 1–40; conversion from error; law-lamp; one God; man made for praise not beast-life.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
+## Air mine 2026-09-12 — commodian_instr_26
+- Claim `commodian-instr-26-mine` → **reward-and-judgment**.
+- Instr. 26; fool — death not void; God lives; Christ returns living from dead; deeds hold.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_49
+- Claim `tertullian-de-anima-49-mine` → **universal-call**.
+- De An. 49; infants dream; gospel leaves no gens extranea; no soul-nature immune to dreams.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — tertullian_de_anima_48
+- Claim `tertullian-de-anima-48-mine` → **grace-and-assistance**.
+- De An. 48; Plato/food dream-tech vs Daniel’s grace from God; sobriety commends ecstasy ut in deo fiat.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — tertullian_de_anima_46
+- Claim `tertullian-de-anima-46-mine` → **true-worship**.
+- De An. 46; against Epicurus’ total dream-vanity; demons hurt by helping — divert from true divinity even in cubiculis.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — tertullian_de_anima_44
+- Claim `tertullian-de-anima-44-mine` → **image-likeness**.
+- De An. 44; Hermotimus tale — sleep is not soul secession without death; reject continuous fugitive-soul license.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — tertullian_de_anima_47
+- Claim `tertullian-de-anima-47-mine` → **two-ways**.
+- We define that dreams are most often struck in by demons — even if sometimes true and pleasing, yet aiming and capturing, as we said of their industry; how much more the vain, frustrating, foul. No wonder if the images are of those whose affairs they are. But from God…
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_45
+- Claim `tertullian-de-anima-45-mine` → **image-likeness**.
+- We are bound here to set out the Christian sentence on dreams too, as accidents of sleep and not small tossings of the soul, which we declared always busy and exercised from perpetual motion — the ratio of divinity and immortality. When rest comes to bodies, the soul does not rest.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_38
+- Claim `tertullian-de-anima-38-mine` → **grace-and-assistance**.
+- Although we already laid down that all natural things of the soul belonging to sense and intellect are in the substance itself from the soul’s inborn census, yet they advance little by little through ages and turn out variously by accidents according to arts, customs, places…
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_24
+- Claim `tertullian-de-anima-24-mine` → **image-likeness**.
+- First I will not grant a soul capable of forgetfulness, because he conceded it such divinity that it is equated to God. He makes it innate — which alone I could have armed as testimony of full divinity — and adds immortal, incorruptible, incorporeal…
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_18
+- Claim `tertullian-de-anima-18-mine` → **two-ways**.
+- I turn to the intellectual part — how Plato, having gained recognition before death, recommended to heretics that part as separated from bodily things. In the Phaedo he asks whether the body hinders possession of prudence.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_36
+- Claim `tertullian-de-anima-36-mine` → **image-likeness**.
+- We had established that the soul is sown in the man himself and from him, and that there is one seed from the beginning, as also of the flesh, for the whole run of the race — against rival opinions of philosophers and heretics.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_35
+- Claim `tertullian-de-anima-35-mine` → **free-will**.
+- Metempsychosis did not furnish this fable for you alone: Carpocrates also uses it, equally a magus, equally a fornicator. He asserted souls are reincorporated to establish the overturn of every divine and human discipline.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_34
+- Claim `tertullian-de-anima-34-mine` → **free-will**.
+- No madness of this kind has broken out under a heretical name to today that remakes human souls into beasts — but we necessarily brought in and shut out this species too as coherent with the above, so Homer would be beaten back in the peacock as Pythagoras in…
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_33
+- Claim `tertullian-de-anima-33-mine` → **reward-and-judgment**.
+- Even when this dogma is defended in judgment’s name — that human souls are allotted kinds of animals for life and merits: some to be butchered, enslaved, worn out, fouled, others honored — it must be cut down.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_31
+- Claim `tertullian-de-anima-31-mine` → **free-will**.
+- If living from the dead, each should come from each. But two, three, five are taken again in one womb — so they are not living from the dead as one-for-one. Primordium’s form is still signed when many souls come from one.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_32
+- Claim `tertullian-de-anima-32-mine` → **free-will**.
+- Empedocles, because he had raved himself a god, disdained to recall himself as some hero — “I was a shrub and a fish,” he says. Why not rather a gourd, so tasteless, and a chameleon, so inflated? Metensomatosis ends in Etna’s cookery.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_30
+- Claim `tertullian-de-anima-30-mine` → **free-will**.
+- If living from dead as dead from living, one and the same number of all humans would always have stuck — that first number that entered life. But populations change; reincarnation’s ledger fails.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_29
+- Claim `tertullian-de-anima-29-mine` → **free-will**.
+- It is agreed the dead are made from the living, yet not therefore the living from the dead. From the beginning the living were prior, hence the dead likewise later — from nowhere but the living.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_23
+- Claim `tertullian-de-anima-23-mine` → **image-likeness**.
+- Some believe they came down from the heavens with as much persuasion as they promise return there — as Saturninus the disciple of Menander the Simonian introduced, affirming man first made by angels, a futile weak work writhing on earth like a worm.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_13
+- Claim `tertullian-de-anima-13-mine` → **image-likeness**.
+- What remains is to see where principalitas sits — what rules what — so the substance-mass is that whose primacy appears. Who will not give the soul the whole sum, by whose name the whole man’s mention is titled?
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_15
+- Claim `tertullian-de-anima-15-mine` → **image-likeness**.
+- First, whether there is some highest vital and sapiential grade in the soul, which they call hegemonikon, i.e. principal — for if it is denied, the whole status of the soul is endangered.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_12
+- Claim `tertullian-de-anima-12-mine` → **image-likeness**.
+- Likewise animus — or mens, nous among the Greeks — we understand as nothing other than the soul’s inborn, implanted, native equipment by which it acts and understands.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_8
+- Claim `tertullian-de-anima-8-mine` → **image-likeness**.
+- It is abrupt and absurd to remove something from the census of bodily things because it does not match other bodily examples. Private differences of properties mark the Author’s magnificence by diversity of the same works.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_6
+- Claim `tertullian-de-anima-6-mine` → **image-likeness**.
+- Platonists disturb by subtlety more than truth: every body must be animal or inanimate; soul moves the body from within — their dilemma does not prove the soul bodyless.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_5
+- Claim `tertullian-de-anima-5-mine` → **image-likeness**.
+- They may fetch Eubulus, Critolaus, Xenocrates, Aristotle to strip the soul of corpulence — yet if they look opposite they will find more vindicating a body for the soul.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_10
+- Claim `tertullian-de-anima-10-mine` → **image-likeness**.
+- It belongs to the faith’s stance to determine the soul simple according to Plato — uniform at least in the name of substance. Some want another natural spirit in it, as if to live (from soul) and to breathe (from spirit) were different substances.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_2
+- Claim `tertullian-de-anima-2-mine` → **grace-and-assistance**.
+- We will not deny philosophers have sometimes sensed with us — truth’s outcome is witness. Nature suggests much as from a public sense with which God deigned to endow the soul; philosophy inflated it for its art’s glory.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_14
+- Claim `tertullian-de-anima-14-mine` → **image-likeness**.
+- The soul is otherwise singular and simple and entire of itself, no more built from elsewhere than divisible from itself, because it is not dissoluble. If composite and dissoluble, then not immortal.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_3
+- Claim `tertullian-de-anima-3-mine` → **two-ways**.
+- Would that no heresies had to exist so the approved might shine. We would try nothing with philosophers on the soul — patriarchs of heretics — since the apostle already foresaw philosophy as a shaking of truth at Athens.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_7
+- Claim `tertullian-de-anima-7-mine` → **reward-and-judgment**.
+- Enough vs philosophers; for us the gospel itself shows the soul’s corporeality: a soul among the dead grieves, is punished in flame, tormented in the tongue, begs dew from a happier soul’s finger — not a mere image.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_1
+- Claim `tertullian-de-anima-1-mine` → **image-likeness**.
+- Having met Hermogenes on the soul’s census alone — he presumed it stood from matter’s stock rather than God’s breath — now turned to remaining questions I shall seem to fight philosophers most of all.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_53
+- Claim `tertullian-de-anima-53-mine` → **reward-and-judgment**.
+- Where then does the naked, expelled soul turn? We will follow in order; first finish this place — various exits of death; something on such exit is inserted also to shield the soul’s immortality.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_51
+- Claim `tertullian-de-anima-51-mine` → **image-likeness**.
+- Death’s work in the midst is separation of body and soul. Some, weakly defending immortality not taught by God, argue souls still cling to bodies after death — we deny any soul-remnant remains in the corpse.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_42
+- Claim `tertullian-de-anima-42-mine` → **sin-and-death**.
+- Epicurus: death is nothing to us because what dissolves lacks sense. But the sufferer of death is the man; so great a force cannot be said not to concern him.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_de_anima_52
+- Claim `tertullian-de-anima-52-mine` → **sin-and-death**.
+- Death’s work is separation of flesh and soul; ordinary vs violent ends. We who know man’s beginnings boldly determine death followed man not from nature but from fault — not even natural in itself.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — minucius_octavius_26
+- Claim `minucius-octavius-26-mine` → **fate-and-foreknowledge**.
+- You cited laboriously collected Roman auspices; Clodius, Flaminius, Junius lost armies for not awaiting the sacred chicken-dance — yet Regulus and others show lots do not secure life. Leave bird-omens.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — minucius_octavius_25
+- Claim `minucius-octavius-25-mine` → **true-worship**.
+- They say superstition gave Rome empire by religio/pietas; but nascent Roman “justice” began in crime and blood — not the piety that knows God.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — minucius_octavius_24
+- Claim `minucius-octavius-24-mine` → **true-worship**.
+- We learn these fables/errors from unskilled parents and worse from studies/poets who wound truth by their authority; Plato therefore expels Homer from the well-ordered state.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — minucius_octavius_12
+- Claim `minucius-octavius-12-mine` → **reward-and-judgment**.
+- Caecilius taunts: most of you lack, freeze, labor in hunger — and God seems to ignore it; estimate while you live what hangs after death; empty vows of a useless promise.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — minucius_octavius_39
+- Claim `minucius-octavius-39-mine` → **faith-and-obedience**.
+- After Octavius spoke we were long stunned to silence; he had adorned what is easier to feel than to say with arguments, examples, and authorities of readings.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — minucius_octavius_30
+- Claim `minucius-octavius-30-mine` → **true-worship**.
+- Who says we are initiated by infant slaughter and blood? A soft tiny body cannot take such wounds; no one believes it unless he himself can dare it.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — minucius_octavius_23
+- Claim `minucius-octavius-23-mine` → **true-worship**.
+- Look at the rites and mysteries: sad exits, deaths, mourning of wretched gods; Isis seeks the lost son with bald priests striking breasts — not divine worship.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — minucius_octavius_21
+- Claim `minucius-octavius-21-mine` → **true-worship**.
+- Historians/sages agree with Euhemerus: gods counted for merit of virtue or gift; their births, countries, tombs are shown — dead men, not gods.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — minucius_octavius_16
+- Claim `minucius-octavius-16-mine` → **two-ways**.
+- Octavius will wash bitter insults with a stream of true words; Caecilius’s opinion has wavered — need to see whether culture or truth guides him.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — minucius_octavius_40
+- Claim `minucius-octavius-40-mine` → **two-ways**.
+- Caecilius will not wait for the verdict: we have won; Octavius conquers him, he triumphs over error — conversion closes the dialogue.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — minucius_octavius_31
+- Claim `minucius-octavius-31-mine` → **true-worship**.
+- The demons’ coalition invented the incest-banquet tale to stain chastity’s glory and scare people before truth is examined; even Fronto spoke as orator, not as proving witness.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — minucius_octavius_29
+- Claim `minucius-octavius-29-mine` → **salvation-by-christ**.
+- You charge our religion with a guilty man and his cross — far from the neighborhood of truth; the cross-sign is common in nature and Roman signs; you adore wooden trophies.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — minucius_octavius_27
+- Claim `minucius-octavius-27-mine` → **true-worship**.
+- Impure spirits — demons — lurk under consecrated statues and images; by their breath they fake a present divinity, inspire seers, haunt shrines.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — minucius_octavius_20
+- Claim `minucius-octavius-20-mine` → **true-worship**.
+- Philosophers already designated one God under many names — Christians philosophers now, or philosophers already Christians; world ruled by providence of one God.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_paenitentia_5
+- Claim `tertullian-paenitentia-5-mine` → **faith-and-obedience**.
+- Repentance shown by grace recalls to the Lord’s grace; once known and taken it must not later be unsealed by repeating delict — that is contumacy and ingratitude, lifting the devil again.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_paenitentia_4
+- Claim `tertullian-paenitentia-4-mine` → **grace-and-assistance**.
+- For all delicts he who destined penalty through judgment also pledged pardon through repentance: “Repent and I will save you”; “I prefer repentance to death.” Seize it like a shipwrecked man a plank.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_paenitentia_3
+- Claim `tertullian-paenitentia-3-mine` → **sin-and-death**.
+- Once God is known, his precepts teach what to count as sin; flesh and spirit delicts equally offend; not only deed but will must be avoided and purged by repentance; common guilt, common Judge, common medicine.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_paenitentia_1
+- Claim `tertullian-paenitentia-1-mine` → **sin-and-death**.
+- Without the Lord’s light people know repentance only as a passion from offended prior judgment; without God they miss its reason; they even repent of good works and take evil’s repentance lightly.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_saeculi_fine
+- Claim `commodian-saeculi-fine-mine` → **reward-and-judgment**.
+- Trumpet; fire judges unjust; just untouched; Gehenna after thousand years.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_20
 - Claim `commodian-instr-20-mine` → **true-worship**.
 - You say mountain gods rule the field; darkened by evil you swear with alien mind — leave rural numina; serve the Lord.
