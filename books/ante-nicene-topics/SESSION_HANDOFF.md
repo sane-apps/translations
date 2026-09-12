@@ -1647,3 +1647,20 @@
 - Claim `lactantius-inst-4-26-mine` closed; excerpt `lactantius_inst_4_26`.
 - Beyond 2.17 / 5.18 / 4.25; cross-reason + Passover blood figure; Cyprian still 465.
 - Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine Minucius minucius_octavius_5
+- Oct. 5: Caecilius fortuna vs providentia; mediocritas humana.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Minucius minucius_octavius_11
+- Oct. 11: incendium/resurrectio/poena; sors vs voluntas charge.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Minucius minucius_octavius_7
+- Oct. 7: auguria/sacra; omen disasters; numina praesentia.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Minucius minucius_octavius_6
+- Oct. 6: religiones traditas; local gods; vetustas=sanctitas.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
