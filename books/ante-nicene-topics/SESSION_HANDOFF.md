@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_45
+- Claim `commodian-instr-45-mine` → **baptism-and-new-birth**.
+- Credentes in Christo leave idols; for salutaria; baptism genitali sola donantur; avoid grave post-baptism sin.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_35
 - Claim `commodian-instr-35-mine` → **atonement-recapitulation**.
 - Double lignum: death then life; Rex per crucem; refuse Domini credere crucem; nails; Abel’s line believes Christo.
