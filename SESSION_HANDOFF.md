@@ -1,5 +1,13 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — lactantius-inst-4-18-mine)
+
+- Claim `lactantius-inst-4-18-mine`: must suffer and be killed *pro salute multorum*; Christ himself the true temple of God; God hung by the worshipers of God; prophetic cross (Zech / David Ps 21 / Solomon). Pass A ≠ B; Latin locked CSEL TEI IV.18.
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14. Distinct from 4.14 eternal temple=church. Cyprian still 465.
+- Also this Air slice: `cyril-rf-a22` Arcadia §§85–88; `pulcheria-rf-a11` §§41–44.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
 ## 2026-09-12 (Air — lactantius-inst-4-14-mine)
 
 - Claim `lactantius-inst-4-14-mine`: Christ fabricator of eternal temple (church) with everlasting priesthood; never called himself God lest he add another beside the One; receives priest/king/judge/God name for faithfulness. Pass A ≠ B; Latin locked CSEL TEI IV.14.
