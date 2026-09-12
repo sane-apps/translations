@@ -2400,3 +2400,7 @@
 - Adv. Marc. 3.13: uirgo signum; Magi spolia; vs Herodes.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_4_39
+- Adv. Marc. 4.39 DEDICATED: nomina; eschaton/prophetae; Filius hominis; ficus=regnum Creatoris.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
