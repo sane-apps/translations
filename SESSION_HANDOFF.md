@@ -1,8 +1,14 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — Cyril Adoration Book 6 §§11–20 tip)
+
+- Claim `cyril-adoration6-11-20-oet`: §§11–20 Pass A≠B OET (foreknowledge God’s alone; demons silenced; Endor phantom; Balaam; fire-purification mocked). Tip pending SHA after `c5f5c3f`.
+- Melito skipped. Never Cyril Matthew. `jer-h20b` intact.
+- Next: §§21–30, then §§31–37 CLOSEOUT (37/37).
+
 ## 2026-09-12 (Air — Cyril Adoration Book 6 §§1–10 tip)
 
-- Claim `cyril-adoration6-1-10-oet`: Book 6 Greek ingested (37§, PG 68.409–68.477); §§1–10 Pass A≠B OET (cling to God alone; idols; Deut). Tip pending SHA stamp after Book 5 `0532c6c`.
+- Claim `cyril-adoration6-1-10-oet`: Book 6 Greek ingested (37§, PG 68.409–68.477); §§1–10 Pass A≠B OET (cling to God alone; idols; Deut). Tip `c5f5c3f` after Book 5 `0532c6c`.
 - Melito skipped. Never Cyril Matthew. `jer-h20b` intact.
 - Next: Book 6 §§11–20, then §§21–30, §§31–37 CLOSEOUT.
 
