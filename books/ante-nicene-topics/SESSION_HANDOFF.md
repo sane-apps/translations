@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — minucius_octavius_37
+- Claim `minucius-octavius-37-mine` → **faith-and-obedience**.
+- spectaculum deo; miles dei; patientia; notitia dei.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — minucius_octavius_34
 - Claim `minucius-octavius-34-mine` → **reward-and-judgment**.
 - incendium mundi; denuo reformari; elementorum custodia.
