@@ -2292,3 +2292,11 @@
 - Adv. Marc. 1.11: omnia Creatoris; deus ex operibus; otium non deus.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_4_8
+- Adv. Marc. 4.8: Nazaraeus corpus; Esaiae sanatio; daemonia timent iudicem.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_3_4
+- Adv. Marc. 3.4: tarde post Creatorem; propere ante Christum; non optimus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
