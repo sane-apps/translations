@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_34
+- Claim `commodian-instr-34-mine` → **atonement-recapitulation**.
+- Adam falls; death enters by wood; seek life’s fruit on wood; second law from wood; turn to Christ; God’s law raises the dead.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_52
 - Claim `commodian-instr-52-mine` → **faith-and-obedience**.
 - Militia name binds; leave pristina gesta/luxurias; Imperio Regis parendum; last glad times for good miles.
