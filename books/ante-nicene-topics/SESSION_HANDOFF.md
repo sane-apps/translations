@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — novatian_trinitate_27
+- Claim `novatian-trinitate-27-mine` → **faith-and-obedience**.
+- De Trinitate XXVII; unum sumus as fellowship; Son not Father.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed; single Latin Library witness on disk.
+
 ## Air mine 2026-09-12 — novatian_trinitate_26
 - Claim `novatian-trinitate-26-mine` → **image-likeness**.
 - De Trinitate XXVI; second person; image; obedient Son not Father.
