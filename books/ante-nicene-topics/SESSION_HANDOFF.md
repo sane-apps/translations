@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_26
+- Claim `commodian-instr-26-mine` → **reward-and-judgment**.
+- Instr. 26; fool — death not void; God lives; Christ returns living from dead; deeds hold.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_49
 - Claim `tertullian-de-anima-49-mine` → **universal-call**.
 - De An. 49; infants dream; gospel leaves no gens extranea; no soul-nature immune to dreams.
