@@ -1,5 +1,11 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — cyril-rf-a25 Arcadia §§97–100)
+
+- Claim `cyril-rf-a25`: faith into the name as God become human; Cana/signs show deity; official believes as toward God; faith in Son = faith in Sender; Son of Man seeks Word-flesh faith; closing springs of salvation charge. Pass A ≠ B; Greek locked `greek_clean_a25`. **CPG 5219 Arcadia complete.**
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
 ## 2026-09-12 (Air — cyril-rf-a24 Arcadia §§93–96)
 
 - Claim `cyril-rf-a24`: faith into Christ as into God; deep mystery of the Word made as we are (not bare person-union); unsearchable riches; word of faith; Christ proclaimed as God; gift to believe and suffer; God manifested in flesh; taken up in glory; believers in God believe Christ; faith into his name. Pass A ≠ B; Greek locked `greek_clean_a24`.
