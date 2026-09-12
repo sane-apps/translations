@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — minucius_octavius_40
+- Claim `minucius-octavius-40-mine` → **two-ways**.
+- Caecilius will not wait for the verdict: we have won; Octavius conquers him, he triumphs over error — conversion closes the dialogue.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — minucius_octavius_31
 - Claim `minucius-octavius-31-mine` → **true-worship**.
 - The demons’ coalition invented the incest-banquet tale to stain chastity’s glory and scare people before truth is examined; even Fronto spoke as orator, not as proving witness.
