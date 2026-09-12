@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_47
+- Claim `tertullian-de-anima-47-mine` → **two-ways**.
+- We define that dreams are most often struck in by demons — even if sometimes true and pleasing, yet aiming and capturing, as we said of their industry; how much more the vain, frustrating, foul. No wonder if the images are of those whose affairs they are. But from God…
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_45
 - Claim `tertullian-de-anima-45-mine` → **image-likeness**.
 - We are bound here to set out the Christian sentence on dreams too, as accidents of sleep and not small tossings of the soul, which we declared always busy and exercised from perpetual motion — the ratio of divinity and immortality. When rest comes to bodies, the soul does not rest.
