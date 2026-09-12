@@ -1,3 +1,68 @@
+## Air mine 2026-09-12 — Lactantius Inst. 7.13
+- Claim `lactantius-inst-7-13-mine` closed; excerpt `lactantius_inst_7_13` → **reward-and-judgment**.
+- Hermes / Apollo / Sibylla testes immortalitatis; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — Lactantius Inst. 7.12
+- Claim `lactantius-inst-7-12-mine` closed; excerpt `lactantius_inst_7_12` → **reward-and-judgment**.
+- contra Lucretium / anima non cum corpore interit; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — Lactantius Inst. 7.9
+- Claim `lactantius-inst-7-9-mine` closed; excerpt `lactantius_inst_7_9` → **reward-and-judgment**.
+- animarum aeternitas / iudicium dei maximum / saeculorum finis; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — Lactantius Inst. 7.27
+- Claim `lactantius-inst-7-27-mine` closed; excerpt `lactantius_inst_7_27` → **reward-and-judgment**.
+- exhortatio / caelestis thesaurus / aequissimus iudex; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — Lactantius Inst. 7.26
+- Claim `lactantius-inst-7-26-mine` closed; excerpt `lactantius_inst_7_26` → **reward-and-judgment**.
+- solutus diabolus / nouissima ira / iudicium nouissimum; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — Lactantius Inst. 7.23
+- Claim `lactantius-inst-7-23-mine` closed; excerpt `lactantius_inst_7_23` → **reward-and-judgment**.
+- non renascentur sed resurgent / anastasis; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — Lactantius Inst. 7.22
+- Claim `lactantius-inst-7-22-mine` closed; excerpt `lactantius_inst_7_22` → **reward-and-judgment**.
+- poetae de resurrectione / non fabula sed ueritas; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — Lactantius Inst. 7.21
+- Claim `lactantius-inst-7-21-mine` closed; excerpt `lactantius_inst_7_21` → **reward-and-judgment**.
+- animae patibiles deo / poenae in carne / ignis perpetuus; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — Lactantius Inst. 7.19
+- Claim `lactantius-inst-7-19-mine` closed; excerpt `lactantius_inst_7_19` → **reward-and-judgment**.
+- liberator e caelo / secundus aduentus / nox uigiliae; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — Lactantius Inst. 7.18
+- Claim `lactantius-inst-7-18-mine` closed; excerpt `lactantius_inst_7_18` → **reward-and-judgment**.
+- Hystaspes / Hermes / filius a patre mittendus; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — Lactantius Inst. 7.17
+- Claim `lactantius-inst-7-17-mine` closed; excerpt `lactantius_inst_7_17` → **reward-and-judgment**.
+- propheta magnus / rex e Syria / antichristus; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — Lactantius Inst. 7.16
+- Claim `lactantius-inst-7-16-mine` closed; excerpt `lactantius_inst_7_16` → **reward-and-judgment**.
+- decem reges / hostis ab aquilone / orbis euersio; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — Lactantius Inst. 7.15
+- Claim `lactantius-inst-7-15-mine` closed; excerpt `lactantius_inst_7_15` → **reward-and-judgment**.
+- Aegyptus figura / Romanum nomen / mundi senectus; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — Lactantius Inst. 7.24
 - Claim `lactantius-inst-7-24-mine` closed; excerpt `lactantius_inst_7_24` → **reward-and-judgment**.
 - filius iudicat / mille anni / regnum iustorum; Book 7 eschatology lane.
