@@ -1,3 +1,33 @@
+## Air mine 2026-09-12 — commodian_carmen_1001_1053
+- Claim `commodian-carmen-1001-1053-mine` → **reward-and-judgment**.
+- Carmen 1001–1053 (end); cosmic fire; Christ-marked dew; descent/rapture; lacunae disclosed; Amen.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
+## Air mine 2026-09-12 — commodian_carmen_961_1000
+- Claim `commodian-carmen-961-1000-mine` → **reward-and-judgment**.
+- Carmen 961–1000; holy advance; lake of fire pair; first anastasis; solar dark and fire.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
+## Air mine 2026-09-12 — commodian_carmen_921_960
+- Claim `commodian-carmen-921-960-mine` → **two-ways**.
+- Carmen 921–960; twin antifigures; sealed tribes beyond Persia; green return.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
+## Air mine 2026-09-12 — commodian_carmen_881_920
+- Claim `commodian-carmen-881-920-mine` → **reward-and-judgment**.
+- Carmen 881–920; Nero span closed; eastern king; Rome stripped and burned.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
+## Air mine 2026-09-12 — commodian_carmen_841_880
+- Claim `commodian-carmen-841-880-mine` → **reward-and-judgment**.
+- Carmen 841–880; after corrupt 840; Elijah slain; city tenth; Nero triennium.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
+## Air mine 2026-09-12 — commodian_carmen_827_839
+- Claim `commodian-carmen-827-839-mine` → **reward-and-judgment**.
+- Carmen 827–839; Elijah before antifigure; Christ-sign; drought/blood; skip 840.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
 ## Air mine 2026-09-12 — commodian_carmen_787_826
 - Claim `commodian-carmen-787-826-mine` → **reward-and-judgment**.
 - Carmen 787–826; resurrection sight; seventh persecution; Goths/Apollyon; Nero reserved.
