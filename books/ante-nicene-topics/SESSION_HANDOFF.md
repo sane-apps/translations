@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_paenitentia_5
+- Claim `tertullian-paenitentia-5-mine` → **faith-and-obedience**.
+- Repentance shown by grace recalls to the Lord’s grace; once known and taken it must not later be unsealed by repeating delict — that is contumacy and ingratitude, lifting the devil again.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_paenitentia_4
 - Claim `tertullian-paenitentia-4-mine` → **grace-and-assistance**.
 - For all delicts he who destined penalty through judgment also pledged pardon through repentance: “Repent and I will save you”; “I prefer repentance to death.” Seize it like a shipwrecked man a plank.
