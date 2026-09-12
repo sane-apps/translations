@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_paenitentia_3
+- Claim `tertullian-paenitentia-3-mine` → **sin-and-death**.
+- Once God is known, his precepts teach what to count as sin; flesh and spirit delicts equally offend; not only deed but will must be avoided and purged by repentance; common guilt, common Judge, common medicine.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_paenitentia_1
 - Claim `tertullian-paenitentia-1-mine` → **sin-and-death**.
 - Without the Lord’s light people know repentance only as a passion from offended prior judgment; without God they miss its reason; they even repent of good works and take evil’s repentance lightly.
