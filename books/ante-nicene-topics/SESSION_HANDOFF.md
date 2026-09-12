@@ -1,3 +1,28 @@
+## Air mine 2026-09-12 — tertullian_marcion_5_15
+- Claim `tertullian-marcion-5-15-mine` → **salvation-by-christ**.
+- Lord+prophets killed under one God; spirit/soul/body kept — body means flesh.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_marcion_5_12
+- Claim `tertullian-marcion-5-12-mine` → **salvation-by-christ**.
+- bodily tent; dead rise incorrupt; tribunal repays deeds done through the body.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_marcion_3_9
+- Claim `tertullian-marcion-3-9-mine` → **salvation-by-christ**.
+- Abraham’s angels had true flesh not phantasm; only Christ born of flesh to reform birth and dissolve death by rising in flesh.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_marcion_3_20
+- Claim `tertullian-marcion-3-20-mine` → **salvation-by-christ**.
+- Creator’s scriptures match Christ’s course; Ps/Isa nations; womb fruit = virgin Mary; today’s gentile call proves prophecy.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_marcion_2_4
+- Claim `tertullian-marcion-2-4-mine` → **grace-and-assistance**.
+- Creator’s goodness foresees man; Word makes all good; man as image; law and warning as kindness.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_marcion_4_43
 - Claim `tertullian-marcion-4-43-mine` → **salvation-by-christ**.
 - Hosea third day; burial taken up; Emmaus = Creator’s redeemer; hands/feet/bones vs phantasm; your gospel’s Jesus is mine.
