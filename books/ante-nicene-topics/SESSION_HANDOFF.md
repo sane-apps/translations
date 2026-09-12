@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_marcion_4_40
+- Claim `tertullian-marcion-4-40-mine` → **atonement-recapitulation**.
+- Passover day fulfills law’s passion figure; bread figure needs true body; cup seals blood; wine←→blood figuration.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_marcion_2_27
 - Claim `tertullian-marcion-2-27-mine` → **grace-and-assistance**.
 - Creator takes human affections for man’s salvation; Son mixes man/God; whole ‘disgrace’ = sacrament of salvation.
