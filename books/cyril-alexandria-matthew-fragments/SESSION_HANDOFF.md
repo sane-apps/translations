@@ -70,3 +70,14 @@ Canonical path: `~/SaneApps/clients/translations/books/cyril-alexandria-matthew-
 - `cyril-matt-frag-a68` from entry 269
 - Keep IA OCR out of reading text
 - Skip Melito; preserve jer-h20b; no CSS; CPG 5219/5220 stay closed
+
+## Progress (a64+ title SOP)
+
+Standing owner rule: reader H1 / Contents = `On Matthew ch:v` only. CPG/ed.fr only in apparatus / About.
+
+| Claim | Entries | Notes |
+|-------|---------|-------|
+| a64–a67 | 253–268 | shipped tip `0cd2c1d` |
+| a68–a71 | 269–284 | shipped tip `30b03d8`; ed.fr.310 skip; supplied passion brackets; parallel on 283 |
+| next | 285–290 | a72+ (Mt 27:54–28:18) — last 6 |
+
