@@ -52,9 +52,13 @@ Canonical path: `~/SaneApps/clients/translations/books/cyril-alexandria-matthew-
 | `cyril-matt-frag-a53` | done | entries 209–212 (ed. fr.236–239; Mt 21:17–41) Pass A≠B |
 | `cyril-matt-frag-a54` | done | entries 213–216 (ed. fr.241–244; Mt 21:37–43) Pass A≠B |
 | `cyril-matt-frag-a55` | done | entries 217–220 (ed. fr.245–248; Mt 22:2–13) Pass A≠B |
+| `cyril-matt-frag-a56` | done | entries 221–224 (ed. fr.249–252; Mt 22:15–42) Pass A≠B |
+| `cyril-matt-frag-a57` | done | entries 225–228 (ed. fr.253–256; Mt 22:43–23:15) Pass A≠B |
+| `cyril-matt-frag-a58` | done | entries 229–232 (ed. fr.257–260; Mt 23:22–36) Pass A≠B |
+| `cyril-matt-frag-a59` | done | entries 233–236 (ed. fr.261–264; Mt 23:35–39) Pass A≠B |
 
 ## Next
 
-- `cyril-matt-frag-a56` from entry 221
+- `cyril-matt-frag-a60` from entry 237
 - Keep IA OCR out of reading text
 - Skip Melito; preserve jer-h20b; no CSS; CPG 5219/5220 stay closed
