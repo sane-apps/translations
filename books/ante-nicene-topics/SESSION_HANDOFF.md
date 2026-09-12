@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_53
+- Claim `tertullian-de-anima-53-mine` → **reward-and-judgment**.
+- Where then does the naked, expelled soul turn? We will follow in order; first finish this place — various exits of death; something on such exit is inserted also to shield the soul’s immortality.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_51
 - Claim `tertullian-de-anima-51-mine` → **image-likeness**.
 - Death’s work in the midst is separation of body and soul. Some, weakly defending immortality not taught by God, argue souls still cling to bodies after death — we deny any soul-remnant remains in the corpse.
