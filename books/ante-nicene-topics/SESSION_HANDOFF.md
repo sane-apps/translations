@@ -1716,3 +1716,35 @@
 - Fabrica twelve angels: day/night hours; 24 elders before throne.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Lactantius lactantius_inst_1_7
+- Inst. 1.7: Apollo/Hermes → unus deus; angeli not dii; flee prauae religiones.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_2_1
+- Inst. 2.1: singularis dei; crisis→deus then temples; upright gaze vs digitorum opera.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_12
+- Inst. 3.12: virtue vs vices; summum bonum = inmortalitas in religio.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_19
+- Inst. 3.19: death's quality; praemium/poena sempiterna; anti-reincarnation.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_1_1
+- Inst. 1.1: ueritatis studium; Constantine; deo seruire = libertas.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_2_2
+- Inst. 2.2: fingere/timere; elementa; artifex > opus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_9
+- Inst. 3.9: summum bonum = inmortalitas; sapientia = deum nosse/colere.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_27
+- Inst. 3.27: humana praecepta lack diuina auctoritas; philosophy ≠ wisdom.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
