@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_9
+- Claim `commodian-instr-9-mine` → **true-worship**.
+- Neptune from Saturn with trident to spear fish; you make him sea-god; watery creature / earthly tale — not to be prayed.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_8
 - Claim `commodian-instr-8-mine` → **true-worship**.
 - Mercury painted with purse, helm, winged feet, near-naked; messenger and thief; if god why steal? Invented trade and lyre — earthly craft not deity.
