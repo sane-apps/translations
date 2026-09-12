@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — minucius_octavius_20
+- Claim `minucius-octavius-20-mine` → **true-worship**.
+- Philosophers already designated one God under many names — Christians philosophers now, or philosophers already Christians; world ruled by providence of one God.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_paenitentia_5
 - Claim `tertullian-paenitentia-5-mine` → **faith-and-obedience**.
 - Repentance shown by grace recalls to the Lord’s grace; once known and taken it must not later be unsealed by repeating delict — that is contumacy and ingratitude, lifting the devil again.
