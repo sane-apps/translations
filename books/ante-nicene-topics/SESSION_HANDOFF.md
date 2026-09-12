@@ -1888,3 +1888,19 @@
 - Inst. 1.18: apotheosis for virtus/munera/artes inepta; Deus gave living/healing.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Lactantius lactantius_inst_1_6
+- Inst. 1.6: diuina testimonia; reuincere by deorum suorum testimoniis.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_1_13
+- Inst. 1.13: human abscisum; no god fears co-heir; Saturn's regium nomen.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_5
+- Inst. 3.5: vitae necessitas → know; Arcesilas self-mucro.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_21
+- Inst. 3.21: Socrates→virtus; Plato aequitas; humans still wage bella.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
