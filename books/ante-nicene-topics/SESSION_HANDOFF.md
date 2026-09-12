@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — arnobius_nations_2_6
+- Claim `arnobius-nations-2-6-mine` → **faith-and-obedience**.
+- Adv. Nat. 2.6: credulitatis adsensus; sapientia hominis stultitia apud Deum.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_3
 - Claim `arnobius-nations-2-3-mine` → **true-worship**.
 - Adv. Nat. 2.3: deus naturaliter; religio vera; error insidiosus.
