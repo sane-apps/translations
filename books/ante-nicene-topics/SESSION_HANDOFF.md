@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_23
+- Claim `commodian-instr-23-mine` → **faith-and-obedience**.
+- Double-minded between synagogue and pagan shrines perish; after death the one who lived rightly profits; In Christo credentes in loco benigno.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_27
 - Claim `commodian-instr-27-mine` → **salvation-by-christ**.
 - Justice/goodness → live after fate; earthly judges preview; do not mock heavenly God; hand yourself to Christ for good deeds to follow.
