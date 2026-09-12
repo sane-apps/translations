@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — Lactantius Inst. 7.26
+- Claim `lactantius-inst-7-26-mine` closed; excerpt `lactantius_inst_7_26` → **reward-and-judgment**.
+- solutus diabolus / nouissima ira / iudicium nouissimum; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — Lactantius Inst. 7.23
 - Claim `lactantius-inst-7-23-mine` closed; excerpt `lactantius_inst_7_23` → **reward-and-judgment**.
 - non renascentur sed resurgent / anastasis; Book 7 eschatology lane.
