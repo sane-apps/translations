@@ -1952,3 +1952,39 @@
 - Inst. 3.15: docent≠uiuunt; auctoritas falls.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Lactantius lactantius_inst_1_14
+- Inst. 1.14: Sacra Historia vs poetarum ineptiae; Saturn–Ops.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_1_17
+- Inst. 1.17: Stoics+Cicero naturalize gods; miss quid in uero.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_1_22
+- Inst. 1.22: Sabinus/Numa; Egeria simulata; nouae superstitiones.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_1_23
+- Inst. 1.23: tempora of memoria-cult; Thallus/Belus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_2_19
+- Inst. 2.19: errores depulimus; next philosophis luctatio.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_7
+- Inst. 3.7: moralis utilitas; not yet true sapientia.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_16
+- Inst. 3.16: desidia/eloquendo; sapientia in actu.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_22
+- Inst. 3.22: communio=adulteria; concordia missed.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_25
+- Inst. 3.25: philosophia non uulgaris; paucis/docti only.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
