@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — arnobius_nations_2_2
+- Claim `arnobius-nations-2-2-mine` → **salvation-by-christ**.
+- Adv. Nat. 2.2: lumen vitae; vias ad caelum; pietatis ianuas.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_carmen_1001_1053
 - Claim `commodian-carmen-1001-1053-mine` → **reward-and-judgment**.
 - Carmen 1001–1053 (end); cosmic fire; Christ-marked dew; descent/rapture; lacunae disclosed; Amen.
