@@ -45,6 +45,12 @@ Canonical path: `~/SaneApps/clients/translations/books/cyril-alexandria-recta-fi
 - Claim **cyril-rf-a3** done: Arcadia §§9–12 Pass A≠B (Athanasius close + florilegium).
 - Next: `cyril-rf-a4` from §13 / p.166 (Vitalis continues; Theophilus vs Origenists).
 
+
+## State update 20260912T051606Z
+
+- Claim **cyril-rf-a4** done: Arcadia §§13–16 Pass A≠B (Vitalis/Theophilus + Cyril on Χριστός name).
+- Next: `cyril-rf-a5` from §17 / scripture catena heads.
+
 ## Next
 
 Translate from locked `*_source.json` (Pass A/B) → DOCX → site (era banner; treatises with no earlier English). OCR cleanup as needed while translating.
