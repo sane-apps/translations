@@ -2232,3 +2232,19 @@
 - Adv. Marc. 4.24: seventy/Elim; causae not rival powers.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_4_23
+- Adv. Marc. 4.23: incredula genitura; steward must prove Creator mission.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_19
+- Adv. Marc. 5.19: gospel in totum mundum; prior regula apostolica.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_20
+- Adv. Marc. 5.20: unum Christum; causatione/ueritate.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_21
+- Adv. Marc. 4.21: no bag—Creator feeds; dust=judgment witness.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
