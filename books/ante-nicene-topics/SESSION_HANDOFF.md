@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_60
+- Claim `commodian-instr-60-mine` → **faith-and-obedience**.
+- Few crowned in agony; help the brother under arms; Dominus bids feed even enemies; Dominica — call a poor man to lunch; spes in those refreshed from your goods.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_54
 - Claim `commodian-instr-54-mine` → **reward-and-judgment**.
 - Tares mixed in church; harvest separates; lex is field; Dominator gives true rest; lolium burned; fruitless fig withered.
