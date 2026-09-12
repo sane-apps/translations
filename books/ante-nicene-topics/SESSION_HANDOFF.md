@@ -1,3 +1,68 @@
+## Air mine 2026-09-12 — commodian_carmen_581_620
+- Claim `commodian-carmen-581-620-mine` → **faith-and-obedience**.
+- Carmen 581–620; flee age; cross-hope; cloud-fire; Abraham’s only son.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
+## Air mine 2026-09-12 — commodian_carmen_541_580
+- Claim `commodian-carmen-541-580-mine` → **salvation-by-christ**.
+- Carmen 541–580; risen Lord; Thomas; forty days; ascent; Name-healings.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
+## Air mine 2026-09-12 — commodian_carmen_501_540
+- Claim `commodian-carmen-501-540-mine` → **two-ways**.
+- Carmen 501–540; Just One from heaven; new people; two peoples / lesser excels.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
+## Air mine 2026-09-12 — commodian_carmen_464_500
+- Claim `commodian-carmen-464-500-mine` → **salvation-by-christ**.
+- Carmen 464–500; after corrupt 463; lays down life; just one’s tomb not a pit; Solomon presses the just.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
+## Air mine 2026-09-12 — commodian_carmen_441_462
+- Claim `commodian-carmen-441-462-mine` → **reward-and-judgment**.
+- Carmen 441–462; blasphemed name; resurrection psalms; cross not David’s private tale; stop before HTML-corrupt line 463.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
+## Air mine 2026-09-12 — commodian_carmen_401_440
+- Claim `commodian-carmen-401-440-mine` → **salvation-by-christ**.
+- Carmen 401–440; Emmanuel; passion proofs; nations prior; pit-smear answered.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
+## Air mine 2026-09-12 — commodian_carmen_361_400
+- Claim `commodian-carmen-361-400-mine` → **true-worship**.
+- Carmen 361–400; drinks death/rises; Son sent; God on earth; magician slur vs hardened heart.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
+## Air mine 2026-09-12 — commodian_carmen_321_360
+- Claim `commodian-carmen-321-360-mine` → **atonement-recapitulation**.
+- Carmen 321–360; tree death/life; Isaiah Servant; God-flesh; Malachi bloodless gentile cult.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
+## Air mine 2026-09-12 — commodian_carmen_281_320
+- Claim `commodian-carmen-281-320-mine` → **salvation-by-christ**.
+- Carmen 281–320; lacuna noted; flesh-God; Jesse/nations; reign from wood; tomb empties death.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
+## Air mine 2026-09-12 — commodian_carmen_241_280
+- Claim `commodian-carmen-241-280-mine` → **salvation-by-christ**.
+- Carmen 241–280; exile after wood; cornerstone; prophetic cross texts; Father in Son, majesty in flesh.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
+## Air mine 2026-09-12 — commodian_carmen_201_240
+- Claim `commodian-carmen-201-240-mine` → **faith-and-obedience**.
+- Carmen 201–240; leave luxuries; prophets murdered; Christ heals by word; prophecy filled.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
+## Air mine 2026-09-12 — commodian_carmen_161_200
+- Claim `commodian-carmen-161-200-mine` → **two-ways**.
+- Carmen 161–200; Babel; free self-damnation; Rebecca two peoples; Sinai; ungrateful nation.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
+## Air mine 2026-09-12 — commodian_carmen_121_160
+- Claim `commodian-carmen-121-160-mine` → **reward-and-judgment**.
+- Carmen 121–160; invisible God; phoenix→resurrection; Fall; Cain; Flood/Noah.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
 ## Air mine 2026-09-12 — commodian_carmen_81_120
 - Claim `commodian-carmen-81-120-mine` → **image-likeness**.
 - Carmen 81–120; choose life-cup; one God in Word; F/S/Sp; made visible — even flesh.
