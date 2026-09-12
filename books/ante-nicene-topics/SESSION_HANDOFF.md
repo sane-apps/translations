@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_8
+- Claim `tertullian-de-anima-8-mine` → **image-likeness**.
+- It is abrupt and absurd to remove something from the census of bodily things because it does not match other bodily examples. Private differences of properties mark the Author’s magnificence by diversity of the same works.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_6
 - Claim `tertullian-de-anima-6-mine` → **image-likeness**.
 - Platonists disturb by subtlety more than truth: every body must be animal or inanimate; soul moves the body from within — their dilemma does not prove the soul bodyless.
