@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_65
+- Claim `commodian-instr-65-mine` → **two-ways**.
+- Arranged peace in city with ruins; schism you caused; speck/beam; subdola pax = persecution; you praise deceitful peace and perish as another’s soldiers not Christ’s.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_64
 - Claim `commodian-instr-64-mine` → **faith-and-obedience**.
 - Do not feign good by another’s wound; Altissimus rejects gifts of the unjust; lending at double interest then “cleansing” by gifts refused; you buy saints’ favor with price.
