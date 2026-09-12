@@ -1,3 +1,23 @@
+## Air mine 2026-09-12 — arnobius_nations_2_26
+- Claim `arnobius-nations-2-26-mine` → **image-likeness**.
+- 2.26: deo vicinum soul lore fails; passivity ⇒ no natural immortality.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_16
+- Claim `arnobius-nations-2-16-mine` → **image-likeness**.
+- 2.16: drop typhus of divine father/co-immortality; humans animantia.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_60
+- Claim `arnobius-nations-2-60-mine` → **true-worship**.
+- 2.60: Christus deus; drop vain quaestiones; dominus rerum; maxima scientia.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_70
+- Claim `arnobius-nations-2-70-mine` → **true-worship**.
+- 2.70: dii from certi times; novitas charge returns on pagan origines.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_45
 - Claim `arnobius-nations-2-45-mine` → **image-likeness**.
 - 2.45: scelerata opinio rejected—God did not beget labile quasi-divine souls into bodily prisons and mutual ruin.
