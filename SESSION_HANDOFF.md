@@ -1,5 +1,11 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — cyril-rf-a24 Arcadia §§93–96)
+
+- Claim `cyril-rf-a24`: faith into Christ as into God; deep mystery of the Word made as we are (not bare person-union); unsearchable riches; word of faith; Christ proclaimed as God; gift to believe and suffer; God manifested in flesh; taken up in glory; believers in God believe Christ; faith into his name. Pass A ≠ B; Greek locked `greek_clean_a24`.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
 ## 2026-09-12 (Air — cyril-rf-a23 Arcadia §§89–92)
 
 - Claim `cyril-rf-a23`: stone of stumbling / Symeon; Christ end of law who justifies; confess Lord Jesus; gospel mystery = God become human; mediator of promises; justified in his name; not another Jesus; Son revealed in Paul; Emmanuel justifies; sealed in him. Pass A ≠ B; Greek locked `greek_clean_a23`.
