@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_1
+- Claim `tertullian-de-anima-1-mine` → **image-likeness**.
+- Having met Hermogenes on the soul’s census alone — he presumed it stood from matter’s stock rather than God’s breath — now turned to remaining questions I shall seem to fight philosophers most of all.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_53
 - Claim `tertullian-de-anima-53-mine` → **reward-and-judgment**.
 - Where then does the naked, expelled soul turn? We will follow in order; first finish this place — various exits of death; something on such exit is inserted also to shield the soul’s immortality.
