@@ -37,3 +37,5 @@ Canonical path: `~/SaneApps/clients/translations/books/cyril-alexandria-adoratio
 Logos compile on Air when the owner asks. Do not present Book 1 as the complete *De adoratione*. Court treatises are next in `docs/WORKS_QUEUE.md`.
 
 - 2026-09-12 (StephanAir): **Adoration Book 2 §§1–8** Pass B + Pass A tipped (`adoration2_english.json`). OET = no previous complete English translation of Book 2. After Lam 118/118 closeout. Continue Book 2 §§9–26. Never Cyril Matthew.
+
+- 2026-09-12 (StephanAir): **Adoration Book 2 §§9–16** Pass B + Pass A tipped. Continue §§17–26. OET = no previous complete English of Book 2. Never Cyril Matthew.
