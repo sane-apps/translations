@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_40
+- Claim `tertullian-de-anima-40-mine` → **sin-and-death**.
+- in Adam censetur / in Christo recenseatur / caro ministerium.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_39
 - Claim `tertullian-de-anima-39-mine` → **baptism-and-new-birth**.
 - obstetrix idololatria / aqua et spiritu / filii sancti.
