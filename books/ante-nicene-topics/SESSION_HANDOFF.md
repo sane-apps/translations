@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_18
+- Claim `tertullian-de-anima-18-mine` → **two-ways**.
+- I turn to the intellectual part — how Plato, having gained recognition before death, recommended to heretics that part as separated from bodily things. In the Phaedo he asks whether the body hinders possession of prudence.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_36
 - Claim `tertullian-de-anima-36-mine` → **image-likeness**.
 - We had established that the soul is sown in the man himself and from him, and that there is one seed from the beginning, as also of the flesh, for the whole run of the race — against rival opinions of philosophers and heretics.
