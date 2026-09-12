@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_43
+- Claim `commodian-instr-43-mine` → **reward-and-judgment**.
+- City from heaven in first anastasis; we who were devoted rise incorrupt without death; martyrs under Antichrist receive goods.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_48
 - Claim `commodian-instr-48-mine` → **faith-and-obedience**.
 - Paenitens: pray night/day; stay near mother; Altissimus misericors; weep guilt; seek medicus; ask summo de Rege help lest you perish from the people.
