@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — arnobius_nations_2_78
+- Claim `arnobius-nations-2-78-mine` → **salvation-by-christ**.
+- Stop empty questions; flee to salutaris deus; when souls’ salvation at stake act even sine ratione; trust name/power over incredulitas.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_66
 - Claim `arnobius-nations-2-66-mine` → **salvation-by-christ**.
 - Purity/rites cannot win immortality; only Christ-bestowed immortality and true life; prefer better → hope of salvation.
