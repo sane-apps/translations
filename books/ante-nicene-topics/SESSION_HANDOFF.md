@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_7
+- Claim `commodian-instr-7-mine` → **true-worship**.
+- Sun/moon present yet not to be prayed; they do not run by their own will; Omnipotent placed them day four; law forbids adoring them; few empty priests seduce; approach the law-book and learn the true.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_5
 - Claim `commodian-instr-5-mine` → **true-worship**.
 - Fools say Jupiter thunders; leave infant play; Saturn aged on earth; no prophet foretold him; histories seduce; you pray the impure born of giants and raise a parricide on high.
