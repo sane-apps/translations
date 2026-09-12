@@ -1840,3 +1840,19 @@
 - Inst. 2.11: vs Lucretius earth-uteri; Deus fecit hominem; totum His.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Lactantius lactantius_inst_1_2
+- Inst. 1.2: providentia vs fortuito; nil without providence.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_1_9
+- Inst. 1.9: Hercules libidines/Oeta burial → not deus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_1_12
+- Inst. 1.12: quod fuit → non deus; aeternitas has no finis.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_2_9
+- Inst. 2.9: diuina mundi fabrica; caelum sedes; ignis/aqua only Maker knows.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
