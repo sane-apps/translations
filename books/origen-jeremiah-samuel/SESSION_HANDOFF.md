@@ -34,6 +34,8 @@ Canonical path: `~/SaneApps/clients/translations/books/origen-jeremiah-samuel/`
 
 - 2026-09-12 (StephanAir): **Homily 8** literary polish + Pass A justifications `jeremiah_8_*.json` (was machine_draft). Completed truncated §§8.1/8.9; removed 8.2 meta-paragraph. OET = no previous English translation. Next: Lamentations fragments.
 
+- 2026-09-12 (StephanAir): **Lamentations** fr. §§1–10 Pass B + Pass A (`lamentations_english.json`, `lamentations_*.json`). OET = no previous English translation. OCR noisy lock disclosed. Next: Lam §§11+.
+
 ## Next
 
-**1 Samuel 28 OET Pass B shipped** (Air tip; claim `origen-samuel28-oet`). Chronological OET forward in this volume: **Homily 8 polished**; next **Lamentations** fragments (`lamentations_source.json`). Homilies 1–7, 9–20 already Pass B on site. Do not present the English set as Logos-complete. **Logos Personal Book compile stays on the owner’s MacBook Air only** — contributors and overnight agents never run `build_book.py` / Logos Build. Never Cyril Matthew; CPG 5219/5220 closed. OET = no previous English translation.
+**1 Samuel 28 OET Pass B shipped** (Air tip; claim `origen-samuel28-oet`). Chronological OET forward in this volume: **Homily 8 polished**; Lam §§1–10 tipped; continue **Lamentations** §§11+ (`lamentations_source.json`). Homilies 1–7, 9–20 already Pass B on site. Do not present the English set as Logos-complete. **Logos Personal Book compile stays on the owner’s MacBook Air only** — contributors and overnight agents never run `build_book.py` / Logos Build. Never Cyril Matthew; CPG 5219/5220 closed. OET = no previous English translation.
