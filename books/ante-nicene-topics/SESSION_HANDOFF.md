@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_62
+- Claim `commodian-instr-62-mine` → **faith-and-obedience**.
+- Daily war from first day; fight lust/luxury; give from labor to naked; law teaches; do not seek idle martyrdom.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_59
 - Claim `commodian-instr-59-mine` → **true-worship**.
 - Paul’s ask; Isaiah against world-love; Christian woman not gentile adornment; serve Christ with hymn-chorus.
