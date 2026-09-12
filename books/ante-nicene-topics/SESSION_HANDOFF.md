@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_55
+- Claim `commodian-instr-55-mine` → **faith-and-obedience**.
+- Dissemble not the trumpet-heralded law; Domini uox in prophets; do not abuse mandates while claiming sonship; Omnipotens seeks meek sons.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_53
 - Claim `commodian-instr-53-mine` → **sin-and-death**.
 - Lost souls separate themselves; Canaanite/Cain root under barbarian king; eternal flame; reject those who will not leave idols.
