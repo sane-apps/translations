@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_19
+- Claim `tertullian-de-anima-19-mine` → **image-likeness**.
+- dei flatus / infantia intellegit / ex ore infantium.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_17
 - Claim `tertullian-de-anima-17-mine` → **salvation-by-christ**.
 - sensus / Christus uerus / Marcion phantasma / Thomas.
