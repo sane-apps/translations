@@ -1,5 +1,12 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — lactantius-inst-4-19-mine)
+
+- Claim `lactantius-inst-4-19-mine`: voluntary laying-down of the spirit; temple veil / midday darkness; third-day resurrection; immortality only by believing and taking up the cross. Pass A ≠ B; Latin locked CSEL TEI IV.19.
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
 ## 2026-09-12 (Air — lactantius-inst-4-15-mine)
 
 - Claim `lactantius-inst-4-15-mine`: Jordan baptism for the flesh he bore (not his own sin); baptism saves the nations; heavenly works by one word because he is God’s Word; Sibyl/prophets opened after fulfillment. Pass A ≠ B; Latin locked CSEL TEI IV.15.
