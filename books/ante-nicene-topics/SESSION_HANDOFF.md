@@ -2072,3 +2072,19 @@
 - Adv. Marc. 5.16: retributor meriti; deleted flame; Creator ueritas/salus.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_2_7
+- Adv. Marc. 2.7: God secedes from granted libertas; intervening would rescind.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_27
+- Adv. Marc. 1.27: bonitas imaginaria; abici=damnation needing a judge.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_13
+- Adv. Marc. 5.13: gospel/wrath/judgment → Creator’s Christ; dispositions not gods.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_22
+- Adv. Marc. 1.22: delayed bonitas not natural; mora=malignitas.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
