@@ -1,3 +1,13 @@
+## Air mine 2026-09-12 — arnobius_nations_2_47
+- Claim `arnobius-nations-2-47-mine` → **image-likeness**.
+- 2.47: God not necessarily soul-genitor; ignorance OK; pest analogy.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_24
+- Claim `arnobius-nations-2-24-mine` → **image-likeness**.
+- 2.24: Meno recollection != plena scientia; mute adult vs immortal-soul boast.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_29
 - Claim `arnobius-nations-2-29-mine` → **free-will**.
 - 2.29: immortal-soul boast → license; need metus/iudicium divinum.
