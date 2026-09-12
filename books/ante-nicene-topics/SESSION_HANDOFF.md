@@ -1,3 +1,23 @@
+## Air mine 2026-09-12 — arnobius_nations_2_45
+- Claim `arnobius-nations-2-45-mine` → **image-likeness**.
+- 2.45: scelerata opinio rejected—God did not beget labile quasi-divine souls into bodily prisons and mutual ruin.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_55
+- Claim `arnobius-nations-2-55-mine` → **free-will**.
+- 2.55: why evils persist—nescire > making God malorum conditor; nihil nocens from princeps; only salutare.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_74
+- Claim `arnobius-nations-2-74-mine` → **salvation-by-christ**.
+- 2.74: sospitator Christus late-advent objection; ratio unknown; virtutes/potestates keep fides.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_61
+- Claim `arnobius-nations-2-61-mine` → **salvation-by-christ**.
+- 2.61: salus animarum hinges on dei principis notio; mors saeva + drawn-out poena without it; remit cosmos-questions to God.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air repair 2026-09-12 — Arnobius II wave stack
 - Restored §§2,3,4,6,7,9,15,30,31,37 onto Novatian stack tip.
 - Pass A ≠ B; jer-h20b intact; Melito skip; no CSS; CPG 5219/5220 closed.
