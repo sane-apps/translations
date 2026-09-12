@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_carmen_787_826
+- Claim `commodian-carmen-787-826-mine` → **reward-and-judgment**.
+- Carmen 787–826; resurrection sight; seventh persecution; Goths/Apollyon; Nero reserved.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
 ## Air mine 2026-09-12 — commodian_carmen_747_786
 - Claim `commodian-carmen-747-786-mine` → **salvation-by-christ**.
 - Carmen 747–786; swine nihilism; one God on wood; virgin destroys death; confess or lose.
