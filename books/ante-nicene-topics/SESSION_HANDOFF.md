@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — novatian_trinitate_13
+- Claim `novatian-trinitate-13-mine` → **salvation-by-christ**.
+- uerbum caro / connexio mutua / sponsus ad carnem / ascensus.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — novatian_trinitate_10
 - Claim `novatian-trinitate-10-mine` → **baptism-and-new-birth**.
 - uerbum caro / baptisma / culpa sublata / caro ad salutem.
