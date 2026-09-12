@@ -28,7 +28,7 @@ Canonical path: `~/SaneApps/clients/translations/books/cyril-alexandria-matthew-
 |-------|--------|-------|
 | `cyril-matt-frag-lock` | done | Source lock only |
 | `cyril-matt-frag-a1` … `a23` | done | entries 1–92 |
-| `cyril-matt-frag-a24` | done | entries 93–96 (ed. fr.109–113; Mt 9:23–10:6) Pass A≠B |
+| `cyril-matt-frag-a24` | done | entries 93–96 (ed. fr.109,111–113; Mt 9:23–10:6) Pass A≠B |
 | `cyril-matt-frag-a25` | done | entries 97–100 (ed. fr.114–117; Mt 10:7–16) Pass A≠B |
 | `cyril-matt-frag-a26` | done | entries 101–104 (ed. fr.118–121; Mt 10:19–23) Pass A≠B |
 | `cyril-matt-frag-a27` | done | entries 105–108 (ed. fr.122–125; Mt 10:25–32); break on 107 disclosed |
