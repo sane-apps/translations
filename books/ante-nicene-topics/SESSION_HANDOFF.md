@@ -1904,3 +1904,19 @@
 - Inst. 3.21: Socrates→virtus; Plato aequitas; humans still wage bella.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Lactantius lactantius_inst_1_10
+- Inst. 1.10: Aesculapius mortal; Jupiter incest—no divinity.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_4
+- Inst. 3.4: Socrates+Zeno → philosophia sublata; nil-sciri impossible.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_23
+- Inst. 3.23: vanity of pecuniae contemptus; patrimonia deserted.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_24
+- Inst. 3.24: antipodes inepti; few errors reveal the rest.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
