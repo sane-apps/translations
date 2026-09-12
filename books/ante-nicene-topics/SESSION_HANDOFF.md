@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_69
+- Claim `commodian-instr-69-mine` → **two-ways**.
+- Time demands true speech; deceitful peace; Eve’s seducer crept; you drink the age’s air; intercession useless; fugitive from fire falls in your vortex; judges dread your greed.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_68
 - Claim `commodian-instr-68-mine` → **faith-and-obedience**.
 - Confessing pastor doubles the contest; patient rector; do first what you say; worldly pastor → Gehenna rumor; devoted pastor governs; in such the whole church’s hope lives.
