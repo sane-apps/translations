@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — arnobius_nations_2_12
+- Claim `arnobius-nations-2-12-mine` → **salvation-by-christ**.
+- Empty arguments would not win; public virtutes of Christ/preachers gathered nations; Rome leaves Numa for Christian truth; demonic fog vs faith.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_5
 - Claim `arnobius-nations-2-5-mine` → **faith-and-obedience**.
 - Fear Christian claims true; world spread; slaves/spouses/children keep faith under pain; conversions not chance — prefer amicitias Christi.
