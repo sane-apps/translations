@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_4
+- Claim `commodian-instr-4-mine` → **true-worship**.
+- Jupiter born to Saturn in Crete; robbed father; seduced nobles’ wives; Pyracmon’s scepter. In beginning God made heaven/earth/sea. Youth from cave — that God is author, not Jupiter.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_3
 - Claim `commodian-instr-3-mine` → **true-worship**.
 - If Saturn is god why age? Why devour sons in terror? Earthly king on Olympus; called himself god; swallowed stone; lately called Jupiter.
