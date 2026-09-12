@@ -2136,3 +2136,19 @@
 - Adv. Marc. 3.14: sword=Word; truth/mildness/justice.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_4_34
+- Adv. Marc. 4.34: diuortium—duritia vs a primordio one flesh.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_29
+- Adv. Marc. 4.29: ravens/lilies → Creator forbids anxious care.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_28
+- Adv. Marc. 4.28: hypocrisis vs Creator; nihil opertum ≠ unknown god.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_17
+- Adv. Marc. 5.17: recapitulare omnia—Creator’s initium; Ephesians title.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
