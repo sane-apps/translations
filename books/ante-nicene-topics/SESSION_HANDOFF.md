@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — novatian_trinitate_9
+- Claim `novatian-trinitate-9-mine` → **faith-and-obedience**.
+- De Trinitate IX; regula / Filium Dominum Deum; passion-bruise and rising for the nations.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed; single Latin Library witness on disk.
+
 ## Air mine 2026-09-12 — commodian_carmen_1001_1053
 - Claim `commodian-carmen-1001-1053-mine` → **reward-and-judgment**.
 - Carmen 1001–1053 (end); cosmic fire; Christ-marked dew; descent/rapture; lacunae disclosed; Amen.
