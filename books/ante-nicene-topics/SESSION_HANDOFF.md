@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_32
+- Claim `tertullian-de-anima-32-mine` → **free-will**.
+- Empedocles, because he had raved himself a god, disdained to recall himself as some hero — “I was a shrub and a fish,” he says. Why not rather a gourd, so tasteless, and a chameleon, so inflated? Metensomatosis ends in Etna’s cookery.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_30
 - Claim `tertullian-de-anima-30-mine` → **free-will**.
 - If living from dead as dead from living, one and the same number of all humans would always have stuck — that first number that entered life. But populations change; reincarnation’s ledger fails.
