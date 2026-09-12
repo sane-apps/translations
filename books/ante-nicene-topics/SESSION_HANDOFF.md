@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_17
+- Claim `commodian-instr-17-mine` → **true-worship**.
+- Ammudas great while gold in temple; Caesar takes gold — numen fails/flees/burns; false prophet seduced many then fell silent; wooden god in the ear; you yourselves want to perish.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_12
 - Claim `commodian-instr-12-mine` → **true-worship**.
 - If Invictus born from rock is held a god — seek the rock’s creator; rock conquered the god. You still paint him a thief; if God he would not live by theft; earthly monstrous nature like Cacus.
