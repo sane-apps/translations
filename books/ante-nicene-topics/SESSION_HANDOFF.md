@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_carmen_541_580
+- Claim `commodian-carmen-541-580-mine` → **salvation-by-christ**.
+- Carmen 541–580; risen Lord; Thomas; forty days; ascent; Name-healings.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
 ## Air mine 2026-09-12 — commodian_carmen_501_540
 - Claim `commodian-carmen-501-540-mine` → **two-ways**.
 - Carmen 501–540; Just One from heaven; new people; two peoples / lesser excels.
