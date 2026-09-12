@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_16
+- Claim `commodian-instr-16-mine` → **true-worship**.
+- Few wicked empty seers delude; fake mysteries for their living; Bellona frenzy faked for stipend; all feigned; they shade the suppliant people lest the perishing believe; no majesty of theirs has spoken.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_15
 - Claim `commodian-instr-15-mine` → **fate-and-foreknowledge**.
 - You say bloody gods and that fate writes genesis — then why pray? Deceived who pray Manes; fabricated lords; goddesses; demons on the neck that cannot account for the plague.
