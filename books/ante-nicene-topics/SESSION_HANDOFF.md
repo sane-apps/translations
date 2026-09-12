@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — novatian_trinitate_29
+- Claim `novatian-trinitate-29-mine` → **grace-and-assistance**.
+- Spiritus Sanctus / remissio peccatorum / lauacrum / ecclesia.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — novatian_trinitate_25
 - Claim `novatian-trinitate-25-mine` → **atonement-recapitulation**.
 - mortuus pro nobis / mors in corpus / sermo immortalis.
