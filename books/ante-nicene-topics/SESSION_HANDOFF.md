@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — lactantius_inst_7_7
+- Claim `lactantius-inst-7-7-mine` → **reward-and-judgment**.
+- philosophi / inferorum poenae / arcanum religionis.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — Lactantius Inst. 7.13
 - Claim `lactantius-inst-7-13-mine` closed; excerpt `lactantius_inst_7_13` → **reward-and-judgment**.
 - Hermes / Apollo / Sibylla testes immortalitatis; Book 7 eschatology lane.
