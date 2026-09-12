@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_paenitentia_11
+- Claim `tertullian-paenitentia-11-mine` → **faith-and-obedience**.
+- sacco cineri / incommoda / aeternitatis / offenso domino.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — tertullian_paenitentia_10
 - Claim `tertullian-paenitentia-10-mine` → **faith-and-obedience**.
 - pudoris / salutis / ecclesia Christus / occultatio delicti.
