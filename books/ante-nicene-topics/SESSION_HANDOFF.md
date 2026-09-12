@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — arnobius_nations_2_14
+- Claim `arnobius-nations-2-14-mine` → **reward-and-judgment**.
+- Gehenna vs Plato rivers; mid-quality perish or freed under Christ; true death = long fire for God-ignorant.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_marcion_5_15
 - Claim `tertullian-marcion-5-15-mine` → **salvation-by-christ**.
 - Lord+prophets killed under one God; spirit/soul/body kept — body means flesh.
