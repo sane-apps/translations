@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — arnobius_nations_2_13
+- Claim `arnobius-nations-2-13-mine` → **salvation-by-christ**.
+- Do not mock hope in the Father, future resurrection, or care for souls’ salvation; Plato himself urges mind toward God.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_33
 - Claim `arnobius-nations-2-33-mine` → **salvation-by-christ**.
 - Fear = soul destruction; cling to liberator; pagans bank on self-salvation/self-deification; Christians hope nothing from infirmity; heaven only with the Lord.
