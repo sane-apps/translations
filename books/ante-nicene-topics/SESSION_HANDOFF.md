@@ -1920,3 +1920,35 @@
 - Inst. 3.24: antipodes inepti; few errors reveal the rest.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Lactantius lactantius_inst_1_20
+- Inst. 1.20: Larentina meretrix; Terminus lapis; cultores=stipites.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_1_21
+- Inst. 1.21: human hostiae; sacra as ludibria of mente capti.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_8
+- Inst. 3.8: quietae sapientiae Giver; summum bonum; not ab homine.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_17
+- Inst. 3.17: uoluptas popularity; nihil-curare voice of latrones.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_2_8
+- Inst. 2.8: praestrigiae; wisdom=unus Deus fecit uniuersa.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_1_11
+- Inst. 1.11: not caelo; Cupid triumph; Caelus sepultus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_6
+- Inst. 3.6: sapientia unseen; omnia-sciri and nihil-sciri both fail.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_15
+- Inst. 3.15: docent≠uiuunt; auctoritas falls.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
