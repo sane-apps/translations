@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — minucius_octavius_30
+- Claim `minucius-octavius-30-mine` → **true-worship**.
+- Who says we are initiated by infant slaughter and blood? A soft tiny body cannot take such wounds; no one believes it unless he himself can dare it.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — minucius_octavius_23
 - Claim `minucius-octavius-23-mine` → **true-worship**.
 - Look at the rites and mysteries: sad exits, deaths, mourning of wretched gods; Isis seeks the lost son with bald priests striking breasts — not divine worship.
