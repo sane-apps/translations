@@ -25,6 +25,10 @@ Then do only that slice. Finish with `python3 scripts/ai_promote.py --claim <id>
 
 | Claim ID | Status | Slice | Closed | Notes |
 |----------|--------|-------|--------|-------|
+| cyril-matt-frag-a71 | done | CPG 5206 entries 281–284 (ed. fr.312–315; Mt 27:46–51) Pass A≠B | 2026-09-12 | Air; khazarzar; A≠B; Melito skip; no CSS; CPG 5219/5220 closed; reader titles On Matthew; parallel on 283 |
+| cyril-matt-frag-a70 | done | CPG 5206 entries 277–280 (ed. fr.307–309,311; Mt 27:33–45) Pass A≠B | 2026-09-12 | Air; khazarzar; A≠B; Melito skip; no CSS; CPG 5219/5220 closed; reader titles On Matthew; ed.fr.310 skip; supplied on 278–279 |
+| cyril-matt-frag-a69 | done | CPG 5206 entries 273–276 (ed. fr.303–306; Mt 27:21–32) Pass A≠B | 2026-09-12 | Air; khazarzar; A≠B; Melito skip; no CSS; CPG 5219/5220 closed; reader titles On Matthew; supplied on 273,275,276 |
+| cyril-matt-frag-a68 | done | CPG 5206 entries 269–272 (ed. fr.299–302; Mt 26:55–27:11) Pass A≠B | 2026-09-12 | Air; khazarzar; A≠B; Melito skip; no CSS; CPG 5219/5220 closed; reader titles On Matthew (no CPG in H1/TOC) |
 | cyril-matt-frag-a67 | done | CPG 5206 entries 265–268 (ed. fr.295–298; Mt 26:39–53) Pass A≠B | 2026-09-12 | Air; khazarzar; A≠B; Melito skip; no CSS; CPG 5219/5220 closed; reader titles On Matthew; supplied on 266; stray digit on 268 |
 | cyril-matt-frag-a66 | done | CPG 5206 entries 261–264 (ed. fr.291–294; Mt 26:29–38) Pass A≠B | 2026-09-12 | Air; khazarzar; A≠B; Melito skip; no CSS; CPG 5219/5220 closed; reader titles On Matthew |
 | cyril-matt-frag-a65 | done | CPG 5206 entries 257–260 (ed. fr.287–290; Mt 26:23–28) Pass A≠B | 2026-09-12 | Air; khazarzar; A≠B; Melito skip; no CSS; CPG 5219/5220 closed; reader titles On Matthew; ed.fr.286 skip; parallel on 260; incomplete locus 26:26– |
