@@ -31,6 +31,14 @@ Canonical path: `~/SaneApps/clients/translations/books/cyril-alexandria-recta-fi
 - Justifications: `reviews/justifications/rf_arcadia_01.json` … `_04.json`
 - Next: continue Arcadia from §5 / p.158 (`cyril-rf-a2`), then Pulcheria; or topics lane.
 
+
+## State update 20260912T050233Z
+
+- Claim **cyril-rf-a2** done: Arcadia §§5–8 Pass A≠B.
+- Greek clean: `translations/ad_arcadiam_marinamque_greek_clean_a2.json`
+- Justifications: `rf_arcadia_05.json` … `_08.json`
+- Next: `cyril-rf-a3` from §9 / p.162 (Athanasius citation continues).
+
 ## Next
 
 Translate from locked `*_source.json` (Pass A/B) → DOCX → site (era banner; treatises with no earlier English). OCR cleanup as needed while translating.
