@@ -2404,3 +2404,19 @@
 - Adv. Marc. 4.39 DEDICATED: nomina; eschaton/prophetae; Filius hominis; ficus=regnum Creatoris.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_3_15
+- Adv. Marc. 3.15: Christi nomen; unctio ⇒ corpus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_10
+- Adv. Marc. 2.10: diabolus sponte; liberum arbitrium; spatium certamini.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_41
+- Adv. Marc. 4.41: uae Iudae; zelotes; filius hominis / dextera.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_7
+- Adv. Marc. 1.7: summum magnum ex substantia; nec pares nec dispares.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
