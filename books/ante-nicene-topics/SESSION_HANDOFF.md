@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_52
+- Claim `tertullian-de-anima-52-mine` → **sin-and-death**.
+- Death’s work is separation of flesh and soul; ordinary vs violent ends. We who know man’s beginnings boldly determine death followed man not from nature but from fault — not even natural in itself.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — minucius_octavius_26
 - Claim `minucius-octavius-26-mine` → **fate-and-foreknowledge**.
 - You cited laboriously collected Roman auspices; Clodius, Flaminius, Junius lost armies for not awaiting the sacred chicken-dance — yet Regulus and others show lots do not secure life. Leave bird-omens.
