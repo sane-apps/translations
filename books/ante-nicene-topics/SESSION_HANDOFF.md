@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_carmen_961_1000
+- Claim `commodian-carmen-961-1000-mine` → **reward-and-judgment**.
+- Carmen 961–1000; holy advance; lake of fire pair; first anastasis; solar dark and fire.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
 ## Air mine 2026-09-12 — commodian_carmen_921_960
 - Claim `commodian-carmen-921-960-mine` → **two-ways**.
 - Carmen 921–960; twin antifigures; sealed tribes beyond Persia; green return.
