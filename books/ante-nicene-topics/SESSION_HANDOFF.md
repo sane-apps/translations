@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — minucius_octavius_27
+- Claim `minucius-octavius-27-mine` → **true-worship**.
+- Impure spirits — demons — lurk under consecrated statues and images; by their breath they fake a present divinity, inspire seers, haunt shrines.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — minucius_octavius_20
 - Claim `minucius-octavius-20-mine` → **true-worship**.
 - Philosophers already designated one God under many names — Christians philosophers now, or philosophers already Christians; world ruled by providence of one God.
