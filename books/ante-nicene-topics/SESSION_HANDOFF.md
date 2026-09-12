@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_2
+- Claim `tertullian-de-anima-2-mine` → **grace-and-assistance**.
+- We will not deny philosophers have sometimes sensed with us — truth’s outcome is witness. Nature suggests much as from a public sense with which God deigned to endow the soul; philosophy inflated it for its art’s glory.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_14
 - Claim `tertullian-de-anima-14-mine` → **image-likeness**.
 - The soul is otherwise singular and simple and entire of itself, no more built from elsewhere than divisible from itself, because it is not dissoluble. If composite and dissoluble, then not immortal.
