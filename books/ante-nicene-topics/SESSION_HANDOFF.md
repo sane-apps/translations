@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_marcion_1_24
+- Claim `tertullian-marcion-1-24-mine` → **salvation-by-christ**.
+- Marcion’s goodness imperfect if few saved; salvation only to the soul = halved; perfect goodness saves the whole man; part-rising = punishment.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_marcion_4_40
 - Claim `tertullian-marcion-4-40-mine` → **atonement-recapitulation**.
 - Passover day fulfills law’s passion figure; bread figure needs true body; cup seals blood; wine←→blood figuration.
