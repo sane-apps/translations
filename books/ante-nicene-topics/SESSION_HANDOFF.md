@@ -2372,3 +2372,15 @@
 - Adv. Marc. 3.22: pedes pacis; Tau; sacrificium nationum.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_1_15
+- Adv. Marc. 1.15: substantia latet; locus/materia⇒multi dii.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_3_3
+- Adv. Marc. 3.3: signa sola non; Creator prior; deus ignotus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_25
+- Adv. Marc. 1.25: sola bonitas; Epicurus≠Christus; aemulatio/adfectus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
