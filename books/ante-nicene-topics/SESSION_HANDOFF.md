@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_33
+- Claim `tertullian-de-anima-33-mine` → **reward-and-judgment**.
+- Even when this dogma is defended in judgment’s name — that human souls are allotted kinds of animals for life and merits: some to be butchered, enslaved, worn out, fouled, others honored — it must be cut down.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_31
 - Claim `tertullian-de-anima-31-mine` → **free-will**.
 - If living from the dead, each should come from each. But two, three, five are taken again in one womb — so they are not living from the dead as one-for-one. Primordium’s form is still signed when many souls come from one.
