@@ -1,5 +1,11 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — cyril-rf-a23 Arcadia §§89–92)
+
+- Claim `cyril-rf-a23`: stone of stumbling / Symeon; Christ end of law who justifies; confess Lord Jesus; gospel mystery = God become human; mediator of promises; justified in his name; not another Jesus; Son revealed in Paul; Emmanuel justifies; sealed in him. Pass A ≠ B; Greek locked `greek_clean_a23`.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
 ## 2026-09-12 (Air — cyril-rf-a22 Arcadia §§85–88)
 
 - Claim `cyril-rf-a22`: true Lord with flesh; sanctified humanly / sanctifies divinely; one from both; firstborn among brothers; own Father; divine will + human hand; David’s Lord from David’s seed; faith toward Christ as toward God. Pass A ≠ B; Greek locked `greek_clean_a22`.
