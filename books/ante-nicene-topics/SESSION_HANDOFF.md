@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — minucius_octavius_18
+- Claim `minucius-octavius-18-mine` → **fate-and-foreknowledge**.
+- providentia; unius imperium; nec principium nec terminum; deus nomen est.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — minucius_octavius_37
 - Claim `minucius-octavius-37-mine` → **faith-and-obedience**.
 - spectaculum deo; miles dei; patientia; notitia dei.
