@@ -1,8 +1,14 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — Cyril Adoration Book 5 §§21–26 CLOSEOUT tip)
+
+- Claim `cyril-adoration5-21-26-oet`: Book 5 §§21–26 Pass A≠B OET CLOSEOUT (26/26). Trumpets/Gospels; Reuben–Gad; called vs chosen; Deut courage close.
+- Melito skipped. Never Cyril Matthew. `jer-h20b` intact.
+- Tip pending SHA stamp after `bb17175`. Next: Book 6 (same slug) unless owner redirects.
+
 ## 2026-09-12 (Air — Cyril Adoration Book 5 §§11–20 tip)
 
-- Claim `cyril-adoration5-11-20-oet`: Book 5 §§11–20 Pass A≠B OET (Marah wood→Christ; Taberah/serpents; ark/cloud; manna/quail; tent/cloud; silver trumpets). Tip pending SHA stamp after `98121d3`.
+- Claim `cyril-adoration5-11-20-oet`: Book 5 §§11–20 Pass A≠B OET (Marah wood→Christ; Taberah/serpents; ark/cloud; manna/quail; tent/cloud; silver trumpets). Tip `bb17175` after `98121d3`.
 - Melito skipped. Never Cyril Matthew. `jer-h20b` intact.
 - Next: Book 5 §§21–26 CLOSEOUT (26/26).
 
