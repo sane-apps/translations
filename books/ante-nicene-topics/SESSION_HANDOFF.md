@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_13
+- Claim `commodian-instr-13-mine` → **true-worship**.
+- Whence is Silvanus a god again? Perhaps he pleases because the pipe sings well — rustic music is not deity.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_11
 - Claim `commodian-instr-11-mine` → **true-worship**.
 - Liber twice-born from Jupiter/Proserpina/India tales; you celebrate mad rites; wine-frenzy is not divinity.
