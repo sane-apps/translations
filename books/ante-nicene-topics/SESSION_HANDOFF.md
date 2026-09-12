@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_51
+- Claim `tertullian-de-anima-51-mine` → **image-likeness**.
+- Death’s work in the midst is separation of body and soul. Some, weakly defending immortality not taught by God, argue souls still cling to bodies after death — we deny any soul-remnant remains in the corpse.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_42
 - Claim `tertullian-de-anima-42-mine` → **sin-and-death**.
 - Epicurus: death is nothing to us because what dissolves lacks sense. But the sufferer of death is the man; so great a force cannot be said not to concern him.
