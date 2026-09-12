@@ -78,3 +78,8 @@ Translate from locked `*_source.json` (Pass A/B) → DOCX → site (era banner; 
 
 - Claim **cyril-rf-a8** done: Arcadia §§29–32 Pass A≠B.
 - Next: `cyril-rf-a9` from §33.
+
+## State update 20260912T060958Z
+
+- Claim **cyril-rf-a9** done: Arcadia §§33–36 Pass A≠B (2 Cor 10 captive thoughts; Gal law/faith/Spirit; baptism/cross/Eph seating & indwelling; Phil refuse / Col mystery).
+- Next: `cyril-rf-a10` from §37.
