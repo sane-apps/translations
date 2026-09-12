@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — arnobius_nations_2_11
+- Claim `arnobius-nations-2-11-mine` → **faith-and-obedience**.
+- Equal credere: pagans trust Plato/Cronius/Numenius; Christians credit Christ; weigh authors by divine works not eloquence.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_8
 - Claim `arnobius-nations-2-8-mine` → **faith-and-obedience**.
 - Pagans mock Christian fides/credulitas; Arnobius: travel, sowing, marriage, medicine, war, cult all require preceding faith.
