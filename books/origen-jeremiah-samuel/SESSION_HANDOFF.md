@@ -29,6 +29,9 @@ Canonical path: `~/SaneApps/clients/translations/books/origen-jeremiah-samuel/`
 - **Debt:** Homilies 3–4 receipts (`jeremiah_3_*`, `jeremiah_4_*`) are missing `pass_a_gloss` — backfill before treating those as SOP-complete; do not copy that incomplete shape for new claims.
 - Contributor claims: `python3 scripts/claims.py start --agent YourName` (see `docs/START_HERE.md`). Homily 5 is split `jer-h5a` / `jer-h5b` / `jer-h5c`.
 
+
+- 2026-09-12 (StephanAir OET pivot after Marcion close): **Homily on 1 Samuel 28** Pass B English + Pass A justifications for §§1–10 (`samuel_english.json`, `reviews/justifications/samuel_1sam28_*.json`). OET = no previous English translation. Marcion densify closed @ `9af4f02`. Next in volume: literary polish Homily 8 if needed; Lamentations fragments. Never Cyril Matthew; CPG 5219/5220 closed.
+
 ## Next
 
-Finish/sync **`jer-h8`** when Mini promote settles (pull CLAIMS + english/justifications from Mini). Then Homilies **5**, **11–20**, then 1 Samuel 28, then Lamentations fragments. Do not present the current English set as the complete volume. **Logos Personal Book compile stays on the owner’s MacBook Air only** — contributors and overnight agents never run `build_book.py` / Logos Build; when a volume’s English is far enough along, the owner batches PBB compile locally.
+**1 Samuel 28 OET Pass B shipped** (Air tip; claim `origen-samuel28-oet`). Chronological OET forward in this volume: literary polish **Homily 8** (`jer-h8` still machine-draft / not shipped per WORKS_QUEUE), then **Lamentations** fragments (`lamentations_source.json`). Homilies 1–7, 9–20 already Pass B on site. Do not present the English set as Logos-complete. **Logos Personal Book compile stays on the owner’s MacBook Air only** — contributors and overnight agents never run `build_book.py` / Logos Build. Never Cyril Matthew; CPG 5219/5220 closed. OET = no previous English translation.
