@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — arnobius_nations_2_33
+- Claim `arnobius-nations-2-33-mine` → **salvation-by-christ**.
+- Fear = soul destruction; cling to liberator; pagans bank on self-salvation/self-deification; Christians hope nothing from infirmity; heaven only with the Lord.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_32
 - Claim `arnobius-nations-2-32-mine` → **grace-and-assistance**.
 - Souls near death’s jaws; can become long-lived by summi principis munus if they seek to know him; we handed ourselves to liberator God.
