@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — Lactantius Inst. 7.15
+- Claim `lactantius-inst-7-15-mine` closed; excerpt `lactantius_inst_7_15` → **reward-and-judgment**.
+- Aegyptus figura / Romanum nomen / mundi senectus; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — Lactantius Inst. 7.24
 - Claim `lactantius-inst-7-24-mine` closed; excerpt `lactantius_inst_7_24` → **reward-and-judgment**.
 - filius iudicat / mille anni / regnum iustorum; Book 7 eschatology lane.
