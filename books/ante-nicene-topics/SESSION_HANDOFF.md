@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — minucius_octavius_33
+- Claim `minucius-octavius-33-mine` → **universal-call**.
+- una domus mundus; pauci deo; deus omnium.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — novatian_trinitate_31
 - Claim `novatian-trinitate-31-mine` → **salvation-by-christ**.
 - sermo ex uoluntate Patris; nihil ex arbitrio; oboedientia; mediator.
