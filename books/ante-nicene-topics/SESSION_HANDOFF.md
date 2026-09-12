@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_46
+- Claim `tertullian-de-anima-46-mine` → **true-worship**.
+- De An. 46; against Epicurus’ total dream-vanity; demons hurt by helping — divert from true divinity even in cubiculis.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_44
 - Claim `tertullian-de-anima-44-mine` → **image-likeness**.
 - De An. 44; Hermotimus tale — sleep is not soul secession without death; reject continuous fugitive-soul license.
