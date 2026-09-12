@@ -1,5 +1,12 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — lactantius-inst-4-29-mine)
+
+- Claim `lactantius-inst-4-29-mine`: Father and Son one mind/spirit/substance; fountain–stream / sun–ray; inseparable; worship of highest God only through Son; door of temple / doorway of life. Pass A ≠ B; Latin locked CSEL TEI IV.29.
+- Picked **4.29** over 4.14 (eternal temple/priest) and 4.18 (passion for many). Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10. Cyprian still 465.
+- Also this Air slice: `cyril-rf-a20` Arcadia §§77–80; `pulcheria-rf-a9` §§33–36.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
 ## 2026-09-12 (Air — Lactantius Inst. 4.10 mine)
 
 - Claim `lactantius-inst-4-10-mine`: Son descends *in figura hominis et condicione mortali*, takes up death, rises for the human he put on (`quem induerat, quem gerebat`). Pass A ≠ B; Latin locked CSEL TEI IV.10.
