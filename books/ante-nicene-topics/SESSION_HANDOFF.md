@@ -2248,3 +2248,19 @@
 - Adv. Marc. 4.21: no bag—Creator feeds; dust=judgment witness.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_5_6
+- Adv. Marc. 5.6: sapientia in occulto; lumen nationum; templum/ignis Creatoris.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_18
+- Adv. Marc. 5.18: occultum in Deo conditore; caro/ecclesia; armor vs diabolus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_3
+- Adv. Marc. 5.3: ex fide eius dei cuius et lex; maledictio/benedictio; Abraham.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_33
+- Adv. Marc. 4.33: deus/mamona=nummus; lex usque ad Iohannem Creatoris.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
