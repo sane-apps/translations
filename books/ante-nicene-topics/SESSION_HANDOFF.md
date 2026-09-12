@@ -2472,3 +2472,19 @@
 - Adv. Marc. 3.12: Emmanuhel = nobiscum Deus.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_2_21
+- Adv. Marc. 2.21: sabbatum humana; arca opus Dei.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_3_5
+- Adv. Marc. 3.5: futura ut facta; allegoriae; petra Christus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_22
+- Adv. Marc. 2.22: similitudo/idolatria; sacrificia honor.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_13
+- Adv. Marc. 1.13: mundus non indignus; flos artificem.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
