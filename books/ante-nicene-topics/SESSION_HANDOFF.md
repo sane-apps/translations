@@ -1,3 +1,152 @@
+## Air mine 2026-09-12 — arnobius_nations_2_47
+- Claim `arnobius-nations-2-47-mine` → **image-likeness**.
+- 2.47: God not necessarily soul-genitor; ignorance OK; pest analogy.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_24
+- Claim `arnobius-nations-2-24-mine` → **image-likeness**.
+- 2.24: Meno recollection != plena scientia; mute adult vs immortal-soul boast.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_29
+- Claim `arnobius-nations-2-29-mine` → **free-will**.
+- 2.29: immortal-soul boast → license; need metus/iudicium divinum.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_72
+- Claim `arnobius-nations-2-72-mine` → **true-worship**.
+- 2.72: vetustas ≠ veritas; primus deus; spes salutis; lumen cognitionis.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_75
+- Claim `arnobius-nations-2-75-mine` → **salvation-by-christ**.
+- 2.75: sospitator timing; infinite ages; deus solus sent Christ; fixed rationes.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_56
+- Claim `arnobius-nations-2-56-mine` → **faith-and-obedience**.
+- 2.56: leave speculative quarrels; rival world/god opinions un-certain; seek what matters.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_26
+- Claim `arnobius-nations-2-26-mine` → **image-likeness**.
+- 2.26: deo vicinum soul lore fails; passivity ⇒ no natural immortality.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_16
+- Claim `arnobius-nations-2-16-mine` → **image-likeness**.
+- 2.16: drop typhus of divine father/co-immortality; humans animantia.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_60
+- Claim `arnobius-nations-2-60-mine` → **true-worship**.
+- 2.60: Christus deus; drop vain quaestiones; dominus rerum; maxima scientia.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_70
+- Claim `arnobius-nations-2-70-mine` → **true-worship**.
+- 2.70: dii from certi times; novitas charge returns on pagan origines.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_45
+- Claim `arnobius-nations-2-45-mine` → **image-likeness**.
+- 2.45: scelerata opinio rejected—God did not beget labile quasi-divine souls into bodily prisons and mutual ruin.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_55
+- Claim `arnobius-nations-2-55-mine` → **free-will**.
+- 2.55: why evils persist—nescire > making God malorum conditor; nihil nocens from princeps; only salutare.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_74
+- Claim `arnobius-nations-2-74-mine` → **salvation-by-christ**.
+- 2.74: sospitator Christus late-advent objection; ratio unknown; virtutes/potestates keep fides.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_61
+- Claim `arnobius-nations-2-61-mine` → **salvation-by-christ**.
+- 2.61: salus animarum hinges on dei principis notio; mors saeva + drawn-out poena without it; remit cosmos-questions to God.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air repair 2026-09-12 — Arnobius II wave stack
+- Restored §§2,3,4,6,7,9,15,30,31,37 onto Novatian stack tip.
+- Pass A ≠ B; jer-h20b intact; Melito skip; no CSS; CPG 5219/5220 closed.
+
+## Air mine 2026-09-12 — novatian_trinitate_7
+- Claim `novatian-trinitate-7-mine` → **true-worship**.
+- De Trinitate VII: spiritum Deum; plus intellegi; figurae non substantia.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed; single Latin Library witness on disk.
+
+## Air mine 2026-09-12 — novatian_trinitate_5
+- Claim `novatian-trinitate-5-mine` → **image-likeness**.
+- De Trinitate V: irae ad remedium; impassibilis substantia; simplex spiritus.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed; single Latin Library witness on disk.
+
+## Air mine 2026-09-12 — novatian_trinitate_3
+- Claim `novatian-trinitate-3-mine` → **true-worship**.
+- De Trinitate III: conditor; Ego Deus et non est praeter me; inuisibilia per ea quae facta sunt.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed; single Latin Library witness on disk.
+
+## Air mine 2026-09-12 — novatian_trinitate_2
+- Claim `novatian-trinitate-2-mine` → **image-likeness**.
+- De Trinitate II: continet cuncta; immensus/aeternus; maior mente et sermone.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed; single Latin Library witness on disk.
+
+## Air mine 2026-09-12 — novatian_trinitate_6
+- Claim `novatian-trinitate-6-mine` → **true-worship**.
+- De Trinitate VI; anthropomorphism decoded; Spirit-worship; simple ubiquity.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed; single Latin Library witness on disk.
+
+## Air mine 2026-09-12 — novatian_trinitate_4
+- Claim `novatian-trinitate-4-mine` → **free-will**.
+- De Trinitate IV; God alone good; evil by will’s withdrawal; unchangeable I AM.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed; single Latin Library witness on disk.
+
+## Air mine 2026-09-12 — novatian_trinitate_19
+- Claim `novatian-trinitate-19-mine` → **salvation-by-christ**.
+- De Trinitate XIX; God-angel theophanies; Son seen; Christ God and angel.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed; single Latin Library witness on disk.
+
+## Air mine 2026-09-12 — novatian_trinitate_30
+- Claim `novatian-trinitate-30-mine` → **faith-and-obedience**.
+- De Trinitate XXX; catholic faith; one God; Christ God without ditheism.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed; single Latin Library witness on disk.
+
+## Air mine 2026-09-12 — novatian_trinitate_27
+- Claim `novatian-trinitate-27-mine` → **faith-and-obedience**.
+- De Trinitate XXVII; unum sumus as fellowship; Son not Father.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed; single Latin Library witness on disk.
+
+## Air mine 2026-09-12 — novatian_trinitate_26
+- Claim `novatian-trinitate-26-mine` → **image-likeness**.
+- De Trinitate XXVI; second person; image; obedient Son not Father.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed; single Latin Library witness on disk.
+
+## Air mine 2026-09-12 — novatian_trinitate_20
+- Claim `novatian-trinitate-20-mine` → **salvation-by-christ**.
+- De Trinitate XX; Christ God over angels; Lord from Lord; Word washes flesh-garment.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed; single Latin Library witness on disk.
+
+## Air mine 2026-09-12 — novatian_trinitate_17
+- Claim `novatian-trinitate-17-mine` → **salvation-by-christ**.
+- De Trinitate XVII; creation through Word; image; Babel descent of Son-Word.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed; single Latin Library witness on disk.
+
+## Air mine 2026-09-12 — novatian_trinitate_15
+- Claim `novatian-trinitate-15-mine` → **salvation-by-christ**.
+- De Trinitate XV; from above; immortality via his word; before Abraham; unum sumus as Son-God.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed; single Latin Library witness on disk.
+
+## Air mine 2026-09-12 — novatian_trinitate_14
+- Claim `novatian-trinitate-14-mine` → **salvation-by-christ**.
+- De Trinitate XIV; not man only; Word-flesh; bread of life; God-Word descended.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed; single Latin Library witness on disk.
+
+## Air mine 2026-09-12 — novatian_trinitate_9
+- Claim `novatian-trinitate-9-mine` → **faith-and-obedience**.
+- De Trinitate IX; regula / Filium Dominum Deum; passion-bruise and rising for the nations.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed; single Latin Library witness on disk.
+
 ## Air mine 2026-09-12 — commodian_carmen_1001_1053
 - Claim `commodian-carmen-1001-1053-mine` → **reward-and-judgment**.
 - Carmen 1001–1053 (end); cosmic fire; Christ-marked dew; descent/rapture; lacunae disclosed; Amen.
