@@ -2300,3 +2300,19 @@
 - Adv. Marc. 3.4: tarde post Creatorem; propere ante Christum; non optimus.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_1_19
+- Adv. Marc. 1.19: Antoninus late; Antitheses invent stranger; Creator of law+gospel.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_5
+- Adv. Marc. 4.5: prius=uerius; ecclesiae Lucam; Marcion adulterae.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_11
+- Adv. Marc. 4.11: medicus; Iohannes; sponsus; nouum ex lege.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_3_16
+- Adv. Marc. 3.16: Auses→Iesus; euangelii gratia; nomen meum super illum.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
