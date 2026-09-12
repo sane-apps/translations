@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_25
+- Claim `commodian-instr-25-mine` → **reward-and-judgment**.
+- Refuse disciplina caelestis → death/inferno; world joys vain; spes in futuro; God judges; begin to feel Dei iudicia.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_24
 - Claim `commodian-instr-24-mine` → **faith-and-obedience**.
 - Fool refuses Christum cognoscere; harvest ready; tempus vitae credenti; urgues credere Christo.
