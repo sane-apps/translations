@@ -1,5 +1,12 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — lactantius-inst-4-16-mine)
+
+- Claim `lactantius-inst-4-16-mine`: passion with divine reason; Christ himself virtue/justice; plot foretold (Wisdom / Ps 1); two advents; Isaiah 53 bruise heals. Pass A ≠ B; Latin locked CSEL TEI IV.16.
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
 ## 2026-09-12 (Air — lactantius-inst-4-21-mine)
 
 - Claim `lactantius-inst-4-21-mine`: ascension; disciples lay church foundations everywhere; equipped with power; Peter/Paul preach at Rome. Pass A ≠ B; Latin locked CSEL TEI IV.21. Ecclesiology densification (`apostolic-succession`).
