@@ -1,5 +1,10 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — pulcheria-rf-a11 Pulcheria §§41–44)
+
+- Claim `pulcheria-rf-a11`: receives all authority in emptying measures; emptied Word exalted to what he was; Father raises yet Son raises own temple; baptized into one death—Word suffered in flesh; Spirit of Jesus; crucified from weakness / lives by God’s power. Pass A ≠ B; Greek locked `greek_clean_a11`.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
 ## 2026-09-12 (Air — pulcheria-rf-a10 Pulcheria §§37–40)
 
 - Claim `pulcheria-rf-a10`: one offering of own body; weak in flesh / beyond weakness as God; sits at right yet ministers; own blood once; appears not as naked Word; crucified Lord of glory receives glory economically. Pass A ≠ B; Greek locked `greek_clean_a10`.
