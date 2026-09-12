@@ -53,6 +53,34 @@
 
 - Claim `pulcheria-rf-a9`: post-baptism temptation type; Word as high priest and lamb; passes heavens bodily and divinely; Heb 5 call/obedience; we pray in him as second firstfruit; neither bare man nor fleshless Word—impassible in own flesh. Pass A ≠ B; Greek locked `greek_clean_a9`.
 
+## 2026-09-12 (Air — lactantius-inst-5-15-mine)
+
+- Claim `lactantius-inst-5-15-mine`: with justice fountains changed, justice returns to heaven; Christians call each other brothers as equals; humble yourself and be exalted. Pass A ≠ B; Latin locked CSEL TEI 5.15.
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20 / 4.30 / 4.17 / 4.22 / 4.23 / 4.24 / 4.27 / 4.28 / 5.5 / 5.7 / 5.14. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — lactantius-inst-5-14-mine)
+
+- Claim `lactantius-inst-5-14-mine`: justice by nature looks like folly; piety = knowledge of God; equity requires making equals of those born to equal lot. Pass A ≠ B; Latin locked CSEL TEI 5.14.
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20 / 4.30 / 4.17 / 4.22 / 4.23 / 4.24 / 4.27 / 4.28 / 5.5 / 5.7. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — lactantius-inst-5-7-mine)
+
+- Claim `lactantius-inst-5-7-mine`: God sends a messenger to restore fled justice; justice = cult of the one God; evil kept so virtue can be exercised. Pass A ≠ B; Latin locked CSEL TEI 5.7.
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20 / 4.30 / 4.17 / 4.22 / 4.23 / 4.24 / 4.27 / 4.28 / 5.5. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — lactantius-inst-5-5-mine)
+
+- Claim `lactantius-inst-5-5-mine`: justice as highest virtue / fountain of virtue; golden age as one-God cult; greed and many gods break human society. Pass A ≠ B; Latin locked CSEL TEI 5.5.
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20 / 4.30 / 4.17 / 4.22 / 4.23 / 4.24 / 4.27 / 4.28. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
 ## 2026-09-12 (Air — lactantius-inst-4-28-mine)
 
 - Claim `lactantius-inst-4-28-mine`: no other hope of life except knowing and serving God; religio vs superstitio; we are religious who pray to the one true God. Pass A ≠ B; Latin locked CSEL TEI IV.28.
