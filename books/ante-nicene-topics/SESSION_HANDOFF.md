@@ -1,3 +1,28 @@
+## Air mine 2026-09-12 — tertullian_de_anima_57
+- Claim `tertullian-de-anima-57-mine` → **reward-and-judgment**.
+- magia / inferi / resurrectio corporalis.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — tertullian_de_anima_54
+- Claim `tertullian-de-anima-54-mine` → **reward-and-judgment**.
+- receptus / inferi / sapientium mansiones.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — tertullian_de_anima_27
+- Claim `tertullian-de-anima-27-mine` → **image-likeness**.
+- limus flatus / faciamus hominem / simul concipi.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — tertullian_de_anima_26
+- Claim `tertullian-de-anima-26-mine` → **grace-and-assistance**.
+- Iohannes Christus / sanctificaui / deus uiuorum.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — tertullian_de_anima_25
+- Claim `tertullian-de-anima-25-mine` → **sin-and-death**.
+- in utero / conceptus animal / embryosphaktes.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_55
 - Claim `tertullian-de-anima-55-mine` → **reward-and-judgment**.
 - inferi / paradisus martyrum / sequestrari / dies domini.
