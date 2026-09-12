@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_30
+- Claim `tertullian-de-anima-30-mine` → **free-will**.
+- If living from dead as dead from living, one and the same number of all humans would always have stuck — that first number that entered life. But populations change; reincarnation’s ledger fails.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_29
 - Claim `tertullian-de-anima-29-mine` → **free-will**.
 - It is agreed the dead are made from the living, yet not therefore the living from the dead. From the beginning the living were prior, hence the dead likewise later — from nowhere but the living.
