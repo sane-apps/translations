@@ -1748,3 +1748,19 @@
 - Inst. 3.27: humana praecepta lack diuina auctoritas; philosophy ≠ wisdom.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Lactantius lactantius_inst_1_15
+- Inst. 1.15: kings→gods; Cicero gods were humans; caelum not by vote.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_2_4
+- Inst. 2.4: Priapus wood-god; fragile simulacra; no immortalitas.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_18
+- Inst. 3.18: souls supersunt; anti-migration/suicide; God's iussum + Judge.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_28
+- Inst. 3.28: dei agnitio + cultus; natura/fortuna empty; truth in caelum.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
