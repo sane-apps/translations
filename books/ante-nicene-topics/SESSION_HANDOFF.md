@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — arnobius_nations_2_62
+- Claim `arnobius-nations-2-62-mine` → **grace-and-assistance**.
+- Reject self-born-of-God / magi / Acherontic blood claims; only deus omnipotens can save/prolong souls; gift must come by his mandate.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_12
 - Claim `arnobius-nations-2-12-mine` → **salvation-by-christ**.
 - Empty arguments would not win; public virtutes of Christ/preachers gathered nations; Rome leaves Numa for Christian truth; demonic fog vs faith.
