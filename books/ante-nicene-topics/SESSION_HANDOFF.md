@@ -2420,3 +2420,15 @@
 - Adv. Marc. 1.7: summum magnum ex substantia; nec pares nec dispares.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_1_3
+- Adv. Marc. 1.3: si non unus non est; summum magnum unicum.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_8
+- Adv. Marc. 2.8: homo mortem adtraxit; libertas uictorem.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_32
+- Adv. Marc. 4.32: ouis/drachma Creatoris; paenitentia.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
