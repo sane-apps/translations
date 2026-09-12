@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_41
+- Claim `commodian-instr-41-mine` → **salvation-by-christ**.
+- Hidden holy people of Christ; new law; Omnipotens Christus descends to elect; tyrant/pseudoprophet to Gehenna; Dominus begins judgment by fire.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_33
 - Claim `commodian-instr-33-mine` → **salvation-by-christ**.
 - Wild gentile must tame himself; idols vanity; seek Dominus grace on earth; aurea saecla if you believe; subject yourself to God.
