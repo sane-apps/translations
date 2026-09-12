@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_10
+- Claim `tertullian-de-anima-10-mine` → **image-likeness**.
+- It belongs to the faith’s stance to determine the soul simple according to Plato — uniform at least in the name of substance. Some want another natural spirit in it, as if to live (from soul) and to breathe (from spirit) were different substances.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_2
 - Claim `tertullian-de-anima-2-mine` → **grace-and-assistance**.
 - We will not deny philosophers have sometimes sensed with us — truth’s outcome is witness. Nature suggests much as from a public sense with which God deigned to endow the soul; philosophy inflated it for its art’s glory.
