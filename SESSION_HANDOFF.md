@@ -1,5 +1,12 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — lactantius-inst-4-14-mine)
+
+- Claim `lactantius-inst-4-14-mine`: Christ fabricator of eternal temple (church) with everlasting priesthood; never called himself God lest he add another beside the One; receives priest/king/judge/God name for faithfulness. Pass A ≠ B; Latin locked CSEL TEI IV.14.
+- Chose **4.14** over 4.18 (passion for many / true temple) to keep temple-priesthood distinct from cross mines. Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29. Cyprian still 465.
+- Also this Air slice: `cyril-rf-a21` Arcadia §§81–84; `pulcheria-rf-a10` §§37–40.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
 ## 2026-09-12 (Air — lactantius-inst-4-29-mine)
 
 - Claim `lactantius-inst-4-29-mine`: Father and Son one mind/spirit/substance; fountain–stream / sun–ray; inseparable; worship of highest God only through Son; door of temple / doorway of life. Pass A ≠ B; Latin locked CSEL TEI IV.29.
