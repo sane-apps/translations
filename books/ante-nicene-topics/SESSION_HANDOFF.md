@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_7
+- Claim `tertullian-de-anima-7-mine` → **reward-and-judgment**.
+- Enough vs philosophers; for us the gospel itself shows the soul’s corporeality: a soul among the dead grieves, is punished in flame, tormented in the tongue, begs dew from a happier soul’s finger — not a mere image.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_1
 - Claim `tertullian-de-anima-1-mine` → **image-likeness**.
 - Having met Hermogenes on the soul’s census alone — he presumed it stood from matter’s stock rather than God’s breath — now turned to remaining questions I shall seem to fight philosophers most of all.
