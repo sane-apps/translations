@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — arnobius_nations_2_8
+- Claim `arnobius-nations-2-8-mine` → **faith-and-obedience**.
+- Pagans mock Christian fides/credulitas; Arnobius: travel, sowing, marriage, medicine, war, cult all require preceding faith.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_62
 - Claim `arnobius-nations-2-62-mine` → **grace-and-assistance**.
 - Reject self-born-of-God / magi / Acherontic blood claims; only deus omnipotens can save/prolong souls; gift must come by his mandate.
