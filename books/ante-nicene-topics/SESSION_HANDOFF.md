@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_57
+- Claim `commodian-instr-57-mine` → **faith-and-obedience**.
+- Sweat/bread from Adam; do not live for play; be as Christus wills; spes with labor; victory palm; rest after death.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_46
 - Claim `commodian-instr-46-mine` → **faith-and-obedience**.
 - Faithful: brother-hatred counted to fire for martyrs; washed once — do not drag suits; cannot be re-dipped.
