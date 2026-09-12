@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_31
+- Claim `tertullian-de-anima-31-mine` → **free-will**.
+- If living from the dead, each should come from each. But two, three, five are taken again in one womb — so they are not living from the dead as one-for-one. Primordium’s form is still signed when many souls come from one.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_32
 - Claim `tertullian-de-anima-32-mine` → **free-will**.
 - Empedocles, because he had raved himself a god, disdained to recall himself as some hero — “I was a shrub and a fish,” he says. Why not rather a gourd, so tasteless, and a chameleon, so inflated? Metensomatosis ends in Etna’s cookery.
