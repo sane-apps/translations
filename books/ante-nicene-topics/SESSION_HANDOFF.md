@@ -2488,3 +2488,47 @@
 - Adv. Marc. 1.13: mundus non indignus; flos artificem.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_1_9
+- Adv. Marc. 1.9: ignotus/incertus; norma certi.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_12
+- Adv. Marc. 1.12: sine re/causa; operum pignus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_14
+- Adv. Marc. 1.14: minuta; sacramenta creatoris; hypocrisis.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_16
+- Adv. Marc. 1.16: uisibilia/inuisibilia Creatoris.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_17
+- Adv. Marc. 1.17: opera ante beneficia; sera reuelatio.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_18
+- Adv. Marc. 1.18: natura/doctrina; non mathematici.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_23
+- Adv. Marc. 2.23: praesentia merita; Saul/Salomon.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_25
+- Adv. Marc. 2.25: ubi es; confessio; spes Adami.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_26
+- Adv. Marc. 2.26: iurat per se; Moyses figura Christi.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_28
+- Adv. Marc. 2.28: antitheses aemulae; ueritas paucis.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_21
+- Adv. Marc. 5.21: Philemon; Pastorals recusati; clausula.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
