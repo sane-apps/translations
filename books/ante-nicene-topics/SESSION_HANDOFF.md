@@ -1,3 +1,34 @@
+## Air mine 2026-09-12 — tertullian_paenitentia_12
+- Claim `tertullian-paenitentia-12-mine` → **reward-and-judgment**.
+- exomologesis / gehenna / ignis aeternus / Adam restitutus.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — tertullian_paenitentia_7
+- Claim `tertullian-paenitentia-7-mine` → **faith-and-obedience**.
+- ultima spes / paenitentia secunda / vestibulo / Nemo deterior.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — tertullian_paenitentia_6
+- Claim `tertullian-paenitentia-6-mine` → **baptism-and-new-birth**.
+- novitiolis / intinctio / lavacrum obsignatio fidei / corde loti.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+- Pivot after Inst. Book 7 thin optional close (7.3–7.4 skipped empty).
+
+## Air mine 2026-09-12 — lactantius_inst_7_25
+- Claim `lactantius-inst-7-25-mine` → **reward-and-judgment**.
+- sex milia annorum / Roma sustentat / tyrannus abominabilis.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — lactantius_inst_7_10
+- Claim `lactantius-inst-7-10-mine` → **reward-and-judgment**.
+- uitia temporalia / uirtus perpetua / duae mortes.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — lactantius_inst_7_7
+- Claim `lactantius-inst-7-7-mine` → **reward-and-judgment**.
+- philosophi / inferorum poenae / arcanum religionis.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — Lactantius Inst. 7.13
 - Claim `lactantius-inst-7-13-mine` closed; excerpt `lactantius_inst_7_13` → **reward-and-judgment**.
 - Hermes / Apollo / Sibylla testes immortalitatis; Book 7 eschatology lane.
