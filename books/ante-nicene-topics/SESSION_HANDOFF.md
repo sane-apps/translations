@@ -1,3 +1,23 @@
+## Air mine 2026-09-12 — Lactantius Inst. 7.6
+- Claim `lactantius-inst-7-6-mine` closed; excerpt `lactantius_inst_7_6` → **true-worship**.
+- adgnoscamus / colamus / immortalitatem / aeternum deo regnum; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — Lactantius Inst. 7.5
+- Claim `lactantius-inst-7-5-mine` closed; excerpt `lactantius_inst_7_5` → **reward-and-judgment**.
+- praemium immortalitatis / duae uitae / aeterna poena; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — Lactantius Inst. 7.2
+- Claim `lactantius-inst-7-2-mine` closed; excerpt `lactantius_inst_7_2` → **reward-and-judgment**.
+- saeculum iniustum / beata uita / deo regnante; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — Lactantius Inst. 7.1
+- Claim `lactantius-inst-7-1-mine` closed; excerpt `lactantius_inst_7_1` → **reward-and-judgment**.
+- praemium beatitudinis / caelesti mercede / iudicio dei; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
 # Air Cursor handoff — Ante-Nicene Dogmatics (2026-09-10)
 
 ## Version
