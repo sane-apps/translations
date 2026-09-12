@@ -82,7 +82,7 @@ Updated: 2026-09-12 (Air)
 | `cyril-matt-frag-a51` | done | entries 201–204 (ed. fr.228–231; Mt 21:1–9) |
 | next | free | `cyril-matt-frag-a52` from entry 205 |
 
-Tip SHA: `TIP_PLACEHOLDER` (clean tip; no Arnobius mix) on branch `cursor/cyril-matthew-clean-1dff`..
+Tip SHA: `83f591e` (clean tip; no Arnobius mix) on branch `cursor/cyril-matthew-clean-1dff`..
 
 ## Guards
 
