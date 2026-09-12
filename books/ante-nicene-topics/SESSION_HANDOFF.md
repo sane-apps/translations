@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — novatian_trinitate_16
+- Claim `novatian-trinitate-16-mine` → **fate-and-foreknowledge**.
+- destinatus ad uitam; praedestinatio non posita; Christus in substantia ante mundum.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — novatian_trinitate_28
 - Claim `novatian-trinitate-28-mine` → **image-likeness**.
 - imago Dei Patris / expandi manus / imitator operum paternorum.
