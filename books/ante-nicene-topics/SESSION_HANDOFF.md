@@ -1,3 +1,23 @@
+## Air mine 2026-09-12 — arnobius_nations_2_38
+- Claim `arnobius-nations-2-38-mine` → **image-likeness**.
+- 2.38: kings-to-meretrices don't serve mundi constitutio; humans not necessary furniture.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_50
+- Claim `arnobius-nations-2-50-mine` → **free-will**.
+- 2.50: philosophi vs cupiditates => animae labiles; bonum natura needs no emendatio.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_48
+- Claim `arnobius-nations-2-48-mine` → **image-likeness**.
+- 2.48: not dei proles; nescire OK; vices vs patricii generis.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_42
+- Claim `arnobius-nations-2-42-mine` → **image-likeness**.
+- 2.42: idcirco animas misit? not for crime/cookery/obscenity/prostitution.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_17
 - Claim `arnobius-nations-2-17-mine` → **image-likeness**.
 - 2.17: rationales boast fails; beasts have providentia/sapientiae simulacra.
