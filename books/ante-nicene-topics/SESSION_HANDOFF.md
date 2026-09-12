@@ -1,3 +1,7 @@
+## Air repair 2026-09-12 — Arnobius II wave stack
+- Restored §§2,3,4,6,7,9,15,30,31,37 onto Novatian stack tip.
+- Pass A ≠ B; jer-h20b intact; Melito skip; no CSS; CPG 5219/5220 closed.
+
 ## Air mine 2026-09-12 — novatian_trinitate_7
 - Claim `novatian-trinitate-7-mine` → **true-worship**.
 - De Trinitate VII: spiritum Deum; plus intellegi; figurae non substantia.
