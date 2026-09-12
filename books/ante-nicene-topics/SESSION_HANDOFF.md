@@ -2264,3 +2264,15 @@
 - Adv. Marc. 4.33: deus/mamona=nummus; lex usque ad Iohannem Creatoris.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_4_26
+- Adv. Marc. 4.26: oratio ad Creatorem; digito dei regnum; Belzebul rejected.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_7
+- Adv. Marc. 4.7: Galilaea lumen; adimplere legem; sanctus dei → salus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_22
+- Adv. Marc. 4.22: Moyses/Helias claritas; hunc audite Creatoris successio.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
