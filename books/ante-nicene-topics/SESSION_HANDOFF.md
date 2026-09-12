@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_carmen_201_240
+- Claim `commodian-carmen-201-240-mine` → **faith-and-obedience**.
+- Carmen 201–240; leave luxuries; prophets murdered; Christ heals by word; prophecy filled.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
 ## Air mine 2026-09-12 — commodian_carmen_161_200
 - Claim `commodian-carmen-161-200-mine` → **two-ways**.
 - Carmen 161–200; Babel; free self-damnation; Rebecca two peoples; Sinai; ungrateful nation.
