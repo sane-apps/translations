@@ -1872,3 +1872,51 @@
 - Inst. 3.20: nature-inquiry impius; Socrates-sapiens claim insanus.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Lactantius lactantius_inst_2_6
+- Inst. 2.6: double error—elements over God; human-form element-idols.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_2_7
+- Inst. 2.7: own iudicium; Deus gave sapientia; don't credit alieni errores.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_13
+- Inst. 3.13: immortalitas summum bonum; anima immortal; sapientia feeds soul.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_1_18
+- Inst. 1.18: apotheosis for virtus/munera/artes inepta; Deus gave living/healing.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_1_6
+- Inst. 1.6: diuina testimonia; reuincere by deorum suorum testimoniis.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_1_13
+- Inst. 1.13: human abscisum; no god fears co-heir; Saturn's regium nomen.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_5
+- Inst. 3.5: vitae necessitas → know; Arcesilas self-mucro.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_21
+- Inst. 3.21: Socrates→virtus; Plato aequitas; humans still wage bella.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_1_10
+- Inst. 1.10: Aesculapius mortal; Jupiter incest—no divinity.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_4
+- Inst. 3.4: Socrates+Zeno → philosophia sublata; nil-sciri impossible.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_23
+- Inst. 3.23: vanity of pecuniae contemptus; patrimonia deserted.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_24
+- Inst. 3.24: antipodes inepti; few errors reveal the rest.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
