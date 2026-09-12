@@ -1920,3 +1920,19 @@
 - Inst. 3.24: antipodes inepti; few errors reveal the rest.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Lactantius lactantius_inst_1_20
+- Inst. 1.20: Larentina meretrix; Terminus lapis; cultores=stipites.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_1_21
+- Inst. 1.21: human hostiae; sacra as ludibria of mente capti.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_8
+- Inst. 3.8: quietae sapientiae Giver; summum bonum; not ab homine.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_17
+- Inst. 3.17: uoluptas popularity; nihil-curare voice of latrones.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
