@@ -1732,3 +1732,19 @@
 - Inst. 3.19: death's quality; praemium/poena sempiterna; anti-reincarnation.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Lactantius lactantius_inst_1_1
+- Inst. 1.1: ueritatis studium; Constantine; deo seruire = libertas.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_2_2
+- Inst. 2.2: fingere/timere; elementa; artifex > opus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_9
+- Inst. 3.9: summum bonum = inmortalitas; sapientia = deum nosse/colere.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_27
+- Inst. 3.27: humana praecepta lack diuina auctoritas; philosophy ≠ wisdom.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
