@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_marcion_3_8
+- Claim `tertullian-marcion-3-8-mine` → **salvation-by-christ**.
+- phantasma vs true flesh; putative acts; death denied overturns gospel; resurrection of dead hangs on Christ’s.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — minucius_octavius_19
 - Claim `minucius-octavius-19-mine` → **true-worship**.
 - deus mens et ratio et spiritus; philosophi conspirant; Plato parens mundi.
