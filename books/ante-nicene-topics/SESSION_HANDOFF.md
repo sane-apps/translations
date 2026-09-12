@@ -1,3 +1,23 @@
+## Air mine 2026-09-12 — arnobius_nations_2_33
+- Claim `arnobius-nations-2-33-mine` → **salvation-by-christ**.
+- Fear = soul destruction; cling to liberator; pagans bank on self-salvation/self-deification; Christians hope nothing from infirmity; heaven only with the Lord.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_32
+- Claim `arnobius-nations-2-32-mine` → **grace-and-assistance**.
+- Souls near death’s jaws; can become long-lived by summi principis munus if they seek to know him; we handed ourselves to liberator God.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_11
+- Claim `arnobius-nations-2-11-mine` → **faith-and-obedience**.
+- Equal credere: pagans trust Plato/Cronius/Numenius; Christians credit Christ; weigh authors by divine works not eloquence.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_8
+- Claim `arnobius-nations-2-8-mine` → **faith-and-obedience**.
+- Pagans mock Christian fides/credulitas; Arnobius: travel, sowing, marriage, medicine, war, cult all require preceding faith.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_62
 - Claim `arnobius-nations-2-62-mine` → **grace-and-assistance**.
 - Reject self-born-of-God / magi / Acherontic blood claims; only deus omnipotens can save/prolong souls; gift must come by his mandate.
