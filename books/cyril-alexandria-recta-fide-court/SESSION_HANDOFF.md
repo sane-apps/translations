@@ -39,6 +39,12 @@ Canonical path: `~/SaneApps/clients/translations/books/cyril-alexandria-recta-fi
 - Justifications: `rf_arcadia_05.json` … `_08.json`
 - Next: `cyril-rf-a3` from §9 / p.162 (Athanasius citation continues).
 
+
+## State update 20260912T051001Z
+
+- Claim **cyril-rf-a3** done: Arcadia §§9–12 Pass A≠B (Athanasius close + florilegium).
+- Next: `cyril-rf-a4` from §13 / p.166 (Vitalis continues; Theophilus vs Origenists).
+
 ## Next
 
 Translate from locked `*_source.json` (Pass A/B) → DOCX → site (era banner; treatises with no earlier English). OCR cleanup as needed while translating.
