@@ -1,5 +1,12 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — lactantius-inst-5-14-mine)
+
+- Claim `lactantius-inst-5-14-mine`: justice by nature looks like folly; piety = knowledge of God; equity requires making equals of those born to equal lot. Pass A ≠ B; Latin locked CSEL TEI 5.14.
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20 / 4.30 / 4.17 / 4.22 / 4.23 / 4.24 / 4.27 / 4.28 / 5.5 / 5.7. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
 ## 2026-09-12 (Air — lactantius-inst-5-7-mine)
 
 - Claim `lactantius-inst-5-7-mine`: God sends a messenger to restore fled justice; justice = cult of the one God; evil kept so virtue can be exercised. Pass A ≠ B; Latin locked CSEL TEI 5.7.
