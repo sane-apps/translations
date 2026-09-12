@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_56
+- Claim `commodian-instr-56-mine` → **faith-and-obedience**.
+- Doctors soft for gifts; do not love mundum; world joys remove a gratia Christi; Altissimus lives; do not slight just precepts.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_41
 - Claim `commodian-instr-41-mine` → **salvation-by-christ**.
 - Hidden holy people of Christ; new law; Omnipotens Christus descends to elect; tyrant/pseudoprophet to Gehenna; Dominus begins judgment by fire.
