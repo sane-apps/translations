@@ -22,6 +22,15 @@ Canonical path: `~/SaneApps/clients/translations/books/cyril-alexandria-recta-fi
   - Ingest: `scripts/ingest_pusey_recta_fide.py`
   - No English in this claim.
 
+
+## State update 20260912T045319Z
+
+- Claim **cyril-rf-a1** done: Arcadia §§1–4 Pass A≠B.
+- Greek clean: `translations/ad_arcadiam_marinamque_greek_clean_a1.json`
+- English: `translations/ad_arcadiam_marinamque_english.json` (4 sections)
+- Justifications: `reviews/justifications/rf_arcadia_01.json` … `_04.json`
+- Next: continue Arcadia from §5 / p.158 (`cyril-rf-a2`), then Pulcheria; or topics lane.
+
 ## Next
 
 Translate from locked `*_source.json` (Pass A/B) → DOCX → site (era banner; treatises with no earlier English). OCR cleanup as needed while translating.
