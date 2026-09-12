@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_35
+- Claim `tertullian-de-anima-35-mine` → **free-will**.
+- Metempsychosis did not furnish this fable for you alone: Carpocrates also uses it, equally a magus, equally a fornicator. He asserted souls are reincorporated to establish the overturn of every divine and human discipline.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_34
 - Claim `tertullian-de-anima-34-mine` → **free-will**.
 - No madness of this kind has broken out under a heretical name to today that remakes human souls into beasts — but we necessarily brought in and shut out this species too as coherent with the above, so Homer would be beaten back in the peacock as Pythagoras in…
