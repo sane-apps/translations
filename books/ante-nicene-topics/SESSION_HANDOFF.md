@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_marcion_3_9
+- Claim `tertullian-marcion-3-9-mine` → **salvation-by-christ**.
+- Abraham’s angels had true flesh not phantasm; only Christ born of flesh to reform birth and dissolve death by rising in flesh.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_marcion_3_20
 - Claim `tertullian-marcion-3-20-mine` → **salvation-by-christ**.
 - Creator’s scriptures match Christ’s course; Ps/Isa nations; womb fruit = virgin Mary; today’s gentile call proves prophecy.
