@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_paenitentia_9
+- Claim `tertullian-paenitentia-9-mine` → **sin-and-death**.
+- exomologesis / sacco cineri / confessione paenitentia / deus parcet.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — tertullian_paenitentia_8
 - Claim `tertullian-paenitentia-8-mine` → **faith-and-obedience**.
 - ecclesiis / paenitentiam / confessio / dissimulatio.
