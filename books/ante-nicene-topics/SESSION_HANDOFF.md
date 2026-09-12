@@ -2216,3 +2216,51 @@
 - Adv. Marc. 4.14: beati mendici; Creator blessings/fonts.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_4_25
+- Adv. Marc. 4.25: dominus caeli=factor; abscondita need prior figures.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_7
+- Adv. Marc. 5.7: lumen nationum; laus iudicis; spectaculum mundo.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_20
+- Adv. Marc. 4.20: winds/sea; Exodus/Jordan; Creator’s Christ.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_24
+- Adv. Marc. 4.24: seventy/Elim; causae not rival powers.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_23
+- Adv. Marc. 4.23: incredula genitura; steward must prove Creator mission.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_19
+- Adv. Marc. 5.19: gospel in totum mundum; prior regula apostolica.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_20
+- Adv. Marc. 5.20: unum Christum; causatione/ueritate.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_21
+- Adv. Marc. 4.21: no bag—Creator feeds; dust=judgment witness.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_6
+- Adv. Marc. 5.6: sapientia in occulto; lumen nationum; templum/ignis Creatoris.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_18
+- Adv. Marc. 5.18: occultum in Deo conditore; caro/ecclesia; armor vs diabolus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_3
+- Adv. Marc. 5.3: ex fide eius dei cuius et lex; maledictio/benedictio; Abraham.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_33
+- Adv. Marc. 4.33: deus/mamona=nummus; lex usque ad Iohannem Creatoris.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
