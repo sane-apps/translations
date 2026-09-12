@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_14
+- Claim `tertullian-de-anima-14-mine` → **image-likeness**.
+- The soul is otherwise singular and simple and entire of itself, no more built from elsewhere than divisible from itself, because it is not dissoluble. If composite and dissoluble, then not immortal.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_3
 - Claim `tertullian-de-anima-3-mine` → **two-ways**.
 - Would that no heresies had to exist so the approved might shine. We would try nothing with philosophers on the soul — patriarchs of heretics — since the apostle already foresaw philosophy as a shaking of truth at Athens.
