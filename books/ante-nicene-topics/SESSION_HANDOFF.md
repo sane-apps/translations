@@ -2488,3 +2488,15 @@
 - Adv. Marc. 1.13: mundus non indignus; flos artificem.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_1_9
+- Adv. Marc. 1.9: ignotus/incertus; norma certi.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_12
+- Adv. Marc. 1.12: sine re/causa; operum pignus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_14
+- Adv. Marc. 1.14: minuta; sacramenta creatoris; hypocrisis.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
