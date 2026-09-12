@@ -1,3 +1,28 @@
+## Air mine 2026-09-12 — tertullian_marcion_4_43
+- Claim `tertullian-marcion-4-43-mine` → **salvation-by-christ**.
+- Hosea third day; burial taken up; Emmaus = Creator’s redeemer; hands/feet/bones vs phantasm; your gospel’s Jesus is mine.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_marcion_5_2
+- Claim `tertullian-marcion-5-2-mine` → **faith-and-obedience**.
+- Galatians: old law’s removal is Creator’s plan; question is discipline change not new god; gospel calls from law to grace.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_marcion_3_7
+- Claim `tertullian-marcion-3-7-mine` → **salvation-by-christ**.
+- two prophetic habits/advents; first humility/passion, second glory; Jews/Marcion miss humble coming.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_marcion_3_19
+- Claim `tertullian-marcion-3-19-mine` → **salvation-by-christ**.
+- Lord reigns from the wood; shoulder=cross; Ps 21 hands/feet; Isaiah burial lifted = resurrection.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_marcion_3_18
+- Claim `tertullian-marcion-3-18-mine` → **atonement-recapitulation**.
+- cross passion preached for Creator’s Christ; Isaac wood, Joseph, Moses arms/serpent figure the cross; horns=cross ends.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_marcion_1_24
 - Claim `tertullian-marcion-1-24-mine` → **salvation-by-christ**.
 - Marcion’s goodness imperfect if few saved; salvation only to the soul = halved; perfect goodness saves the whole man; part-rising = punishment.
