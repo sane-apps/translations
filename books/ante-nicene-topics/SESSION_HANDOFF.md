@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_23
+- Claim `tertullian-de-anima-23-mine` → **image-likeness**.
+- Some believe they came down from the heavens with as much persuasion as they promise return there — as Saturninus the disciple of Menander the Simonian introduced, affirming man first made by angels, a futile weak work writhing on earth like a worm.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_13
 - Claim `tertullian-de-anima-13-mine` → **image-likeness**.
 - What remains is to see where principalitas sits — what rules what — so the substance-mass is that whose primacy appears. Who will not give the soul the whole sum, by whose name the whole man’s mention is titled?
