@@ -25,6 +25,10 @@ Then do only that slice. Finish with `python3 scripts/ai_promote.py --claim <id>
 
 | Claim ID | Status | Slice | Closed | Notes |
 |----------|--------|-------|--------|-------|
+| cyril-matt-frag-a67 | done | CPG 5206 entries 265–268 (ed. fr.295–298; Mt 26:39–53) Pass A≠B | 2026-09-12 | Air; khazarzar; A≠B; Melito skip; no CSS; CPG 5219/5220 closed; reader titles On Matthew; supplied on 266; stray digit on 268 |
+| cyril-matt-frag-a66 | done | CPG 5206 entries 261–264 (ed. fr.291–294; Mt 26:29–38) Pass A≠B | 2026-09-12 | Air; khazarzar; A≠B; Melito skip; no CSS; CPG 5219/5220 closed; reader titles On Matthew |
+| cyril-matt-frag-a65 | done | CPG 5206 entries 257–260 (ed. fr.287–290; Mt 26:23–28) Pass A≠B | 2026-09-12 | Air; khazarzar; A≠B; Melito skip; no CSS; CPG 5219/5220 closed; reader titles On Matthew; ed.fr.286 skip; parallel on 260; incomplete locus 26:26– |
+| cyril-matt-frag-a64 | done | CPG 5206 entries 253–256 (ed. fr.282–285; Mt 25:11–26:18) Pass A≠B | 2026-09-12 | Air; khazarzar; A≠B; Melito skip; no CSS; CPG 5219/5220 closed; reader titles On Matthew (no CPG in H1/TOC); parallel on 254 |
 | cyril-matt-frag-a63 | done | CPG 5206 entries 249–252 (ed. fr.278–281; Mt 24:51–25:9) Pass A≠B | 2026-09-12 | Air; khazarzar; A≠B; Melito skip; no CSS; CPG 5219/5220 closed; mid-phrase seam on 249; parallel blocks on 251 disclosed |
 | cyril-matt-frag-a62 | done | CPG 5206 entries 245–248 (ed. fr.274–277; Mt 24:36–51) Pass A≠B | 2026-09-12 | Air; khazarzar; A≠B; Melito skip; no CSS; CPG 5219/5220 closed; mid-phrase break on 248; parallel blocks on 246 disclosed |
 | cyril-matt-frag-a61 | done | CPG 5206 entries 241–244 (ed. fr.270–273; Mt 24:28–36) Pass A≠B | 2026-09-12 | Air; khazarzar; A≠B; Melito skip; no CSS; CPG 5219/5220 closed; parallel blocks on 244 disclosed |
