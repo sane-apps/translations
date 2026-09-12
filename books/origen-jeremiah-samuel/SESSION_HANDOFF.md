@@ -11,6 +11,9 @@ Canonical path: `~/SaneApps/clients/translations/books/origen-jeremiah-samuel/`
 
 ## State
 
+- 2026-09-11 (StephanMini): Homilies **11**, **12** (`jer-h12a/b`), **14a** Pass B + AI promote done. Next: `jer-h14b/c`, then 15–20. Receipts under `outputs/ai-promote/20260912T034*`, `…035054Z-jer-h14a`.
+
+
 - 2026-09-11 (StephanMini grind): Homily **5** Pass B + AI promote done (`jer-h5a`/`jer-h5b`/`jer-h5c`). Receipts under `outputs/ai-promote/20260912T033224Z-jer-h5a`, `…033544Z-jer-h5b`, `…033821Z-jer-h5c`. OCR `Μνῶν`→ἐθνῶν noted. Next prepped: Homilies 11–20. Site deploy / Logos left to SOP owner lane.
 
 
