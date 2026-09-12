@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_36
+- Claim `tertullian-de-anima-36-mine` → **image-likeness**.
+- We had established that the soul is sown in the man himself and from him, and that there is one seed from the beginning, as also of the flesh, for the whole run of the race — against rival opinions of philosophers and heretics.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_35
 - Claim `tertullian-de-anima-35-mine` → **free-will**.
 - Metempsychosis did not furnish this fable for you alone: Carpocrates also uses it, equally a magus, equally a fornicator. He asserted souls are reincorporated to establish the overturn of every divine and human discipline.
