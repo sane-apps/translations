@@ -15,8 +15,42 @@ Canonical path: `~/SaneApps/clients/translations/books/cyril-alexandria-recta-fi
 
 ## State
 
-- 2026-09-11: Pusey 1877 locked (`sources/pusey1877_de_recta_fide.pdf` + `_djvu.txt`, IA `SPNCyrilli7`). *Ad Arcadiam Marinamque* running heads start ~p. 155; *ad Pulcheriam et Eudociam* ~p. 265. Skip *ad Theodosium* (opens the volume). Not yet sliced into source JSON.
+- 2026-09-11: Pusey 1877 locked (`sources/pusey1877_de_recta_fide.pdf` + `_djvu.txt`, IA `SPNCyrilli7`). *Ad Arcadiam Marinamque* running heads start ~p. 155; *ad Pulcheriam et Eudociam* ~p. 265. Skip *ad Theodosium* (opens the volume).
+- 2026-09-12: **Source lock done** (claim `cyril-rf-lock`). Sliced OCR Greek into:
+  - `translations/ad_arcadiam_marinamque_source.json` (CPG 5219, Pusey pp. 155–264)
+  - `translations/ad_pulcheriam_eudociamque_source.json` (CPG 5220, Pusey pp. 265–333)
+  - Ingest: `scripts/ingest_pusey_recta_fide.py`
+  - No English in this claim.
+
+
+## State update 20260912T045319Z
+
+- Claim **cyril-rf-a1** done: Arcadia §§1–4 Pass A≠B.
+- Greek clean: `translations/ad_arcadiam_marinamque_greek_clean_a1.json`
+- English: `translations/ad_arcadiam_marinamque_english.json` (4 sections)
+- Justifications: `reviews/justifications/rf_arcadia_01.json` … `_04.json`
+- Next: continue Arcadia from §5 / p.158 (`cyril-rf-a2`), then Pulcheria; or topics lane.
+
+
+## State update 20260912T050233Z
+
+- Claim **cyril-rf-a2** done: Arcadia §§5–8 Pass A≠B.
+- Greek clean: `translations/ad_arcadiam_marinamque_greek_clean_a2.json`
+- Justifications: `rf_arcadia_05.json` … `_08.json`
+- Next: `cyril-rf-a3` from §9 / p.162 (Athanasius citation continues).
+
+
+## State update 20260912T051001Z
+
+- Claim **cyril-rf-a3** done: Arcadia §§9–12 Pass A≠B (Athanasius close + florilegium).
+- Next: `cyril-rf-a4` from §13 / p.166 (Vitalis continues; Theophilus vs Origenists).
+
+
+## State update 20260912T051606Z
+
+- Claim **cyril-rf-a4** done: Arcadia §§13–16 Pass A≠B (Vitalis/Theophilus + Cyril on Χριστός name).
+- Next: `cyril-rf-a5` from §17 / scripture catena heads.
 
 ## Next
 
-Slice Pusey Greek for CPG 5219–5220 only → translate → DOCX → site (era banner; treatises with no earlier English).
+Translate from locked `*_source.json` (Pass A/B) → DOCX → site (era banner; treatises with no earlier English). OCR cleanup as needed while translating.
