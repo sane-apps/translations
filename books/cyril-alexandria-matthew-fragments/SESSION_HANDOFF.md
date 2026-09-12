@@ -27,14 +27,14 @@ Canonical path: `~/SaneApps/clients/translations/books/cyril-alexandria-matthew-
 | Claim | Status | Slice |
 |-------|--------|-------|
 | `cyril-matt-frag-lock` | done | Source lock only |
-| `cyril-matt-frag-a1` … `a23` | done | entries 1–92 |
-| `cyril-matt-frag-a24` | done | entries 93–96 (ed. fr.109,111–113; Mt 9:23–10:6) Pass A≠B |
-| `cyril-matt-frag-a25` | done | entries 97–100 (ed. fr.114–117; Mt 10:7–16) Pass A≠B |
-| `cyril-matt-frag-a26` | done | entries 101–104 (ed. fr.118–121; Mt 10:19–23) Pass A≠B |
-| `cyril-matt-frag-a27` | done | entries 105–108 (ed. fr.122–125; Mt 10:25–32); break on 107 disclosed |
+| `cyril-matt-frag-a1` … `a27` | done | entries 1–108 |
+| `cyril-matt-frag-a28` | done | entries 109–112 (ed. fr.126–129; Mt 10:34–40) Pass A≠B |
+| `cyril-matt-frag-a29` | done | entries 113–116 (ed. fr.130,132–134; Mt 10:40–11:11) Pass A≠B |
+| `cyril-matt-frag-a30` | done | entries 117–120 (ed. fr.136–139; Mt 11:11–12) Pass A≠B |
+| `cyril-matt-frag-a31` | done | entries 121–124 (ed. fr.142–145; Mt 11:16–25) Pass A≠B |
 
 ## Next
 
-- `cyril-matt-frag-a28` from entry 109
+- `cyril-matt-frag-a32` from entry 125
 - Keep IA OCR out of reading text
 - Skip Melito; preserve jer-h20b; no CSS; CPG 5219/5220 stay closed
