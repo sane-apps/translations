@@ -72,3 +72,9 @@ Translate from locked `*_source.json` (Pass A/B) → DOCX → site (era banner; 
 
 - Claim **cyril-rf-a7** done: Arcadia §§25–28 Pass A≠B.
 - Next: `cyril-rf-a8` from §29.
+
+
+## State update 20260912T054854Z
+
+- Claim **cyril-rf-a8** done: Arcadia §§29–32 Pass A≠B.
+- Next: `cyril-rf-a9` from §33.
