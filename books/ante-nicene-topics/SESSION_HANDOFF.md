@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_carmen_1001_1053
+- Claim `commodian-carmen-1001-1053-mine` → **reward-and-judgment**.
+- Carmen 1001–1053 (end); cosmic fire; Christ-marked dew; descent/rapture; lacunae disclosed; Amen.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
 ## Air mine 2026-09-12 — commodian_carmen_961_1000
 - Claim `commodian-carmen-961-1000-mine` → **reward-and-judgment**.
 - Carmen 961–1000; holy advance; lake of fire pair; first anastasis; solar dark and fire.
