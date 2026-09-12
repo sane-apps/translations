@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_carmen_281_320
+- Claim `commodian-carmen-281-320-mine` → **salvation-by-christ**.
+- Carmen 281–320; lacuna noted; flesh-God; Jesse/nations; reign from wood; tomb empties death.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
 ## Air mine 2026-09-12 — commodian_carmen_241_280
 - Claim `commodian-carmen-241-280-mine` → **salvation-by-christ**.
 - Carmen 241–280; exile after wood; cornerstone; prophetic cross texts; Father in Son, majesty in flesh.
