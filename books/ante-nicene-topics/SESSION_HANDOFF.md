@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — minucius_octavius_22
+- Claim `minucius-octavius-22-mine` → **true-worship**.
+- simulacra; artifex; dedicatio; nosse ante colere.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — minucius_octavius_17
 - Claim `minucius-octavius-17-mine` → **fate-and-foreknowledge**.
 - a deo factus; divina ratio; non frustis temere; summus moderator.
