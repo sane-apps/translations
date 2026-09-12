@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_48
+- Claim `tertullian-de-anima-48-mine` → **grace-and-assistance**.
+- De An. 48; Plato/food dream-tech vs Daniel’s grace from God; sobriety commends ecstasy ut in deo fiat.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_46
 - Claim `tertullian-de-anima-46-mine` → **true-worship**.
 - De An. 46; against Epicurus’ total dream-vanity; demons hurt by helping — divert from true divinity even in cubiculis.
