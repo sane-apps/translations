@@ -1,3 +1,28 @@
+## Air mine 2026-09-12 — tertullian_de_anima_56
+- Claim `tertullian-de-anima-56-mine` → **reward-and-judgment**.
+- inferi / eadem corpora / dies angelicae plenitudinis.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — tertullian_de_anima_50
+- Claim `tertullian-de-anima-50-mine` → **baptism-and-new-birth**.
+- Menander baptisma / mors debitum / Iohannes Christus.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — tertullian_de_anima_37
+- Claim `tertullian-de-anima-37-mine` → **sin-and-death**.
+- fetus homo / aborsus / decalogus renascimur.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — tertullian_de_anima_28
+- Claim `tertullian-de-anima-28-mine` → **reward-and-judgment**.
+- ex mortuis uiui / Pythagoras / Moyses Christus.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — tertullian_de_anima_4
+- Claim `tertullian-de-anima-4-mine` → **image-likeness**.
+- dei flatus / facta nata / Plato innata.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_57
 - Claim `tertullian-de-anima-57-mine` → **reward-and-judgment**.
 - magia / inferi / resurrectio corporalis.
