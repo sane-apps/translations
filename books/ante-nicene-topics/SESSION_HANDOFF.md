@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_45
+- Claim `tertullian-de-anima-45-mine` → **image-likeness**.
+- We are bound here to set out the Christian sentence on dreams too, as accidents of sleep and not small tossings of the soul, which we declared always busy and exercised from perpetual motion — the ratio of divinity and immortality. When rest comes to bodies, the soul does not rest.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_38
 - Claim `tertullian-de-anima-38-mine` → **grace-and-assistance**.
 - Although we already laid down that all natural things of the soul belonging to sense and intellect are in the substance itself from the soul’s inborn census, yet they advance little by little through ages and turn out variously by accidents according to arts, customs, places…
