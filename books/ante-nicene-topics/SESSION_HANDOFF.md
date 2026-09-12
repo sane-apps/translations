@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_marcion_2_4
+- Claim `tertullian-marcion-2-4-mine` → **grace-and-assistance**.
+- Creator’s goodness foresees man; Word makes all good; man as image; law and warning as kindness.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_marcion_4_43
 - Claim `tertullian-marcion-4-43-mine` → **salvation-by-christ**.
 - Hosea third day; burial taken up; Emmaus = Creator’s redeemer; hands/feet/bones vs phantasm; your gospel’s Jesus is mine.
