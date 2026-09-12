@@ -1,3 +1,268 @@
+## Air mine 2026-09-12 — commodian_instr_20
+- Claim `commodian-instr-20-mine` → **true-worship**.
+- You say mountain gods rule the field; darkened by evil you swear with alien mind — leave rural numina; serve the Lord.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_19
+- Claim `commodian-instr-19-mine` → **true-worship**.
+- You say Titans are your guardians; thus you ask Mute and Silent goddesses under your roof — vain hush-cult.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_14
+- Claim `commodian-instr-14-mine` → **true-worship**.
+- Hercules crushed Aventine monster; used to steal Evander’s herds — strength and theft do not make a god.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_13
+- Claim `commodian-instr-13-mine` → **true-worship**.
+- Whence is Silvanus a god again? Perhaps he pleases because the pipe sings well — rustic music is not deity.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_11
+- Claim `commodian-instr-11-mine` → **true-worship**.
+- Liber twice-born from Jupiter/Proserpina/India tales; you celebrate mad rites; wine-frenzy is not divinity.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_10
+- Claim `commodian-instr-10-mine` → **true-worship**.
+- Apollo as lyre-player and diviner; born of adultery at Delos; false lots; leave sortilege; God’s law speaks truly.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_9
+- Claim `commodian-instr-9-mine` → **true-worship**.
+- Neptune from Saturn with trident to spear fish; you make him sea-god; watery creature / earthly tale — not to be prayed.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_8
+- Claim `commodian-instr-8-mine` → **true-worship**.
+- Mercury painted with purse, helm, winged feet, near-naked; messenger and thief; if god why steal? Invented trade and lyre — earthly craft not deity.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_6
+- Claim `commodian-instr-6-mine` → **fate-and-foreknowledge**.
+- Zone-circle ignorance makes you pray Jupiter; stars placed; they do not grant genesis-fate; Omnipotent orders the course; leave star-error.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_4
+- Claim `commodian-instr-4-mine` → **true-worship**.
+- Jupiter born to Saturn in Crete; robbed father; seduced nobles’ wives; Pyracmon’s scepter. In beginning God made heaven/earth/sea. Youth from cave — that God is author, not Jupiter.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_3
+- Claim `commodian-instr-3-mine` → **true-worship**.
+- If Saturn is god why age? Why devour sons in terror? Earthly king on Olympus; called himself god; swallowed stone; lately called Jupiter.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_18
+- Claim `commodian-instr-18-mine` → **true-worship**.
+- Shame for a prudent man to be seduced and call Diana wood; drunk morning prophet demands guts; you worship priests in vain fear; if the heart is alive, flee shrines of death.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_17
+- Claim `commodian-instr-17-mine` → **true-worship**.
+- Ammudas great while gold in temple; Caesar takes gold — numen fails/flees/burns; false prophet seduced many then fell silent; wooden god in the ear; you yourselves want to perish.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_12
+- Claim `commodian-instr-12-mine` → **true-worship**.
+- If Invictus born from rock is held a god — seek the rock’s creator; rock conquered the god. You still paint him a thief; if God he would not live by theft; earthly monstrous nature like Cacus.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_7
+- Claim `commodian-instr-7-mine` → **true-worship**.
+- Sun/moon present yet not to be prayed; they do not run by their own will; Omnipotent placed them day four; law forbids adoring them; few empty priests seduce; approach the law-book and learn the true.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_5
+- Claim `commodian-instr-5-mine` → **true-worship**.
+- Fools say Jupiter thunders; leave infant play; Saturn aged on earth; no prophet foretold him; histories seduce; you pray the impure born of giants and raise a parricide on high.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_22
+- Claim `commodian-instr-22-mine` → **faith-and-obedience**.
+- While you serve the belly you claim innocence; without law you seek to live; you refuse dinner precepts; if you disbelieve God judges the dead, do you make yourself heaven’s Rector? Profane then holy — you will feel in the fates.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_21
+- Claim `commodian-instr-21-mine` → **two-ways**.
+- I grieve citizens dulled by the world; lots, birds, blood omens; beware images; seek Almighty’s law; demons roam for our proving; you entered two ways — learn the right.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_16
+- Claim `commodian-instr-16-mine` → **true-worship**.
+- Few wicked empty seers delude; fake mysteries for their living; Bellona frenzy faked for stipend; all feigned; they shade the suppliant people lest the perishing believe; no majesty of theirs has spoken.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_15
+- Claim `commodian-instr-15-mine` → **fate-and-foreknowledge**.
+- You say bloody gods and that fate writes genesis — then why pray? Deceived who pray Manes; fabricated lords; goddesses; demons on the neck that cannot account for the plague.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_2
+- Claim `commodian-instr-2-mine` → **true-worship**.
+- God sent angels; they scorned law for women’s beauty; could not return; giants; arts; images of dead; Omnipotent refused them raised; wanderers overturn bodies — these you worship as gods.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_69
+- Claim `commodian-instr-69-mine` → **two-ways**.
+- Time demands true speech; deceitful peace; Eve’s seducer crept; you drink the age’s air; intercession useless; fugitive from fire falls in your vortex; judges dread your greed.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_68
+- Claim `commodian-instr-68-mine` → **faith-and-obedience**.
+- Confessing pastor doubles the contest; patient rector; do first what you say; worldly pastor → Gehenna rumor; devoted pastor governs; in such the whole church’s hope lives.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_67
+- Claim `commodian-instr-67-mine` → **faith-and-obedience**.
+- Deacons: exercise Christ’s ministry chaste; do Master’s precepts; keep place; devote to highest God; give unhurt holy things; bow to pastors — thus proven in Christ.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_66
+- Claim `commodian-instr-66-mine` → **faith-and-obedience**.
+- Readers: give matter by living example; flee strife; press terror; not proud; obey elders; make yourselves like Christ the teacher; be lilies; Christ’s lamps among the people.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_65
+- Claim `commodian-instr-65-mine` → **two-ways**.
+- Arranged peace in city with ruins; schism you caused; speck/beam; subdola pax = persecution; you praise deceitful peace and perish as another’s soldiers not Christ’s.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_64
+- Claim `commodian-instr-64-mine` → **faith-and-obedience**.
+- Do not feign good by another’s wound; Altissimus rejects gifts of the unjust; lending at double interest then “cleansing” by gifts refused; you buy saints’ favor with price.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_50
+- Claim `commodian-instr-50-mine` → **grace-and-assistance**.
+- Infants seized in sudden war — not reproached; maybe parents’ faults; adults run back to Mother’s womb as reborn; flee the bloody nation.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_31
+- Claim `commodian-instr-31-mine` → **faith-and-obedience**.
+- Self-exaltation; Cruciarium Dominum; Tempera te Christo; without Christ you never lived.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_58
+- Claim `commodian-instr-58-mine` → **true-worship**.
+- Christian matron ≠ world: gold/silk/paint; God inspects hearts; Tabitha raised by widows’ prayers for giving; show riches by dona not toilette.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_55
+- Claim `commodian-instr-55-mine` → **faith-and-obedience**.
+- Dissemble not the trumpet-heralded law; Domini uox in prophets; do not abuse mandates while claiming sonship; Omnipotens seeks meek sons.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_53
+- Claim `commodian-instr-53-mine` → **sin-and-death**.
+- Lost souls separate themselves; Canaanite/Cain root under barbarian king; eternal flame; reject those who will not leave idols.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_49
+- Claim `commodian-instr-49-mine` → **faith-and-obedience**.
+- War: conquer/hide = tropaea; captive loses king/country; better die than barbarian king; preach-die = victory; surrender = perish by law.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_38
+- Claim `commodian-instr-38-mine` → **salvation-by-christ**.
+- Leah = synagogue type; Rachel beloved = church mystery; Rebecca word so you may believe in Christ; younger approved in Christ.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_37
+- Claim `commodian-instr-37-mine` → **reward-and-judgment**.
+- Stiff-necked refuse defeat → disinherited; Isaiah hardened heart; scorn second law → unworthy of kingdom of heaven.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_32
+- Claim `commodian-instr-32-mine` → **salvation-by-christ**.
+- Wild flock without shepherd; take Domini figuram; enter stables; believe one God to live when dead and rise in the kingdom.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_30
+- Claim `commodian-instr-30-mine` → **faith-and-obedience**.
+- Solomon: gifts corrupt judges; belly-god; without adoring crucified Lord you perish; temper self to Christ.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_60
+- Claim `commodian-instr-60-mine` → **faith-and-obedience**.
+- Few crowned in agony; help the brother under arms; Dominus bids feed even enemies; Dominica — call a poor man to lunch; spes in those refreshed from your goods.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_54
+- Claim `commodian-instr-54-mine` → **reward-and-judgment**.
+- Tares mixed in church; harvest separates; lex is field; Dominator gives true rest; lolium burned; fruitless fig withered.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_51
+- Claim `commodian-instr-51-mine` → **salvation-by-christ**.
+- Deserters judged; militatur Christo; if offender seek Regis refuge, confess prostrate; He grants all; restored to camp do not sin again.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_40
+- Claim `commodian-instr-40-mine` → **reward-and-judgment**.
+- Isaiah’s man who shakes the world; Nero from hell / Elias; Babylon burned; false Christ; Jews cry deceived to the Highest.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_36
+- Claim `commodian-instr-36-mine` → **faith-and-obedience**.
+- Half Jew half profane will not escape iudicium Christi when dead; blind leads blind; leave idols / synagogue double course.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_29
+- Claim `commodian-instr-29-mine` → **faith-and-obedience**.
+- Rich man lifted on wealth; feed poor; be common to the least; put off fraud; expiate with benefactis from Summus.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_61
+- Claim `commodian-instr-61-mine` → **reward-and-judgment**.
+- Envy of another’s gain; vain desire under fragile life; Deus: Stulte, this night you are called; Dominus supplies daily; live good; watch the end.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_57
+- Claim `commodian-instr-57-mine` → **faith-and-obedience**.
+- Sweat/bread from Adam; do not live for play; be as Christus wills; spes with labor; victory palm; rest after death.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_46
+- Claim `commodian-instr-46-mine` → **faith-and-obedience**.
+- Faithful: brother-hatred counted to fire for martyrs; washed once — do not drag suits; cannot be re-dipped.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_39
+- Claim `commodian-instr-39-mine` → **atonement-recapitulation**.
+- Another part of the law: you will see life hung on wood; Ipse Deus uita est, pependit ipse pro nobis.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_62
+- Claim `commodian-instr-62-mine` → **faith-and-obedience**.
+- Daily war from first day; fight lust/luxury; give from labor to naked; law teaches; do not seek idle martyrdom.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_59
+- Claim `commodian-instr-59-mine` → **true-worship**.
+- Paul’s ask; Isaiah against world-love; Christian woman not gentile adornment; serve Christ with hymn-chorus.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_56
+- Claim `commodian-instr-56-mine` → **faith-and-obedience**.
+- Doctors soft for gifts; do not love mundum; world joys remove a gratia Christi; Altissimus lives; do not slight just precepts.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_41
+- Claim `commodian-instr-41-mine` → **salvation-by-christ**.
+- Hidden holy people of Christ; new law; Omnipotens Christus descends to elect; tyrant/pseudoprophet to Gehenna; Dominus begins judgment by fire.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_33
+- Claim `commodian-instr-33-mine` → **salvation-by-christ**.
+- Wild gentile must tame himself; idols vanity; seek Dominus grace on earth; aurea saecla if you believe; subject yourself to God.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — commodian_instr_23
+- Claim `commodian-instr-23-mine` → **faith-and-obedience**.
+- Double-minded between synagogue and pagan shrines perish; after death the one who lived rightly profits; In Christo credentes in loco benigno.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_27
 - Claim `commodian-instr-27-mine` → **salvation-by-christ**.
 - Justice/goodness → live after fate; earthly judges preview; do not mock heavenly God; hand yourself to Christ for good deeds to follow.
