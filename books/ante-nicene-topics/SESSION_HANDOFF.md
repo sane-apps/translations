@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_marcion_5_12
+- Claim `tertullian-marcion-5-12-mine` → **salvation-by-christ**.
+- bodily tent; dead rise incorrupt; tribunal repays deeds done through the body.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_marcion_3_9
 - Claim `tertullian-marcion-3-9-mine` → **salvation-by-christ**.
 - Abraham’s angels had true flesh not phantasm; only Christ born of flesh to reform birth and dissolve death by rising in flesh.
