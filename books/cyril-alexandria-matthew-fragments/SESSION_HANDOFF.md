@@ -27,10 +27,14 @@ Canonical path: `~/SaneApps/clients/translations/books/cyril-alexandria-matthew-
 | Claim | Status | Slice |
 |-------|--------|-------|
 | `cyril-matt-frag-lock` | done | Source lock only |
-| `cyril-matt-frag-a1` | done | fr.1–4 (Mt 1:1–1:12 locus heads) Pass A≠B |
+| `cyril-matt-frag-a1` … `a19` | done | entries 1–76 |
+| `cyril-matt-frag-a20` | done | entries 77–80 (ed. fr.92–96; Mt 8:3–18) Pass A≠B |
+| `cyril-matt-frag-a21` | done | entries 81–84 (ed. fr.97–100; Mt 8:18–26) Pass A≠B |
+| `cyril-matt-frag-a22` | done | entries 85–88 (ed. fr.101–104; Mt 8:29–9:13); <πρός> on 87 disclosed |
+| `cyril-matt-frag-a23` | done | entries 89–92 (ed. fr.105–108; Mt 9:11–22) Pass A≠B |
 
 ## Next
 
-- `cyril-matt-frag-a2` from fr.5 onward
+- `cyril-matt-frag-a24` from entry 93
 - Keep IA OCR out of reading text
 - Skip Melito; preserve jer-h20b; no CSS; CPG 5219/5220 stay closed
