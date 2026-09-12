@@ -1,5 +1,11 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — Cyril Adoration Book 5 CLOSEOUT)
+
+- Book 5 English OET **26/26** Pass A≠B. Tips: §§1–10 `98121d3`; §§11–20 `bb17175`; §§21–26 CLOSEOUT `0532c6c`; CLAIMS stamp `d1fbaa0`.
+- Melito skipped. Never Cyril Matthew. `jer-h20b` intact. No Logos/`build_book.py`.
+- Next: Book 6 (same slug) unless owner redirects.
+
 ## 2026-09-12 (Air — Cyril Adoration Book 5 §§21–26 CLOSEOUT tip)
 
 - Claim `cyril-adoration5-21-26-oet`: Book 5 §§21–26 Pass A≠B OET CLOSEOUT (26/26). Trumpets/Gospels; Reuben–Gad; called vs chosen; Deut courage close.
