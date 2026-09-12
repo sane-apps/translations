@@ -2276,3 +2276,19 @@
 - Adv. Marc. 4.22: Moyses/Helias claritas; hunc audite Creatoris successio.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_4_9
+- Adv. Marc. 4.9: piscatores Hieremiae; leprosus munus Moysi; adimplere.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_29
+- Adv. Marc. 1.29: sanctitas sine damnatione nuptiarum; uetare nasci.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_23
+- Adv. Marc. 1.23: bonitas rationalis; debita ante indebitam; non plagiator.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_11
+- Adv. Marc. 1.11: omnia Creatoris; deus ex operibus; otium non deus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
