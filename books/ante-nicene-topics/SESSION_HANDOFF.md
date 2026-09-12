@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_carmen_161_200
+- Claim `commodian-carmen-161-200-mine` → **two-ways**.
+- Carmen 161–200; Babel; free self-damnation; Rebecca two peoples; Sinai; ungrateful nation.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
 ## Air mine 2026-09-12 — commodian_carmen_121_160
 - Claim `commodian-carmen-121-160-mine` → **reward-and-judgment**.
 - Carmen 121–160; invisible God; phoenix→resurrection; Fall; Cain; Flood/Noah.
