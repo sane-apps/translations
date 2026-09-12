@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_marcion_3_19
+- Claim `tertullian-marcion-3-19-mine` → **salvation-by-christ**.
+- Lord reigns from the wood; shoulder=cross; Ps 21 hands/feet; Isaiah burial lifted = resurrection.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_marcion_3_18
 - Claim `tertullian-marcion-3-18-mine` → **atonement-recapitulation**.
 - cross passion preached for Creator’s Christ; Isaac wood, Joseph, Moses arms/serpent figure the cross; horns=cross ends.
