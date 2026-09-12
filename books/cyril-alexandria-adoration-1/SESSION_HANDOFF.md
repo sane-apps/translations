@@ -39,3 +39,5 @@ Logos compile on Air when the owner asks. Do not present Book 1 as the complete 
 - 2026-09-12 (StephanAir): **Adoration Book 2 §§1–8** Pass B + Pass A tipped (`adoration2_english.json`). OET = no previous complete English translation of Book 2. After Lam 118/118 closeout. Continue Book 2 §§9–26. Never Cyril Matthew.
 
 - 2026-09-12 (StephanAir): **Adoration Book 2 §§9–16** Pass B + Pass A tipped. Continue §§17–26. OET = no previous complete English of Book 2. Never Cyril Matthew.
+
+- 2026-09-12 (StephanAir): **Adoration Book 2 §§17–26** Pass B + Pass A tipped — **Book 2 English CLOSEOUT** (26/26 PG columns). OET = no previous complete English of Book 2. Justifications `adoration2_17.json`…`adoration2_26.json`. Next earliest OET per `docs/WORKS_QUEUE.md` (Melito *On Pascha* unless owner stays Cyril Books 3+). **Never Cyril Matthew.** No Logos/`build_book.py` unless owner asks.
