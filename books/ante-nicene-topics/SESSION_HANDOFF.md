@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — novatian_trinitate_31
+- Claim `novatian-trinitate-31-mine` → **salvation-by-christ**.
+- sermo ex uoluntate Patris; nihil ex arbitrio; oboedientia; mediator.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — novatian_trinitate_18
 - Claim `novatian-trinitate-18-mine` → **image-likeness**.
 - imago inuisibilis Dei; Abraham; Filius uisus; uerbum caro.
