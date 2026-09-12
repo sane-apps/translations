@@ -2056,3 +2056,19 @@
 - Inst. 5.6: cupiditas; tyrant self-adoration; iustitia flees with desertio religionis.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_2_6
+- Adv. Marc. 2.6: imago=libertas arbitrii; merces for uoluntas not necessitas.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_24
+- Adv. Marc. 2.24: paenitentia dei=conuersio sententiae; malitia judicial.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_14
+- Adv. Marc. 5.14: similitudo carnis peccati; true flesh; body rise.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_16
+- Adv. Marc. 5.16: retributor meriti; deleted flame; Creator ueritas/salus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
