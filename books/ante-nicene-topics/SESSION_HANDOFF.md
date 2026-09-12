@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_6
+- Claim `tertullian-de-anima-6-mine` → **image-likeness**.
+- Platonists disturb by subtlety more than truth: every body must be animal or inanimate; soul moves the body from within — their dilemma does not prove the soul bodyless.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_5
 - Claim `tertullian-de-anima-5-mine` → **image-likeness**.
 - They may fetch Eubulus, Critolaus, Xenocrates, Aristotle to strip the soul of corpulence — yet if they look opposite they will find more vindicating a body for the soul.
