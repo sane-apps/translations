@@ -1,5 +1,12 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — lactantius-inst-4-24-mine)
+
+- Claim `lactantius-inst-4-24-mine`: heavenly doctor must be perfect; must put on mortal flesh; subject to death and all passions so he can teach they can be borne. Pass A ≠ B; Latin locked CSEL TEI IV.24.
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20 / 4.30 / 4.17 / 4.22 / 4.23. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
 ## 2026-09-12 (Air — lactantius-inst-4-23-mine)
 
 - Claim `lactantius-inst-4-23-mine`: teacher must do what he commands; philosophers fail; only Christ perfect wise man confirming word by virtue. Pass A ≠ B; Latin locked CSEL TEI IV.23.
