@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_11
+- Claim `commodian-instr-11-mine` → **true-worship**.
+- Liber twice-born from Jupiter/Proserpina/India tales; you celebrate mad rites; wine-frenzy is not divinity.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_10
 - Claim `commodian-instr-10-mine` → **true-worship**.
 - Apollo as lyre-player and diviner; born of adultery at Delos; false lots; leave sortilege; God’s law speaks truly.
