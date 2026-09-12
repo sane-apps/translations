@@ -2216,3 +2216,19 @@
 - Adv. Marc. 4.14: beati mendici; Creator blessings/fonts.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_4_25
+- Adv. Marc. 4.25: dominus caeli=factor; abscondita need prior figures.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_7
+- Adv. Marc. 5.7: lumen nationum; laus iudicis; spectaculum mundo.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_20
+- Adv. Marc. 4.20: winds/sea; Exodus/Jordan; Creator’s Christ.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_24
+- Adv. Marc. 4.24: seventy/Elim; causae not rival powers.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
