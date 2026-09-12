@@ -1812,3 +1812,19 @@
 - Inst. 2.14: angels fall; daemones force people to their auxilia.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Lactantius lactantius_inst_1_8
+- Inst. 1.8: unius Dei providentia; dii = consecrated kings.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_2_15
+- Inst. 2.15: demonic 'help'=cease harm; justi under Dei manus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_3
+- Inst. 3.3: scientia Dei not hominis; sapientia → stultitia.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_30
+- Inst. 3.30: una spes; leave false cult/wisdom; next book shows vera.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
