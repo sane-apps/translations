@@ -1,3 +1,23 @@
+## Air mine 2026-09-12 — arnobius_nations_2_73
+- Claim `arnobius-nations-2-73-mine` → **true-worship**.
+- 2.73: Isis/Magna Mater late; religio nunc nata; missus shows deus/cultus.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_67
+- Claim `arnobius-nations-2-67-mine` → **true-worship**.
+- 2.67: causa not factum; pagan self-change of ritus priorum.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_58
+- Claim `arnobius-nations-2-58-mine` → **faith-and-obedience**.
+- 2.58: shared nescire of animae conditor/evils; pagan cosmology = suspicio.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_28
+- Claim `arnobius-nations-2-28-mine` → **image-likeness**.
+- 2.28: body-amnesia lore fails vs decades of memory; knowing lost arts = memoria servata.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_18
 - Claim `arnobius-nations-2-18-mine` → **image-likeness**.
 - 2.18: artes earthly inventa; not caeli with souls; scientiolas by practice.
