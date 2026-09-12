@@ -2448,3 +2448,15 @@
 - Adv. Marc. 3.10: ueritas carnis vs phantasma.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_1_5
+- Adv. Marc. 1.5: si duo cur plura; cultus anceps.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_8
+- Adv. Marc. 1.8: nouus deus falsus; aeternitas sine tempore.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_18
+- Adv. Marc. 2.18: talio; gula; sacrificia ab idolis.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
