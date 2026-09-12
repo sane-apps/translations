@@ -90,7 +90,7 @@ Updated: 2026-09-12 (Air)
 | `cyril-matt-frag-a59` | done | entries 233–236 (ed. fr.261–264; Mt 23:35–39); stray digits on 236 |
 | next | free | `cyril-matt-frag-a60` from entry 237 |
 
-Tip SHA: `TIP_PLACEHOLDER` (clean tip; no Arnobius mix) on branch `cursor/cyril-matthew-clean-1dff`.
+Tip SHA: `b0fb994` (clean tip; no Arnobius mix) on branch `cursor/cyril-matthew-clean-1dff`.
 
 ## Guards
 
