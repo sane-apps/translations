@@ -1,3 +1,28 @@
+## Air mine 2026-09-12 — tertullian_marcion_1_24
+- Claim `tertullian-marcion-1-24-mine` → **salvation-by-christ**.
+- Marcion’s goodness imperfect if few saved; salvation only to the soul = halved; perfect goodness saves the whole man; part-rising = punishment.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_marcion_4_40
+- Claim `tertullian-marcion-4-40-mine` → **atonement-recapitulation**.
+- Passover day fulfills law’s passion figure; bread figure needs true body; cup seals blood; wine←→blood figuration.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_marcion_2_27
+- Claim `tertullian-marcion-2-27-mine` → **grace-and-assistance**.
+- Creator takes human affections for man’s salvation; Son mixes man/God; whole ‘disgrace’ = sacrament of salvation.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_marcion_3_11
+- Claim `tertullian-marcion-3-11-mine` → **salvation-by-christ**.
+- putative bulk to dodge nativity; birth not more unworthy than cross; truth→flesh→born = Creator’s Christ.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — tertullian_marcion_3_8
+- Claim `tertullian-marcion-3-8-mine` → **salvation-by-christ**.
+- phantasma vs true flesh; putative acts; death denied overturns gospel; resurrection of dead hangs on Christ’s.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — minucius_octavius_19
 - Claim `minucius-octavius-19-mine` → **true-worship**.
 - deus mens et ratio et spiritus; philosophi conspirant; Plato parens mundi.
