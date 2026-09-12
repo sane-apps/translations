@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_31
+- Claim `commodian-instr-31-mine` → **faith-and-obedience**.
+- Self-exaltation; Cruciarium Dominum; Tempera te Christo; without Christ you never lived.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_58
 - Claim `commodian-instr-58-mine` → **true-worship**.
 - Christian matron ≠ world: gold/silk/paint; God inspects hearts; Tabitha raised by widows’ prayers for giving; show riches by dona not toilette.
