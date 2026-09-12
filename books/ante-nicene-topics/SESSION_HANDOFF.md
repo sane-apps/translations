@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_49
+- Claim `tertullian-de-anima-49-mine` → **universal-call**.
+- De An. 49; infants dream; gospel leaves no gens extranea; no soul-nature immune to dreams.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_48
 - Claim `tertullian-de-anima-48-mine` → **grace-and-assistance**.
 - De An. 48; Plato/food dream-tech vs Daniel’s grace from God; sobriety commends ecstasy ut in deo fiat.
