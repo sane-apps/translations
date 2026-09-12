@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_marcion_4_43
+- Claim `tertullian-marcion-4-43-mine` → **salvation-by-christ**.
+- Hosea third day; burial taken up; Emmaus = Creator’s redeemer; hands/feet/bones vs phantasm; your gospel’s Jesus is mine.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_marcion_5_2
 - Claim `tertullian-marcion-5-2-mine` → **faith-and-obedience**.
 - Galatians: old law’s removal is Creator’s plan; question is discipline change not new god; gospel calls from law to grace.
