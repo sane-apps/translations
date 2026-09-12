@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — novatian_trinitate_18
+- Claim `novatian-trinitate-18-mine` → **image-likeness**.
+- imago inuisibilis Dei; Abraham; Filius uisus; uerbum caro.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — novatian_trinitate_23
 - Claim `novatian-trinitate-23-mine` → **atonement-recapitulation**.
 - mediator; uerbum caro; sacramentum ante saecula destinatum; salus generis humani.
