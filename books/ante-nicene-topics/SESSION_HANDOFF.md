@@ -1988,3 +1988,71 @@
 - Inst. 3.25: philosophia non uulgaris; paucis/docti only.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Lactantius lactantius_inst_4_8
+- Inst. 4.8: bis natus spiritu/carne; Verbum; omnia per illum.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_4_3
+- Inst. 4.3: deorum cultus sans sapientia/fides; body-rite only.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_4_4
+- Inst. 4.4: sapientia/religio; filii amor + serui timor.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_4_11
+- Inst. 4.11: prophets/Spirit; spes immortalitatis for every gens.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_4_6
+- Inst. 4.6: genuit Filium ante mundum; primogenitus; fabricatio mundi.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_4_30
+- Inst. 4.30: haereses/scissus; Dei fons; next iustitia.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_4_21
+- Inst. 4.21: day-40 ascension; Daniel; disciples preach.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_4_5
+- Inst. 4.5: non diduci; audendum; free from error/ruin.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_4_7
+- Inst. 4.7: quis/nomen; natiuitas ante mundum; disposuit/construxit.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_4_9
+- Inst. 4.9: Logos > Verbum; uox et sapientia Dei.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_5_3
+- Inst. 5.3: rudes coherent; philosophers contradict; attack on religio.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_7_3
+- Inst. 7.3: Stoic split; tractat≠tractatur; delirat.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_7_4
+- Inst. 7.4: prouidentia; mundus hominum causa; nihilo eget.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_5_2
+- Inst. 5.2: iustitia/uera religio vs persecutors.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_5_1
+- Inst. 5.1: hear whole; sapientia+religio; simple prophets vs ornate scorn.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_5_4
+- Inst. 5.4: accusatores iustitiae; instituere vs apology; Demetrianus needs argumenta.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_5_6
+- Inst. 5.6: cupiditas; tyrant self-adoration; iustitia flees with desertio religionis.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
