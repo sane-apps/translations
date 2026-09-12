@@ -43,3 +43,5 @@ Logos compile on Air when the owner asks. Do not present Book 1 as the complete 
 - 2026-09-12 (StephanAir): **Adoration Book 2 §§17–26** Pass B + Pass A tipped — **Book 2 English CLOSEOUT** (26/26 PG columns). OET = no previous complete English of Book 2. Justifications `adoration2_17.json`…`adoration2_26.json`. Next earliest OET per `docs/WORKS_QUEUE.md` (Melito *On Pascha* unless owner stays Cyril Books 3+). **Never Cyril Matthew.** No Logos/`build_book.py` unless owner asks.
 
 - 2026-09-12 (StephanAir): **Skip Melito** (*On Pascha*) — do not open that slug. Continuity: **Adoration Book 3** Greek ingested (21 PG columns from PG 68 lock). English §§1–10 Pass B + Pass A tipped. OET = no previous complete English of Book 3. Continue §§11–21. OCR may duplicate Book 2 lemma-title under ΛΟΓΟΣ ΤΡΙΤΟΣ (disclosed); body is post-Passover Exodus. **Never Cyril Matthew.**
+
+- 2026-09-12 (StephanAir): **Adoration Book 3 §§11–21** Pass B + Pass A tipped — **Book 3 English CLOSEOUT** (21/21). OET = no previous complete English of Book 3. Melito skipped. Next: Book 4 (earliest continuity OET). **Never Cyril Matthew.**
