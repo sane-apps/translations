@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — novatian_trinitate_5
+- Claim `novatian-trinitate-5-mine` → **image-likeness**.
+- De Trinitate V: irae ad remedium; impassibilis substantia; simplex spiritus.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed; single Latin Library witness on disk.
+
 ## Air mine 2026-09-12 — novatian_trinitate_3
 - Claim `novatian-trinitate-3-mine` → **true-worship**.
 - De Trinitate III: conditor; Ego Deus et non est praeter me; inuisibilia per ea quae facta sunt.
