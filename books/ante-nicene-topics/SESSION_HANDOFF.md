@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_paenitentia_4
+- Claim `tertullian-paenitentia-4-mine` → **grace-and-assistance**.
+- For all delicts he who destined penalty through judgment also pledged pardon through repentance: “Repent and I will save you”; “I prefer repentance to death.” Seize it like a shipwrecked man a plank.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_paenitentia_3
 - Claim `tertullian-paenitentia-3-mine` → **sin-and-death**.
 - Once God is known, his precepts teach what to count as sin; flesh and spirit delicts equally offend; not only deed but will must be avoided and purged by repentance; common guilt, common Judge, common medicine.
