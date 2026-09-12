@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_51
+- Claim `commodian-instr-51-mine` → **salvation-by-christ**.
+- Deserters judged; militatur Christo; if offender seek Regis refuge, confess prostrate; He grants all; restored to camp do not sin again.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_40
 - Claim `commodian-instr-40-mine` → **reward-and-judgment**.
 - Isaiah’s man who shakes the world; Nero from hell / Elias; Babylon burned; false Christ; Jews cry deceived to the Highest.
