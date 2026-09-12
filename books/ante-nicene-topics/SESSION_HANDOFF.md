@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_16
+- Claim `tertullian-de-anima-16-mine` → **sin-and-death**.
+- serpens / inrationale / delictum / diabolus.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_58
 - Claim `tertullian-de-anima-58-mine` → **reward-and-judgment**.
 - inferi / supplicia refrigeria / Lazarus / iudicium.
