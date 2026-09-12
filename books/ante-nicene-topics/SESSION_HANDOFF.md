@@ -1,3 +1,53 @@
+## Air mine 2026-09-12 — novatian_trinitate_28
+- Claim `novatian-trinitate-28-mine` → **image-likeness**.
+- imago Dei Patris / expandi manus / imitator operum paternorum.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — novatian_trinitate_21
+- Claim `novatian-trinitate-21-mine` → **atonement-recapitulation**.
+- mediator / stola caro / lauit in sanguine uuae / passio.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — novatian_trinitate_13
+- Claim `novatian-trinitate-13-mine` → **salvation-by-christ**.
+- uerbum caro / connexio mutua / sponsus ad carnem / ascensus.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — novatian_trinitate_10
+- Claim `novatian-trinitate-10-mine` → **baptism-and-new-birth**.
+- uerbum caro / baptisma / culpa sublata / caro ad salutem.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — novatian_trinitate_8
+- Claim `novatian-trinitate-8-mine` → **universal-call**.
+- apostoli in totum orbem / condicio generis humani / Pater in postulationibus.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — novatian_trinitate_29
+- Claim `novatian-trinitate-29-mine` → **grace-and-assistance**.
+- Spiritus Sanctus / remissio peccatorum / lauacrum / ecclesia.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — novatian_trinitate_25
+- Claim `novatian-trinitate-25-mine` → **atonement-recapitulation**.
+- mortuus pro nobis / mors in corpus / sermo immortalis.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — novatian_trinitate_24
+- Claim `novatian-trinitate-24-mine` → **atonement-recapitulation**.
+- Filius Dei et filius hominis / Emmanuel / utraque substantia.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — novatian_trinitate_22
+- Claim `novatian-trinitate-22-mine` → **salvation-by-christ**.
+- forma Dei / forma serui / mors crucis / exaltatio.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — novatian_trinitate_12
+- Claim `novatian-trinitate-12-mine` → **salvation-by-christ**.
+- saluabo in Deo / Christus Deus / confessio salutis.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_19
 - Claim `tertullian-de-anima-19-mine` → **image-likeness**.
 - dei flatus / infantia intellegit / ex ore infantium.
