@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — novatian_trinitate_22
+- Claim `novatian-trinitate-22-mine` → **salvation-by-christ**.
+- forma Dei / forma serui / mors crucis / exaltatio.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — novatian_trinitate_12
 - Claim `novatian-trinitate-12-mine` → **salvation-by-christ**.
 - saluabo in Deo / Christus Deus / confessio salutis.
