@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_57
+- Claim `tertullian-de-anima-57-mine` → **reward-and-judgment**.
+- magia / inferi / resurrectio corporalis.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_54
 - Claim `tertullian-de-anima-54-mine` → **reward-and-judgment**.
 - receptus / inferi / sapientium mansiones.
