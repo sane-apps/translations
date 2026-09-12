@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_marcion_2_27
+- Claim `tertullian-marcion-2-27-mine` → **grace-and-assistance**.
+- Creator takes human affections for man’s salvation; Son mixes man/God; whole ‘disgrace’ = sacrament of salvation.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_marcion_3_11
 - Claim `tertullian-marcion-3-11-mine` → **salvation-by-christ**.
 - putative bulk to dodge nativity; birth not more unworthy than cross; truth→flesh→born = Creator’s Christ.
