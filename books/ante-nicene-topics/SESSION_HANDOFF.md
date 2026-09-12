@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — arnobius_nations_2_65
+- Claim `arnobius-nations-2-65-mine` → **free-will**.
+- Forced belief = vis not gratia; unjust to wrench wills; Christ alone gives salvation/perpetuity.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_14
 - Claim `arnobius-nations-2-14-mine` → **reward-and-judgment**.
 - Gehenna vs Plato rivers; mid-quality perish or freed under Christ; true death = long fire for God-ignorant.
