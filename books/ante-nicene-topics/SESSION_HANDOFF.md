@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_44
+- Claim `tertullian-de-anima-44-mine` → **image-likeness**.
+- De An. 44; Hermotimus tale — sleep is not soul secession without death; reject continuous fugitive-soul license.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_47
 - Claim `tertullian-de-anima-47-mine` → **two-ways**.
 - We define that dreams are most often struck in by demons — even if sometimes true and pleasing, yet aiming and capturing, as we said of their industry; how much more the vain, frustrating, foul. No wonder if the images are of those whose affairs they are. But from God…
