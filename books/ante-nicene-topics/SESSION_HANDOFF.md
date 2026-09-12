@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — minucius_octavius_26
+- Claim `minucius-octavius-26-mine` → **fate-and-foreknowledge**.
+- You cited laboriously collected Roman auspices; Clodius, Flaminius, Junius lost armies for not awaiting the sacred chicken-dance — yet Regulus and others show lots do not secure life. Leave bird-omens.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — minucius_octavius_25
 - Claim `minucius-octavius-25-mine` → **true-worship**.
 - They say superstition gave Rome empire by religio/pietas; but nascent Roman “justice” began in crime and blood — not the piety that knows God.
