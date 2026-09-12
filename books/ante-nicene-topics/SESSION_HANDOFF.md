@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_38
+- Claim `tertullian-de-anima-38-mine` → **grace-and-assistance**.
+- Although we already laid down that all natural things of the soul belonging to sense and intellect are in the substance itself from the soul’s inborn census, yet they advance little by little through ages and turn out variously by accidents according to arts, customs, places…
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_24
 - Claim `tertullian-de-anima-24-mine` → **image-likeness**.
 - First I will not grant a soul capable of forgetfulness, because he conceded it such divinity that it is equated to God. He makes it innate — which alone I could have armed as testimony of full divinity — and adds immortal, incorruptible, incorporeal…
