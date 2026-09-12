@@ -1,5 +1,11 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — pulcheria-rf-a12 Pulcheria §§45–48)
+
+- Claim `pulcheria-rf-a12`: rational soul vs Apollinaris; life-giving flesh of the one sent; Word’s own body; one Son receives life as Son of Man; faith the Son of Man seeks; true God become son of man; one Lord Jesus Christ; no two sons after the union; closing doxology (CPG 5220 complete). Pass A ≠ B; Greek locked `greek_clean_a12`.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
 ## 2026-09-12 (Air — pulcheria-rf-a11 Pulcheria §§41–44)
 
 - Claim `pulcheria-rf-a11`: receives all authority in emptying measures; emptied Word exalted to what he was; Father raises yet Son raises own temple; baptized into one death—Word suffered in flesh; Spirit of Jesus; crucified from weakness / lives by God’s power. Pass A ≠ B; Greek locked `greek_clean_a11`.
