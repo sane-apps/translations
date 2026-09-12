@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_carmen_747_786
+- Claim `commodian-carmen-747-786-mine` → **salvation-by-christ**.
+- Carmen 747–786; swine nihilism; one God on wood; virgin destroys death; confess or lose.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
 ## Air mine 2026-09-12 — commodian_carmen_723_745
 - Claim `commodian-carmen-723-745-mine` → **two-ways**.
 - Carmen 723–745; after corrupt 704–722; heirs vs parricide; gentile adoration; idol second death.
