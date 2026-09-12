@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — arnobius_nations_2_31
+- Claim `arnobius-nations-2-31-mine` → **free-will**.
+- Adv. Nat. 2.31: medietas animarum; periculum ex malis; spes bonas; iustitia.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_15
 - Claim `arnobius-nations-2-15-mine` → **image-likeness**.
 - Adv. Nat. 2.15: spes cassas; animas immortales; gradu proximas; ironic perfection.
