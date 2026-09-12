@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_50
+- Claim `commodian-instr-50-mine` → **grace-and-assistance**.
+- Infants seized in sudden war — not reproached; maybe parents’ faults; adults run back to Mother’s womb as reborn; flee the bloody nation.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_31
 - Claim `commodian-instr-31-mine` → **faith-and-obedience**.
 - Self-exaltation; Cruciarium Dominum; Tempera te Christo; without Christ you never lived.
