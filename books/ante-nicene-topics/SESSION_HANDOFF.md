@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — Lactantius Inst. 7.14
+- Claim `lactantius-inst-7-14-mine` closed; excerpt `lactantius_inst_7_14` → **reward-and-judgment**.
+- sola iustitia / aeternae uitae praemium / dies magnus mille annorum; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — Lactantius Inst. 7.11
 - Claim `lactantius-inst-7-11-mine` closed; excerpt `lactantius_inst_7_11` → **reward-and-judgment**.
 - mors terminabitur / resurrectio / perpetuae poenae; Book 7 eschatology lane.
