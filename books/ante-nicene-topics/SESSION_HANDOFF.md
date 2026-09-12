@@ -2328,3 +2328,19 @@
 - Adv. Marc. 2.14: condo mala=poenae; culpa diaboli; iudicium iustum.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_4_13
+- Adv. Marc. 4.13: mons/pax prophetarum; XII figurae; Simon→Petrus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_21
+- Adv. Marc. 1.21: fides Creatoris; disciplina nutat; ecclesiae census apostolici.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_29
+- Adv. Marc. 2.29: antitheses⇒optimus+iudex unus; ordo reformatus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_28
+- Adv. Marc. 1.28: baptisma sine iudicio/generatione; caro exors salutis.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
