@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_55
+- Claim `tertullian-de-anima-55-mine` → **reward-and-judgment**.
+- inferi / paradisus martyrum / sequestrari / dies domini.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_43
 - Claim `tertullian-de-anima-43-mine` → **reward-and-judgment**.
 - somnus / imago mortis / Adam Christus / resurrectio.
