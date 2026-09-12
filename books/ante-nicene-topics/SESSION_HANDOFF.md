@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — minucius_octavius_25
+- Claim `minucius-octavius-25-mine` → **true-worship**.
+- They say superstition gave Rome empire by religio/pietas; but nascent Roman “justice” began in crime and blood — not the piety that knows God.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — minucius_octavius_24
 - Claim `minucius-octavius-24-mine` → **true-worship**.
 - We learn these fables/errors from unskilled parents and worse from studies/poets who wound truth by their authority; Plato therefore expels Homer from the well-ordered state.
