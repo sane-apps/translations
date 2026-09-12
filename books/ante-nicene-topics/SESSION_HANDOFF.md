@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_18
+- Claim `commodian-instr-18-mine` → **true-worship**.
+- Shame for a prudent man to be seduced and call Diana wood; drunk morning prophet demands guts; you worship priests in vain fear; if the heart is alive, flee shrines of death.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_17
 - Claim `commodian-instr-17-mine` → **true-worship**.
 - Ammudas great while gold in temple; Caesar takes gold — numen fails/flees/burns; false prophet seduced many then fell silent; wooden god in the ear; you yourselves want to perish.
