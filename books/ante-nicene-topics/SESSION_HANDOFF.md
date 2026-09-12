@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — minucius_octavius_29
+- Claim `minucius-octavius-29-mine` → **salvation-by-christ**.
+- You charge our religion with a guilty man and his cross — far from the neighborhood of truth; the cross-sign is common in nature and Roman signs; you adore wooden trophies.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — minucius_octavius_27
 - Claim `minucius-octavius-27-mine` → **true-worship**.
 - Impure spirits — demons — lurk under consecrated statues and images; by their breath they fake a present divinity, inspire seers, haunt shrines.
