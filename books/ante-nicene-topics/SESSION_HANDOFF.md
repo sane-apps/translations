@@ -2152,3 +2152,19 @@
 - Adv. Marc. 5.17: recapitulare omnia—Creator’s initium; Ephesians title.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_5_11
+- Adv. Marc. 5.11: benedictus deus / pater misericordiarum = Creator.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_17
+- Adv. Marc. 4.17: fenus→gospel lend; lex procurans euangelio.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_16
+- Adv. Marc. 4.16: love enemies; cheek as Creator patience supplement.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_36
+- Adv. Marc. 4.36: widow/judge; publican; Creator temple prayer.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
