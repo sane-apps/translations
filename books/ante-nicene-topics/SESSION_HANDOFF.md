@@ -2316,3 +2316,15 @@
 - Adv. Marc. 3.16: Auses→Iesus; euangelii gratia; nomen meum super illum.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_1_20
+- Adv. Marc. 1.20: innovatio non restauratio; Paulus=Creatoris nouitas.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_3_6
+- Adv. Marc. 3.6: Iudaei ignorant Christum suum praedictum; non alienum.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_14
+- Adv. Marc. 2.14: condo mala=poenae; culpa diaboli; iudicium iustum.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
