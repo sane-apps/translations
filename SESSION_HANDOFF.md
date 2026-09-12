@@ -1,5 +1,10 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — pulcheria-rf-a9 Pulcheria §§33–36)
+
+- Claim `pulcheria-rf-a9`: post-baptism temptation type; Word as high priest and lamb; passes heavens bodily and divinely; Heb 5 call/obedience; we pray in him as second firstfruit; neither bare man nor fleshless Word—impassible in own flesh. Pass A ≠ B; Greek locked `greek_clean_a9`.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
 ## 2026-09-11 (overnight hang watch)
 
 - Live Mini burn is **HEALTHY** (jer-h8 → done, jer-h5a NVIDIA promote in flight). Do not bootout.
