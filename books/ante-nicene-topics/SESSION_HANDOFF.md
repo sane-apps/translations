@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — minucius_octavius_38
+- Claim `minucius-octavius-38-mine` → **free-will**.
+- vera libertas; non timor; spes futurae felicitatis; vera religio.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — minucius_octavius_35
 - Claim `minucius-octavius-35-mine` → **reward-and-judgment**.
 - ignis sapiens; cruciatus aeterni; ignorantia dei ad poenam.
