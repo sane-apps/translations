@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_12
+- Claim `commodian-instr-12-mine` → **true-worship**.
+- If Invictus born from rock is held a god — seek the rock’s creator; rock conquered the god. You still paint him a thief; if God he would not live by theft; earthly monstrous nature like Cacus.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_7
 - Claim `commodian-instr-7-mine` → **true-worship**.
 - Sun/moon present yet not to be prayed; they do not run by their own will; Omnipotent placed them day four; law forbids adoring them; few empty priests seduce; approach the law-book and learn the true.
