@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_24
+- Claim `commodian-instr-24-mine` → **faith-and-obedience**.
+- Fool refuses Christum cognoscere; harvest ready; tempus vitae credenti; urgues credere Christo.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_13
 - Claim `arnobius-nations-2-13-mine` → **salvation-by-christ**.
 - Do not mock hope in the Father, future resurrection, or care for souls’ salvation; Plato himself urges mind toward God.
