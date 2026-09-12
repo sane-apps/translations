@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — novatian_trinitate_6
+- Claim `novatian-trinitate-6-mine` → **true-worship**.
+- De Trinitate VI; anthropomorphism decoded; Spirit-worship; simple ubiquity.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed; single Latin Library witness on disk.
+
 ## Air mine 2026-09-12 — novatian_trinitate_4
 - Claim `novatian-trinitate-4-mine` → **free-will**.
 - De Trinitate IV; God alone good; evil by will’s withdrawal; unchangeable I AM.
