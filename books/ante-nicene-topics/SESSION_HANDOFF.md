@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — Lactantius Inst. 7.9
+- Claim `lactantius-inst-7-9-mine` closed; excerpt `lactantius_inst_7_9` → **reward-and-judgment**.
+- animarum aeternitas / iudicium dei maximum / saeculorum finis; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — Lactantius Inst. 7.27
 - Claim `lactantius-inst-7-27-mine` closed; excerpt `lactantius_inst_7_27` → **reward-and-judgment**.
 - exhortatio / caelestis thesaurus / aequissimus iudex; Book 7 eschatology lane.
