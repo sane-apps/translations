@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — minucius_octavius_12
+- Claim `minucius-octavius-12-mine` → **reward-and-judgment**.
+- Caecilius taunts: most of you lack, freeze, labor in hunger — and God seems to ignore it; estimate while you live what hangs after death; empty vows of a useless promise.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — minucius_octavius_39
 - Claim `minucius-octavius-39-mine` → **faith-and-obedience**.
 - After Octavius spoke we were long stunned to silence; he had adorned what is easier to feel than to say with arguments, examples, and authorities of readings.
