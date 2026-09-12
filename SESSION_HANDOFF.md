@@ -1,5 +1,10 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — cyril-rf-a22 Arcadia §§85–88)
+
+- Claim `cyril-rf-a22`: true Lord with flesh; sanctified humanly / sanctifies divinely; one from both; firstborn among brothers; own Father; divine will + human hand; David’s Lord from David’s seed; faith toward Christ as toward God. Pass A ≠ B; Greek locked `greek_clean_a22`.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
 ## 2026-09-12 (Air — cyril-rf-a21 Arcadia §§81–84)
 
 - Claim `cyril-rf-a21`: high priest at the right; Jordan shows Word with flesh; receives Spirit humanly / baptizes divinely; bronze-serpent likeness yet life-giving as God. Pass A ≠ B; Greek locked `greek_clean_a21`.
