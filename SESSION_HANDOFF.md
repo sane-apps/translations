@@ -1,5 +1,12 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — lactantius-inst-4-30-mine)
+
+- Claim `lactantius-inst-4-30-mine`: heresies split the people; only the catholic church retains true worship—fountain of truth, temple of God; confession and repentance. Pass A ≠ B; Latin locked CSEL TEI IV.30. Ecclesiology densification (`heresy-schism`).
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
 ## 2026-09-12 (Air — lactantius-inst-4-20-mine)
 
 - Claim `lactantius-inst-4-20-mine`: death opens the sealed testament; new fulfills old; Jeremiah new covenant; light to the nations; adoption into heavenly kingdom. Pass A ≠ B; Latin locked CSEL TEI IV.20.
