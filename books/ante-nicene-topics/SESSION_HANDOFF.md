@@ -2384,3 +2384,19 @@
 - Adv. Marc. 1.25: sola bonitas; Epicurus≠Christus; aemulatio/adfectus.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_3_21
+- Adv. Marc. 3.21: nationes; lex ex Sion=euangelium; pacifer.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_3_17
+- Adv. Marc. 3.17: seruus inglorius; flos Iesse; ouis/medicus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_20
+- Adv. Marc. 2.20: Aegypti uasa=merces; mandatum iustum.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_3_13
+- Adv. Marc. 3.13: uirgo signum; Magi spolia; vs Herodes.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
