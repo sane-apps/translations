@@ -53,6 +53,48 @@
 
 - Claim `pulcheria-rf-a9`: post-baptism temptation type; Word as high priest and lamb; passes heavens bodily and divinely; Heb 5 call/obedience; we pray in him as second firstfruit; neither bare man nor fleshless Word—impassible in own flesh. Pass A ≠ B; Greek locked `greek_clean_a9`.
 
+## 2026-09-12 (Air — lactantius-inst-4-28-mine)
+
+- Claim `lactantius-inst-4-28-mine`: no other hope of life except knowing and serving God; religio vs superstitio; we are religious who pray to the one true God. Pass A ≠ B; Latin locked CSEL TEI IV.28.
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20 / 4.30 / 4.17 / 4.22 / 4.23 / 4.24 / 4.27. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — lactantius-inst-4-27-mine)
+
+- Claim `lactantius-inst-4-27-mine`: cross-sign terrifies demons; adjured through Christ they flee; followers use name and passion-sign; Hermes on Father and Son. Pass A ≠ B; Latin locked CSEL TEI IV.27.
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20 / 4.30 / 4.17 / 4.22 / 4.23 / 4.24. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — lactantius-inst-4-24-mine)
+
+- Claim `lactantius-inst-4-24-mine`: heavenly doctor must be perfect; must put on mortal flesh; subject to death and all passions so he can teach they can be borne. Pass A ≠ B; Latin locked CSEL TEI IV.24.
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20 / 4.30 / 4.17 / 4.22 / 4.23. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — lactantius-inst-4-23-mine)
+
+- Claim `lactantius-inst-4-23-mine`: teacher must do what he commands; philosophers fail; only Christ perfect wise man confirming word by virtue. Pass A ≠ B; Latin locked CSEL TEI IV.23.
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20 / 4.30 / 4.17 / 4.22. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — lactantius-inst-4-22-mine)
+
+- Claim `lactantius-inst-4-22-mine`: objections to divine humility; passion by wondrous reason; without those deeds he could not even be believed God. Pass A ≠ B; Latin locked CSEL TEI IV.22.
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20 / 4.30 / 4.17. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — lactantius-inst-4-17-mine)
+
+- Claim `lactantius-inst-4-17-mine`: Jewish leaders’ pretexts (sabbath, circumcision, swine); new law / living Law; heart circumcision; carnal figures teach spiritual justice. Pass A ≠ B; Latin locked CSEL TEI IV.17.
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20 / 4.30. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
 ## 2026-09-12 (Air — lactantius-inst-4-30-mine)
 
 - Claim `lactantius-inst-4-30-mine`: heresies split the people; only the catholic church retains true worship—fountain of truth, temple of God; confession and repentance. Pass A ≠ B; Latin locked CSEL TEI IV.30. Ecclesiology densification (`heresy-schism`).
