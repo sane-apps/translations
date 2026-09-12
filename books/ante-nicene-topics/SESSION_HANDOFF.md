@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — novatian_trinitate_24
+- Claim `novatian-trinitate-24-mine` → **atonement-recapitulation**.
+- Filius Dei et filius hominis / Emmanuel / utraque substantia.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — novatian_trinitate_22
 - Claim `novatian-trinitate-22-mine` → **salvation-by-christ**.
 - forma Dei / forma serui / mors crucis / exaltatio.
