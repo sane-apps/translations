@@ -1828,3 +1828,15 @@
 - Inst. 3.30: una spes; leave false cult/wisdom; next book shows vera.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Lactantius lactantius_inst_1_4
+- Inst. 1.4: prophets unum Deum; Spirit-filled; not mere human fraud.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_1_19
+- Inst. 1.19: equal honor to others → Maker not culted; unus ac solus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_2_11
+- Inst. 2.11: vs Lucretius earth-uteri; Deus fecit hominem; totum His.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
