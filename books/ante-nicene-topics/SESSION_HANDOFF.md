@@ -2104,3 +2104,19 @@
 - Adv. Marc. 4.42: Pilate/Isaiah/Ps2 passion script = Creator’s Christ.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_5_10
+- Adv. Marc. 5.10: pro mortuis=pro corporibus; Marcion soul-only rejected.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_11
+- Adv. Marc. 2.11: bonitas by nature; seueritas by cause after delictum.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_26
+- Adv. Marc. 1.26: forbid without ultio = tacit permission; no judge.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_16
+- Adv. Marc. 2.16: seueritas/ira as just tools; anti-Epicurus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
