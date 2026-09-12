@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_carmen_723_745
+- Claim `commodian-carmen-723-745-mine` → **two-ways**.
+- Carmen 723–745; after corrupt 704–722; heirs vs parricide; gentile adoration; idol second death.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
 ## Air mine 2026-09-12 — commodian_carmen_672_703
 - Claim `commodian-carmen-672-703-mine` → **two-ways**.
 - Carmen 672–703; after corrupt 671; washings vs heart; idols; two ways; one Lord.
