@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — novatian_trinitate_23
+- Claim `novatian-trinitate-23-mine` → **atonement-recapitulation**.
+- mediator; uerbum caro; sacramentum ante saecula destinatum; salus generis humani.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — novatian_trinitate_16
 - Claim `novatian-trinitate-16-mine` → **fate-and-foreknowledge**.
 - destinatus ad uitam; praedestinatio non posita; Christus in substantia ante mundum.
