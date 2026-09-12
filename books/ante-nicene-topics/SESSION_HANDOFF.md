@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — arnobius_nations_2_18
+- Claim `arnobius-nations-2-18-mine` → **image-likeness**.
+- 2.18: artes earthly inventa; not caeli with souls; scientiolas by practice.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_25
 - Claim `arnobius-nations-2-25-mine` → **image-likeness**.
 - 2.25: divina anima claim fails solitude; schools make learned; beasts learn by use.
