@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_carmen_361_400
+- Claim `commodian-carmen-361-400-mine` → **true-worship**.
+- Carmen 361–400; drinks death/rises; Son sent; God on earth; magician slur vs hardened heart.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
 ## Air mine 2026-09-12 — commodian_carmen_321_360
 - Claim `commodian-carmen-321-360-mine` → **atonement-recapitulation**.
 - Carmen 321–360; tree death/life; Isaiah Servant; God-flesh; Malachi bloodless gentile cult.
