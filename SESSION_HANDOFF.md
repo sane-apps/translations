@@ -1,5 +1,13 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — lactantius-inst-4-12-mine)
+
+- Claim `lactantius-inst-4-12-mine`: Spirit fills the virgin; Emmanuel = God with us in flesh; Jesus the Savior; Daniel’s son of man; two advents (announce / reign). Pass A ≠ B; Latin locked CSEL TEI IV.12.
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13. Merge hygiene deferred. Cyprian still 465.
+- Also this Air slice: `cyril-rf-a24` §§93–96; `cyril-rf-a25` §§97–100 (**CPG 5219 complete**).
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
 ## 2026-09-12 (Air — lactantius-inst-4-13-mine)
 
 - Claim `lactantius-inst-4-13-mine`: teacher of justice from heaven; Son born twice (ἀπάτωρ / ἀμήτωρ); middle substance God and human; prophets witness God and man; church the true temple (not Solomon’s walls). Pass A ≠ B; Latin locked CSEL TEI IV.13.
