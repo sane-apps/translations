@@ -1,3 +1,28 @@
+## Air mine 2026-09-12 — tertullian_de_anima_55
+- Claim `tertullian-de-anima-55-mine` → **reward-and-judgment**.
+- inferi / paradisus martyrum / sequestrari / dies domini.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — tertullian_de_anima_43
+- Claim `tertullian-de-anima-43-mine` → **reward-and-judgment**.
+- somnus / imago mortis / Adam Christus / resurrectio.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — tertullian_de_anima_21
+- Claim `tertullian-de-anima-21-mine` → **grace-and-assistance**.
+- gratia / αὐτεξούσιον / natura conuertitur / renasci.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — tertullian_de_anima_20
+- Claim `tertullian-de-anima-20-mine` → **free-will**.
+- sortes / fatum / arbitrii libertas / Adam matrix.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — tertullian_de_anima_16
+- Claim `tertullian-de-anima-16-mine` → **sin-and-death**.
+- serpens / inrationale / delictum / diabolus.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_58
 - Claim `tertullian-de-anima-58-mine` → **reward-and-judgment**.
 - inferi / supplicia refrigeria / Lazarus / iudicium.
