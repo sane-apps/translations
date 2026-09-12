@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_paenitentia_7
+- Claim `tertullian-paenitentia-7-mine` → **faith-and-obedience**.
+- ultima spes / paenitentia secunda / vestibulo / Nemo deterior.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — tertullian_paenitentia_6
 - Claim `tertullian-paenitentia-6-mine` → **baptism-and-new-birth**.
 - novitiolis / intinctio / lavacrum obsignatio fidei / corde loti.
