@@ -2168,3 +2168,19 @@
 - Adv. Marc. 4.36: widow/judge; publican; Creator temple prayer.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_4_10
+- Adv. Marc. 4.10: paralytic; solus deus remits; Isaiah.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_12
+- Adv. Marc. 4.12: sabbath quarrel ⇒ Creator’s Christ; institution≠divinity.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_3_24
+- Adv. Marc. 3.24: Abraham’s bosom; Creator strikes/heals; hope.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_15
+- Adv. Marc. 4.15: fathers vs prophets; Christ asertor Creatoris.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
