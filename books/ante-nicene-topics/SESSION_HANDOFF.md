@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_carmen_1_40
+- Claim `commodian-carmen-1-40-mine` → **true-worship**.
+- Carmen 1–40; conversion from error; law-lamp; one God; man made for praise not beast-life.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
 ## Air mine 2026-09-12 — commodian_instr_26
 - Claim `commodian-instr-26-mine` → **reward-and-judgment**.
 - Instr. 26; fool — death not void; God lives; Christ returns living from dead; deeds hold.
