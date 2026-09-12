@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — minucius_octavius_31
+- Claim `minucius-octavius-31-mine` → **true-worship**.
+- The demons’ coalition invented the incest-banquet tale to stain chastity’s glory and scare people before truth is examined; even Fronto spoke as orator, not as proving witness.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — minucius_octavius_29
 - Claim `minucius-octavius-29-mine` → **salvation-by-christ**.
 - You charge our religion with a guilty man and his cross — far from the neighborhood of truth; the cross-sign is common in nature and Roman signs; you adore wooden trophies.
