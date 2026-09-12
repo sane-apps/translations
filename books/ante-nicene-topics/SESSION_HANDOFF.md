@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_46
+- Claim `commodian-instr-46-mine` → **faith-and-obedience**.
+- Faithful: brother-hatred counted to fire for martyrs; washed once — do not drag suits; cannot be re-dipped.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_39
 - Claim `commodian-instr-39-mine` → **atonement-recapitulation**.
 - Another part of the law: you will see life hung on wood; Ipse Deus uita est, pependit ipse pro nobis.
