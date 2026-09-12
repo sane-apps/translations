@@ -60,3 +60,9 @@ Translate from locked `*_source.json` (Pass A/B) → DOCX → site (era banner; 
 
 - Claim **cyril-rf-a5** done: Arcadia §§17–20 Pass A≠B (scripture catena heads + Rom 1–4/7 argument that Christ is God).
 - Next: `cyril-rf-a6` from §21 / continuing Pauline catena.
+
+
+## State update 20260912T053538Z
+
+- Claim **cyril-rf-a6** done: Arcadia §§21–24 Pass A≠B (Rom 8 Spirit of Christ; love/judgment; gospel ministry; 1 Cor church/cross).
+- Next: `cyril-rf-a7` from §25.
