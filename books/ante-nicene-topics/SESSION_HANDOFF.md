@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_58
+- Claim `commodian-instr-58-mine` → **true-worship**.
+- Christian matron ≠ world: gold/silk/paint; God inspects hearts; Tabitha raised by widows’ prayers for giving; show riches by dona not toilette.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_55
 - Claim `commodian-instr-55-mine` → **faith-and-obedience**.
 - Dissemble not the trumpet-heralded law; Domini uox in prophets; do not abuse mandates while claiming sonship; Omnipotens seeks meek sons.
