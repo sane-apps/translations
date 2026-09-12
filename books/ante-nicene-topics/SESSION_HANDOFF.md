@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — Lactantius Inst. 7.19
+- Claim `lactantius-inst-7-19-mine` closed; excerpt `lactantius_inst_7_19` → **reward-and-judgment**.
+- liberator e caelo / secundus aduentus / nox uigiliae; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — Lactantius Inst. 7.18
 - Claim `lactantius-inst-7-18-mine` closed; excerpt `lactantius_inst_7_18` → **reward-and-judgment**.
 - Hystaspes / Hermes / filius a patre mittendus; Book 7 eschatology lane.
