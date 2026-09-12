@@ -2088,3 +2088,19 @@
 - Adv. Marc. 1.22: delayed bonitas not natural; mora=malignitas.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_5_8
+- Adv. Marc. 5.8: caput/auctor; imago Creatoris; no alien head.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_9
+- Adv. Marc. 5.9: apostle guards carnis resurrectio; Christ a primordio.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_38
+- Adv. Marc. 4.38: John’s baptisma de caelis = Creator’s sacramentum.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_42
+- Adv. Marc. 4.42: Pilate/Isaiah/Ps2 passion script = Creator’s Christ.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
