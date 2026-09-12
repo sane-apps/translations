@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — arnobius_nations_2_15
+- Claim `arnobius-nations-2-15-mine` → **image-likeness**.
+- Adv. Nat. 2.15: spes cassas; animas immortales; gradu proximas; ironic perfection.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_4
 - Claim `arnobius-nations-2-4-mine` → **faith-and-obedience**.
 - Adv. Nat. 2.4: non impietatem docuisse; Non credimus; spes / salutis amissio.
