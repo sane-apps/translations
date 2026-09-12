@@ -1,5 +1,10 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — cyril-rf-a21 Arcadia §§81–84)
+
+- Claim `cyril-rf-a21`: high priest at the right; Jordan shows Word with flesh; receives Spirit humanly / baptizes divinely; bronze-serpent likeness yet life-giving as God. Pass A ≠ B; Greek locked `greek_clean_a21`.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
 ## 2026-09-12 (Air — cyril-rf-a20 Arcadia §§77–80)
 
 - Claim `cyril-rf-a20`: Gal 4 Spirit of the Son; Eph 4 one ascending–descending Lord; Phil 2 kenosis/exaltation of the economy; Col 1 image/firstborn from dead in own flesh; Heb 1–2 radiance by own blood; sanctifier/sanctified one Son. Pass A ≠ B; Greek locked `greek_clean_a20`.
