@@ -2120,3 +2120,19 @@
 - Adv. Marc. 2.16: seueritas/ira as just tools; anti-Epicurus.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_2_9
+- Adv. Marc. 2.9: adflatus≠spiritus; imago can sin.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_5
+- Adv. Marc. 5.5: gratia/pax → offended Creator Father.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_12
+- Adv. Marc. 2.12: bonitas+iustitia one Creator; creation separations.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_3_14
+- Adv. Marc. 3.14: sword=Word; truth/mildness/justice.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
