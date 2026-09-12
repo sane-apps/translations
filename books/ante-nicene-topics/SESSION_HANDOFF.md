@@ -1704,3 +1704,15 @@
 - Fabrica eighth day: judicium; millennial sabbath; seven spirits on Christ/Verbum.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Victorinus victorinus_fabrica_parasceve_sabbath
+- Fabrica parasceve/sabbath: station; Dominico ad panem; non cum Judaeis.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Victorinus victorinus_fabrica_seven_signs
+- Fabrica sevens: cornua/spiritus/ecclesiae/signacula/Pentecost.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Victorinus victorinus_fabrica_twelve_angels
+- Fabrica twelve angels: day/night hours; 24 elders before throne.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
