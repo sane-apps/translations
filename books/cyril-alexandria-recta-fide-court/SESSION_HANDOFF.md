@@ -91,3 +91,4 @@ Translate from locked `*_source.json` (Pass A/B) → DOCX → site (era banner; 
 - 2026-09-12: **pulcheria-rf-a4** §§13–16 Pass A≠B (greek_clean_a4; day unknown; forsaken cry; Phil 2 kenosis vs two Christs).
 - 2026-09-12: **pulcheria-rf-a5** §§17–20 Pass A≠B (greek_clean_a5; Phil Name; Col firstborn/fullness; against two Christs; Rom obedience).
 - 2026-09-12: **pulcheria-rf-a6** §§21–24 Pass A≠B (greek_clean_a6; Rom obedience/servant; raised body; kenosis/Heb priest; serve/receive; descent).
+- 2026-09-12: **pulcheria-rf-a7** Pulcheria §§25–28 Pass A≠B (greek_clean_a7; temple-first/anti-two-sons/Father-perfects/death-held nature).
