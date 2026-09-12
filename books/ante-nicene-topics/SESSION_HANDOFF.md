@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_21
+- Claim `tertullian-de-anima-21-mine` → **grace-and-assistance**.
+- gratia / αὐτεξούσιον / natura conuertitur / renasci.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_20
 - Claim `tertullian-de-anima-20-mine` → **free-will**.
 - sortes / fatum / arbitrii libertas / Adam matrix.
