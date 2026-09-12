@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_38
+- Claim `commodian-instr-38-mine` → **salvation-by-christ**.
+- Leah = synagogue type; Rachel beloved = church mystery; Rebecca word so you may believe in Christ; younger approved in Christ.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_37
 - Claim `commodian-instr-37-mine` → **reward-and-judgment**.
 - Stiff-necked refuse defeat → disinherited; Isaiah hardened heart; scorn second law → unworthy of kingdom of heaven.
