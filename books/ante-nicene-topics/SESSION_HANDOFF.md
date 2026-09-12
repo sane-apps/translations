@@ -1,3 +1,23 @@
+## Air mine 2026-09-12 — arnobius_nations_2_51
+- Claim `arnobius-nations-2-51-mine` → **faith-and-obedience**.
+- 2.51: deny regiae suboles; suspicio != cognitio; nescire honest.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_27
+- Claim `arnobius-nations-2-27-mine` → **image-likeness**.
+- 2.27: oblivion => passibility; passio leti ianua; life usu not mancipio.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_68
+- Claim `arnobius-nations-2-68-mine` → **true-worship**.
+- 2.68: pagan rite changes; Christians choose maiora/certiora vs false religions.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_39
+- Claim `arnobius-nations-2-39-mine` → **image-likeness**.
+- 2.39: reductio vs rex mundi sending deae-souls into deceit/idolatry/error.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_47
 - Claim `arnobius-nations-2-47-mine` → **image-likeness**.
 - 2.47: God not necessarily soul-genitor; ignorance OK; pest analogy.
