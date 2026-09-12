@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — arnobius_nations_2_9
+- Claim `arnobius-nations-2-9-mine` → **faith-and-obedience**.
+- Adv. Nat. 2.9: fidei astipulatione; credit auctoribus.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_7
 - Claim `arnobius-nations-2-7-mine` → **faith-and-obedience**.
 - Adv. Nat. 2.7: nescire; suspiciones; opinio scientiae; Phaedrus/Theaetetus.
