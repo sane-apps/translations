@@ -1,3 +1,23 @@
+## Air mine 2026-09-12 — arnobius_nations_2_25
+- Claim `arnobius-nations-2-25-mine` → **image-likeness**.
+- 2.25: divina anima claim fails solitude; schools make learned; beasts learn by use.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_22
+- Claim `arnobius-nations-2-22-mine` → **image-likeness**.
+- 2.22: isolation test; no innate disciplines; duller than beast/log/rock.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_76
+- Claim `arnobius-nations-2-76-mine` → **faith-and-obedience**.
+- 2.76: persecution objection; nihil ad hanc vitam; pagan gods also fail.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_54
+- Claim `arnobius-nations-2-54-mine` → **free-will**.
+- 2.54: not cuncta by God's will; else mala from him; evils real vs denial.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_51
 - Claim `arnobius-nations-2-51-mine` → **faith-and-obedience**.
 - 2.51: deny regiae suboles; suspicio != cognitio; nescire honest.
