@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_19
+- Claim `commodian-instr-19-mine` → **true-worship**.
+- You say Titans are your guardians; thus you ask Mute and Silent goddesses under your roof — vain hush-cult.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_14
 - Claim `commodian-instr-14-mine` → **true-worship**.
 - Hercules crushed Aventine monster; used to steal Evander’s herds — strength and theft do not make a god.
