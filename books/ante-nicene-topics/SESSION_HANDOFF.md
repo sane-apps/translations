@@ -1676,3 +1676,15 @@
 - Oct. 10: no arae/templa; unicus deus; ubique curiosus mock.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Minucius minucius_octavius_13
+- Oct. 13: supra nos nihil ad nos; dubia relinquenda; religio vs superstitio dilemma.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Minucius minucius_octavius_14
+- Oct. 14: veritas not laus; incredibile verum vs verisimile mendacium.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Minucius minucius_octavius_15
+- Oct. 15: rerum soliditas vs eloquentiae tumor.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
