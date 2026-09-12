@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_13
+- Claim `tertullian-de-anima-13-mine` → **image-likeness**.
+- What remains is to see where principalitas sits — what rules what — so the substance-mass is that whose primacy appears. Who will not give the soul the whole sum, by whose name the whole man’s mention is titled?
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_15
 - Claim `tertullian-de-anima-15-mine` → **image-likeness**.
 - First, whether there is some highest vital and sapiential grade in the soul, which they call hegemonikon, i.e. principal — for if it is denied, the whole status of the soul is endangered.
