@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_37
+- Claim `commodian-instr-37-mine` → **reward-and-judgment**.
+- Stiff-necked refuse defeat → disinherited; Isaiah hardened heart; scorn second law → unworthy of kingdom of heaven.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_32
 - Claim `commodian-instr-32-mine` → **salvation-by-christ**.
 - Wild flock without shepherd; take Domini figuram; enter stables; believe one God to live when dead and rise in the kingdom.
