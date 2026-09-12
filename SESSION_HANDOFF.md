@@ -53,6 +53,27 @@
 
 - Claim `pulcheria-rf-a9`: post-baptism temptation type; Word as high priest and lamb; passes heavens bodily and divinely; Heb 5 call/obedience; we pray in him as second firstfruit; neither bare man nor fleshless Word—impassible in own flesh. Pass A ≠ B; Greek locked `greek_clean_a9`.
 
+## 2026-09-12 (Air — lactantius-inst-4-30-mine)
+
+- Claim `lactantius-inst-4-30-mine`: heresies split the people; only the catholic church retains true worship—fountain of truth, temple of God; confession and repentance. Pass A ≠ B; Latin locked CSEL TEI IV.30. Ecclesiology densification (`heresy-schism`).
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — lactantius-inst-4-20-mine)
+
+- Claim `lactantius-inst-4-20-mine`: death opens the sealed testament; new fulfills old; Jeremiah new covenant; light to the nations; adoption into heavenly kingdom. Pass A ≠ B; Latin locked CSEL TEI IV.20.
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — lactantius-inst-4-16-mine)
+
+- Claim `lactantius-inst-4-16-mine`: passion with divine reason; Christ himself virtue/justice; plot foretold (Wisdom / Ps 1); two advents; Isaiah 53 bruise heals. Pass A ≠ B; Latin locked CSEL TEI IV.16.
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
 ## 2026-09-12 (Air — lactantius-inst-4-21-mine)
 
 - Claim `lactantius-inst-4-21-mine`: ascension; disciples lay church foundations everywhere; equipped with power; Peter/Paul preach at Rome. Pass A ≠ B; Latin locked CSEL TEI IV.21. Ecclesiology densification (`apostolic-succession`).
