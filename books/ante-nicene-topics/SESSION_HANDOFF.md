@@ -2200,3 +2200,19 @@
 - Adv. Marc. 4.30: sabbath ox confirms law; mustard hortus Creatoris.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_2_15
+- Adv. Marc. 2.15: iustitia iudicis; patres/filii; uua acida.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_17
+- Adv. Marc. 2.17: iudex protects bonitas; rain; patience/repentance.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_4
+- Adv. Marc. 5.4: semen Abrahae=Christus; plenitudo temporis.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_14
+- Adv. Marc. 4.14: beati mendici; Creator blessings/fonts.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
