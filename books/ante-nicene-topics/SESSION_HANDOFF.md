@@ -1647,3 +1647,44 @@
 - Claim `lactantius-inst-4-26-mine` closed; excerpt `lactantius_inst_4_26`.
 - Beyond 2.17 / 5.18 / 4.25; cross-reason + Passover blood figure; Cyprian still 465.
 - Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine Minucius minucius_octavius_5
+- Oct. 5: Caecilius fortuna vs providentia; mediocritas humana.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Minucius minucius_octavius_11
+- Oct. 11: incendium/resurrectio/poena; sors vs voluntas charge.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Minucius minucius_octavius_7
+- Oct. 7: auguria/sacra; omen disasters; numina praesentia.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Minucius minucius_octavius_6
+- Oct. 6: religiones traditas; local gods; vetustas=sanctitas.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Minucius minucius_octavius_8
+- Oct. 8: gentium consensio; lucifuga faction vs temples/gods.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Minucius minucius_octavius_9
+- Oct. 9: calumniae (asinus/crux/infans/convivium) as two-ways foil.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Minucius minucius_octavius_10
+- Oct. 10: no arae/templa; unicus deus; ubique curiosus mock.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Minucius minucius_octavius_13
+- Oct. 13: supra nos nihil ad nos; dubia relinquenda; religio vs superstitio dilemma.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Minucius minucius_octavius_14
+- Oct. 14: veritas not laus; incredibile verum vs verisimile mendacium.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Minucius minucius_octavius_15
+- Oct. 15: rerum soliditas vs eloquentiae tumor.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
