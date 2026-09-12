@@ -1,5 +1,29 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — Cyril Adoration Book 5 CLOSEOUT)
+
+- Book 5 English OET **26/26** Pass A≠B. Tips: §§1–10 `98121d3`; §§11–20 `bb17175`; §§21–26 CLOSEOUT `0532c6c`; CLAIMS stamp `d1fbaa0`.
+- Melito skipped. Never Cyril Matthew. `jer-h20b` intact. No Logos/`build_book.py`.
+- Next: Book 6 (same slug) unless owner redirects.
+
+## 2026-09-12 (Air — Cyril Adoration Book 5 §§21–26 CLOSEOUT tip)
+
+- Claim `cyril-adoration5-21-26-oet`: Book 5 §§21–26 Pass A≠B OET CLOSEOUT (26/26). Trumpets/Gospels; Reuben–Gad; called vs chosen; Deut courage close.
+- Melito skipped. Never Cyril Matthew. `jer-h20b` intact.
+- Tip pending SHA stamp after `bb17175`. Next: Book 6 (same slug) unless owner redirects.
+
+## 2026-09-12 (Air — Cyril Adoration Book 5 §§11–20 tip)
+
+- Claim `cyril-adoration5-11-20-oet`: Book 5 §§11–20 Pass A≠B OET (Marah wood→Christ; Taberah/serpents; ark/cloud; manna/quail; tent/cloud; silver trumpets). Tip `bb17175` after `98121d3`.
+- Melito skipped. Never Cyril Matthew. `jer-h20b` intact.
+- Next: Book 5 §§21–26 CLOSEOUT (26/26).
+
+## 2026-09-12 (Air — Cyril Adoration Book 5 §§1–10 tip)
+
+- Claim `cyril-adoration5-1-10-oet`: Book 5 Greek ingested (26 §§, PG 68.360–68.408); §§1–10 Pass A≠B OET (no previous complete English). Theme: ἀνδρεία ἐν Χριστῷ (Jericho/Achan/Ai). Tip `98121d3`.
+- Melito skipped. Never Cyril Matthew. `jer-h20b` intact. No Logos/`build_book.py`.
+- Next: Book 5 §§11–20, then §§21–26 CLOSEOUT (26/26).
+
 ## 2026-09-12 (Air — lactantius-inst-6-25-mine)
 
 - Claim `lactantius-inst-6-25-mine`: Inst. 6.25 incorporeal gift and praise / heart-temple / completed justice Pass A ≠ B; Latin locked CSEL TEI 6.25.
