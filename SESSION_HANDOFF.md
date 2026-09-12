@@ -33,6 +33,27 @@
 - Claim `cyril-rf-a20`: Gal 4 Spirit of the Son; Eph 4 one ascending–descending Lord; Phil 2 kenosis/exaltation of the economy; Col 1 image/firstborn from dead in own flesh; Heb 1–2 radiance by own blood; sanctifier/sanctified one Son. Pass A ≠ B; Greek locked `greek_clean_a20`.
 - `jer-h20b` intact. No site CSS. Melito skipped.
 
+## 2026-09-12 (Air — pulcheria-rf-a12 Pulcheria §§45–48)
+
+- Claim `pulcheria-rf-a12`: rational soul vs Apollinaris; life-giving flesh of the one sent; Word’s own body; one Son receives life as Son of Man; faith the Son of Man seeks; true God become son of man; one Lord Jesus Christ; no two sons after the union; closing doxology (CPG 5220 complete). Pass A ≠ B; Greek locked `greek_clean_a12`.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — pulcheria-rf-a11 Pulcheria §§41–44)
+
+- Claim `pulcheria-rf-a11`: receives all authority in emptying measures; emptied Word exalted to what he was; Father raises yet Son raises own temple; baptized into one death—Word suffered in flesh; Spirit of Jesus; crucified from weakness / lives by God’s power. Pass A ≠ B; Greek locked `greek_clean_a11`.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+## 2026-09-12 (Air — pulcheria-rf-a10 Pulcheria §§37–40)
+
+- Claim `pulcheria-rf-a10`: one offering of own body; weak in flesh / beyond weakness as God; sits at right yet ministers; own blood once; appears not as naked Word; crucified Lord of glory receives glory economically. Pass A ≠ B; Greek locked `greek_clean_a10`.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+## 2026-09-12 (Air — pulcheria-rf-a9 Pulcheria §§33–36)
+
+- Claim `pulcheria-rf-a9`: post-baptism temptation type; Word as high priest and lamb; passes heavens bodily and divinely; Heb 5 call/obedience; we pray in him as second firstfruit; neither bare man nor fleshless Word—impassible in own flesh. Pass A ≠ B; Greek locked `greek_clean_a9`.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
 ## 2026-09-11 (overnight hang watch)
 
 - Live Mini burn is **HEALTHY** (jer-h8 → done, jer-h5a NVIDIA promote in flight). Do not bootout.

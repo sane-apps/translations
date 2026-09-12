@@ -92,3 +92,22 @@ Translate from locked `*_source.json` (Pass A/B) → DOCX → site (era banner; 
 - 2026-09-12: **cyril-rf-a17** Arcadia §§65–68 Pass A≠B (greek_clean_a17; 1 John flesh/antichrist; water-blood-Spirit; Jordan/Jairus union; sealed/hilasterion).
 - 2026-09-12: **cyril-rf-a18** Arcadia §§69–72 Pass A≠B (greek_clean_a18; blood-redemption/second Adam/Eph near/mediator impassible-passible).
 - 2026-09-12: **cyril-rf-a19** Arcadia §§73–76 Pass A≠B (greek_clean_a19; grain-glory/hypostasis/right-hand/Rom14 lordship/2 Cor 5:16).
+- 2026-09-12: **cyril-rf-a20** Arcadia §§77–80 Pass A≠B (greek_clean_a20; Gal4/Eph/Phil/Col/Heb).
+- 2026-09-12: **cyril-rf-a21** Arcadia §§81–84 Pass A≠B (greek_clean_a21; priest/Jordan/Spirit/serpent).
+- 2026-09-12: **cyril-rf-a22** Arcadia §§85–88 Pass A≠B (greek_clean_a22; sanctify/firstborn/David Lord).
+- 2026-09-12: **cyril-rf-a23** Arcadia §§89–92 Pass A≠B (greek_clean_a23; stumbling-stone/Emmanuel).
+- 2026-09-12: **cyril-rf-a24** Arcadia §§93–96 Pass A≠B (greek_clean_a24; faith-as-to-God/manifested-in-flesh).
+- 2026-09-12: **cyril-rf-a25** Arcadia §§97–100 Pass A≠B (greek_clean_a25; CPG 5219 complete).
+
+- 2026-09-12: **pulcheria-rf-a1** CPG 5220 §§1–4 Pass A≠B (greek_clean_a1; dedication, one Son, kenosis, second Adam).
+- 2026-09-12: **pulcheria-rf-a2** CPG 5220 §§5–8 Pass A≠B (poverty/curse/Heb 2 priest-victim).
+- 2026-09-12: **pulcheria-rf-a3** §§9–12 Pass A≠B (greek_clean_a3; Jews/seed/sent; lift Son of Man; not two Christs; kenosis growth).
+- 2026-09-12: **pulcheria-rf-a4** §§13–16 Pass A≠B (greek_clean_a4; day unknown; forsaken cry; Phil 2 kenosis vs two Christs).
+- 2026-09-12: **pulcheria-rf-a5** §§17–20 Pass A≠B (greek_clean_a5; Phil Name; Col firstborn/fullness; against two Christs; Rom obedience).
+- 2026-09-12: **pulcheria-rf-a6** §§21–24 Pass A≠B (greek_clean_a6; Rom obedience/servant; raised body; kenosis/Heb priest; serve/receive; descent).
+- 2026-09-12: **pulcheria-rf-a7** Pulcheria §§25–28 Pass A≠B (greek_clean_a7; temple-first/anti-two-sons/Father-perfects/death-held nature).
+- 2026-09-12: **pulcheria-rf-a8** Pulcheria §§29–32 Pass A≠B (greek_clean_a8; Heb2 from-one / 1Tim3:16 / Spirit own / receive-give).
+- 2026-09-12: **pulcheria-rf-a9** Pulcheria §§33–36 Pass A≠B (greek_clean_a9; high priest/heavens).
+- 2026-09-12: **pulcheria-rf-a10** Pulcheria §§37–40 Pass A≠B (greek_clean_a10; own-body offering/Lord of glory).
+- 2026-09-12: **pulcheria-rf-a11** Pulcheria §§41–44 Pass A≠B (greek_clean_a11; authority/raise temple/Spirit of Jesus).
+- 2026-09-12: **pulcheria-rf-a12** Pulcheria §§45–48 Pass A≠B (greek_clean_a12; CPG 5220 complete).
