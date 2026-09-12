@@ -2432,3 +2432,19 @@
 - Adv. Marc. 4.32: ouis/drachma Creatoris; paenitentia.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_1_4
+- Adv. Marc. 1.4: regna non exemplar; nulli communicandum.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_6
+- Adv. Marc. 1.6: dispares dii; diuinitas negat diuersitatem.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_3
+- Adv. Marc. 2.3: noluit latere; bonitas aeterna.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_3_10
+- Adv. Marc. 3.10: ueritas carnis vs phantasma.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
