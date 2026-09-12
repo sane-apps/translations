@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_10
+- Claim `commodian-instr-10-mine` → **true-worship**.
+- Apollo as lyre-player and diviner; born of adultery at Delos; false lots; leave sortilege; God’s law speaks truly.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_9
 - Claim `commodian-instr-9-mine` → **true-worship**.
 - Neptune from Saturn with trident to spear fish; you make him sea-god; watery creature / earthly tale — not to be prayed.
