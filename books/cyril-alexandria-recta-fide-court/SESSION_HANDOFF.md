@@ -84,3 +84,4 @@ Translate from locked `*_source.json` (Pass A/B) → DOCX → site (era banner; 
 - Claim **cyril-rf-a9** done: Arcadia §§33–36 Pass A≠B (2 Cor 10 captive thoughts; Gal law/faith/Spirit; baptism/cross/Eph seating & indwelling; Phil refuse / Col mystery).
 - Next: `cyril-rf-a10` from §37.
 - 2026-09-12: **cyril-rf-a11** Arcadia §§41–44 Pass A≠B (greek_clean_a11; Tim/Titus Savior; James gifts; 1 Pet sanctification/Spirit; 2 Pet/1 John/Jude Master).
+- 2026-09-12: **cyril-rf-a12** Arcadia §§45–48 Pass A≠B (greek_clean_a12; Matt infancy/Spirit-baptism/harvest/yoke/temple).
