@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_27
+- Claim `commodian-instr-27-mine` → **salvation-by-christ**.
+- Justice/goodness → live after fate; earthly judges preview; do not mock heavenly God; hand yourself to Christ for good deeds to follow.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_42
 - Claim `commodian-instr-42-mine` → **reward-and-judgment**.
 - Trumpet/lion; Dominus ends silence; fire judges iniquos; iustos non tanget ignis.
