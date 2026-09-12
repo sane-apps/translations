@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_47
+- Claim `commodian-instr-47-mine` → **faith-and-obedience**.
+- Birds/beasts snared; humans have lex/doctrina vitae; do not sin against the king; washed → have charity; avoid death’s bait; bloodless martyrdoms.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_28
 - Claim `commodian-instr-28-mine` → **reward-and-judgment**.
 - Rich delays; says no hope when dead; ungrateful to God who made/feeds him; learn God; if you disbelieve → tartarus; eternal spiritual penalty.
