@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_carmen_921_960
+- Claim `commodian-carmen-921-960-mine` → **two-ways**.
+- Carmen 921–960; twin antifigures; sealed tribes beyond Persia; green return.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
 ## Air mine 2026-09-12 — commodian_carmen_881_920
 - Claim `commodian-carmen-881-920-mine` → **reward-and-judgment**.
 - Carmen 881–920; Nero span closed; eastern king; Rome stripped and burned.
