@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_54
+- Claim `tertullian-de-anima-54-mine` → **reward-and-judgment**.
+- receptus / inferi / sapientium mansiones.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_27
 - Claim `tertullian-de-anima-27-mine` → **image-likeness**.
 - limus flatus / faciamus hominem / simul concipi.
