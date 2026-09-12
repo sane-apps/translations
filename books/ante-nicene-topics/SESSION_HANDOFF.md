@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — Lactantius Inst. 7.23
+- Claim `lactantius-inst-7-23-mine` closed; excerpt `lactantius_inst_7_23` → **reward-and-judgment**.
+- non renascentur sed resurgent / anastasis; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — Lactantius Inst. 7.22
 - Claim `lactantius-inst-7-22-mine` closed; excerpt `lactantius_inst_7_22` → **reward-and-judgment**.
 - poetae de resurrectione / non fabula sed ueritas; Book 7 eschatology lane.
