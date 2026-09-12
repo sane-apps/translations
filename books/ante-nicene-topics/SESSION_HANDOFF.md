@@ -1,3 +1,28 @@
+## Air mine 2026-09-12 — minucius_octavius_37
+- Claim `minucius-octavius-37-mine` → **faith-and-obedience**.
+- spectaculum deo; miles dei; patientia; notitia dei.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — minucius_octavius_34
+- Claim `minucius-octavius-34-mine` → **reward-and-judgment**.
+- incendium mundi; denuo reformari; elementorum custodia.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — minucius_octavius_22
+- Claim `minucius-octavius-22-mine` → **true-worship**.
+- simulacra; artifex; dedicatio; nosse ante colere.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — minucius_octavius_17
+- Claim `minucius-octavius-17-mine` → **fate-and-foreknowledge**.
+- a deo factus; divina ratio; non frustis temere; summus moderator.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — minucius_octavius_33
+- Claim `minucius-octavius-33-mine` → **universal-call**.
+- una domus mundus; pauci deo; deus omnium.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — novatian_trinitate_31
 - Claim `novatian-trinitate-31-mine` → **salvation-by-christ**.
 - sermo ex uoluntate Patris; nihil ex arbitrio; oboedientia; mediator.
