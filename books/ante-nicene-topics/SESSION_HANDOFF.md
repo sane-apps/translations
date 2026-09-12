@@ -2056,3 +2056,131 @@
 - Inst. 5.6: cupiditas; tyrant self-adoration; iustitia flees with desertio religionis.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_2_6
+- Adv. Marc. 2.6: imago=libertas arbitrii; merces for uoluntas not necessitas.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_24
+- Adv. Marc. 2.24: paenitentia dei=conuersio sententiae; malitia judicial.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_14
+- Adv. Marc. 5.14: similitudo carnis peccati; true flesh; body rise.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_16
+- Adv. Marc. 5.16: retributor meriti; deleted flame; Creator ueritas/salus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_7
+- Adv. Marc. 2.7: God secedes from granted libertas; intervening would rescind.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_27
+- Adv. Marc. 1.27: bonitas imaginaria; abici=damnation needing a judge.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_13
+- Adv. Marc. 5.13: gospel/wrath/judgment → Creator’s Christ; dispositions not gods.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_22
+- Adv. Marc. 1.22: delayed bonitas not natural; mora=malignitas.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_8
+- Adv. Marc. 5.8: caput/auctor; imago Creatoris; no alien head.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_9
+- Adv. Marc. 5.9: apostle guards carnis resurrectio; Christ a primordio.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_38
+- Adv. Marc. 4.38: John’s baptisma de caelis = Creator’s sacramentum.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_42
+- Adv. Marc. 4.42: Pilate/Isaiah/Ps2 passion script = Creator’s Christ.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_10
+- Adv. Marc. 5.10: pro mortuis=pro corporibus; Marcion soul-only rejected.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_11
+- Adv. Marc. 2.11: bonitas by nature; seueritas by cause after delictum.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_26
+- Adv. Marc. 1.26: forbid without ultio = tacit permission; no judge.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_16
+- Adv. Marc. 2.16: seueritas/ira as just tools; anti-Epicurus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_9
+- Adv. Marc. 2.9: adflatus≠spiritus; imago can sin.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_5
+- Adv. Marc. 5.5: gratia/pax → offended Creator Father.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_2_12
+- Adv. Marc. 2.12: bonitas+iustitia one Creator; creation separations.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_3_14
+- Adv. Marc. 3.14: sword=Word; truth/mildness/justice.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_34
+- Adv. Marc. 4.34: diuortium—duritia vs a primordio one flesh.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_29
+- Adv. Marc. 4.29: ravens/lilies → Creator forbids anxious care.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_28
+- Adv. Marc. 4.28: hypocrisis vs Creator; nihil opertum ≠ unknown god.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_17
+- Adv. Marc. 5.17: recapitulare omnia—Creator’s initium; Ephesians title.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_5_11
+- Adv. Marc. 5.11: benedictus deus / pater misericordiarum = Creator.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_17
+- Adv. Marc. 4.17: fenus→gospel lend; lex procurans euangelio.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_16
+- Adv. Marc. 4.16: love enemies; cheek as Creator patience supplement.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_36
+- Adv. Marc. 4.36: widow/judge; publican; Creator temple prayer.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_10
+- Adv. Marc. 4.10: paralytic; solus deus remits; Isaiah.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_12
+- Adv. Marc. 4.12: sabbath quarrel ⇒ Creator’s Christ; institution≠divinity.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_3_24
+- Adv. Marc. 3.24: Abraham’s bosom; Creator strikes/heals; hope.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_4_15
+- Adv. Marc. 4.15: fathers vs prophets; Christ asertor Creatoris.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
