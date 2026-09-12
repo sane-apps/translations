@@ -1988,3 +1988,19 @@
 - Inst. 3.25: philosophia non uulgaris; paucis/docti only.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Lactantius lactantius_inst_4_8
+- Inst. 4.8: bis natus spiritu/carne; Verbum; omnia per illum.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_4_3
+- Inst. 4.3: deorum cultus sans sapientia/fides; body-rite only.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_4_4
+- Inst. 4.4: sapientia/religio; filii amor + serui timor.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_4_11
+- Inst. 4.11: prophets/Spirit; spes immortalitatis for every gens.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
