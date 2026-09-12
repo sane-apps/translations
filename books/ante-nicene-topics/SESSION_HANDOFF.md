@@ -2016,3 +2016,15 @@
 - Inst. 4.21: day-40 ascension; Daniel; disciples preach.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Lactantius lactantius_inst_4_5
+- Inst. 4.5: non diduci; audendum; free from error/ruin.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_4_7
+- Inst. 4.7: quis/nomen; natiuitas ante mundum; disposuit/construxit.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_4_9
+- Inst. 4.9: Logos > Verbum; uox et sapientia Dei.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
