@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_carmen_121_160
+- Claim `commodian-carmen-121-160-mine` → **reward-and-judgment**.
+- Carmen 121–160; invisible God; phoenix→resurrection; Fall; Cain; Flood/Noah.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
 ## Air mine 2026-09-12 — commodian_carmen_81_120
 - Claim `commodian-carmen-81-120-mine` → **image-likeness**.
 - Carmen 81–120; choose life-cup; one God in Word; F/S/Sp; made visible — even flesh.
