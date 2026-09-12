@@ -1856,3 +1856,19 @@
 - Inst. 2.9: diuina mundi fabrica; caelum sedes; ignis/aqua only Maker knows.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Lactantius lactantius_inst_2_10
+- Inst. 2.10: animals for usus hominis; mundus→homo→Deus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_1_16
+- Inst. 1.16: loose religionum nodi; dii non sint if feminae.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_11
+- Inst. 3.11: nature wants religio+sapientia; one without other not vera.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_20
+- Inst. 3.20: nature-inquiry impius; Socrates-sapiens claim insanus.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
