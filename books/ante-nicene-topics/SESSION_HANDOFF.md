@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_15
+- Claim `commodian-instr-15-mine` → **fate-and-foreknowledge**.
+- You say bloody gods and that fate writes genesis — then why pray? Deceived who pray Manes; fabricated lords; goddesses; demons on the neck that cannot account for the plague.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_2
 - Claim `commodian-instr-2-mine` → **true-worship**.
 - God sent angels; they scorned law for women’s beauty; could not return; giants; arts; images of dead; Omnipotent refused them raised; wanderers overturn bodies — these you worship as gods.
