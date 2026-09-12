@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — novatian_trinitate_14
+- Claim `novatian-trinitate-14-mine` → **salvation-by-christ**.
+- De Trinitate XIV; not man only; Word-flesh; bread of life; God-Word descended.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed; single Latin Library witness on disk.
+
 ## Air mine 2026-09-12 — novatian_trinitate_9
 - Claim `novatian-trinitate-9-mine` → **faith-and-obedience**.
 - De Trinitate IX; regula / Filium Dominum Deum; passion-bruise and rising for the nations.
