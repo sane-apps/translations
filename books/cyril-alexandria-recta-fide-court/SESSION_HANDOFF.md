@@ -86,3 +86,4 @@ Translate from locked `*_source.json` (Pass A/B) → DOCX → site (era banner; 
 - 2026-09-12: **cyril-rf-a11** Arcadia §§41–44 Pass A≠B (greek_clean_a11; Tim/Titus Savior; James gifts; 1 Pet sanctification/Spirit; 2 Pet/1 John/Jude Master).
 - 2026-09-12: **cyril-rf-a12** Arcadia §§45–48 Pass A≠B (greek_clean_a12; Matt infancy/Spirit-baptism/harvest/yoke/temple).
 - 2026-09-12: **pulcheria-rf-a1** CPG 5220 §§1–4 Pass A≠B (greek_clean_a1; dedication, one Son, kenosis, second Adam).
+- 2026-09-12: **pulcheria-rf-a2** CPG 5220 §§5–8 Pass A≠B (poverty/curse/Heb 2 priest-victim).
