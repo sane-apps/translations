@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_carmen_464_500
+- Claim `commodian-carmen-464-500-mine` → **salvation-by-christ**.
+- Carmen 464–500; after corrupt 463; lays down life; just one’s tomb not a pit; Solomon presses the just.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
 ## Air mine 2026-09-12 — commodian_carmen_441_462
 - Claim `commodian-carmen-441-462-mine` → **reward-and-judgment**.
 - Carmen 441–462; blasphemed name; resurrection psalms; cross not David’s private tale; stop before HTML-corrupt line 463.
