@@ -1,5 +1,12 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — Lactantius Inst. 4.10 mine)
+
+- Claim `lactantius-inst-4-10-mine`: Son descends *in figura hominis et condicione mortali*, takes up death, rises for the human he put on (`quem induerat, quem gerebat`). Pass A ≠ B; Latin locked CSEL TEI IV.10.
+- Beyond prior Lactantius mines 2.17 / 5.18 / 4.25 / 4.26. Cyprian beyond Unity still 465 — skipped.
+- Also this Air slice: `cyril-rf-a19` Arcadia §§73–76; `pulcheria-rf-a8` §§29–32.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
 ## 2026-09-11 (overnight hang watch)
 
 - Live Mini burn is **HEALTHY** (jer-h8 → done, jer-h5a NVIDIA promote in flight). Do not bootout.
