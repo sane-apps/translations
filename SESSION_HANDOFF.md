@@ -1,5 +1,12 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — lactantius-inst-4-21-mine)
+
+- Claim `lactantius-inst-4-21-mine`: ascension; disciples lay church foundations everywhere; equipped with power; Peter/Paul preach at Rome. Pass A ≠ B; Latin locked CSEL TEI IV.21. Ecclesiology densification (`apostolic-succession`).
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
 ## 2026-09-12 (Air — lactantius-inst-4-19-mine)
 
 - Claim `lactantius-inst-4-19-mine`: voluntary laying-down of the spirit; temple veil / midday darkness; third-day resurrection; immortality only by believing and taking up the cross. Pass A ≠ B; Latin locked CSEL TEI IV.19.
