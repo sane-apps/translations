@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — lactantius_inst_7_25
+- Claim `lactantius-inst-7-25-mine` → **reward-and-judgment**.
+- sex milia annorum / Roma sustentat / tyrannus abominabilis.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — lactantius_inst_7_10
 - Claim `lactantius-inst-7-10-mine` → **reward-and-judgment**.
 - uitia temporalia / uirtus perpetua / duae mortes.
