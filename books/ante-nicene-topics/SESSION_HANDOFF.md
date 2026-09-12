@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — lactantius_inst_7_10
+- Claim `lactantius-inst-7-10-mine` → **reward-and-judgment**.
+- uitia temporalia / uirtus perpetua / duae mortes.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — lactantius_inst_7_7
 - Claim `lactantius-inst-7-7-mine` → **reward-and-judgment**.
 - philosophi / inferorum poenae / arcanum religionis.
