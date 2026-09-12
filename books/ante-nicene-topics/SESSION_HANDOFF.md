@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_carmen_621_670
+- Claim `commodian-carmen-621-670-mine` → **salvation-by-christ**.
+- Carmen 621–670; God-in-flesh; miracle chain; hope in Christ; lacuna dots locked as HTML.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed.
+
 ## Air mine 2026-09-12 — commodian_carmen_581_620
 - Claim `commodian-carmen-581-620-mine` → **faith-and-obedience**.
 - Carmen 581–620; flee age; cross-hope; cloud-fire; Abraham’s only son.
