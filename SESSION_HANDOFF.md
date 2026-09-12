@@ -2,7 +2,7 @@
 
 ## 2026-09-12 (Air — Cyril Adoration Book 6 §§11–20 tip)
 
-- Claim `cyril-adoration6-11-20-oet`: §§11–20 Pass A≠B OET (foreknowledge God’s alone; demons silenced; Endor phantom; Balaam; fire-purification mocked). Tip pending SHA after `c5f5c3f`.
+- Claim `cyril-adoration6-11-20-oet`: §§11–20 Pass A≠B OET (foreknowledge God’s alone; demons silenced; Endor phantom; Balaam; fire-purification mocked). Tip `fbf66d4` after `c5f5c3f`.
 - Melito skipped. Never Cyril Matthew. `jer-h20b` intact.
 - Next: §§21–30, then §§31–37 CLOSEOUT (37/37).
 
