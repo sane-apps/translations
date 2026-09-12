@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_3
+- Claim `tertullian-de-anima-3-mine` → **two-ways**.
+- Would that no heresies had to exist so the approved might shine. We would try nothing with philosophers on the soul — patriarchs of heretics — since the apostle already foresaw philosophy as a shaking of truth at Athens.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_7
 - Claim `tertullian-de-anima-7-mine` → **reward-and-judgment**.
 - Enough vs philosophers; for us the gospel itself shows the soul’s corporeality: a soul among the dead grieves, is punished in flame, tormented in the tongue, begs dew from a happier soul’s finger — not a mere image.
