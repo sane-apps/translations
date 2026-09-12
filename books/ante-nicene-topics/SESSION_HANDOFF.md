@@ -2500,3 +2500,15 @@
 - Adv. Marc. 1.14: minuta; sacramenta creatoris; hypocrisis.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Tertullian tertullian_marcion_1_16
+- Adv. Marc. 1.16: uisibilia/inuisibilia Creatoris.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_17
+- Adv. Marc. 1.17: opera ante beneficia; sera reuelatio.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Tertullian tertullian_marcion_1_18
+- Adv. Marc. 1.18: natura/doctrina; non mathematici.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
