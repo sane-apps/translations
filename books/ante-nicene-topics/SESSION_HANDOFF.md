@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_paenitentia_1
+- Claim `tertullian-paenitentia-1-mine` → **sin-and-death**.
+- Without the Lord’s light people know repentance only as a passion from offended prior judgment; without God they miss its reason; they even repent of good works and take evil’s repentance lightly.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_saeculi_fine
 - Claim `commodian-saeculi-fine-mine` → **reward-and-judgment**.
 - Trumpet; fire judges unjust; just untouched; Gehenna after thousand years.
