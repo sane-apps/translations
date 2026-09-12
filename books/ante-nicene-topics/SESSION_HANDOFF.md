@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — Lactantius Inst. 7.21
+- Claim `lactantius-inst-7-21-mine` closed; excerpt `lactantius_inst_7_21` → **reward-and-judgment**.
+- animae patibiles deo / poenae in carne / ignis perpetuus; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — Lactantius Inst. 7.19
 - Claim `lactantius-inst-7-19-mine` closed; excerpt `lactantius_inst_7_19` → **reward-and-judgment**.
 - liberator e caelo / secundus aduentus / nox uigiliae; Book 7 eschatology lane.
