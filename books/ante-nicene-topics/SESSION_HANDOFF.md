@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — Lactantius Inst. 7.8
+- Claim `lactantius-inst-7-8-mine` closed; excerpt `lactantius_inst_7_8` → **reward-and-judgment**.
+- summum bonum immortalitas / diuina traditione; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — Lactantius Inst. 7.6
 - Claim `lactantius-inst-7-6-mine` closed; excerpt `lactantius_inst_7_6` → **true-worship**.
 - adgnoscamus / colamus / immortalitatem / aeternum deo regnum; Book 7 eschatology lane.
