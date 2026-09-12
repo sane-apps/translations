@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_9
+- Claim `tertullian-de-anima-9-mine` → **reward-and-judgment**.
+- homo interior / Lazarus Abraham / martyres sub altari.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_56
 - Claim `tertullian-de-anima-56-mine` → **reward-and-judgment**.
 - inferi / eadem corpora / dies angelicae plenitudinis.
