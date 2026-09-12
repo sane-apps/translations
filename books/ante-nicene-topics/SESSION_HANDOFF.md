@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — novatian_trinitate_8
+- Claim `novatian-trinitate-8-mine` → **universal-call**.
+- apostoli in totum orbem / condicio generis humani / Pater in postulationibus.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — novatian_trinitate_29
 - Claim `novatian-trinitate-29-mine` → **grace-and-assistance**.
 - Spiritus Sanctus / remissio peccatorum / lauacrum / ecclesia.
