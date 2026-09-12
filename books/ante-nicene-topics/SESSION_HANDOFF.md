@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_paenitentia_12
+- Claim `tertullian-paenitentia-12-mine` → **reward-and-judgment**.
+- exomologesis / gehenna / ignis aeternus / Adam restitutus.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — tertullian_paenitentia_7
 - Claim `tertullian-paenitentia-7-mine` → **faith-and-obedience**.
 - ultima spes / paenitentia secunda / vestibulo / Nemo deterior.
