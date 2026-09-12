@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — Lactantius Inst. 7.18
+- Claim `lactantius-inst-7-18-mine` closed; excerpt `lactantius_inst_7_18` → **reward-and-judgment**.
+- Hystaspes / Hermes / filius a patre mittendus; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — Lactantius Inst. 7.17
 - Claim `lactantius-inst-7-17-mine` closed; excerpt `lactantius_inst_7_17` → **reward-and-judgment**.
 - propheta magnus / rex e Syria / antichristus; Book 7 eschatology lane.
