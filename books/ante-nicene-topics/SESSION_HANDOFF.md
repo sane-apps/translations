@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_4
+- Claim `tertullian-de-anima-4-mine` → **image-likeness**.
+- dei flatus / facta nata / Plato innata.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_57
 - Claim `tertullian-de-anima-57-mine` → **reward-and-judgment**.
 - magia / inferi / resurrectio corporalis.
