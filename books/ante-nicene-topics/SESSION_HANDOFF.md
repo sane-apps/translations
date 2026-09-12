@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_5
+- Claim `tertullian-de-anima-5-mine` → **image-likeness**.
+- They may fetch Eubulus, Critolaus, Xenocrates, Aristotle to strip the soul of corpulence — yet if they look opposite they will find more vindicating a body for the soul.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_10
 - Claim `tertullian-de-anima-10-mine` → **image-likeness**.
 - It belongs to the faith’s stance to determine the soul simple according to Plato — uniform at least in the name of substance. Some want another natural spirit in it, as if to live (from soul) and to breathe (from spirit) were different substances.
