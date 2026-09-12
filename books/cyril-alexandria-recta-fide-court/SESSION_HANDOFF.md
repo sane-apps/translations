@@ -54,3 +54,9 @@ Canonical path: `~/SaneApps/clients/translations/books/cyril-alexandria-recta-fi
 ## Next
 
 Translate from locked `*_source.json` (Pass A/B) → DOCX → site (era banner; treatises with no earlier English). OCR cleanup as needed while translating.
+
+
+## State update 20260912T052915Z
+
+- Claim **cyril-rf-a5** done: Arcadia §§17–20 Pass A≠B (scripture catena heads + Rom 1–4/7 argument that Christ is God).
+- Next: `cyril-rf-a6` from §21 / continuing Pauline catena.
