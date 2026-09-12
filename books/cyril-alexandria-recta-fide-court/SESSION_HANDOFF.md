@@ -89,3 +89,4 @@ Translate from locked `*_source.json` (Pass A/B) → DOCX → site (era banner; 
 - 2026-09-12: **cyril-rf-a14** Arcadia §§53–56 Pass A≠B (greek_clean_a14; ask-in-name one God; John 17 life/oneness; locked doors/Spirit; Luke Baptist/David throne).
 - 2026-09-12: **cyril-rf-a15** Arcadia §§57–60 Pass A≠B (greek_clean_a15; annunciation/Baptist/Simeon; forgive sins; Isaiah+sea; Gerasene/Jairus).
 - 2026-09-12: **cyril-rf-a16** Arcadia §§61–64 Pass A≠B (greek_clean_a16; servant/throne; last Adam; Life raises; Word handled / faith as in God).
+- 2026-09-12: **cyril-rf-a17** Arcadia §§65–68 Pass A≠B (greek_clean_a17; 1 John flesh/antichrist; water-blood-Spirit; Jordan/Jairus union; sealed/hilasterion).
