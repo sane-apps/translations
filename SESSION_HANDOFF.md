@@ -1,5 +1,12 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — lactantius-inst-5-5-mine)
+
+- Claim `lactantius-inst-5-5-mine`: justice as highest virtue / fountain of virtue; golden age as one-God cult; greed and many gods break human society. Pass A ≠ B; Latin locked CSEL TEI 5.5.
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20 / 4.30 / 4.17 / 4.22 / 4.23 / 4.24 / 4.27 / 4.28. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
 ## 2026-09-12 (Air — lactantius-inst-4-28-mine)
 
 - Claim `lactantius-inst-4-28-mine`: no other hope of life except knowing and serving God; religio vs superstitio; we are religious who pray to the one true God. Pass A ≠ B; Latin locked CSEL TEI IV.28.
