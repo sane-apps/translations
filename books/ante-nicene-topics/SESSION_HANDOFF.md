@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — Lactantius Inst. 7.6
+- Claim `lactantius-inst-7-6-mine` closed; excerpt `lactantius_inst_7_6` → **true-worship**.
+- adgnoscamus / colamus / immortalitatem / aeternum deo regnum; Book 7 eschatology lane.
+- Pass A ≠ Pass B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — Lactantius Inst. 7.5
 - Claim `lactantius-inst-7-5-mine` closed; excerpt `lactantius_inst_7_5` → **reward-and-judgment**.
 - praemium immortalitatis / duae uitae / aeterna poena; Book 7 eschatology lane.
