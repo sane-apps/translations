@@ -47,3 +47,5 @@ Logos compile on Air when the owner asks. Do not present Book 1 as the complete 
 - 2026-09-12 (StephanAir): **Adoration Book 3 §§11–21** Pass B + Pass A tipped — **Book 3 English CLOSEOUT** (21/21). OET = no previous complete English of Book 3. Melito skipped. Next: Book 4 (earliest continuity OET). **Never Cyril Matthew.**
 
 - 2026-09-12 (StephanAir): **Adoration Book 4 §§1–10** Pass B + Pass A tipped (after Book 3 closeout). OET = no previous complete English of Book 4. Continue §§11–29. Melito skipped. **Never Cyril Matthew.**
+
+- 2026-09-12 (StephanAir): **Adoration Book 4 §§11–20** Pass B + Pass A tipped. Continue §§21–29 closeout. Melito skipped. OET = no previous complete English. **Never Cyril Matthew.**
