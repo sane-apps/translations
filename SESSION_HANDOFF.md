@@ -1,5 +1,11 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — Cyril Adoration Book 6 §§1–10 tip)
+
+- Claim `cyril-adoration6-1-10-oet`: Book 6 Greek ingested (37§, PG 68.409–68.477); §§1–10 Pass A≠B OET (cling to God alone; idols; Deut). Tip pending SHA stamp after Book 5 `0532c6c`.
+- Melito skipped. Never Cyril Matthew. `jer-h20b` intact.
+- Next: Book 6 §§11–20, then §§21–30, §§31–37 CLOSEOUT.
+
 ## 2026-09-12 (Air — Cyril Adoration Book 5 CLOSEOUT)
 
 - Book 5 English OET **26/26** Pass A≠B. Tips: §§1–10 `98121d3`; §§11–20 `bb17175`; §§21–26 CLOSEOUT `0532c6c`; CLAIMS stamp `d1fbaa0`.
