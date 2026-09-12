@@ -1,5 +1,13 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — lactantius-inst-4-13-mine)
+
+- Claim `lactantius-inst-4-13-mine`: teacher of justice from heaven; Son born twice (ἀπάτωρ / ἀμήτωρ); middle substance God and human; prophets witness God and man; church the true temple (not Solomon’s walls). Pass A ≠ B; Latin locked CSEL TEI IV.13.
+- Beyond 2.17 / 5.18 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18. Merge hygiene deferred (would block content). Cyprian still 465.
+- Also this Air slice: `cyril-rf-a23` Arcadia §§89–92; `pulcheria-rf-a12` §§45–48 (CPG 5220 complete).
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
 ## 2026-09-12 (Air — lactantius-inst-4-18-mine)
 
 - Claim `lactantius-inst-4-18-mine`: must suffer and be killed *pro salute multorum*; Christ himself the true temple of God; God hung by the worshipers of God; prophetic cross (Zech / David Ps 21 / Solomon). Pass A ≠ B; Latin locked CSEL TEI IV.18.
