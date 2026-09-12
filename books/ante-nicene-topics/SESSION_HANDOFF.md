@@ -1796,3 +1796,19 @@
 - Inst. 2.18: oculos in caelum; upright vs quadruped; caelo dignus.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Lactantius lactantius_inst_3_29
+- Inst. 3.29: fortuna nihil; nature/fortuna rename; fight hostis not umbra.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_14
+- Inst. 3.14: wisdom not man-found; philosophy non magistra virtutis.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_26
+- Inst. 3.26: sola doctrina caelestis; Dei praecepta → new man.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_2_14
+- Inst. 2.14: angels fall; daemones force people to their auxilia.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
