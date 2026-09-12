@@ -1,3 +1,28 @@
+## Air mine 2026-09-12 — minucius_octavius_19
+- Claim `minucius-octavius-19-mine` → **true-worship**.
+- deus mens et ratio et spiritus; philosophi conspirant; Plato parens mundi.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — minucius_octavius_38
+- Claim `minucius-octavius-38-mine` → **free-will**.
+- vera libertas; non timor; spes futurae felicitatis; vera religio.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — minucius_octavius_35
+- Claim `minucius-octavius-35-mine` → **reward-and-judgment**.
+- ignis sapiens; cruciatus aeterni; ignorantia dei ad poenam.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — minucius_octavius_28
+- Claim `minucius-octavius-28-mine` → **two-ways**.
+- paenitentibus; caeci et hebetes; daemones rumor; perversa quaestio.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
+## Air mine 2026-09-12 — minucius_octavius_18
+- Claim `minucius-octavius-18-mine` → **fate-and-foreknowledge**.
+- providentia; unius imperium; nec principium nec terminum; deus nomen est.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — minucius_octavius_37
 - Claim `minucius-octavius-37-mine` → **faith-and-obedience**.
 - spectaculum deo; miles dei; patientia; notitia dei.
