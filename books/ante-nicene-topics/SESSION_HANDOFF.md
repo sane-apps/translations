@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_25
+- Claim `tertullian-de-anima-25-mine` → **sin-and-death**.
+- in utero / conceptus animal / embryosphaktes.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_55
 - Claim `tertullian-de-anima-55-mine` → **reward-and-judgment**.
 - inferi / paradisus martyrum / sequestrari / dies domini.
