@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_56
+- Claim `tertullian-de-anima-56-mine` → **reward-and-judgment**.
+- inferi / eadem corpora / dies angelicae plenitudinis.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_50
 - Claim `tertullian-de-anima-50-mine` → **baptism-and-new-birth**.
 - Menander baptisma / mors debitum / Iohannes Christus.
