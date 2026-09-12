@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_29
+- Claim `tertullian-de-anima-29-mine` → **free-will**.
+- It is agreed the dead are made from the living, yet not therefore the living from the dead. From the beginning the living were prior, hence the dead likewise later — from nowhere but the living.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_23
 - Claim `tertullian-de-anima-23-mine` → **image-likeness**.
 - Some believe they came down from the heavens with as much persuasion as they promise return there — as Saturninus the disciple of Menander the Simonian introduced, affirming man first made by angels, a futile weak work writhing on earth like a worm.
