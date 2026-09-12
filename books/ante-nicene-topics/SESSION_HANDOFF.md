@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — minucius_octavius_23
+- Claim `minucius-octavius-23-mine` → **true-worship**.
+- Look at the rites and mysteries: sad exits, deaths, mourning of wretched gods; Isis seeks the lost son with bald priests striking breasts — not divine worship.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — minucius_octavius_21
 - Claim `minucius-octavius-21-mine` → **true-worship**.
 - Historians/sages agree with Euhemerus: gods counted for merit of virtue or gift; their births, countries, tombs are shown — dead men, not gods.
