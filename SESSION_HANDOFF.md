@@ -1,5 +1,12 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — lactantius-inst-6-13-mine)
+
+- Claim `lactantius-inst-6-13-mine`: Inst. 6.13 repentance/alms / three grades of justice / living images of God Pass A ≠ B; Latin locked CSEL TEI 6.13.
+- Beyond 2.17 / 5.18 / 5.5 / 5.7 / 5.8 / 5.9 / 5.10 / 5.11 / 5.12 / 5.13 / 5.14 / 5.15 / 5.16 / 5.17 / 5.19 / 5.20 / 5.21 / 5.22 / 5.23 / 6.2 / 6.3 / 6.4 / 6.5 / 6.8 / 6.9 / 6.10 / 6.11 / 6.12 / 6.6 / 6.7 / 6.1 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20 / 4.30 / 4.17 / 4.22 / 4.23 / 4.24 / 4.27 / 4.28. CPG 5219/5220 stay closed. Cyprian still 465.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
 ## 2026-09-12 (Air — lactantius-inst-6-1-mine)
 
 - Claim `lactantius-inst-6-1-mine`: Inst. 6.1 innocence alone / false bloody cult / true God and true cult unknown Pass A ≠ B; Latin locked CSEL TEI 6.1.
