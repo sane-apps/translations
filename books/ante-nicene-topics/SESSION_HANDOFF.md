@@ -1,3 +1,23 @@
+## Air mine 2026-09-12 — arnobius_nations_2_29
+- Claim `arnobius-nations-2-29-mine` → **free-will**.
+- 2.29: immortal-soul boast → license; need metus/iudicium divinum.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_72
+- Claim `arnobius-nations-2-72-mine` → **true-worship**.
+- 2.72: vetustas ≠ veritas; primus deus; spes salutis; lumen cognitionis.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_75
+- Claim `arnobius-nations-2-75-mine` → **salvation-by-christ**.
+- 2.75: sospitator timing; infinite ages; deus solus sent Christ; fixed rationes.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_56
+- Claim `arnobius-nations-2-56-mine` → **faith-and-obedience**.
+- 2.56: leave speculative quarrels; rival world/god opinions un-certain; seek what matters.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_26
 - Claim `arnobius-nations-2-26-mine` → **image-likeness**.
 - 2.26: deo vicinum soul lore fails; passivity ⇒ no natural immortality.
