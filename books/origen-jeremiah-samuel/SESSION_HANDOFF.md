@@ -52,6 +52,8 @@ Canonical path: `~/SaneApps/clients/translations/books/origen-jeremiah-samuel/`
 
 - 2026-09-12 (StephanAir): **Lamentations** fr. §§81–90 Pass B + Pass A. OET = no previous English translation. Next: Lam §§91+.
 
+- 2026-09-12 (StephanAir): **Lamentations** fr. §§91–100 Pass B + Pass A. OET = no previous English translation. Next: Lam §§101+.
+
 ## Next
 
 **1 Samuel 28 OET Pass B shipped** (Air tip; claim `origen-samuel28-oet`). Chronological OET forward in this volume: **Homily 8 polished**; Lam §§1–10 tipped; Lam §§1–20 tipped; Lam §§1–30 tipped; Lam §§1–40 tipped; Lam §§1–50 tipped; Lam §§1–60 tipped; Lam §§1–70 tipped; Lam §§1–80 tipped; Lam §§1–90 tipped; continue **Lamentations** §§91+ (`lamentations_source.json`). Homilies 1–7, 9–20 already Pass B on site. Do not present the English set as Logos-complete. **Logos Personal Book compile stays on the owner’s MacBook Air only** — contributors and overnight agents never run `build_book.py` / Logos Build. Never Cyril Matthew; CPG 5219/5220 closed. OET = no previous English translation.
