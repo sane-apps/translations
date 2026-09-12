@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — minucius_octavius_39
+- Claim `minucius-octavius-39-mine` → **faith-and-obedience**.
+- After Octavius spoke we were long stunned to silence; he had adorned what is easier to feel than to say with arguments, examples, and authorities of readings.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — minucius_octavius_30
 - Claim `minucius-octavius-30-mine` → **true-worship**.
 - Who says we are initiated by infant slaughter and blood? A soft tiny body cannot take such wounds; no one believes it unless he himself can dare it.
