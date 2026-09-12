@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — minucius_octavius_24
+- Claim `minucius-octavius-24-mine` → **true-worship**.
+- We learn these fables/errors from unskilled parents and worse from studies/poets who wound truth by their authority; Plato therefore expels Homer from the well-ordered state.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — minucius_octavius_12
 - Claim `minucius-octavius-12-mine` → **reward-and-judgment**.
 - Caecilius taunts: most of you lack, freeze, labor in hunger — and God seems to ignore it; estimate while you live what hangs after death; empty vows of a useless promise.
