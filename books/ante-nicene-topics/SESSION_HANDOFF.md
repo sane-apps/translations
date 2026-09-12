@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_50
+- Claim `tertullian-de-anima-50-mine` → **baptism-and-new-birth**.
+- Menander baptisma / mors debitum / Iohannes Christus.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_37
 - Claim `tertullian-de-anima-37-mine` → **sin-and-death**.
 - fetus homo / aborsus / decalogus renascimur.
