@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — tertullian_de_anima_12
+- Claim `tertullian-de-anima-12-mine` → **image-likeness**.
+- Likewise animus — or mens, nous among the Greeks — we understand as nothing other than the soul’s inborn, implanted, native equipment by which it acts and understands.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — tertullian_de_anima_8
 - Claim `tertullian-de-anima-8-mine` → **image-likeness**.
 - It is abrupt and absurd to remove something from the census of bodily things because it does not match other bodily examples. Private differences of properties mark the Author’s magnificence by diversity of the same works.
