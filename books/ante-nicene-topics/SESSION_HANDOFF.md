@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — novatian_trinitate_20
+- Claim `novatian-trinitate-20-mine` → **salvation-by-christ**.
+- De Trinitate XX; Christ God over angels; Lord from Lord; Word washes flesh-garment.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 closed; single Latin Library witness on disk.
+
 ## Air mine 2026-09-12 — novatian_trinitate_17
 - Claim `novatian-trinitate-17-mine` → **salvation-by-christ**.
 - De Trinitate XVII; creation through Word; image; Babel descent of Son-Word.
