@@ -1,3 +1,23 @@
+## Air mine 2026-09-12 — arnobius_nations_2_71
+- Claim `arnobius-nations-2-71-mine` → **true-worship**.
+- 2.71: auctoritas by numen not tempus; Jupiter-line ~2000y => infant gods.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_59
+- Claim `arnobius-nations-2-59-mine` → **faith-and-obedience**.
+- 2.59: rain-to-wheat interrogatio; elementa answer empty; shared ignorance.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_53
+- Claim `arnobius-nations-2-53-mine` → **grace-and-assistance**.
+- 2.53: mediae qualitatis; perpetuitas gift from deus princeps alone.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
+## Air mine 2026-09-12 — arnobius_nations_2_43
+- Claim `arnobius-nations-2-43-mine` → **image-likeness**.
+- 2.43: primi progenies numinis wouldn't be clothed in bodies to do nefas.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — arnobius_nations_2_38
 - Claim `arnobius-nations-2-38-mine` → **image-likeness**.
 - 2.38: kings-to-meretrices don't serve mundi constitutio; humans not necessary furniture.
