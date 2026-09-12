@@ -1872,3 +1872,19 @@
 - Inst. 3.20: nature-inquiry impius; Socrates-sapiens claim insanus.
 - Pass A != Pass B; jer-h20b; Melito skip; no CSS.
 
+## Air mine Lactantius lactantius_inst_2_6
+- Inst. 2.6: double error—elements over God; human-form element-idols.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_2_7
+- Inst. 2.7: own iudicium; Deus gave sapientia; don't credit alieni errores.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_3_13
+- Inst. 3.13: immortalitas summum bonum; anima immortal; sapientia feeds soul.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
+## Air mine Lactantius lactantius_inst_1_18
+- Inst. 1.18: apotheosis for virtus/munera/artes inepta; Deus gave living/healing.
+- Pass A != Pass B; jer-h20b; Melito skip; no CSS.
+
