@@ -1,57 +1,39 @@
 # Translations — session handoff
 
-## 2026-09-12 (Air — cyril-rf-a25 Arcadia §§97–100)
+## 2026-09-12 (Air — lactantius-inst-6-25-mine)
 
-- Claim `cyril-rf-a25`: faith into the name as God become human; Cana/signs show deity; official believes as toward God; faith in Son = faith in Sender; Son of Man seeks Word-flesh faith; closing springs of salvation charge. Pass A ≠ B; Greek locked `greek_clean_a25`. **CPG 5219 Arcadia complete.**
+- Claim `lactantius-inst-6-25-mine`: Inst. 6.25 incorporeal gift and praise / heart-temple / completed justice Pass A ≠ B; Latin locked CSEL TEI 6.25.
+- Beyond 2.17 / 5.18 / 5.5 / 5.7 / 5.8 / 5.9 / 5.10 / 5.11 / 5.12 / 5.13 / 5.14 / 5.15 / 5.16 / 5.17 / 5.19 / 5.20 / 5.21 / 5.22 / 5.23 / 6.2 / 6.3 / 6.4 / 6.5 / 6.8 / 6.9 / 6.10 / 6.11 / 6.12 / 6.6 / 6.7 / 6.1 / 6.13 / 6.14 / 6.17 / 6.24 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20 / 4.30 / 4.17 / 4.22 / 4.23 / 4.24 / 4.27 / 4.28. CPG 5219/5220 stay closed. Cyprian still 465.
 - `jer-h20b` intact. No site CSS. Melito skipped.
 
 
-## 2026-09-12 (Air — cyril-rf-a24 Arcadia §§93–96)
+## 2026-09-12 (Air — lactantius-inst-6-24-mine)
 
-- Claim `cyril-rf-a24`: faith into Christ as into God; deep mystery of the Word made as we are (not bare person-union); unsearchable riches; word of faith; Christ proclaimed as God; gift to believe and suffer; God manifested in flesh; taken up in glory; believers in God believe Christ; faith into his name. Pass A ≠ B; Greek locked `greek_clean_a24`.
+- Claim `lactantius-inst-6-24-mine`: Inst. 6.24 repentance medicine / conscience before God / heart-altar sacrifice Pass A ≠ B; Latin locked CSEL TEI 6.24.
+- Beyond 2.17 / 5.18 / 5.5 / 5.7 / 5.8 / 5.9 / 5.10 / 5.11 / 5.12 / 5.13 / 5.14 / 5.15 / 5.16 / 5.17 / 5.19 / 5.20 / 5.21 / 5.22 / 5.23 / 6.2 / 6.3 / 6.4 / 6.5 / 6.8 / 6.9 / 6.10 / 6.11 / 6.12 / 6.6 / 6.7 / 6.1 / 6.13 / 6.14 / 6.17 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20 / 4.30 / 4.17 / 4.22 / 4.23 / 4.24 / 4.27 / 4.28. CPG 5219/5220 stay closed. Cyprian still 465.
 - `jer-h20b` intact. No site CSS. Melito skipped.
 
 
-## 2026-09-12 (Air — cyril-rf-a23 Arcadia §§89–92)
+## 2026-09-12 (Air — lactantius-inst-6-17-mine)
 
-- Claim `cyril-rf-a23`: stone of stumbling / Symeon; Christ end of law who justifies; confess Lord Jesus; gospel mystery = God become human; mediator of promises; justified in his name; not another Jesus; Son revealed in Paul; Emmanuel justifies; sealed in him. Pass A ≠ B; Greek locked `greek_clean_a23`.
+- Claim `lactantius-inst-6-17-mine`: Inst. 6.17 fear of God as fortitude / heavenly desire / martyr patience Pass A ≠ B; Latin locked CSEL TEI 6.17.
+- Beyond 2.17 / 5.18 / 5.5 / 5.7 / 5.8 / 5.9 / 5.10 / 5.11 / 5.12 / 5.13 / 5.14 / 5.15 / 5.16 / 5.17 / 5.19 / 5.20 / 5.21 / 5.22 / 5.23 / 6.2 / 6.3 / 6.4 / 6.5 / 6.8 / 6.9 / 6.10 / 6.11 / 6.12 / 6.6 / 6.7 / 6.1 / 6.13 / 6.14 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20 / 4.30 / 4.17 / 4.22 / 4.23 / 4.24 / 4.27 / 4.28. CPG 5219/5220 stay closed. Cyprian still 465.
 - `jer-h20b` intact. No site CSS. Melito skipped.
 
 
-## 2026-09-12 (Air — cyril-rf-a22 Arcadia §§85–88)
+## 2026-09-12 (Air — lactantius-inst-6-14-mine)
 
-- Claim `cyril-rf-a22`: true Lord with flesh; sanctified humanly / sanctifies divinely; one from both; firstborn among brothers; own Father; divine will + human hand; David’s Lord from David’s seed; faith toward Christ as toward God. Pass A ≠ B; Greek locked `greek_clean_a22`.
-- `jer-h20b` intact. No site CSS. Melito skipped.
-
-## 2026-09-12 (Air — cyril-rf-a21 Arcadia §§81–84)
-
-- Claim `cyril-rf-a21`: high priest at the right; Jordan shows Word with flesh; receives Spirit humanly / baptizes divinely; bronze-serpent likeness yet life-giving as God. Pass A ≠ B; Greek locked `greek_clean_a21`.
-- `jer-h20b` intact. No site CSS. Melito skipped.
-
-## 2026-09-12 (Air — cyril-rf-a20 Arcadia §§77–80)
-
-- Claim `cyril-rf-a20`: Gal 4 Spirit of the Son; Eph 4 one ascending–descending Lord; Phil 2 kenosis/exaltation of the economy; Col 1 image/firstborn from dead in own flesh; Heb 1–2 radiance by own blood; sanctifier/sanctified one Son. Pass A ≠ B; Greek locked `greek_clean_a20`.
-- `jer-h20b` intact. No site CSS. Melito skipped.
-
-## 2026-09-12 (Air — pulcheria-rf-a12 Pulcheria §§45–48)
-
-- Claim `pulcheria-rf-a12`: rational soul vs Apollinaris; life-giving flesh of the one sent; Word’s own body; one Son receives life as Son of Man; faith the Son of Man seeks; true God become son of man; one Lord Jesus Christ; no two sons after the union; closing doxology (CPG 5220 complete). Pass A ≠ B; Greek locked `greek_clean_a12`.
+- Claim `lactantius-inst-6-14-mine`: Inst. 6.14 mercy as human good / heavenly vs bodily virtues / Stoic affections Pass A ≠ B; Latin locked CSEL TEI 6.14.
+- Beyond 2.17 / 5.18 / 5.5 / 5.7 / 5.8 / 5.9 / 5.10 / 5.11 / 5.12 / 5.13 / 5.14 / 5.15 / 5.16 / 5.17 / 5.19 / 5.20 / 5.21 / 5.22 / 5.23 / 6.2 / 6.3 / 6.4 / 6.5 / 6.8 / 6.9 / 6.10 / 6.11 / 6.12 / 6.6 / 6.7 / 6.1 / 6.13 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20 / 4.30 / 4.17 / 4.22 / 4.23 / 4.24 / 4.27 / 4.28. CPG 5219/5220 stay closed. Cyprian still 465.
 - `jer-h20b` intact. No site CSS. Melito skipped.
 
 
-## 2026-09-12 (Air — pulcheria-rf-a11 Pulcheria §§41–44)
+## 2026-09-12 (Air — lactantius-inst-6-13-mine)
 
-- Claim `pulcheria-rf-a11`: receives all authority in emptying measures; emptied Word exalted to what he was; Father raises yet Son raises own temple; baptized into one death—Word suffered in flesh; Spirit of Jesus; crucified from weakness / lives by God’s power. Pass A ≠ B; Greek locked `greek_clean_a11`.
+- Claim `lactantius-inst-6-13-mine`: Inst. 6.13 repentance/alms / three grades of justice / living images of God Pass A ≠ B; Latin locked CSEL TEI 6.13.
+- Beyond 2.17 / 5.18 / 5.5 / 5.7 / 5.8 / 5.9 / 5.10 / 5.11 / 5.12 / 5.13 / 5.14 / 5.15 / 5.16 / 5.17 / 5.19 / 5.20 / 5.21 / 5.22 / 5.23 / 6.2 / 6.3 / 6.4 / 6.5 / 6.8 / 6.9 / 6.10 / 6.11 / 6.12 / 6.6 / 6.7 / 6.1 / 4.25 / 4.26 / 4.10 / 4.29 / 4.14 / 4.18 / 4.13 / 4.12 / 4.15 / 4.19 / 4.21 / 4.16 / 4.20 / 4.30 / 4.17 / 4.22 / 4.23 / 4.24 / 4.27 / 4.28. CPG 5219/5220 stay closed. Cyprian still 465.
 - `jer-h20b` intact. No site CSS. Melito skipped.
 
-## 2026-09-12 (Air — pulcheria-rf-a10 Pulcheria §§37–40)
-
-- Claim `pulcheria-rf-a10`: one offering of own body; weak in flesh / beyond weakness as God; sits at right yet ministers; own blood once; appears not as naked Word; crucified Lord of glory receives glory economically. Pass A ≠ B; Greek locked `greek_clean_a10`.
-- `jer-h20b` intact. No site CSS. Melito skipped.
-
-## 2026-09-12 (Air — pulcheria-rf-a9 Pulcheria §§33–36)
-
-- Claim `pulcheria-rf-a9`: post-baptism temptation type; Word as high priest and lamb; passes heavens bodily and divinely; Heb 5 call/obedience; we pray in him as second firstfruit; neither bare man nor fleshless Word—impassible in own flesh. Pass A ≠ B; Greek locked `greek_clean_a9`.
 
 ## 2026-09-12 (Air — lactantius-inst-6-1-mine)
 
@@ -512,3 +494,56 @@ Jeremiah 3–7 stub files exist without English; not live; not `source_verified`
 ## Gifts 0–800 wave (2026-09-10)
 
 38 `gifts-and-order` excerpts; Explore claims include `signs-then-not-now`. See `books/ante-nicene-topics/outputs/gifts_coverage_receipt.md`.
+## 2026-09-12 (Air — cyril-rf-a25 Arcadia §§97–100)
+
+- Claim `cyril-rf-a25`: faith into the name as God become human; Cana/signs show deity; official believes as toward God; faith in Son = faith in Sender; Son of Man seeks Word-flesh faith; closing springs of salvation charge. Pass A ≠ B; Greek locked `greek_clean_a25`. **CPG 5219 Arcadia complete.**
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — cyril-rf-a24 Arcadia §§93–96)
+
+- Claim `cyril-rf-a24`: faith into Christ as into God; deep mystery of the Word made as we are (not bare person-union); unsearchable riches; word of faith; Christ proclaimed as God; gift to believe and suffer; God manifested in flesh; taken up in glory; believers in God believe Christ; faith into his name. Pass A ≠ B; Greek locked `greek_clean_a24`.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — cyril-rf-a23 Arcadia §§89–92)
+
+- Claim `cyril-rf-a23`: stone of stumbling / Symeon; Christ end of law who justifies; confess Lord Jesus; gospel mystery = God become human; mediator of promises; justified in his name; not another Jesus; Son revealed in Paul; Emmanuel justifies; sealed in him. Pass A ≠ B; Greek locked `greek_clean_a23`.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — cyril-rf-a22 Arcadia §§85–88)
+
+- Claim `cyril-rf-a22`: true Lord with flesh; sanctified humanly / sanctifies divinely; one from both; firstborn among brothers; own Father; divine will + human hand; David’s Lord from David’s seed; faith toward Christ as toward God. Pass A ≠ B; Greek locked `greek_clean_a22`.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+## 2026-09-12 (Air — cyril-rf-a21 Arcadia §§81–84)
+
+- Claim `cyril-rf-a21`: high priest at the right; Jordan shows Word with flesh; receives Spirit humanly / baptizes divinely; bronze-serpent likeness yet life-giving as God. Pass A ≠ B; Greek locked `greek_clean_a21`.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+## 2026-09-12 (Air — cyril-rf-a20 Arcadia §§77–80)
+
+- Claim `cyril-rf-a20`: Gal 4 Spirit of the Son; Eph 4 one ascending–descending Lord; Phil 2 kenosis/exaltation of the economy; Col 1 image/firstborn from dead in own flesh; Heb 1–2 radiance by own blood; sanctifier/sanctified one Son. Pass A ≠ B; Greek locked `greek_clean_a20`.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+## 2026-09-12 (Air — pulcheria-rf-a12 Pulcheria §§45–48)
+
+- Claim `pulcheria-rf-a12`: rational soul vs Apollinaris; life-giving flesh of the one sent; Word’s own body; one Son receives life as Son of Man; faith the Son of Man seeks; true God become son of man; one Lord Jesus Christ; no two sons after the union; closing doxology (CPG 5220 complete). Pass A ≠ B; Greek locked `greek_clean_a12`.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+
+## 2026-09-12 (Air — pulcheria-rf-a11 Pulcheria §§41–44)
+
+- Claim `pulcheria-rf-a11`: receives all authority in emptying measures; emptied Word exalted to what he was; Father raises yet Son raises own temple; baptized into one death—Word suffered in flesh; Spirit of Jesus; crucified from weakness / lives by God’s power. Pass A ≠ B; Greek locked `greek_clean_a11`.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+## 2026-09-12 (Air — pulcheria-rf-a10 Pulcheria §§37–40)
+
+- Claim `pulcheria-rf-a10`: one offering of own body; weak in flesh / beyond weakness as God; sits at right yet ministers; own blood once; appears not as naked Word; crucified Lord of glory receives glory economically. Pass A ≠ B; Greek locked `greek_clean_a10`.
+- `jer-h20b` intact. No site CSS. Melito skipped.
+
+## 2026-09-12 (Air — pulcheria-rf-a9 Pulcheria §§33–36)
+
+- Claim `pulcheria-rf-a9`: post-baptism temptation type; Word as high priest and lamb; passes heavens bodily and divinely; Heb 5 call/obedience; we pray in him as second firstfruit; neither bare man nor fleshless Word—impassible in own flesh. Pass A ≠ B; Greek locked `greek_clean_a9`.
+
