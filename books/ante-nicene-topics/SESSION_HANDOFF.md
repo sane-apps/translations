@@ -1,3 +1,8 @@
+## Air mine 2026-09-12 — commodian_instr_68
+- Claim `commodian-instr-68-mine` → **faith-and-obedience**.
+- Confessing pastor doubles the contest; patient rector; do first what you say; worldly pastor → Gehenna rumor; devoted pastor governs; in such the whole church’s hope lives.
+- Pass A ≠ B; jer-h20b intact; Melito skipped; no CSS; CPG 5219/5220 stay closed.
+
 ## Air mine 2026-09-12 — commodian_instr_67
 - Claim `commodian-instr-67-mine` → **faith-and-obedience**.
 - Deacons: exercise Christ’s ministry chaste; do Master’s precepts; keep place; devote to highest God; give unhurt holy things; bow to pastors — thus proven in Christ.
