@@ -78,6 +78,6 @@ Standing owner rule: reader H1 / Contents = `On Matthew ch:v` only. CPG/ed.fr on
 | Claim | Entries | Notes |
 |-------|---------|-------|
 | a64–a67 | 253–268 | shipped tip `0cd2c1d` |
-| a68–a71 | 269–284 | shipped tip `30b03d8`; ed.fr.310 skip; supplied passion brackets; parallel on 283 |
-| next | 285–290 | a72+ (Mt 27:54–28:18) — last 6 |
-
+| a68–a71 | 269–284 | shipped tip `30b03d8` |
+| a72–a73 | 285–290 | shipped tip `eb6236c`; **corpus complete**; title SOP held |
+| next | — | none — 290/290 done |
