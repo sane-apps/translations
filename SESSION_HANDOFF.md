@@ -1,3 +1,9 @@
+## 2026-09-13 (Air — Matthew XVII rem tip fixed; Series open)
+
+- Tomus XVII rem CLOSEOUT tip  (was mis-stamped as stamp commit; corrected).
+- Series §§1–2 tip .
+- Next: Series rem earliest-forward; caffeinate -dims; Merge-and-ship.
+
 ## 2026-09-13 (Air — Matthew XVII CLOSEOUT; Series opened)
 
 - Tomus XVII rem tip `c3f0e01a`; Series §§1–2 tip `aa8960a4` (PG 13 Latin Commentariorum Series ~p.830).
