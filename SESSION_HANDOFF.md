@@ -1,3 +1,11 @@
+## 2026-09-13 (Air — Rank-1 pick: Cyril Isaiah)
+
+- `caffeinate -dims` kept.
+- After Glaphyra SERIES `c2f056c1`, next earliest Rank-1 OET: **`cyril-alexandria-isaiah`** (CPG 5203; PG 70).
+- Rationale: no usable PD English (Hill Holy Cross 2008 = first full modern English / copyrighted); PG 70 lockable via Khazarzar; Melito skipped; never Cyril Matthew densify; skip Pusey-PD (Quod unus / John / Scholia etc.); no Greystone/Lunn.
+- Tips: prol `7cd77c36`; Book I Logos 1–5 `54a334b6`…`a9b4040a`; Book II open `bb25e73b`.
+- Next: Book II rem / Book III+ earliest-forward. Tips for Merge-and-ship.
+
 ## 2026-09-13 (Air — Glaphyra SERIES CLOSEOUT)
 
 - `caffeinate -dims` kept.
