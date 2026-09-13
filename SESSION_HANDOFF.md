@@ -1,5 +1,11 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — Irenaeus Demonstration §§51–60 densify)
+
+- Claim `irenaeus-demonstration-51-60-densify`: §§51–60 Pass A≠B densify (**NOT OET**). Inline Logos bible refs.
+- Prior tips: §§41–50 `b40e57d`; §§31–40 `dc5df06`; §§21–30 `bf63360`. Book 17 Pass B sludge FAIL queued.
+- Melito skipped. Never Cyril Matthew. Next: §§61–70; parked OET `origen-john-later`.
+
 ## 2026-09-12 (Air — Irenaeus Demonstration §§41–50 densify tip `b40e57d`)
 
 - Claim `irenaeus-demonstration-41-50-densify`: §§41–50 Pass A≠B densify (**NOT OET**). Inline Logos bible refs.
