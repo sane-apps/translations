@@ -1,7 +1,7 @@
 ## 2026-09-13 (Air — Joshua Homilia I after Numbers CLOSEOUT)
 
 - Pick **`origen-joshua-homilies`** (not Deuteronomy): no surviving Origen Deuteronomy homilies in GCS Rank-1.
-- Homilia I §§1–7 CLOSEOUT tip pending this commit; Baehrens GCS 30 / Werke VII.
+- Homilia I §§1–7 CLOSEOUT tip `097a4878`; Baehrens GCS 30 / Werke VII.
 - Melito skipped; never Cyril Matthew densify; no Bruce FOTC 105; Macs caffeinated.
 - Next Homilia II+.
 
