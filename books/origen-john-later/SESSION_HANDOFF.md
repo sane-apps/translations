@@ -63,3 +63,9 @@
 - Claim `origen-john-later-19-11-23-oet`: Book 19 §§11–23 Pass A≠B OET CLOSEOUT. Tip `15c53dc` after `3361b3a`. Book 19 **23/23**.
 - Next: Book **20** (~10-section tips) → 28 → 32.
 - Melito skipped. Never Cyril Matthew.
+
+## 2026-09-13 (Air — Origen John later Book 20 §§1–10 tip TIP20)
+
+- Claim `origen-john-later-20-1-10-oet`: Book 20 §§1–10 Pass A≠B OET. Tip `TIP20` after Book 19 CLOSEOUT `15c53dc`.
+- Next: Book 20 §§11–20 (then continue through Book 20 CLOSEOUT) → 28 → 32.
+- Melito skipped. Never Cyril Matthew.
