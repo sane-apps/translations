@@ -1,6 +1,6 @@
 # Translations — session handoff
 
-## 2026-09-12 (Air — Irenaeus Demonstration §§41–50 densify)
+## 2026-09-12 (Air — Irenaeus Demonstration §§41–50 densify tip `b40e57d`)
 
 - Claim `irenaeus-demonstration-41-50-densify`: §§41–50 Pass A≠B densify (**NOT OET**). Inline Logos bible refs.
 - Prior: §§31–40 `dc5df06`; §§21–30 `bf63360`. Book 17 Pass B sludge FAIL queued.
