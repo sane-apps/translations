@@ -1,3 +1,18 @@
+## 2026-09-13 (root-cause gate — tip closeout)
+
+- Root cause of mass holds: SERIES/tip closeout stamped `done` while english still had Lemma-led/Rem scaffolds (or source had tip ops). Catalogue gate then withheld; claim board said done.
+- Fix: `pipeline/check_pass_ab.py` tip-ready checks; `scripts/assert_tip_ready.py`; `llm_bakeoff.score` + `ai_promote.structural_ok` use the same smells. Tests: `pipeline/tests/test_tip_ready_gate.py` (5) + existing translation QA.
+- Proof: scaffold Didymus open pair refused (exit≠0); Pascha pair ok; score refuses Lemma-led.
+- Catch-up next: land commits; refill free densify claims (Nemesius/Macarius/ANF/Philostorgius) — no new Rank-1 under quality pause; scaffold tips need re-OET before unhold.
+
+## 2026-09-13 (quality-review resume — held families)
+
+- Claim board Open/active is empty (`claims.py free` → none). Overnight cannot tip until free rows exist. Quality pause still: **no new Rank-1**.
+- Site holds: 573 (384 draft_scaffold; 126 whole_work_scope; 54 source_scope; 2 contamination; 2 publication_review). Serving leak for withdrawn URLs is fixed on fathers.saneapps.com (Pages Function allowlist).
+- Started first family: **Origen Comm. John 13** against Preuschen GCS IV OCR (`origeneswerke04orig_ocr.txt`). Receipt: `books/origen-john-later/reviews/audit/john13-preuschen-spotcheck-2026-09-13.json`. Naive string hit-rate low (OCR noise); distinctive forms (Σαμαρείτιδ, Ἡρακλέων) present in OCR — next step is OCR-tolerant alignment / page-anchored check, not lifting the hold yet.
+- Hygiene: stripped tip jargon `Melito skipped; never Cyril Matthew densify` from Song Liber IV §19 latin/english/working (honest end-caveat kept). Genesis Hom. 10 still has English `temporary` inside paraphrase latin — needs real Baehrens GCS 29 extract (only Hom. I has `gen_hom1_baehrens_*.txt`).
+- Densify lane remains next for **new** tips after quality review: Nemesius/Macarius/ANF/Philostorgius. Do not invent free claims without owner enqueue.
+
 ## Active quality audit — 2026-09-13
 
 Owner authorized process/SOP/result fixes and source/visual audit; no waiting for further permission.
