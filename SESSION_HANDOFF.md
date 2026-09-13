@@ -1,3 +1,8 @@
+## 2026-09-13 (Air — Matthew Series Peter denial)
+
+- Series §§9–10 tip `aa057d5f` after arrest `f2aa69e6`.
+- Continue Series → CLOSEOUT; caffeinate -dims; Merge-and-ship.
+
 ## 2026-09-13 (Air — Matthew Series arrest)
 
 - Series §§7–8 tip `f2aa69e6` after Gethsemane `8016a088`.
