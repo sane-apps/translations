@@ -1,3 +1,10 @@
+## 2026-09-12 (Air — Origen Comm. John later OET START)
+
+- Demonstration densify CLOSEOUT + Book 17 Pass B rem CLOSEOUT done.
+- True earliest OET started: `origen-john-later` (Preuschen GCS IV).
+- Book 13 §§1–10 Pass A≠B OET tip 3f2e05d.
+- Melito skipped. Never Cyril Matthew. Keep Macs caffeinated.
+
 # Translations — session handoff
 
 ## 2026-09-12 (Air — Book 17 Pass B sludge CLOSEOUT)
@@ -73,7 +80,7 @@
 
 - Claim `cyril-adoration5-21-26-oet`: Book 5 §§21–26 Pass A≠B OET CLOSEOUT (26/26). Trumpets/Gospels; Reuben–Gad; called vs chosen; Deut courage close.
 - Melito skipped. Never Cyril Matthew. `jer-h20b` intact.
-- Tip pending SHA stamp after `bb17175`. Next: Book 6 (same slug) unless owner redirects.
+- Tip 3f2e05d after `bb17175`. Next: Book 6 (same slug) unless owner redirects.
 
 ## 2026-09-12 (Air — Cyril Adoration Book 5 §§11–20 tip)
 
