@@ -11,7 +11,7 @@
 - Homilia III **title lacuna unrecoverable** from Baehrens GCS 30 OCR/scan (running headers jump II→IV; no separate Homilia III title line in this witness).
 - Copy-text Baehrens GCS 30 / Werke VII (1921). No Scheck FOTC. Pass A ≠ Pass B.
 - Melito skipped; never Cyril Matthew densify; Macs caffeinated.
-- Next Rank-1 Hexateuch: Deuteronomy / Joshua per queue.
+- Next Rank-1 Hexateuch after Numbers: **Joshua** (no Deut) — Homilia I tip `097a4878`.
 
 ## 2026-09-13 (Air — Numbers Homiliae VI–VII CLOSEOUT)
 
