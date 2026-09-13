@@ -1,3 +1,12 @@
+## 2026-09-13 (Air — Rank-1 pick: Cyril Glaphyra)
+
+- `caffeinate -dims` kept.
+- After Thesaurus SERIES `7f0dd153`, next earliest Rank-1 OET: **`cyril-alexandria-glaphyra`** (CPG 5201; PG 69).
+- Rationale: no usable PD English (Lunn FOTC 2018–19 = first full English / copyrighted); PG 69 lockable via Khazarzar; Melito skipped; never Cyril Matthew densify; Quod unus / Scholia / De incarnatione skipped (Pusey LFC PD).
+- Tips: B1 open `62546317`; Adam open+rem `71b48792`.
+- Cain/Abel open+rem tipped `5f4b23b9`.
+- Next: Noah earliest-forward. Tips for Merge-and-ship.
+
 ## 2026-09-13 (Air — Thesaurus SERIES CLOSEOUT)
 
 - Thesaurus Logos XXI–XXXV tipped; SERIES tip `7f0dd153`.
