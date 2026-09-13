@@ -1,3 +1,19 @@
+## 2026-09-13 (Air — Apollinaris/Diodorus/Theophilus/Ammonius)
+
+- `caffeinate -dims` kept.
+- Tipped Apollinaris PG33 (4), Diodorus PG33 (2), Theophilus Alex PG65 (2), Ammonius PG85 (1).
+- Re-tipped Diodorus Rom + Theophilus + Ammonius after shared-filename collisions with Apollinaris.
+- Densify: Nemesius/Macarius/ANF. Melito skipped; never Cyril Matthew densify.
+- Next: more corpus-wide Rank-1.
+
+## 2026-09-13 (Air — Gennadius + Cyril Jerusalem leftovers)
+
+- `caffeinate -dims` kept.
+- Tipped Gennadius Pauline fragments (5 SERIES) and Cyril of Jerusalem non-catechetical leftovers (4 SERIES).
+- Cyril Jer Catecheses/Mystagogiae/Procatechesis remain densify (NPNF).
+- Densify: Nemesius, Macarius, ANF. Melito skipped; never Cyril Matthew densify.
+- Next: more corpus-wide Rank-1.
+
 ## 2026-09-13 (Air — Hesychius PG93 Rank-1)
 
 - `caffeinate -dims` kept.
