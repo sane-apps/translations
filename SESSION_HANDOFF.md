@@ -1,3 +1,10 @@
+## 2026-09-13 (Air — Philocalia SERIES CLOSEOUT; Luke Homilies next)
+
+- `caffeinate -dims` confirmed.
+- `origen-philocalia` SERIES CLOSEOUT tip `18ba1926` (open `7dc6f457` → 2–7 `66e61331` → 8–14 `d059ab6b` → 15–21 `b6966467` → 22–27 `18ba1926`).
+- Next: **`origen-luke-homilies`** opening `3a197b9b` (Rauer GCS 35 Jerome; no ANF 9).
+- Tips merge-ready for Merge-and-ship. Melito skipped; never Cyril Matthew densify; no Lewis 1911 on Philocalia.
+
 ## 2026-09-13 (Air — Principiis SERIES CLOSEOUT; Philocalia next)
 
 - `caffeinate -dims` confirmed.
