@@ -1,3 +1,10 @@
+## 2026-09-13 (Air — Letters SERIES CLOSEOUT; NT fragments next)
+
+- `caffeinate -dims` confirmed.
+- `origen-letters` SERIES CLOSEOUT tip `23a65bf4` (open `b0aa599f` → Africanus rem `87aa1561` → Gregory/SERIES `23a65bf4`).
+- Next Rank-1: **`origen-nt-fragments`** (catena/reconstructed NT fragments; case-by-case PD collections).
+- Tips merge-ready for Merge-and-ship. Melito skipped; never Cyril Matthew densify; no ANF 4 Crombie.
+
 ## 2026-09-13 (Air — Luke Homilies SERIES CLOSEOUT; Letters next)
 
 - `caffeinate -dims` confirmed.
