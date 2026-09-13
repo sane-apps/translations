@@ -1,3 +1,8 @@
+## 2026-09-13 (Air — Matthew Series arrest)
+
+- Series §§7–8 tip `f2aa69e6` after Gethsemane `8016a088`.
+- Continue Series → CLOSEOUT; caffeinate -dims; Merge-and-ship.
+
 ## 2026-09-13 (Air — Matthew Series Gethsemane)
 
 - Series §§5–6 tip `8016a088` after rem `3601a95d` / open `aa8960a4`.
