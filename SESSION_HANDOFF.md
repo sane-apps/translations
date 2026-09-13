@@ -7,6 +7,12 @@
 - Melito skipped. Never Cyril Matthew densify. Keep Macs caffeinated.
 
 
+## 2026-09-13 (Air — Origen Song Homilia II CLOSEOUT)
+
+- Homilia II §§11–13 CLOSEOUT tip ac293ae5 (13/13).
+- Next: Commentary (Rufinus) earliest-forward.
+- Melito skipped. Never Cyril Matthew densify.
+
 ## 2026-09-13 (Air — Origen Song Homilia I CLOSEOUT + Homilia II §§1–10)
 
 - Homilia I §10 CLOSEOUT tip eb9e8f2 (10/10; couch/ornaments Amen coda).
