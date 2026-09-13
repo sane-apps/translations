@@ -1,3 +1,28 @@
+## 2026-09-13 (Air — Contra Celsum opened)
+
+- prayer-martyrdom SERIES CLOSEOUT .
+- Contra Celsum Book I §§1–2 tip  (GCS 2; no ANF/Chadwick).
+- Next: Celsum earliest-forward; caffeinate -dims; Merge-and-ship.
+
+## 2026-09-13 (Air — prayer-martyrdom SERIES CLOSEOUT; Contra Celsum next)
+
+- `origen-prayer-martyrdom` SERIES CLOSEOUT `d7b9c696`.
+- Orat: `c3952afa` → `51a68660`. Mart: `b83080f9` → `d7b9c696`.
+- Next Rank-1 promoted: **`origen-contra-celsum`** (GCS 2–3; shorter Rank-1 exhausted; true OET, no ANF/Chadwick copy).
+- caffeinate -dims; Merge-and-ship; Melito skipped; never Cyril Matthew densify; no O’Meara/Greer.
+
+## 2026-09-13 (Air — prayer-martyrdom SERIES CLOSEOUT)
+
+- `origen-prayer-martyrdom` SERIES CLOSEOUT tip `d7b9c696`.
+- On Prayer: open `c3952afa` → close `51a68660`.
+- Martyrdom: open `b83080f9` → close `d7b9c696`.
+- Next Rank-1 without pause; caffeinate -dims; Merge-and-ship; no O’Meara/Greer.
+
+## 2026-09-13 (Air — On Prayer CLOSEOUT)
+
+- Orat. §§5–6 ; §§7–18 ; §§19–34 ON PRAYER CLOSEOUT .
+- Next: Exhortation to Martyrdom earliest-forward → SERIES CLOSEOUT; caffeinate -dims; Merge-and-ship.
+
 ## 2026-09-13 (Air — On Prayer opened)
 
 - Matthew later SERIES CLOSEOUT .
