@@ -27,6 +27,6 @@
 ## §§41–50 densify (NOT OET)
 - John/apostles/Church/Spirit; Japheth blessing; eternal Son; Mamre/Sodom; Jacob ladder; bush/Exodus types; Father+Son Lord; Ps 110; anointed of nations; Isa 49 servant/light.
 - French check `sources/epideixis_41_50_french_check.json`. Melito skipped. Never Cyril Matthew.
-## §§51–60 densify (NOT OET)
+## §§51–60 densify tip `c6ef642` (NOT OET)
 - Isa 49 servant; Virgin/Emmanuel; Wonderful Counselor; Isa 9/cross; Judah grape-blood; Balaam star/magi; Jesse rod/flower; impartial judgment.
 - French `sources/epideixis_51_60_french_check.json`. Melito skipped. Never Cyril Matthew.
