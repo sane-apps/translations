@@ -1,3 +1,11 @@
+## 2026-09-13 (Air — Photius / Malalas / Syncellus / Studite)
+
+- `caffeinate -dims` kept.
+- Tipped 22 SERIES (125u): Photius fragments/commentaries (Bibliotheca densify Freese PD; Lexicon deferred); Malalas; Syncellus; Studite Homilia+Iambi (Epistulae deferred).
+- Prior this session: Cosmas/Paulus Silentarius densify; Chronicon Paschale/Agathias/Simocatta tipped.
+- Densify: Nemesius/Macarius/ANF/Philostorgius. Melito skipped; never Cyril Matthew densify.
+- Next: Cedrenus / more Maximus or Damascus non-NPNF scraps after PD-audit; keep going.
+
 ## 2026-09-13 (Air — Chronicon Paschale / Agathias / Theophylact Simocatta)
 
 - `caffeinate -dims` kept.
