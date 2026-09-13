@@ -1,3 +1,11 @@
+## 2026-09-13 (Air — Rank-1 audit → Trinity Dialogue 1)
+
+- Origen Rank-1 OET exhausted (`af9c9531`); Pauline deferred.
+- Audit: Melito skipped; Irenaeus Demonstration densify done; never Cyril Matthew densify.
+- Next earliest Rank-1 OET across corpus: **`cyril-alexandria-trinity-dialogue-1`** (CPG 5216; PG 75).
+- Opening tip (prologue + Dial.1 through Ps 46:10) merge-ready claim `cyril-trinity-d1-open-oet`.
+- `caffeinate -dims` kept. Standing rules unchanged. Keep tipping Merge-and-ship.
+
 ## 2026-09-13 (Air — NT fragments SERIES)
 
 - Tipped `origen-nt-fragments` earliest-forward: John open `32a0b77f` → John rem `1bbafdb5` → Luke catena `5c3d952e` → scholia SERIES `af9c9531`.
