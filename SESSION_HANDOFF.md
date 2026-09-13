@@ -1,3 +1,9 @@
+## 2026-09-13 (Air — Contra Celsum opened)
+
+- prayer-martyrdom SERIES CLOSEOUT .
+- Contra Celsum Book I §§1–2 tip  (GCS 2; no ANF/Chadwick).
+- Next: Celsum earliest-forward; caffeinate -dims; Merge-and-ship.
+
 ## 2026-09-13 (Air — prayer-martyrdom SERIES CLOSEOUT; Contra Celsum next)
 
 - `origen-prayer-martyrdom` SERIES CLOSEOUT `d7b9c696`.
