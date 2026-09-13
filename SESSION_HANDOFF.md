@@ -1,3 +1,11 @@
+## 2026-09-13 (Air — Origen Song Homilia I §§1–10 OET tip 7a50ac8)
+
+- After `origen-john-later` series CLOSEOUT tip `959ffcc` / stamp `b6a950f`.
+- Densify clear (Demonstration done). Melito skipped. Cyril Matthew fragments **290/290** done — **never densify**.
+- Next true earliest Rank-1 OET: `origen-song` (Baehrens GCS 33). Claim `origen-song-hom1-1-10-oet`.
+- Homilia I §§1–10 Pass A≠B OET first tip `7a50ac8`.
+- Melito skipped. Never Cyril Matthew densify. Keep Macs caffeinated.
+
 
 ## 2026-09-12 (Air — Origen John later 13 §§41–50 tip )
 
