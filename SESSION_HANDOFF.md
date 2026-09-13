@@ -1,3 +1,12 @@
+## 2026-09-13 (Air — Contra Julianum Pref+I–II)
+
+- `caffeinate -dims` confirmed/renewed.
+- After Twelve Prophets SERIES `bbb64f90`, audited next Rank-1: **Contra Julianum** (CPG 5233) lockable via Khazarzar PG PDF (Pref + Tomoi I–II).
+- Tips: Pref `6ec2b6bf`; Book I `f2017b91`; Book II `df12fae5` (lockable-corpus tip for available Greek).
+- Books III–X not in Khazarzar extract — seek lockable PD Greek before SERIES claim.
+- True OET; Pass A≠B; Melito skipped; never Cyril Matthew densify; skip Pusey-PD / Greystone / Lunn / Hill.
+- Next: locate CJ III+ or tip next earliest Rank-1 with lockable Greek (Festal Letters CPG 5240 candidate).
+
 ## 2026-09-13 (Air — Twelve Prophets SERIES CLOSEOUT)
 
 - `caffeinate -dims` confirmed/renewed (pid present).
