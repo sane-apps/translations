@@ -1,3 +1,40 @@
+## 2026-09-13 (Air — Evagrius PG40 Rank-1 SERIES batch)
+
+- `caffeinate -dims` confirmed/renewed.
+- Eustathius PG18 leftovers already SERIES-closed; Gregory non-ANF + Marcellus Fragmenta + Theodorus Matt tipped earlier this session.
+- **Pick:** Evagrius Ponticus PG 40 lockable Greek without usable PD English (not ANF).
+- Tipped 16 SERIES (git-verified from tip_shas.json):
+  - `evagrius-ad-eulogium` Tractatus ad Eulogium `1ab40a36` (4u)
+  - `evagrius-capitula-xxxiii` Capitula xxxiii `ea722025` (1u)
+  - `evagrius-de-magistris` De magistris et discipulis `dd0f8f61` (1u)
+  - `evagrius-de-malignis-cogitationibus` De malignis cogitationibus `4da29f93` (3u)
+  - `evagrius-de-octo-spiritibus` De octo spiritibus malitiae `81e04c50` (2u)
+  - `evagrius-de-vitiis` De vitiis quae opposita sunt virtutibus `2d0ec28e` (1u)
+  - `evagrius-expositio-proverbia` Expositio in Proverbia Salomonis `ebacc83d` (6u)
+  - `evagrius-gnosticus` Gnosticus `7a9c0943` (1u)
+  - `evagrius-institutio-monachos` Institutio sive Paraenesis ad monachos `8baaf8ef` (1u)
+  - `evagrius-practicus` Practicus `ff436005` (3u)
+  - `evagrius-rerum-monachalium` Rerum monachalium rationes `74dcb940` (1u)
+  - `evagrius-scholia-ecclesiasten` Scholia in Ecclesiasten `21faeca7` (3u)
+  - `evagrius-scholia-proverbia` Scholia in Proverbia `9bc6ed76` (7u)
+  - `evagrius-sententiae-monachos` Sententiae ad monachos `201bbdab` (1u)
+  - `evagrius-sententiae-virginem` Sententiae ad virginem `55d70ba2` (1u)
+  - `evagrius-spiritales-sententiae` Spiritales sententiae per alphabeticum dispositae `039579b1` (1u)
+- Skipped De oratione (Nilus/PD); Serapion Antioch Fragmenta densify-lane (ANF).
+- Melito skipped; never Cyril Matthew densify; ANF densify-lane.
+- Next: Asterius / Nemesius / further corpus-wide Rank-1.
+
+## 2026-09-13 (Air — Gregory non-ANF + Marcellus/Theodorus SERIES)
+
+- `caffeinate -dims` kept.
+- Eustathius PG18 Rank-1 leftovers already SERIES-closed.
+- Gregory: tipped non-ANF *Eis to ouden eidolon* `30cd50b6` (1u), *Sententiae* `d112b535` (1u).
+- Gregory ANF densify-lane: De fide XII / Ad Tatianum / Annuntiationem / Omnes sanctos / panegyric / Eccl. metaphrase / canonical letter.
+- Marcellus *Fragmenta* SERIES `8c5835dd` (5u); skipped Athanasian-titled folder mates.
+- Theodorus Heracleensis Matt fragments SERIES `778204ed` (1u); never Cyril Matthew densify.
+- Melito skipped; ANF-covered stays densify-lane.
+- Next: Serapion PG 40 Fragmenta / further corpus-wide Rank-1.
+
 ## 2026-09-13 (Air — Eustathius PG18 leftovers SERIES closed)
 
 - `caffeinate -dims` kept.
