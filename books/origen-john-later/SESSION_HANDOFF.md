@@ -58,8 +58,8 @@
 - Next: Book 19 §§11–20 then CLOSEOUT through §23 → Books 20 → 28 → 32.
 - Melito skipped. Never Cyril Matthew.
 
-## 2026-09-13 (Air — Origen John later Book 19 §§11–23 CLOSEOUT tip TIP1923)
+## 2026-09-13 (Air — Origen John later Book 19 §§11–23 CLOSEOUT tip 15c53dc)
 
-- Claim `origen-john-later-19-11-23-oet`: Book 19 §§11–23 Pass A≠B OET CLOSEOUT. Tip `TIP1923` after `3361b3a`. Book 19 **23/23**.
+- Claim `origen-john-later-19-11-23-oet`: Book 19 §§11–23 Pass A≠B OET CLOSEOUT. Tip `15c53dc` after `3361b3a`. Book 19 **23/23**.
 - Next: Book **20** (~10-section tips) → 28 → 32.
 - Melito skipped. Never Cyril Matthew.
