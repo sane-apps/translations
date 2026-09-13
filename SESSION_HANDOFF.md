@@ -1,3 +1,11 @@
+## 2026-09-13 (Air — John of Damascus Rank-1 non-NPNF)
+
+- `caffeinate -dims` kept.
+- PD-audit: densify Expositio fidei (NPNF), Orationes de imaginibus (Allies PD), Vita Barlaam et Joasaph (Loeb PD); Sacra parallela florilegia deferred.
+- Tipped **42 SERIES / 138 units** Rank-1 (live tip_shas.json); last SERIES `2e4a64ca` (Sermo in annuntiationem Mariae).
+- Densify: Nemesius/Macarius/ANF/Philostorgius. Melito skipped; never Cyril Matthew densify.
+- Next: Maximus Confessor PG 90-91 lockable Greek (no usable complete PD English); tip merge-ready; keep going.
+
 ## 2026-09-13 (Air — Photius / Malalas / Syncellus / Studite)
 
 - `caffeinate -dims` kept.
