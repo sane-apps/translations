@@ -1,16 +1,16 @@
 # SESSION HANDOFF — origen-numbers-homilies
 
-## Status
-- Homilia I CLOSEOUT `2aeec79a`
-- Homilia II CLOSEOUT `a3d8a784` (§§1–2 `2711b7bc`; §§3–4 `a3d8a784`)
-- Homilia III title lacuna (Baehrens OCR)
-- Homilia IV CLOSEOUT `1644956f`
-- Copy-text Baehrens GCS 30 / Werke VII (1921)
-- After Leviticus SERIES `63fcac0c`
+## Status (merge-ready tips)
+- Homilia I `2aeec79a`
+- Homilia II `a3d8a784` (incl. §§1–2 `2711b7bc`)
+- Homilia III title lacuna
+- Homilia IV `1644956f`
+- Homilia V `048a0071`
+- Homilia VI `99a0cd83`
+- Homilia VII `ced8c601`
 
 ## Next
-- Homilia V → XXVIII earliest-forward; tip merge-ready batches
-- Pass A ≠ Pass B; Macs caffeinated
+Homilia VIII → XXVIII earliest-forward. Pass A ≠ Pass B; Macs caffeinated.
 
-## Standing rules
-True OET; skip Melito; never Cyril densify; no Scheck FOTC.
+## Rules
+True OET; Baehrens GCS 30; no Scheck FOTC; skip Melito; never Cyril densify.

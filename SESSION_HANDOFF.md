@@ -1,3 +1,10 @@
+## 2026-09-13 (Air — Numbers Homiliae VI–VII CLOSEOUT)
+
+- Homilia VI tip `99a0cd83`; Homilia VII tip `ced8c601` (after V `048a0071`).
+- Titles VI/VII soft in Baehrens OCR — sliced by discourse + running headers / Amen.
+- Homilia III title lacuna unchanged. Next VIII+.
+- Melito skipped; never Cyril Matthew densify; no Scheck FOTC; Macs caffeinated.
+
 ## 2026-09-13 (Air — Numbers Homilia V CLOSEOUT)
 
 - Homilia V §§1–3 CLOSEOUT tip `048a0071` (after IV `1644956f`; II `a3d8a784`).
