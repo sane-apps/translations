@@ -1,3 +1,11 @@
+## 2026-09-13 (Air — Regnorum + Lamentationes SERIES; keep going)
+
+- `caffeinate -dims` confirmed.
+- Cyril Khazarzar Rank-1 EXHAUSTED (shipped). Origen Pauline SERIES previously CLOSED.
+- **Pick:** earliest-untranslated Rank-1 = `origen-regnorum-fragments` (≠ engastrimytho) SERIES `5882494e`; then `origen-lamentationes-fragments` SERIES `dc1f9fde`.
+- Standing skips: Melito; never Cyril Matthew densify; skip Pusey-PD / Greystone / Lunn / Hill; no copyrighted-first-English densify.
+- Next: Job / Proverbs / Psalms-Greek leftovers earliest-forward.
+
 ## 2026-09-13 (Air — Origen Pauline SERIES CLOSED; next Regnorum)
 
 - `caffeinate -dims` confirmed.
