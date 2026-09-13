@@ -1,3 +1,9 @@
+## 2026-09-13 (Air — Matthew Tomus XVI opened)
+
+- Tomus XVI §§1–2 tip `32889344` (Zebedee right/left; throne catena).
+- Prior: XV opening `515bbfbd`, XV CLOSEOUT `6b37f613`.
+- Next: XVI rem → XVII → Series; caffeinate -dims; Merge-and-ship.
+
 ## 2026-09-13 (Air — Matthew Tomus XV CLOSEOUT)
 
 - Tomus XV rem §§3–4 tip `6b37f613` after opening `515bbfbd`.
