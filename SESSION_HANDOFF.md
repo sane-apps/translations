@@ -1,3 +1,12 @@
+## 2026-09-13 (Air — Nicephorus Patriarch PG 100 Rank-1)
+
+- `caffeinate -dims` kept.
+- PD-audit: no usable complete PD English (Mango Breviarium modern). Leontius Byzantinus PG 86 empty PDF tree. Studite Epistulae still deferred.
+- Tipped **3 SERIES / 45 units** Rank-1 (live tip_shas.json); last SERIES `6ea8e1630` (`nicephorus-refutatio-eversio-definitionis`).
+- Prior: Maximus 12 SERIES / 374u; John of Damascus 42 SERIES / 138u.
+- Densify: Nemesius/Macarius/ANF/Philostorgius. Melito skipped; never Cyril Matthew densify.
+- Next: more lockable Greek without usable PD English; tip merge-ready; keep going.
+
 ## 2026-09-13 (Air — Maximus Confessor PG 90-91 Rank-1)
 
 - `caffeinate -dims` kept.
