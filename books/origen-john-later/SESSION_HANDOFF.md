@@ -13,6 +13,12 @@
 - Sources locked: Preuschen `origeneswerke04orig_djvu.txt` + Brooke 1896 vol.1 check.
 - **Book 13 §§1–10 tip ** Pass A≠B OET first tip `3f2e05d`.
 
+
+## 2026-09-12 (Air — Origen John later 13 §§11–20 tip `04f4d58`)
+
+- Claim `origen-john-later-13-11-20-oet`: Book 13 §§11–20 Pass A≠B OET. Tip `04f4d58` after `3f2e05d`.
+- Next: §§21–30. Melito skipped. Never Cyril Matthew.
+
 ## Next
 
 - Book 13 §§11–20 (then finish Book 13; afterward 19 → 20 → 28 → 32).

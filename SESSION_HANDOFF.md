@@ -1,3 +1,8 @@
+
+## 2026-09-12 (Air — Origen John later 13 §§11–20 tip `04f4d58`)
+
+- Claim `origen-john-later-13-11-20-oet`: Book 13 §§11–20 Pass A≠B OET. Tip `04f4d58` after `3f2e05d`.
+- Next: §§21–30. Melito skipped. Never Cyril Matthew.
 ## 2026-09-12 (Air — Origen Comm. John later OET START)
 
 - Demonstration densify CLOSEOUT + Book 17 Pass B rem CLOSEOUT done.
