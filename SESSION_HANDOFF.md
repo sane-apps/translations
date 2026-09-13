@@ -1,5 +1,11 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — Book 17 Pass B sludge CLOSEOUT)
+
+- After Demonstration densify 100/100 (`bb4969e`), remediated Cyril *De adoratione* Book 17 Pass B sludge §§1–33 (tips `53ace79` / `abfc3df` / CLOSEOUT pending stamp).
+- Pass A≠B preserved; inline Logos bible refs. Melito skipped. Never Cyril Matthew.
+- Next parked true OET: `origen-john-later`.
+
 ## 2026-09-12 (Air — Irenaeus Demonstration §§81–100 densify CLOSEOUT)
 
 - Claims `irenaeus-demonstration-81-90-densify` + `irenaeus-demonstration-91-100-densify`: §§81–100 Pass A≠B densify CLOSEOUT (**NOT OET**, 100/100).
