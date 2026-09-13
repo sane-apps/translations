@@ -1,3 +1,11 @@
+## 2026-09-13 (Air — Asterius Homiliae SERIES)
+
+- `caffeinate -dims` kept.
+- After Evagrius PG40 batch: tipped Asterius *Homiliae* SERIES `15b3f720` (20u); *Homilia 9* `c6496135` (1u).
+- Nemesius De natura → densify (Wither 1636 PD).
+- Melito skipped; never Cyril Matthew densify; ANF densify-lane.
+- Next: more corpus-wide Rank-1.
+
 ## 2026-09-13 (Air — Evagrius PG40 Rank-1 SERIES batch)
 
 - `caffeinate -dims` confirmed/renewed.
