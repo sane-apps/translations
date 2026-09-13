@@ -1,3 +1,11 @@
+## 2026-09-13 (Air — Psalms SERIES CLOSEOUT)
+
+- After Contra Julianum SERIES `d0dcfa40` and Festal `43b80d0e`, tipped **Expositio in Psalmos** (CPG 5202; PG 69).
+- Prologue tip `d41c0520`; Ps1 `290ff6ee`; **SERIES CLOSEOUT** `4e5bf489` (prol + 100 extract units; tip_shas.json).
+- Fragmentary catena (not continuous 1–150); unit index disambiguates duplicate Greek numerals.
+- True OET; Melito skipped; never Cyril Matthew densify; skip Pusey-PD / Greystone / Lunn / Hill.
+- Next: audit next earliest Rank-1 under standing rules; `caffeinate -dims` kept.
+
 ## 2026-09-13 (Air — Contra Julianum SERIES CLOSEOUT)
 
 - `caffeinate -dims` confirmed/renewed.
