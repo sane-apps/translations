@@ -4,7 +4,7 @@
 - Finished Isaiah Homiliae II–IX (Isa IX lacuna end documented) then Ezekiel I–XIV without pause.
 - SERIES CLOSEOUT `origen-isaiah-ezekiel` tip `ecd5c7c6` (23/23).
 - Next Rank-1: **`origen-psalms-rufinus`** (PG 12) over waiting on stronger lock — preferred remaining Rank-1 after GCS VIII pair; Romans still queued after.
-- Ps 36 Homilia I tip PENDING_PS. Melito skipped; never Cyril Matthew densify; no Scheck/Trigg FOTC.
+- Ps 36 Homilia I tip 890d89d2. Melito skipped; never Cyril Matthew densify; no Scheck/Trigg FOTC.
 
 ## 2026-09-13 (Air — Isaiah Homilia I after Judges CLOSEOUT)
 
