@@ -1,3 +1,9 @@
+## 2026-09-13 (Air — Romans Book I opened)
+
+- After Psalms SERIES 8270d057, tipped Romans Book I Pref+opening 5047f5d5 (PG 14 tesseract).
+- Next: Romans Book I remainder earliest-forward.
+- caffeinate -dims renewed.
+
 ## 2026-09-13 (Air — Psalms Rufinus SERIES CLOSEOUT; Romans next)
 
 - `caffeinate -dims` confirmed.
