@@ -1,3 +1,11 @@
+## 2026-09-13 (Air — Contra Julianum SERIES CLOSEOUT)
+
+- `caffeinate -dims` confirmed/renewed.
+- Found lockable PD Greek for Books III–X: Internet Archive Migne PG 76 (`bim_early-english-books-1641-1700_patrologiae-cursus-completus-_1859_76`) leaf JPEGs + `tesseract -l grc+eng` (Khazarzar had Pref+I–II only).
+- **SERIES CLOSEOUT** `d0dcfa40` (Book X). III `97dbca66` … X `d0dcfa40`.
+- Festal Letters already SERIES `43b80d0e`. Standing rules held.
+- Next: audit next earliest Rank-1 (Melito skip; never Cyril Matthew densify; skip Pusey-PD / Greystone / Lunn / Hill).
+
 ## 2026-09-13 (Air — Festal Letters SERIES CLOSEOUT)
 
 - `caffeinate -dims` confirmed/renewed.
