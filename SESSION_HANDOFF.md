@@ -1,3 +1,11 @@
+## 2026-09-13 (Air — Numbers Homiliae I–XXVIII SERIES CLOSEOUT)
+
+- `origen-numbers-homilies` SERIES CLOSEOUT tip `c57bb75e` (28/28 tipped merge-ready).
+- Homilia III **title lacuna unrecoverable** from Baehrens GCS 30 OCR/scan (running headers jump II→IV; no separate Homilia III title line in this witness).
+- Copy-text Baehrens GCS 30 / Werke VII (1921). No Scheck FOTC. Pass A ≠ Pass B.
+- Melito skipped; never Cyril Matthew densify; Macs caffeinated.
+- Next Rank-1 Hexateuch: Deuteronomy / Joshua per queue.
+
 ## 2026-09-13 (Air — Numbers Homiliae VI–VII CLOSEOUT)
 
 - Homilia VI tip `99a0cd83`; Homilia VII tip `ced8c601` (after V `048a0071`).
