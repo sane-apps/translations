@@ -1,3 +1,10 @@
+## 2026-09-13 (Air — Gennadius / Bryennius / Phokas / Symeon Magister Rank-1)
+
+- `caffeinate -dims` kept.
+- Tipped 8 SERIES / 46u (Gennadius 5 scraps; Bryennius Historiae; Phokas De velitatione; Symeon Magister Chronographia). Theophanes Confessor Chronographia in progress.
+- Densify: Nemesius/Macarius/ANF/Philostorgius. Melito skipped; never Cyril Matthew densify.
+- Next: finish Theophanes; keep corpus-wide Rank-1 going.
+
 ## 2026-09-13 (Air — Nicephorus Patriarch PG 100 Rank-1)
 
 - `caffeinate -dims` kept.
