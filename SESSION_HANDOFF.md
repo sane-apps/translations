@@ -1,4 +1,8 @@
 
+## 2026-09-12 (Air — Origen John later 13 §§31–40 tip `6b1e4ef`)
+
+- Tip `6b1e4ef` after `626a506`. Next §§41–50. Melito skipped. Never Cyril Matthew.
+
 ## 2026-09-12 (Air — Origen John later 13 §§21–30 tip `626a506`)
 
 - Claim `origen-john-later-13-21-30-oet`. Tip `626a506` after `04f4d58`.
