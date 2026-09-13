@@ -1,3 +1,12 @@
+## 2026-09-13 (Air — Isaiah SERIES CLOSEOUT)
+
+- `caffeinate -dims` kept.
+- Cyril Isaiah Book II rem → Book V tipped; SERIES tip `f26b4d9c`.
+- Book II tomoi 2–5; Book III tomoi 1–5; Book IV logos 1–5; Book V parts 1–2.
+- True OET; no Hill HC; Melito skipped; never Cyril Matthew densify; skip Pusey-PD.
+- Next: audit next Rank-1 OET (same standing rules).
+- Tips for Merge-and-ship.
+
 ## 2026-09-13 (Air — Rank-1 pick: Cyril Isaiah)
 
 - `caffeinate -dims` kept.
