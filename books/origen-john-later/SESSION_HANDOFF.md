@@ -52,8 +52,8 @@
 - Book 19 §§1–10 (then finish 19; afterward 20 → 28 → 32).
 - Melito skipped. Never Cyril Matthew.
 
-## 2026-09-13 (Air — Origen John later Book 19 §§1–10 tip TIP19)
+## 2026-09-13 (Air — Origen John later Book 19 §§1–10 tip 3361b3a)
 
-- Claim `origen-john-later-19-1-10-oet`: Book 19 §§1–10 Pass A≠B OET (acephalous/incomplete tome). Tip `TIP19` after Book 13 CLOSEOUT `6f747c8`.
+- Claim `origen-john-later-19-1-10-oet`: Book 19 §§1–10 Pass A≠B OET (acephalous/incomplete tome). Tip `3361b3a` after Book 13 CLOSEOUT `6f747c8`.
 - Next: Book 19 §§11–20 then CLOSEOUT through §23 → Books 20 → 28 → 32.
 - Melito skipped. Never Cyril Matthew.
