@@ -1,3 +1,16 @@
+## 2026-09-13 (Air — Romans Book I opened)
+
+- After Psalms SERIES 8270d057, tipped Romans Book I Pref+opening 5047f5d5 (PG 14 tesseract).
+- Next: Romans Book I remainder earliest-forward.
+- caffeinate -dims renewed.
+
+## 2026-09-13 (Air — Psalms Rufinus SERIES CLOSEOUT; Romans next)
+
+- `caffeinate -dims` confirmed.
+- Isaiah–Ezekiel SERIES tip `ecd5c7c6` already closed.
+- Finished `origen-psalms-rufinus` Homiliae 9/9 tip `8270d057` (Ps36 I–V, Ps37 I–II, Ps38 I–II). PG 12 pdftotext lock.
+- Next Rank-1: **`origen-romans`** (PG 14 Rufinus). Melito skipped; never Cyril Matthew densify.
+
 ## 2026-09-13 (Air — Isaiah–Ezekiel SERIES CLOSEOUT; Psalms Rufinus next)
 
 - `caffeinate -dims` confirmed/renewed.
