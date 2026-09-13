@@ -1,10 +1,10 @@
-## 2026-09-13 (Air — Rank-1 pick: Exodus Homilies)
+## 2026-09-13 (Air — Rank-1: `origen-numbers-homilies` Homilia II §§1–2)
 
-- Genesis SERIES CLOSEOUT tip 270ab13a confirmed.
-- Densify clear; Melito skipped; never Cyril Matthew densify.
-- Winner:  (Hexateuch continuation; Baehrens GCS 29; Heine FOTC 71 copyrighted — sense-check only).
-- Claim  Homilia I §§1–5 CLOSEOUT tip 5b9a8a3c.
-- Next: Homilia II+. Macs caffeinated.
+- Leviticus SERIES CLOSEOUT tip `63fcac0c` confirmed; Exodus tip `59ea0b75`; Genesis tip `270ab13a`.
+- Homilia I tip `2aeec79a` (claim `origen-numbers-homilies-h1-1-3-oet`).
+- Homilia II §§1–2 tip `2711b7bc` (claim `origen-numbers-homilies-h2-1-2-oet`). Next: Homilia II §§3+ / III+.
+- Copy-text Baehrens GCS 30 / Werke VII (1921). No Scheck FOTC wording.
+- Melito skipped; never Cyril Matthew densify; Pass A ≠ Pass B; Macs caffeinated.
 
 ## 2026-09-13 (Air — Genesis Homiliae IX–XVI SERIES CLOSEOUT)
 

@@ -1,13 +1,14 @@
 # SESSION HANDOFF — origen-numbers-homilies
 
 ## Status
-- Homilia I §§1–3 CLOSEOUT tipped merge-ready: 
+- Homilia I §§1–3 CLOSEOUT tip `2aeec79a`
+- Homilia II §§1–2 tip `2711b7bc`
 - Copy-text: Baehrens GCS 30 / Werke VII (1921), Rufinus Latin
 - Scheck FOTC copyrighted — never copy
-- After Leviticus SERIES CLOSEOUT 
+- After Leviticus SERIES CLOSEOUT `63fcac0c`
 
 ## Next
-- Homilia II earliest-forward through XXVIII (28/28)
+- Homilia II §§3+ (Homilia II/III titles lost in Baehrens OCR — use section numerals / Homilia IV boundary), then III–XXVIII
 - Tip merge-ready batches; Pass A ≠ Pass B; Macs caffeinated
 
 ## Standing rules
