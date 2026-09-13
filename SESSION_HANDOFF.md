@@ -1,3 +1,9 @@
+## 2026-09-13 (Air — Matthew Tomus XV CLOSEOUT)
+
+- Tomus XV rem §§3–4 tip `6b37f613` after opening `515bbfbd`.
+- Next: Tomus XVI (PG 13 p.~715+) earliest-forward, then XVII + Series.
+- caffeinate -dims; Merge-and-ship tips.
+
 ## 2026-09-13 (Air — Matthew Tomus XV opened)
 
 - Romans SERIES already `3394ac4c` (10/10).
