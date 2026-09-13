@@ -1,3 +1,20 @@
+## 2026-09-13 (Air — Festal Letters SERIES CLOSEOUT)
+
+- `caffeinate -dims` confirmed/renewed.
+- Rank-1 after Twelve Prophets: **Contra Julianum** (CPG 5233) Pref+Books I–II tipped (`6ec2b6bf` / `f2017b91` / `df12fae5`); Books III+ not in Khazarzar extract — still seeking lockable PD Greek.
+- Next lockable Rank-1: **Festal Letters** (CPG 5240) — **SERIES CLOSEOUT** `43b80d0e` (Logos 30). Logos 3 header lacuna in extract (not separately tipped); L5 boundary retipped `219e363e`; L6 `430a686f`.
+- True OET; Pass A≠B; Melito skipped; never Cyril Matthew densify; skip Pusey-PD / Greystone / Lunn / Hill; no McEnerney FOTC.
+- Next: seek CJ III+ lockable Greek, else next earliest Rank-1 under standing rules.
+
+## 2026-09-13 (Air — Contra Julianum Pref+I–II)
+
+- `caffeinate -dims` confirmed/renewed.
+- After Twelve Prophets SERIES `bbb64f90`, audited next Rank-1: **Contra Julianum** (CPG 5233) lockable via Khazarzar PG PDF (Pref + Tomoi I–II).
+- Tips: Pref `6ec2b6bf`; Book I `f2017b91`; Book II `df12fae5` (lockable-corpus tip for available Greek).
+- Books III–X not in Khazarzar extract — seek lockable PD Greek before SERIES claim.
+- True OET; Pass A≠B; Melito skipped; never Cyril Matthew densify; skip Pusey-PD / Greystone / Lunn / Hill.
+- Next: locate CJ III+ or tip next earliest Rank-1 with lockable Greek (Festal Letters CPG 5240 candidate).
+
 ## 2026-09-13 (Air — Twelve Prophets SERIES CLOSEOUT)
 
 - `caffeinate -dims` confirmed/renewed (pid present).
