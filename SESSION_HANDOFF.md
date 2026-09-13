@@ -1,3 +1,8 @@
+## 2026-09-13 (Air — Matthew Series rem)
+
+- Series §§3–4 rem tip `3601a95d` after Series open `aa8960a4`.
+- Continue Series earliest-forward; caffeinate -dims; Merge-and-ship.
+
 ## 2026-09-13 (Air — Matthew XVII rem tip fixed; Series open)
 
 - Tomus XVII rem CLOSEOUT tip  (was mis-stamped as stamp commit; corrected).
