@@ -1,3 +1,8 @@
+## 2026-09-13 (Air — Matthew Series Gethsemane)
+
+- Series §§5–6 tip  (Gethsemane / cup) after rem .
+- Continue Series earliest-forward; caffeinate -dims; Merge-and-ship.
+
 ## 2026-09-13 (Air — Matthew Series rem)
 
 - Series §§3–4 rem tip `3601a95d` after Series open `aa8960a4`.
