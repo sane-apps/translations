@@ -1,3 +1,9 @@
+## 2026-09-13 (Air — On Prayer opened)
+
+- Matthew later SERIES CLOSEOUT .
+- Tipped Origen On Prayer §§1–2  (GCS 3; Pass A≠B; no O'Meara/Greer).
+- Next: On Prayer remainder earliest-forward, then Exhortation to Martyrdom; caffeinate -dims; Merge-and-ship.
+
 ## 2026-09-13 (Air — Matthew later SERIES CLOSEOUT)
 
 -  SERIES CLOSEOUT tip  (XV–XVII + Series through titulus/guards).
