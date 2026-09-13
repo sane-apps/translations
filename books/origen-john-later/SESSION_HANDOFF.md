@@ -81,3 +81,39 @@
 - Claim `origen-john-later-20-21-30-oet`. Tip `e0574a7` after `14a5a1d`. Book 20 now 30/~44.
 - Next: §§31+ CLOSEOUT → Books 28 → 32.
 - Melito skipped. Never Cyril Matthew.
+
+## 2026-09-13 (Air — Origen John later Book 20 §§31–44 CLOSEOUT tip 3fa1d31)
+
+- Claim . Tip  after . Book 20 **44/44**.
+- Next: Book **28** → **32**.
+- Melito skipped. Never Cyril Matthew.
+
+## 2026-09-13 (Air — Origen John later Book 28 §§1–13 tip 76dfc69)
+
+- Claim `origen-john-later-28-1-13-oet`. Tip `76dfc69` after Book 20 CLOSEOUT `3fa1d31`.
+- Next: Book 28 §§14–26 CLOSEOUT → Book 32.
+- Melito skipped. Never Cyril Matthew.
+
+## 2026-09-13 (Air — Origen John later Book 28 §§14–26 CLOSEOUT tip 142e102)
+
+- Claim `origen-john-later-28-14-26-oet`. Tip `142e102`. Book 28 **26/26**.
+- Next: Book **32**.
+- Melito skipped. Never Cyril Matthew.
+
+## 2026-09-13 (Air — Origen John later Book 32 §§1–10 tip 2cf6a63)
+
+- Claim `origen-john-later-32-1-10-oet`. Tip `2cf6a63` after Book 28 CLOSEOUT `142e102`.
+- Next: Book 32 §§11–20 then CLOSEOUT through §32.
+- Melito skipped. Never Cyril Matthew.
+
+## 2026-09-13 (Air — Origen John later Book 32 §§11–20 tip 7f43374)
+
+- Claim `origen-john-later-32-11-20-oet`. Tip `7f43374` after `2cf6a63`. Book 32 now 20/~32.
+- Next: §§21–32 CLOSEOUT.
+- Melito skipped. Never Cyril Matthew.
+
+## 2026-09-13 (Air — Origen John later Book 32 §§21–32 CLOSEOUT tip 959ffcc)
+
+- Claim `origen-john-later-32-21-32-oet`. Tip `959ffcc`. Book 32 **32/32**.
+- **Origen Comm. John later (13/19/20/28/32) series CLOSEOUT.**
+- Melito skipped. Never Cyril Matthew.
