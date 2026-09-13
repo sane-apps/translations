@@ -1,3 +1,11 @@
+## 2026-09-13 (Air — Nonnos / Eusebius Emesa / Alexander / Arethas / Theodorus PG86a / Georges Pisides)
+
+- `caffeinate -dims` kept.
+- Tipped 25 SERIES corpus-wide Rank-1 (Nonnos Scholia; Eusebius Emesa 3; Alexander Monachus 3; Arethas 5; Theodorus PG86a 6; Georges Pisides 7).
+- Unique Author__ aliases for Fragmenta collision avoidance.
+- Densify: Nemesius/Macarius/ANF/Philostorgius. Melito skipped; never Cyril Matthew densify.
+- Next: more corpus-wide Rank-1 (e.g. Procopius of Gaza / Oecumenius / Cosmas / Chronicon Paschale — PD-audit first).
+
 ## 2026-09-13 (Air — Olympiodorus + Epiphanius leftovers)
 
 - `caffeinate -dims` kept.
