@@ -1,3 +1,9 @@
+## 2026-09-13 (Air — Origen Song Comm. Prologus §§1–10)
+
+- Comm. Prologus §§1–10 tip 924f6253. Homiliae I–II already CLOSEOUT.
+- Next: Prologus remainder / Liber I earliest-forward.
+- Melito skipped. Never Cyril Matthew densify.
+
 ## 2026-09-13 (Air — Origen Song Homilia I §§1–10 OET tip 7a50ac8)
 
 - After `origen-john-later` series CLOSEOUT tip `959ffcc` / stamp `b6a950f`.
@@ -5,6 +11,19 @@
 - Next true earliest Rank-1 OET: `origen-song` (Baehrens GCS 33). Claim `origen-song-hom1-1-10-oet`.
 - Homilia I §§1–10 Pass A≠B OET first tip `7a50ac8`.
 - Melito skipped. Never Cyril Matthew densify. Keep Macs caffeinated.
+
+
+## 2026-09-13 (Air — Origen Song Homilia II CLOSEOUT)
+
+- Homilia II §§11–13 CLOSEOUT tip ac293ae5 (13/13).
+- Next: Commentary (Rufinus) earliest-forward.
+- Melito skipped. Never Cyril Matthew densify.
+
+## 2026-09-13 (Air — Origen Song Homilia I CLOSEOUT + Homilia II §§1–10)
+
+- Homilia I §10 CLOSEOUT tip eb9e8f2 (10/10; couch/ornaments Amen coda).
+- Homilia II §§1–10 tip bdcd3e9. Next: Homilia II §§11+ CLOSEOUT, then Commentary.
+- Melito skipped. Never Cyril Matthew densify. Macs caffeinated.
 
 
 ## 2026-09-12 (Air — Origen John later 13 §§41–50 tip )

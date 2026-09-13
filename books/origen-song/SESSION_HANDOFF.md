@@ -18,3 +18,9 @@
 
 - Homilia I §§11+ if any remainder, else Homilia II §§1–10, then Commentary Prologus / Liber I.
 - Melito skipped. Never Cyril Matthew densify.
+
+## 2026-09-13 Comm. Prologus §§1–10 tip 924f6253
+
+- Homiliae I–II CLOSEOUT done.
+- Next Prologus §§11+ / Liber I.
+- Melito skipped; never Cyril Matthew densify.
