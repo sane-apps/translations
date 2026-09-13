@@ -1,3 +1,11 @@
+## 2026-09-13 (Air — Responsiones SERIES CLOSEOUT)
+
+- After Psalms SERIES `4e5bf489`, next Rank-1: **Responsiones ad Tiberium** (CPG 5232; PG 77).
+- Skipped Collectio dictorum (Cyril+Maximus florilegium) and De sancta trinitate (ascriptus).
+- Q1 tip `042f2a1b`; **SERIES CLOSEOUT** `acc41d48` (9 questions; tip_shas.json).
+- True OET; Melito skipped; never Cyril Matthew densify; skip Pusey-PD / Greystone / Lunn / Hill.
+- Next: Solutiones / Ad Calosyrium earliest-forward; `caffeinate -dims` kept.
+
 ## 2026-09-13 (Air — Psalms SERIES CLOSEOUT)
 
 - After Contra Julianum SERIES `d0dcfa40` and Festal `43b80d0e`, tipped **Expositio in Psalmos** (CPG 5202; PG 69).
