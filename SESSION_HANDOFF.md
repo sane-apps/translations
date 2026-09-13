@@ -1,3 +1,11 @@
+## 2026-09-13 (Air — Chronicon Paschale / Agathias / Theophylact Simocatta)
+
+- `caffeinate -dims` kept.
+- PD-audit: Cosmas Topographia → densify (McCrindle 1897 PD); Paulus Silentarius Descriptio S. Sophiae/ambonis → densify (Lethaby 1894 PD).
+- Tipped Rank-1: Chronicon Paschale (45u `5313d1fd`); Agathias Historiae (25u `8ea1c9d2`); Theophylact Simocatta 4 SERIES (40u).
+- Densify: Nemesius/Macarius/ANF/Philostorgius (+ Cosmas/Paulus Silentarius this pass). Melito skipped; never Cyril Matthew densify.
+- Next: more lockable Greek without usable PD English (e.g. Photius leftovers / Maximus / John Damascus non-NPNF scraps — PD-audit first).
+
 ## 2026-09-13 (Air — Oecumenius PG118-119)
 
 - `caffeinate -dims` kept.
