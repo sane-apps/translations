@@ -1,3 +1,11 @@
+## 2026-09-13 (Air — Hesychius PG93 Rank-1)
+
+- `caffeinate -dims` kept.
+- After Amphilochius/Severianus: tipped Hesychius of Jerusalem PG 93 homilies (20 SERIES).
+- Prefixed `Hesychius__*` extracts to avoid same-name collisions.
+- Densify: Nemesius, Macarius, ANF. Melito skipped; never Cyril Matthew densify.
+- Next: more corpus-wide Rank-1.
+
 ## 2026-09-13 (Air — Amphilochius + Severianus Rank-1)
 
 - `caffeinate -dims` kept.
