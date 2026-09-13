@@ -1,3 +1,11 @@
+## 2026-09-13 (Air — Rank-1 pick: Cyril Twelve Prophets)
+
+- `caffeinate -dims` kept.
+- After Isaiah SERIES, next earliest Rank-1 OET: **`cyril-alexandria-twelve-prophets`** (CPG 5204; PG 71–72).
+- Rationale: earliest remaining CPG after Isaiah 5203; no usable PD English (Hill FOTC copyrighted); PG lockable via Khazarzar; Melito skipped; never Cyril Matthew densify; skip Pusey-PD / Greystone / Lunn / Hill HC. Contra Julianum left as runner-up (higher CPG).
+- Tips: Hosea prol `cfdfe197` … Hosea T7 `a2c449d5`; Joel open `6a5f3472`.
+- Next: Amos+ earliest-forward toward Twelve Prophets SERIES. Tips for Merge-and-ship.
+
 ## 2026-09-13 (Air — Isaiah SERIES CLOSEOUT)
 
 - `caffeinate -dims` kept.
