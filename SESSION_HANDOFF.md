@@ -1,3 +1,9 @@
+## 2026-09-13 (Air — Numbers Homilia V CLOSEOUT)
+
+- Homilia V §§1–3 CLOSEOUT tip `048a0071` (after IV `1644956f`; II `a3d8a784`).
+- Homilia III title lacuna unchanged. Next Homilia VI+.
+- Melito skipped; never Cyril Matthew densify; no Scheck FOTC; Macs caffeinated.
+
 ## 2026-09-13 (Air — Numbers Homilia II CLOSEOUT + Homilia IV)
 
 - Homilia II §§3–4 CLOSEOUT tip `a3d8a784` (4/4; after §§1–2 `2711b7bc`).
