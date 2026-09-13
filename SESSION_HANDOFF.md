@@ -1,3 +1,10 @@
+## 2026-09-13 (Air — Eustathius PG18 leftovers SERIES closed)
+
+- `caffeinate -dims` kept.
+- Tipped remaining lockable Eustathius PG 18 Greek without PD English (Lazarum, Dominus creavit, Melchisedech, anima×2, titulorum, Genesim, Allocutio, Proverbia, Joseph, Ps92, fragmenta, Orationes, Psalmum, De fide, Ecclesiasten, psalmorum graduum).
+- Tiny scraps skipped. Melito skipped; never Cyril Matthew densify.
+- Next: Gregory Thaumaturgus non-ANF Rank-1 scraps, then more corpus-wide.
+
 ## 2026-09-13 (Air — Eustathius Hexaemeron SERIES `b6a30ebb`)
 
 - After engastrimytho `8b4d2ac4`, tipped Commentarius in hexaemeron SERIES `b6a30ebb` (8u).
