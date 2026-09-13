@@ -1,3 +1,11 @@
+## 2026-09-13 (Air — Apollinaris/Diodorus/Theophilus/Ammonius)
+
+- `caffeinate -dims` kept.
+- Tipped Apollinaris PG33 (4), Diodorus PG33 (2), Theophilus Alex PG65 (2), Ammonius PG85 (1).
+- Re-tipped Diodorus Rom + Theophilus + Ammonius after shared-filename collisions with Apollinaris.
+- Densify: Nemesius/Macarius/ANF. Melito skipped; never Cyril Matthew densify.
+- Next: more corpus-wide Rank-1.
+
 ## 2026-09-13 (Air — Gennadius + Cyril Jerusalem leftovers)
 
 - `caffeinate -dims` kept.
