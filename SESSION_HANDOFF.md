@@ -1,3 +1,10 @@
+## 2026-09-13 (Air — Psalms Greek Excerpta/Fragmenta SERIES; Origen leftovers largely closed)
+
+- `caffeinate -dims` confirmed.
+- Psalms Greek Excerpta SERIES `79f99551` (4u); Fragmenta SERIES `8bb53209` (34u); ≠ Rufinus Latin Psalms.
+- Cyril Khazarzar Rank-1 EXHAUSTED. Melito skipped; never Cyril Matthew densify.
+- Next: corpus-wide Rank-1 re-audit outside exhausted Cyril/Origen Khazarzar queues.
+
 ## 2026-09-13 (Air — Job Selecta/Enarrationes + Proverbs SERIES)
 
 - `caffeinate -dims` renewed.
