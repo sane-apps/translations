@@ -7,6 +7,7 @@
 - Densify: Nemesius/Macarius/ANF/Philostorgius. Melito skipped; never Cyril Matthew densify.
 - Next: more lockable Greek without usable PD English; tip merge-ready; keep going.
 
+
 ## 2026-09-13 (Air — John of Damascus Rank-1 non-NPNF)
 
 - `caffeinate -dims` kept.
