@@ -1,6 +1,6 @@
 # Translations — session handoff
 
-## 2026-09-12 (Air — Irenaeus Demonstration §§71–80 densify)
+## 2026-09-12 (Air — Irenaeus Demonstration §§71–80 densify tip `b12cbbb`)
 
 - Claim `irenaeus-demonstration-71-80-densify`: §§71–80 Pass A≠B densify (**NOT OET**).
 - Prior tip §§61–70 `fad211d`. Next §§81–90 then §§91–100 CLOSEOUT → Book 17 Pass B remediation.
