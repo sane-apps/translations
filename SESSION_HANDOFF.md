@@ -1,3 +1,10 @@
+## 2026-09-13 (Air — Matthew Tomus XV opened)
+
+- Romans SERIES already `3394ac4c` (10/10).
+- Tipped Matthew Tomus XV §§1–2 (eunuchs / letter) `515bbfbd` — PG 13 tesseract; no Heine.
+- Next: Tomus XV remainder earliest-forward, then XVI–XVII + Series.
+- `caffeinate -dims` confirmed (pids present).
+
 ## 2026-09-13 (Air — Romans SERIES CLOSEOUT; Matthew later next)
 
 - caffeinate -dims confirmed.
