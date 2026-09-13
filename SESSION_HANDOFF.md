@@ -1,3 +1,8 @@
+## 2026-09-13 (Air — Matthew XVI CLOSEOUT; XVII opened)
+
+- Tomus XVI rem tip `7318a096`; Tomus XVII §§1–2 tip `bbf4c479`.
+- Next: XVII rem → Series commentariorum; caffeinate -dims; Merge-and-ship.
+
 ## 2026-09-13 (Air — Matthew Tomus XVI opened)
 
 - Tomus XVI §§1–2 tip `32889344` (Zebedee right/left; throne catena).
