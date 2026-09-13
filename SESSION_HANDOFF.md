@@ -1,3 +1,27 @@
+## 2026-09-13 (Air — Didymus PG39 Rank-1 SERIES batch)
+
+- `caffeinate -dims` kept.
+- After Asterius: tipped Didymus the Blind PG 39 lockable Greek (17 SERIES).
+  - `didymus-commentarii-ecclesiasten` Commentarii in Ecclesiasten `8713b2e2` (16u)
+  - `didymus-commentarii-job` Commentarii in Job `436aef50` (24u)
+  - `didymus-commentarii-octateuchum` Commentarii in Octateuchum et Reges `d4a2177a` (1u)
+  - `didymus-commentarii-psalmos` Commentarii in Psalmos `2e156a16` (56u)
+  - `didymus-commentarii-zacchariam` Commentarii in Zacchariam `dab8c7f3` (39u)
+  - `didymus-contra-manichaeos` Contra Manichaeos `703d23ea` (2u)
+  - `didymus-de-trinitate` De trinitate `a29c35af` (19u)
+  - `didymus-dialexis-montanistae` Dialexis Montanistae et orthodoxi `2eae0491` (1u)
+  - `didymus-enarratio-catholicas` In epistulas catholicas brevis enarratio `c3bd6d00` (3u)
+  - `didymus-fragmenta-1cor` Fragmenta in epistulam i ad Corinthios `17b6a903` (1u)
+  - `didymus-fragmenta-2cor` Fragmenta in epistulam ii ad Corinthios `68a93ae1` (4u)
+  - `didymus-fragmenta-joannem` Fragmenta in Joannem `32fb9a18` (1u)
+  - `didymus-fragmenta-proverbia` Fragmenta in Proverbia `fbd4693a` (2u)
+  - `didymus-fragmenta-psalmos` Fragmenta in Psalmos `2dd54f21` (64u)
+  - `didymus-fragmenta-romanos` Fragmenta in epistulam ad Romanos `8c6a3725` (1u)
+  - `didymus-fragmentum-hebraeos` Fragmentum in epistulam ad Hebraeos `4acf8255` (1u)
+  - `didymus-in-genesim` In Genesim `2bfd750d` (25u)
+- Macarius Spiritual Homilies densify (PD). Melito skipped; never Cyril Matthew densify; ANF densify-lane.
+- Next: more corpus-wide Rank-1.
+
 ## 2026-09-13 (Air — Asterius Homiliae SERIES)
 
 - `caffeinate -dims` kept.
