@@ -1,15 +1,25 @@
 # SESSION HANDOFF — origen-exodus-homilies
 
-## Status
-- **Homilia I §§1–5 CLOSEOUT** tipped merge-ready: `5b9a8a3c`
-- Copy-text: Baehrens GCS 29 / Origenes Werke VI (1920), Rufinus Latin (same volume as Genesis)
-- Heine FOTC 71 copyrighted — never copy (sense-check only)
-- No ANF English for these homilies
+## Status — SERIES CLOSEOUT 13/13 tip `59ea0b75`
 
-## Next slice
-- Homilia II earliest-forward through XIII (13/13 series)
-- Keep Macs caffeinated; Pass A ≠ Pass B; tip merge-ready batches
+| Slice | Tip |
+|-------|-----|
+| I:1-5 | `5b9a8a3c` |
+| II:1-4 | `dd53bd55` |
+| III:1-3 | `61d5a5e2` |
+| IV:1-8 | `9e6883c3` |
+| V:1-5 | `2cfa4506` |
+| VI:1-7 | `02be33d6` |
+| VI:8-14 | `516ecd65` |
+| VII:1-8 | `a3879bb3` |
+| VIII:1-6 | `df45045e` |
+| IX:1-4 | `d958c528` |
+| X:1-4 | `7ab75a3b` |
+| XI:1-7 | `c9d5e286` |
+| XII:1-4 | `662cfe44` |
+| XIII:1-5 | `59ea0b75` |
 
-## Standing rules
-- True OET; skip Melito; never Cyril densify
-- Genesis series closed (`270ab13a`); this is Hexateuch continuation Rank-1
+Copy-text: Baehrens GCS 29. Heine FOTC 71 never copy. Pass A ≠ Pass B.
+
+## Next Rank-1
+Hexateuch continuation (Leviticus Homilies) — confirm on next audit.
