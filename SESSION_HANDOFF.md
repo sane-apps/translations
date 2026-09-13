@@ -1,3 +1,12 @@
+## 2026-09-13 (Air — Twelve Prophets SERIES CLOSEOUT)
+
+- `caffeinate -dims` confirmed/renewed.
+- After Hosea–Joel (`acbcb5d4` / Joel `6a5f3472`), tipped Amos→Malachi earliest-forward.
+- **SERIES CLOSEOUT** tip `bbb64f90` (Malachi Tomos 2 open+rem).
+- Amos T1 `9fb936b2`; Obadiah `5dafa559`; Jonah `c2b86499`; Micah T3 `c85257aa`; Nahum `ac0fc996`; Hab T2 `abc5116e`; Zeph T2 `ef49c9f8`; Haggai `9c6eba84`; Zech T6 `41e8e99b`; Mal T1 `3b283265`.
+- True OET; Pass A≠B; no Hill FOTC; Melito skipped; never Cyril Matthew densify; skip Pusey-PD / Greystone / Lunn / Hill HC.
+- Next: audit Rank-1 Contra Julianum (CPG 5233) if lockable; Merge-and-ship tips.
+
 ## 2026-09-13 (Air — Rank-1 pick: Cyril Twelve Prophets)
 
 - `caffeinate -dims` kept.
