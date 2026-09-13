@@ -1,5 +1,13 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — Irenaeus Demonstration §§21–30 densify)
+
+- Claim `irenaeus-demonstration-21-30-densify`: §§21–30 Pass A≠B densify (**NOT OET** — Robinson/Wilson prior PD). Inline Logos bible refs.
+- Gates (badge/TOC/bible-render) green on live — resume authorized. OET pause released; Demonstration still densify-only.
+- Adoration Book 17 Pass B: **spot-check FAIL** — 33/33 sections gloss-sludge (calques). Remediation queued after densify slice / separate tip.
+- Melito skipped. Never Cyril Matthew. `jer-h20b` intact.
+- Next: §§31–40 densify; parked true OET `origen-john-later`.
+
 ## 2026-09-12 (Air — Cyril Adoration Book 6 §§11–20 tip)
 
 - Claim `cyril-adoration6-11-20-oet`: §§11–20 Pass A≠B OET (foreknowledge God’s alone; demons silenced; Endor phantom; Balaam; fire-purification mocked). Tip `fbf66d4` after `c5f5c3f`.

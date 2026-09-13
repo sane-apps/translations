@@ -10,3 +10,10 @@
 ## §§11–20 densify
 - Tip `a477be4` (NOT OET). CLAIMS `b576018`; next claim §§21–30 densify.
 - OET badge withdrawn for whole Demonstration (Robinson/Wilson prior PD).
+
+## §§21–30 densify (NOT OET) — 2026-09-12
+- English + justifications §§21–30; French check `sources/epideixis_21_30_french_check.json`.
+- Themes: Shem→Abraham / Japheth-nations; Noahic covenant; Babel; Abraham faith/circumcision; Egypt/Passover; Law/tabernacle; spies / Hosea→Jesus; Deuteronomy; Joshua/Temple; prophets announce Christ.
+- **NOT OET** — Robinson/Wilson prior PD; Pass B independent.
+- Next: §§31–40 densify (still incomplete treatise). Then true earliest OET `origen-john-later`.
+- Melito skipped. Never Cyril Matthew.
