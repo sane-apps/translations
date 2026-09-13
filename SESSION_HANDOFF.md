@@ -1,3 +1,10 @@
+## 2026-09-13 (Air — Lucam Greek-only + Cyril Rank-1 EXHAUSTED)
+
+- Residual scraps: Fragmentum in Psalmum `517bd5ce`; Fragmenta de uno filio `c91ff187`; Fragmentum papyraceum `df474667`.
+- **Lucam Greek-only under caution** (no Payne Smith): Commentarii fragmenta SERIES `f4c28021` (40u); In occursum `bc1344f2`; In transfigurationem `93224b0b`.
+- Standing skips unchanged (Collectio; ascriptus De sancta trinitate; Melito; Pusey Joannem/Quod unus/De incarnatione; Matthew densify; pseudo/Athanasius misfiles).
+- **Verdict: Khazarzar authentic Rank-1 Cyril exhausted.** Origen Rank-1 already exhausted; Pauline deferred.
+- True OET; `caffeinate -dims` kept. Next: deferred Origen Pauline PD lock or new corpus promotion.
 ## 2026-09-13 (Air — Rank-1 fragments/homiliae SERIES batch)
 
 - After short-works batch / Ad episcopos Libyae `2eb0d458`.
