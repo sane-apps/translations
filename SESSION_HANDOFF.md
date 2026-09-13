@@ -1,3 +1,10 @@
+## 2026-09-13 (Air — Eudocia / Georgius / John Antioch)
+
+- `caffeinate -dims` kept.
+- Tipped Eudocia (2), Georgius Peccator Hymnus (1), John of Antioch Historia Chronike (22u).
+- Philostorgius densify (Walford PD). Melito skipped; never Cyril Matthew densify; Nemesius/Macarius/ANF densify.
+- Next: more corpus-wide Rank-1.
+
 ## 2026-09-13 (Air — Apollinaris/Diodorus/Theophilus/Ammonius)
 
 - `caffeinate -dims` kept.
