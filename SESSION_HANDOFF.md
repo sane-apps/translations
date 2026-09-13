@@ -1,4 +1,9 @@
 
+## 2026-09-12 (Air — Origen John later 13 §§31–40 tip `63ac47d`)
+
+- Tip `63ac47d` after `626a506`. Book 13 now 40/64. Next §§41–50 then CLOSEOUT through §64 → Books 19, 20, 28, 32.
+- Melito skipped. Never Cyril Matthew.
+
 
 ## 2026-09-12 (Air — Origen John later 13 §§21–30 tip `626a506`)
 
