@@ -34,3 +34,5 @@
 ## §§61–70 densify tip `fad211d` (NOT OET)
 - Isa 11 peace of nations; Amos tent of David; Bethlehem; Ps 132; entry on colt; passion/healings Isa 53; generation ineffable.
 - French `sources/epideixis_61_70_french_check.json`. Melito skipped. Never Cyril Matthew.
+## §§71–80 densify (NOT OET)
+- Lam 4:20 shadow; Isa 57; Ps 3 sleep; Ps 2 Herod/Pilate; Ps 89 Father’s will; Zech 13 shepherd; Hos 10:6; descent; cross Ps 22; lots for tunic.
