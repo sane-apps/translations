@@ -23,3 +23,7 @@
 - Themes: Word visible / communion; virgin soil & Virgin; Eve/Mary; tree/cross; Abraham & David promises; recapitulation; resurrection/firstborn; Wonderful Counselor / Messiah.
 - **NOT OET** — Robinson/Wilson prior PD; Pass B independent.
 - Next: §§41–50 densify. Melito skipped. Never Cyril Matthew.
+
+## §§41–50 densify (NOT OET)
+- John/apostles/Church/Spirit; Japheth blessing; eternal Son; Mamre/Sodom; Jacob ladder; bush/Exodus types; Father+Son Lord; Ps 110; anointed of nations; Isa 49 servant/light.
+- French check `sources/epideixis_41_50_french_check.json`. Melito skipped. Never Cyril Matthew.
