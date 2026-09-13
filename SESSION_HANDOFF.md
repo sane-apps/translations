@@ -1,3 +1,11 @@
+## 2026-09-13 (Air — Job Homiliae + scraps SERIES; keep going)
+
+- `caffeinate -dims` confirmed/renewed.
+- After Regnorum `5882494e` / Lamentationes `dc1f9fde`: Job Homiliae SERIES `05d9223e` (3u);
+  Osee `552a3683`; Acta scrap `5e8379a1`; Ruth `e4ffd07c`; De Resurrectione `4e4079d9`; Apocalypse scholia `4c0a3e0d`.
+- Standing skips hold (Melito; never Cyril Matthew densify; Pusey-PD / Greystone / Lunn / Hill).
+- Next: Job Selecta/Enarrationes, Proverbs, Psalms-Greek leftovers.
+
 ## 2026-09-13 (Air — Regnorum + Lamentationes SERIES; keep going)
 
 - `caffeinate -dims` confirmed.
