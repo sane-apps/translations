@@ -1,3 +1,9 @@
+## 2026-09-13 (Air — Eustathius Hexaemeron SERIES `b6a30ebb`)
+
+- After engastrimytho `8b4d2ac4`, tipped Commentarius in hexaemeron SERIES `b6a30ebb` (8u).
+- `caffeinate -dims` kept. Melito skipped; never Cyril Matthew densify.
+- Next: remaining Eustathius PG 18 lockable Greek / corpus-wide Rank-1 continues.
+
 ## 2026-09-13 (Air — corpus-wide Rank-1: Africanus Cesti + Gregory scraps + Eustathius engastrimytho)
 
 - `caffeinate -dims` confirmed.
