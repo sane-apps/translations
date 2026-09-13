@@ -1,3 +1,13 @@
+## Active quality audit — 2026-09-13
+
+Owner authorized process/SOP/result fixes and source/visual audit; no waiting for further permission.
+Mini site audit withheld hundreds of generated scaffolds/false whole-work summaries and removed unsupported first-English claims. Remaining legacy entries are provisional, not certified.
+Code now rejects ungrounded/missing/uncertain semantic reviews; current source/English/raw-witness hashes and complete passage coverage are required. Canonical draft writer preserves real evidence and does not invent choices. Site consumer checks changed/new content independently of claim-board status.
+Source-confirmed Jeremiah6.1 fixes: love instead of purity, correct agency, six Bible targets; printed Koetschau/Klostermann evidence in /tmp/docs_audit_outputs/content.md and outputs/qa-audit/. No old blanket approval stamp retained.
+Further source spotchecks found misplaced Psalm refs in Julian ToFlorus1.27 and blind orat_*/mart_* tip overlays replacing full chapters. Repairs and source-bound review are active. Do not refresh legacy hashes to force these changes through publication.
+Agent reports: /tmp/docs_audit_outputs/content.md, promotion.md, visual-ops.md. SOP, AI_CROSSCHECK, START_HERE, SCHEMAS and topic TRANSLATION_QA updated to the enforceable process. Current automated promotion bundle remains Jeremiah-only; unsupported claims refuse safely before writes. Overnight prep remains prep.
+No full-corpus fidelity claim; no Logos recompile in this website audit. Final verification/deployment receipt still pending.
+
 ## 2026-09-13 (Air — QUALITY PAUSE wrap)
 
 - Stephan paused for quality review. **No new Rank-1.**
@@ -1670,3 +1680,8 @@ Jeremiah 3–7 stub files exist without English; not live; not `source_verified`
 
 - Claim `pulcheria-rf-a9`: post-baptism temptation type; Word as high priest and lamb; passes heavens bodily and divinely; Heb 5 call/obedience; we pray in him as second firstfruit; neither bare man nor fleshless Word—impassible in own flesh. Pass A ≠ B; Greek locked `greek_clean_a9`.
 
+
+## Verified audit closeout — 2026-09-13
+27 focused QA/promotion regressions passed on Mini; publication attack regressions passed in the site repo. Actual source review corrected Julian ToFlorus1.27 (two displaced Psalm refs) and Jeremiah6.1 (love, agency, six Bible targets). Julian's exact packet/receipt is under books/julian-of-eclanum/reviews/audit/ and is consumed by the site's changed-passage gate. OnPrayer/Martyrdom remain withheld; fuller OnPrayer base still omits surviving Greek after a lacuna. No invented approval, no bulk retranslations, no inference calls, no Logos recompilation.
+Current CF checker configuration can select two families distinct from each configured draft; prep remains the overnight default. This was verified offline, not a live model-availability assertion.
+No open GitHub issues were returned by gh issue list during this audit. Existing claim queue remains source-repair coordination. Held source families and remaining provisional passages still need per-work review; deterministic gates and sample checks do not certify the entire corpus.
