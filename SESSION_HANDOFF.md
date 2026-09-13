@@ -12,7 +12,7 @@
 - Cyril Thesaurus earliest-forward: Logos II–XX open+rem CLOSEOUT tips merge-ready.
 - Key tips: L2 `ba275050` … L10 `fc4c2b39` … L20 `d573f6d5` (see CLAIMS).
 - No Greystone wording; Melito skipped; never Cyril Matthew densify.
-- Next: Logos XXI+ toward SERIES. Tips for Merge-and-ship.
+- Follow-on: Logos XXI–XXXV SERIES `7f0dd153` (see section above).
 
 ## 2026-09-13 (Air — Rank-1 pick: Cyril Thesaurus)
 
