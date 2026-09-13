@@ -1,3 +1,12 @@
+## 2026-09-13 (Air — corpus-wide Rank-1: Africanus Cesti + Gregory scraps + Eustathius engastrimytho)
+
+- `caffeinate -dims` confirmed.
+- Cyril Khazarzar Rank-1 EXHAUSTED; Origen Khazarzar leftovers tipped.
+- **Pick:** Julius Africanus *Cesti* SERIES `c078ca41` (6u) — earliest lockable no-PD-English outside those queues.
+- Also tipped: Gregory Thaumaturgus Jer `e38d8f6a`; Matt scrap `88e4f8a7`; Eustathius engastrimytho `8b4d2ac4` (6u).
+- Melito skipped; never Cyril Matthew densify.
+- Next: Eustathius Hexaemeron / remaining Eustathius Greek.
+
 ## 2026-09-13 (Air — Psalms Greek Excerpta/Fragmenta SERIES; Origen leftovers largely closed)
 
 - `caffeinate -dims` confirmed.
