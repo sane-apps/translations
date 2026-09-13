@@ -1,3 +1,10 @@
+## 2026-09-13 (Air — Rank-1 short-works batch SERIES)
+
+- After Solutiones `5ca057b2` / Ad Calosyrium `e47599be`, audited next earliest authentic Rank-1.
+- Skipped Collectio dictorum (florilegium); De sancta trinitate (ascriptus); Melito; never Cyril Matthew densify; skip Pusey Joannem/Quod unus/De incarnatione; Lucam caution; Oratio in ascensionem (Athanasius-labeled); De exitu animi (pseudo markers).
+- SERIES tips: Dialogus Nestorio `3a851c99`; Ad Optimum `09b537eb`; In parabolam vineae `b3d3d11a`; Ep. Domnum `e24ae197`; Encomium Maria `c5d562bb`; Homilia Cyrini `1a2d1dbd`; De synagogae defectu `370d5807`; Ad Xystum `026ed1a2`; Ad episcopos Libyae `2eb0d458`.
+- True OET; `caffeinate -dims` kept. Next: continue authentic short Rank-1 / fragments under standing rules.
+
 ## 2026-09-13 (Air — Solutiones + Ad Calosyrium SERIES)
 
 - After Responsiones SERIES `acc41d48` / Psalms `4e5bf489`.
