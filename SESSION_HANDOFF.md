@@ -1,5 +1,32 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — Irenaeus Demonstration §§51–60 densify tip `c6ef642`)
+
+- Claim `irenaeus-demonstration-51-60-densify`: §§51–60 Pass A≠B densify (**NOT OET**). Inline Logos bible refs.
+- Prior tips: §§41–50 `b40e57d`; §§31–40 `dc5df06`; §§21–30 `bf63360`. Book 17 Pass B sludge FAIL queued.
+- Melito skipped. Never Cyril Matthew. Next: §§61–70; parked OET `origen-john-later`.
+
+## 2026-09-12 (Air — Irenaeus Demonstration §§41–50 densify tip `b40e57d`)
+
+- Claim `irenaeus-demonstration-41-50-densify`: §§41–50 Pass A≠B densify (**NOT OET**). Inline Logos bible refs.
+- Prior: §§31–40 `dc5df06`; §§21–30 `bf63360`. Book 17 Pass B sludge FAIL queued.
+- Melito skipped. Never Cyril Matthew. Next: §§51–60 densify; parked OET `origen-john-later`.
+
+## 2026-09-12 (Air — Irenaeus Demonstration §§31–40 densify tip )
+
+- Claim `irenaeus-demonstration-31-40-densify`: §§31–40 Pass A≠B densify (**NOT OET**). Inline Logos bible refs.
+- Prior densify tip §§21–30 `bf63360`. Adorations Book 17 Pass B sludge: FAIL 33/33 (queued).
+- Melito skipped. Never Cyril Matthew. `jer-h20b` intact.
+- Next: §§41–50 densify; parked true OET `origen-john-later`.
+
+## 2026-09-12 (Air — Irenaeus Demonstration §§21–30 densify tip )
+
+- Claim `irenaeus-demonstration-21-30-densify`: §§21–30 Pass A≠B densify (**NOT OET** — Robinson/Wilson prior PD). Inline Logos bible refs.
+- Gates (badge/TOC/bible-render) green on live — resume authorized. OET pause released; Demonstration still densify-only.
+- Adoration Book 17 Pass B: **spot-check FAIL** — 33/33 sections gloss-sludge (calques). Remediation queued after densify slice / separate tip.
+- Melito skipped. Never Cyril Matthew. `jer-h20b` intact.
+- Next: §§31–40 densify; parked true OET `origen-john-later`.
+
 ## 2026-09-12 (Air — Cyril Adoration Book 6 §§11–20 tip)
 
 - Claim `cyril-adoration6-11-20-oet`: §§11–20 Pass A≠B OET (foreknowledge God’s alone; demons silenced; Endor phantom; Balaam; fire-purification mocked). Tip `fbf66d4` after `c5f5c3f`.
