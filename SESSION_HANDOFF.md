@@ -1,3 +1,12 @@
+## 2026-09-13 (Air — Maximus Confessor PG 90-91 Rank-1)
+
+- `caffeinate -dims` kept.
+- PD-audit: no usable complete PD English (Constas/Blowers/Berthold; Philokalia EN out). Skip omnibus `Saint Maximus PG 91.pdf`.
+- Tipped **12 SERIES / 374 units** Rank-1 (live tip_shas.json); last SERIES `cc71a4857` (`maximus-pg91-tomos-10`).
+- Prior: John of Damascus 42 SERIES / 138u (densify Expositio fidei NPNF / Images Allies PD / Barlaam Loeb PD).
+- Densify: Nemesius/Macarius/ANF/Philostorgius. Melito skipped; never Cyril Matthew densify.
+- Next: more lockable Greek without usable PD English; tip merge-ready; keep going.
+
 ## 2026-09-13 (Air — John of Damascus Rank-1 non-NPNF)
 
 - `caffeinate -dims` kept.
