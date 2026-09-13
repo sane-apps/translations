@@ -1,11 +1,39 @@
 ## 2026-09-13 (Air — Twelve Prophets SERIES CLOSEOUT)
 
-- `caffeinate -dims` confirmed/renewed.
-- After Hosea–Joel (`acbcb5d4` / Joel `6a5f3472`), tipped Amos→Malachi earliest-forward.
-- **SERIES CLOSEOUT** tip `bbb64f90` (Malachi Tomos 2 open+rem).
-- Amos T1 `9fb936b2`; Obadiah `5dafa559`; Jonah `c2b86499`; Micah T3 `c85257aa`; Nahum `ac0fc996`; Hab T2 `abc5116e`; Zeph T2 `ef49c9f8`; Haggai `9c6eba84`; Zech T6 `41e8e99b`; Mal T1 `3b283265`.
+- `caffeinate -dims` confirmed/renewed (pid present).
+- After Hosea–Joel stamp `acbcb5d4` / Joel tip `6a5f3472`, tipped Amos→Malachi earliest-forward.
+- **SERIES CLOSEOUT** tip `bbb64f90` (Malachi Tomos 2). CLAIMS/WQ stamp `c90c43be`.
 - True OET; Pass A≠B; no Hill FOTC; Melito skipped; never Cyril Matthew densify; skip Pusey-PD / Greystone / Lunn / Hill HC.
-- Next: audit Rank-1 Contra Julianum (CPG 5233) if lockable; Merge-and-ship tips.
+- Tips merge-ready for Merge-and-ship.
+
+| Slice | Tip |
+|-------|-----|
+| Amos Tomos 1 | `9fb936b2` |
+| Amos Tomos 2 | `1952543f` |
+| Amos Tomos 3 | `162743ef` |
+| Amos Tomos 4 | `cce431f2` |
+| Obadiah opening | `5dafa559` |
+| Jonah opening | `c2b86499` |
+| Micah Tomos 1 | `8421a3c6` |
+| Micah Tomos 2 | `66362df6` |
+| Micah Tomos 3 | `c85257aa` |
+| Nahum Tomos 1 | `ac0fc996` |
+| Habakkuk Tomos 1 | `f32f9d88` |
+| Habakkuk Tomos 2 | `abc5116e` |
+| Zephaniah Tomos 1 | `ed768d55` |
+| Zephaniah Tomos 2 | `ef49c9f8` |
+| Haggai opening | `9c6eba84` |
+| Zechariah Tomos 1 | `86e4a540` |
+| Zechariah Tomos 2 | `44307edb` |
+| Zechariah Tomos 3 | `18e1bb35` |
+| Zechariah Tomos 4 | `76074a63` |
+| Zechariah Tomos 5 | `f34e564d` |
+| Zechariah Tomos 6 | `41e8e99b` |
+| Malachi Tomos 1 | `3b283265` |
+| Malachi Tomos 2 | `bbb64f90` |
+
+- Next: audit Rank-1 Contra Julianum (CPG 5233) if lockable PD Greek; else next earliest under standing rules.
+
 
 ## 2026-09-13 (Air — Rank-1 pick: Cyril Twelve Prophets)
 
