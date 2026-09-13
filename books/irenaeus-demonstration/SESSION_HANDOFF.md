@@ -17,3 +17,9 @@
 - **NOT OET** — Robinson/Wilson prior PD; Pass B independent.
 - Next: §§31–40 densify (still incomplete treatise). Then true earliest OET `origen-john-later`.
 - Melito skipped. Never Cyril Matthew.
+
+## §§31–40 densify (NOT OET) — 2026-09-12
+- English + justifications §§31–40; French check `sources/epideixis_31_40_french_check.json`.
+- Themes: Word visible / communion; virgin soil & Virgin; Eve/Mary; tree/cross; Abraham & David promises; recapitulation; resurrection/firstborn; Wonderful Counselor / Messiah.
+- **NOT OET** — Robinson/Wilson prior PD; Pass B independent.
+- Next: §§41–50 densify. Melito skipped. Never Cyril Matthew.
