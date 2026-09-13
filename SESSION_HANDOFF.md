@@ -1,3 +1,83 @@
+## 2026-09-13 (Air — Joshua Homilia 26 CLOSEOUT SERIES CLOSEOUT 26/26)
+
+- Homilia 26 §§1–3 tip `b1bd7bdb` (after `03703d0b`). SERIES CLOSEOUT 26/26
+- Melito skipped; never Cyril Matthew densify; no Bruce FOTC 105; Macs caffeinated.
+
+## 2026-09-13 (Air — Joshua Homilia 25 CLOSEOUT)
+
+- Homilia 25 §§1–3 tip `03703d0b` (after `3758b7e7`).
+- Melito skipped; never Cyril Matthew densify; no Bruce FOTC 105; Macs caffeinated.
+
+## 2026-09-13 (Air — Joshua Homilia 24 CLOSEOUT)
+
+- Homilia 24 §§1–3 tip `3758b7e7` (after `39d1e2ac`).
+- Melito skipped; never Cyril Matthew densify; no Bruce FOTC 105; Macs caffeinated.
+
+## 2026-09-13 (Air — Joshua Homilia 23 CLOSEOUT)
+
+- Homilia 23 §§1–3 tip `39d1e2ac` (after `ef3c40ab`).
+- Melito skipped; never Cyril Matthew densify; no Bruce FOTC 105; Macs caffeinated.
+
+## 2026-09-13 (Air — Joshua Homilia 22 CLOSEOUT)
+
+- Homilia 22 §§1–3 tip `ef3c40ab` (after `56b13539`).
+- Melito skipped; never Cyril Matthew densify; no Bruce FOTC 105; Macs caffeinated.
+
+## 2026-09-13 (Air — Joshua Homilia 21 CLOSEOUT)
+
+- Homilia 21 §§1–3 tip `56b13539` (after `4ded2523`).
+- Melito skipped; never Cyril Matthew densify; no Bruce FOTC 105; Macs caffeinated.
+
+## 2026-09-13 (Air — Joshua Homilia 20 CLOSEOUT)
+
+- Homilia 20 §§1–4 tip `4ded2523` (after `44546246`).
+- Melito skipped; never Cyril Matthew densify; no Bruce FOTC 105; Macs caffeinated.
+
+## 2026-09-13 (Air — Joshua Homilia 19 CLOSEOUT)
+
+- Homilia 19 §§1–3 tip `44546246` (after `7380f3a4`).
+- Melito skipped; never Cyril Matthew densify; no Bruce FOTC 105; Macs caffeinated.
+
+## 2026-09-13 (Air — Joshua Homilia 18 CLOSEOUT)
+
+- Homilia 18 §§1–3 tip `7380f3a4` (after `43528775`).
+- Melito skipped; never Cyril Matthew densify; no Bruce FOTC 105; Macs caffeinated.
+
+## 2026-09-13 (Air — Joshua Homilia 17 CLOSEOUT)
+
+- Homilia 17 §§1–3 tip `43528775` (after `82e50d88`).
+- Melito skipped; never Cyril Matthew densify; no Bruce FOTC 105; Macs caffeinated.
+
+## 2026-09-13 (Air — Joshua Homilia 16 CLOSEOUT)
+
+- Homilia 16 §§1–3 tip `82e50d88` (after `292a0f9e`).
+- Melito skipped; never Cyril Matthew densify; no Bruce FOTC 105; Macs caffeinated.
+
+## 2026-09-13 (Air — Joshua Homilia 15 CLOSEOUT)
+
+- Homilia 15 §§1–4 tip `292a0f9e` (after `21d792ec`).
+- Melito skipped; never Cyril Matthew densify; no Bruce FOTC 105; Macs caffeinated.
+
+## 2026-09-13 (Air — Joshua Homilia 14 CLOSEOUT)
+
+- Homilia 14 §§1–3 tip `21d792ec` (after `71f7129d`).
+- Melito skipped; never Cyril Matthew densify; no Bruce FOTC 105; Macs caffeinated.
+
+## 2026-09-13 (Air — Joshua Homilia 13 CLOSEOUT)
+
+- Homilia 13 §§1–3 tip `71f7129d` (after `4a54a968`).
+- Melito skipped; never Cyril Matthew densify; no Bruce FOTC 105; Macs caffeinated.
+
+## 2026-09-13 (Air — Joshua Homilia 12 CLOSEOUT)
+
+- Homilia 12 §§1–3 tip `4a54a968` (after `527778b6`).
+- Melito skipped; never Cyril Matthew densify; no Bruce FOTC 105; Macs caffeinated.
+
+## 2026-09-13 (Air — Joshua Homilia 11 CLOSEOUT)
+
+- Homilia 11 §§1–3 tip `527778b6` (after `cc8ecf97`).
+- Melito skipped; never Cyril Matthew densify; no Bruce FOTC 105; Macs caffeinated.
+
 ## 2026-09-13 (Air — Joshua Homilia 10 CLOSEOUT)
 
 - Homilia 10 §§1–3 tip `cc8ecf97` (after `fd522f38`).
