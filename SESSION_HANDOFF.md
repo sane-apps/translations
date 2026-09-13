@@ -1,3 +1,11 @@
+## 2026-09-13 (Air — Thesaurus SERIES CLOSEOUT)
+
+- Thesaurus Logos XXI–XXXV tipped; SERIES tip `7f0dd153`.
+- L21 `283ad798` … L35 `7f0dd153`. Prior: L20 `d573f6d5`; CLAIMS/WQ II–XX `0cb78540`.
+- True OET; no Greystone; Melito skipped; never Cyril Matthew densify.
+- Next: audit next Rank-1 OET (Melito skip; never Cyril Matthew densify).
+- `caffeinate -dims` kept.
+
 ## 2026-09-13 (Air — Thesaurus Logos II–XX)
 
 - `caffeinate -dims` kept.
