@@ -1,3 +1,10 @@
+## 2026-09-13 (Air — Oecumenius PG118-119)
+
+- `caffeinate -dims` kept.
+- Tipped Oecumenius 15 SERIES (39u), incl. Apocalypse 21u + Pauline fragments.
+- Densify: Nemesius/Macarius/ANF/Philostorgius. Melito skipped; never Cyril Matthew densify.
+- Next: more corpus-wide Rank-1 (Cosmas / Chronicon Paschale / Paulus Silentarius — PD-audit first).
+
 ## 2026-09-13 (Air — Procopius of Gaza PG87)
 
 - `caffeinate -dims` kept.
