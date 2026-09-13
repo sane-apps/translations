@@ -1,3 +1,12 @@
+## 2026-09-13 (Air — Glaphyra SERIES CLOSEOUT)
+
+- `caffeinate -dims` kept.
+- Cyril Glaphyra Noah→Deuteronomy tipped; SERIES tip `c2f056c1`.
+- Key tips: Noah ark `f300fe9c` … Deut `c2f056c1` (see CLAIMS). Prior B1/Adam/Cain tips unchanged.
+- True OET; no Lunn FOTC; Melito skipped; never Cyril Matthew densify; skip Pusey-PD works.
+- Next: audit next Rank-1 OET (same standing rules).
+- Tips for Merge-and-ship.
+
 ## 2026-09-13 (Air — Rank-1 pick: Cyril Glaphyra)
 
 - `caffeinate -dims` kept.
