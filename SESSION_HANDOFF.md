@@ -1,3 +1,12 @@
+## 2026-09-13 (Air — Solutiones + Ad Calosyrium SERIES)
+
+- After Responsiones SERIES `acc41d48` / Psalms `4e5bf489`.
+- **Solutiones** (CPG 5231) 9 kephalaia SERIES `5ca057b2` (k01 retip `d12cca63`).
+- **Ad Calosyrium** (CPG 5230) SERIES `e47599be`.
+- Skipped Collectio dictorum (florilegium) and De sancta trinitate (ascriptus).
+- True OET; Melito skipped; never Cyril Matthew densify; skip Pusey-PD / Greystone / Lunn / Hill.
+- `caffeinate -dims` kept. Next: next earliest authentic Rank-1 PG.
+
 ## 2026-09-13 (Air — Responsiones SERIES CLOSEOUT)
 
 - After Psalms SERIES `4e5bf489`, next Rank-1: **Responsiones ad Tiberium** (CPG 5232; PG 77).
