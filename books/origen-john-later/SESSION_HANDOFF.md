@@ -87,3 +87,9 @@
 - Claim . Tip  after . Book 20 **44/44**.
 - Next: Book **28** → **32**.
 - Melito skipped. Never Cyril Matthew.
+
+## 2026-09-13 (Air — Origen John later Book 28 §§1–13 tip 76dfc69)
+
+- Claim `origen-john-later-28-1-13-oet`. Tip `76dfc69` after Book 20 CLOSEOUT `3fa1d31`.
+- Next: Book 28 §§14–26 CLOSEOUT → Book 32.
+- Melito skipped. Never Cyril Matthew.
