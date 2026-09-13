@@ -8,7 +8,7 @@
 - Inline Logos bible refs on quotes/allusions.
 
 ## §§11–20 densify
-- Tip `a477be4` (NOT OET). CLAIMS `b576018`; next claim §§21–30 densify.
+- Tip `a477be4` (NOT OET). CLAIMS `b576018`; next claim §§21–30 densify tip .
 - OET badge withdrawn for whole Demonstration (Robinson/Wilson prior PD).
 
 ## §§21–30 densify (NOT OET) — 2026-09-12
