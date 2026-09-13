@@ -11,7 +11,7 @@
 
 - 2026-09-12 (Air): Started true earliest OET after Demonstration densify CLOSEOUT + Book 17 Pass B rem CLOSEOUT.
 - Sources locked: Preuschen `origeneswerke04orig_djvu.txt` + Brooke 1896 vol.1 check.
-- **Book 13 §§1–10 tip ** Pass A≠B OET first tip ready.
+- **Book 13 §§1–10 tip ** Pass A≠B OET first tip `3f2e05d`.
 
 ## Next
 
