@@ -1,3 +1,24 @@
+## 2026-09-13 (Air — Numbers Homiliae VI–VII CLOSEOUT)
+
+- Homilia VI tip `99a0cd83`; Homilia VII tip `ced8c601` (after V `048a0071`).
+- Titles VI/VII soft in Baehrens OCR — sliced by discourse + running headers / Amen.
+- Homilia III title lacuna unchanged. Next VIII+.
+- Melito skipped; never Cyril Matthew densify; no Scheck FOTC; Macs caffeinated.
+
+## 2026-09-13 (Air — Numbers Homilia V CLOSEOUT)
+
+- Homilia V §§1–3 CLOSEOUT tip `048a0071` (after IV `1644956f`; II `a3d8a784`).
+- Homilia III title lacuna unchanged. Next Homilia VI+.
+- Melito skipped; never Cyril Matthew densify; no Scheck FOTC; Macs caffeinated.
+
+## 2026-09-13 (Air — Numbers Homilia II CLOSEOUT + Homilia IV)
+
+- Homilia II §§3–4 CLOSEOUT tip `a3d8a784` (4/4; after §§1–2 `2711b7bc`).
+- Homilia IV §§1–3 CLOSEOUT tip `1644956f`.
+- Homilia III **title lacuna** in Baehrens OCR/scan (II → IV running headers); content sliced by section numerals.
+- Next: Homilia V+ earliest-forward through XXVIII. Macs caffeinated.
+- Melito skipped; never Cyril Matthew densify; no Scheck FOTC; Pass A ≠ Pass B.
+
 ## 2026-09-13 (Air — Rank-1: `origen-numbers-homilies` Homilia II §§1–2)
 
 - Leviticus SERIES CLOSEOUT tip `63fcac0c` confirmed; Exodus tip `59ea0b75`; Genesis tip `270ab13a`.
