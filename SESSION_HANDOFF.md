@@ -1,3 +1,10 @@
+## 2026-09-12 (Air — Origen Comm. John later OET START)
+
+- Demonstration densify CLOSEOUT + Book 17 Pass B rem CLOSEOUT done.
+- True earliest OET started: `origen-john-later` (Preuschen GCS IV).
+- Book 13 §§1–10 Pass A≠B OET tip pending SHA stamp.
+- Melito skipped. Never Cyril Matthew. Keep Macs caffeinated.
+
 # Translations — session handoff
 
 ## 2026-09-12 (Air — Book 17 Pass B sludge CLOSEOUT)
