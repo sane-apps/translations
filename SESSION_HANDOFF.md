@@ -1,3 +1,16 @@
+## 2026-09-13 (Air — Matthew Tomus XV opened)
+
+- Romans SERIES already `3394ac4c` (10/10).
+- Tipped Matthew Tomus XV §§1–2 (eunuchs / letter) `515bbfbd` — PG 13 tesseract; no Heine.
+- Next: Tomus XV remainder earliest-forward, then XVI–XVII + Series.
+- `caffeinate -dims` confirmed (pids present).
+
+## 2026-09-13 (Air — Romans SERIES CLOSEOUT; Matthew later next)
+
+- caffeinate -dims confirmed.
+- Finished `origen-romans` Books I–X tip `3394ac4c` (10/10). Pref tip 5047f5d5; Book I rem `c5376f7a`.
+- Next Rank-1: **origen-matthew-later** (PG 13 Matt 15–17 + Series). Melito skipped; never Cyril Matthew densify.
+
 ## 2026-09-13 (Air — Romans Book I opened)
 
 - After Psalms SERIES 8270d057, tipped Romans Book I Pref+opening 5047f5d5 (PG 14 tesseract).
