@@ -1,3 +1,9 @@
+## 2026-09-13 (Air — Origen Song Comm. Prologus §§1–10)
+
+- Comm. Prologus §§1–10 tip 924f6253. Homiliae I–II already CLOSEOUT.
+- Next: Prologus remainder / Liber I earliest-forward.
+- Melito skipped. Never Cyril Matthew densify.
+
 ## 2026-09-13 (Air — Origen Song Homilia I §§1–10 OET tip 7a50ac8)
 
 - After `origen-john-later` series CLOSEOUT tip `959ffcc` / stamp `b6a950f`.
