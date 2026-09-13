@@ -36,3 +36,9 @@
 - French `sources/epideixis_61_70_french_check.json`. Melito skipped. Never Cyril Matthew.
 ## §§71–80 densify tip `b12cbbb` (NOT OET)
 - Lam 4:20 shadow; Isa 57; Ps 3 sleep; Ps 2 Herod/Pilate; Ps 89 Father’s will; Zech 13 shepherd; Hos 10:6; descent; cross Ps 22; lots for tunic.
+
+## §§81–100 densify CLOSEOUT (NOT OET) — 2026-09-12
+- Betrayal/vinegar/ascension/session/confession/judgment/Spirit/new covenant/mission; Gentile calling; not-my-people; barren Church; Dt 32 jealousy; law beyond pedagogue; name of Jesus; rule of truth; anti-heresy; baptism triad; Trinity doxology.
+- French checks `epideixis_81_90_french_check.json`, `epideixis_91_100_french_check.json`.
+- **Demonstration densify COMPLETE 100/100** (NOT OET). Melito skipped. Never Cyril Matthew.
+- Next lane: Adorations Book 17 Pass B sludge remediation (33/33 FAIL).

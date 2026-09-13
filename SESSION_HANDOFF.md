@@ -1,5 +1,11 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — Irenaeus Demonstration §§81–100 densify CLOSEOUT)
+
+- Claims `irenaeus-demonstration-81-90-densify` + `irenaeus-demonstration-91-100-densify`: §§81–100 Pass A≠B densify CLOSEOUT (**NOT OET**, 100/100).
+- Next: Adorations Book 17 Pass B sludge remediation (spot-check FAIL 33/33). Parked true OET `origen-john-later`.
+- Melito skipped. Never Cyril Matthew.
+
 ## 2026-09-12 (Air — Irenaeus Demonstration §§71–80 densify tip `b12cbbb`)
 
 - Claim `irenaeus-demonstration-71-80-densify`: §§71–80 Pass A≠B densify (**NOT OET**).
