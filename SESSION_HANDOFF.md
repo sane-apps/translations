@@ -1,3 +1,10 @@
+## 2026-09-13 (Air — Joshua Homilia II CLOSEOUT)
+
+- Homilia II §§1–4 CLOSEOUT tip `389b7cf7` (after I `097a4878`).
+- Moses my servant is dead; Jesus under the law; feet ascend; Antilibanus.
+- Melito skipped; never Cyril Matthew densify; no Bruce FOTC 105; Macs caffeinated.
+- Next Homilia III+.
+
 ## 2026-09-13 (Air — Joshua Homilia I after Numbers CLOSEOUT)
 
 - Pick **`origen-joshua-homilies`** (not Deuteronomy): no surviving Origen Deuteronomy homilies in GCS Rank-1.
