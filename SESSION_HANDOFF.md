@@ -1,3 +1,10 @@
+## 2026-09-13 (Air — Principiis SERIES CLOSEOUT; Philocalia next)
+
+- `caffeinate -dims` confirmed.
+- `origen-principiis` SERIES CLOSEOUT tip `5771df32` (open `0193d59d` → B1 rem `4ebc1af6` → B2 `8fca9ac9` → B3 `33361ff9` → B4 `5771df32`).
+- Next Rank-1: **`origen-philocalia`** opening `7dc6f457` (Robinson 1893 TEI; no Lewis 1911).
+- Tips merge-ready for Merge-and-ship. Melito skipped; never Cyril Matthew densify; Rufinus disclosed on Principiis.
+
 ## 2026-09-13 (Air — Principiis opened after Celsum SERIES)
 
 - Contra Celsum SERIES `70a9a146` closed.
