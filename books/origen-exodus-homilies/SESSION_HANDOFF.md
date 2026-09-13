@@ -1,10 +1,15 @@
-## 2026-09-13 (Air — Rank-1 pick: Exodus Homilies)
+# SESSION HANDOFF — origen-exodus-homilies
 
-- Genesis SERIES CLOSEOUT tip 270ab13a confirmed.
-- Densify clear; Melito skipped; never Cyril Matthew densify.
-- Winner:  (Hexateuch continuation; Baehrens GCS 29; Heine FOTC 71 copyrighted — sense-check only).
-- Claim  Homilia I §§1–5 CLOSEOUT tip 5b9a8a3c.
-- Next: Homilia II+. Macs caffeinated.
+## Status
+- **Homilia I §§1–5 CLOSEOUT** tipped merge-ready: `5b9a8a3c`
+- Copy-text: Baehrens GCS 29 / Origenes Werke VI (1920), Rufinus Latin (same volume as Genesis)
+- Heine FOTC 71 copyrighted — never copy (sense-check only)
+- No ANF English for these homilies
 
-# Origen Exodus Homilies — session handoff
+## Next slice
+- Homilia II earliest-forward through XIII (13/13 series)
+- Keep Macs caffeinated; Pass A ≠ Pass B; tip merge-ready batches
 
+## Standing rules
+- True OET; skip Melito; never Cyril densify
+- Genesis series closed (`270ab13a`); this is Hexateuch continuation Rank-1
