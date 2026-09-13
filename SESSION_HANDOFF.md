@@ -1,3 +1,16 @@
+## 2026-09-13 (Air — Song Liber III CLOSEOUT + Liber IV CLOSEOUT)
+
+- Liber II already CLOSEOUT (69718288). Earliest-forward was Liber III §§11+.
+- Liber III §§11–20 CLOSEOUT tip 4b75518a (20/20).
+- Liber IV §§1–10 tip 22169c33; Liber IV §§11–20 CLOSEOUT tip 62e34744 (20/20; Rufinus surviving Comm. ends Song 2:15 Amen).
+- `origen-song` commentary+homilies arc CLOSEOUT. Next Rank-1 OET per queue (Melito skipped; never Cyril Matthew densify). Macs caffeinated.
+
+## 2026-09-13 (Air — Song Comm. Liber II CLOSEOUT + Liber III §§1–10)
+
+- Liber II §§11–20 CLOSEOUT tip 69718288 (20/20).
+- Liber III §§1–10 tip 2e9b78d4. Next Liber III §§11+.
+- Melito skipped. Never Cyril Matthew densify.
+
 ## 2026-09-13 (Air — Song Comm. Liber I CLOSEOUT + Liber II §§1–10)
 
 - Liber I §§11–20 CLOSEOUT tip b4ef4e70 (20/20; Song 1:4).
