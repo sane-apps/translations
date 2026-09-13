@@ -1,3 +1,9 @@
+## 2026-09-13 (Air — Matthew XVII CLOSEOUT; Series opened)
+
+- Tomus XVII rem tip `c3f0e01a`; Series §§1–2 tip `aa8960a4` (PG 13 Latin Commentariorum Series ~p.830).
+- Prior Greek books: XV `515bbfbd`/`6b37f613`; XVI `32889344`/`7318a096`; XVII open `bbf4c479`.
+- Next: Series rem without pause; caffeinate -dims; Merge-and-ship.
+
 ## 2026-09-13 (Air — Matthew XVI CLOSEOUT; XVII opened)
 
 - Tomus XVI rem tip `7318a096`; Tomus XVII §§1–2 tip `bbf4c479`.
