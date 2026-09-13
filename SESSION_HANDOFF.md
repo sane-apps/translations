@@ -1,3 +1,11 @@
+## 2026-09-13 (Air — Genesis Homiliae I–VIII CLOSEOUT arc)
+
+- Homilia I §§11–17 CLOSEOUT tip 4cfaa156 (17/17).
+- Homilia II 6/6 tip dfcb3f46; III 7/7 tip 7022d8f9; IV 6/6 tip 7970c838; V 6/6 tip 5dd0e73e.
+- Homilia VI 6/6 tip 661daf7e; VII 5/5 tip 36ac0205; VIII 8/8 tip 8d6875c3.
+- Next earliest-forward: Homilia IX+.
+- Melito skipped. Never Cyril Matthew densify. No Heine FOTC 71 wording. Macs caffeinated.
+
 ## 2026-09-13 (Air — Rank-1 pick: Genesis Homilies)
 
 - Densify clear (Demonstration 100/100). Melito skipped. Never Cyril Matthew densify.
