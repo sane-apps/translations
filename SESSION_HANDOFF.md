@@ -1,3 +1,8 @@
+## 2026-09-13 (Air — On Prayer CLOSEOUT)
+
+- Orat. §§5–6 ; §§7–18 ; §§19–34 ON PRAYER CLOSEOUT .
+- Next: Exhortation to Martyrdom earliest-forward → SERIES CLOSEOUT; caffeinate -dims; Merge-and-ship.
+
 ## 2026-09-13 (Air — On Prayer opened)
 
 - Matthew later SERIES CLOSEOUT .
