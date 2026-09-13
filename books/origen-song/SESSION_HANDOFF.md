@@ -1,3 +1,9 @@
+## 2026-09-13 (Air — Song Comm. Liber II CLOSEOUT + Liber III §§1–10)
+
+- Liber II §§11–20 CLOSEOUT tip 69718288 (20/20).
+- Liber III §§1–10 tip 2e9b78d4. Next Liber III §§11+.
+- Melito skipped. Never Cyril Matthew densify.
+
 ## 2026-09-13 (Air — Song Comm. Liber I CLOSEOUT + Liber II §§1–10)
 
 - Liber I §§11–20 CLOSEOUT tip b4ef4e70 (20/20; Song 1:4).
