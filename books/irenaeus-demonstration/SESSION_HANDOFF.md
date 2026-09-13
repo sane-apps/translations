@@ -30,3 +30,7 @@
 ## §§51–60 densify tip `c6ef642` (NOT OET)
 - Isa 49 servant; Virgin/Emmanuel; Wonderful Counselor; Isa 9/cross; Judah grape-blood; Balaam star/magi; Jesse rod/flower; impartial judgment.
 - French `sources/epideixis_51_60_french_check.json`. Melito skipped. Never Cyril Matthew.
+
+## §§61–70 densify (NOT OET)
+- Isa 11 peace of nations; Amos tent of David; Bethlehem; Ps 132; entry on colt; passion/healings Isa 53; generation ineffable.
+- French `sources/epideixis_61_70_french_check.json`. Melito skipped. Never Cyril Matthew.
