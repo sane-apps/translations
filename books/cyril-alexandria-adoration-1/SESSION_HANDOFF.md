@@ -51,3 +51,8 @@ Logos compile on Air when the owner asks. Do not present Book 1 as the complete 
 - 2026-09-12 (StephanAir): **Adoration Book 4 §§11–20** Pass B + Pass A tipped. Continue §§21–29 closeout. Melito skipped. OET = no previous complete English. **Never Cyril Matthew.**
 
 - 2026-09-12 (StephanAir): **Adoration Book 4 §§21–29** Pass B + Pass A tipped — **Book 4 English CLOSEOUT** (29/29). OET = no previous complete English of Book 4. Melito skipped. Next: Book 5. **Never Cyril Matthew.**
+
+## Book 17 Pass B remediation CLOSEOUT — 2026-09-12
+- §§1–11 tip `53ace79`; §§12–22 tip `abfc3df`; §§23–33 CLOSEOUT tipping.
+- Sludge cleared 33/33; Pass A gloss kept ≠ Pass B; inline Logos refs; speakers Cyril/Palladius.
+- Melito skipped. Never Cyril Matthew.

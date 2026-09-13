@@ -1,5 +1,29 @@
 # Translations — session handoff
 
+## 2026-09-12 (Air — Book 17 Pass B sludge CLOSEOUT)
+
+- After Demonstration densify 100/100 (`bb4969e`), remediated Cyril *De adoratione* Book 17 Pass B sludge §§1–33 (tips `53ace79` / `abfc3df` / CLOSEOUT pending stamp).
+- Pass A≠B preserved; inline Logos bible refs. Melito skipped. Never Cyril Matthew.
+- Next parked true OET: `origen-john-later`.
+
+## 2026-09-12 (Air — Irenaeus Demonstration §§81–100 densify CLOSEOUT)
+
+- Claims `irenaeus-demonstration-81-90-densify` + `irenaeus-demonstration-91-100-densify`: §§81–100 Pass A≠B densify CLOSEOUT (**NOT OET**, 100/100).
+- Next: Adorations Book 17 Pass B sludge remediation (spot-check FAIL 33/33). Parked true OET `origen-john-later`.
+- Melito skipped. Never Cyril Matthew.
+
+## 2026-09-12 (Air — Irenaeus Demonstration §§71–80 densify tip `b12cbbb`)
+
+- Claim `irenaeus-demonstration-71-80-densify`: §§71–80 Pass A≠B densify (**NOT OET**).
+- Prior tip §§61–70 `fad211d`. Next §§81–90 then §§91–100 CLOSEOUT → Book 17 Pass B remediation.
+- Melito skipped. Never Cyril Matthew.
+
+## 2026-09-12 (Air — Irenaeus Demonstration §§61–70 densify tip `fad211d`)
+
+- Claim `irenaeus-demonstration-61-70-densify`: §§61–70 Pass A≠B densify (**NOT OET**). Inline Logos bible refs.
+- Prior: §§51–60 `c6ef642`. Next: §§71–80. Book 17 Pass B sludge FAIL queued after treatise densify closes.
+- Melito skipped. Never Cyril Matthew.
+
 ## 2026-09-12 (Air — Irenaeus Demonstration §§51–60 densify tip `c6ef642`)
 
 - Claim `irenaeus-demonstration-51-60-densify`: §§51–60 Pass A≠B densify (**NOT OET**). Inline Logos bible refs.
