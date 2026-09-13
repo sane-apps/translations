@@ -1,3 +1,13 @@
+## 2026-09-13 (Air — Rank-1 fragments/homiliae SERIES batch)
+
+- After short-works batch / Ad episcopos Libyae `2eb0d458`.
+- Footer-safe retip: Khazarzar mid-text research footers stripped without truncating corpora.
+- Homiliarum incertarum SERIES `fa58754a` (11).
+- Fragmenta Canticum `4e4f96f3`; Regum `dca2570f`; Jer/Ez/Dan/Num tipped.
+- Pauline: Romanos `4a392d80` (11); Hebraeos `55e72d9b` (8); 1Cor `59aa136b` (8); 2Cor `5dcc4ff8` (5); Acta/catholicas `07e20a31` (4).
+- Also: Sermo trium puerorum, Ad Carthago, Photium, Theodosium excerpt, Cyri/Joannis, contra Diodorum/Theodorum II–III, Proverbia, Baruch, Solutiones Vat 447, Fragmenta homiliae quod unus.
+- Skipped: Collectio florilegium; ascriptus De sancta trinitate; Melito; Pusey Joannem/Quod unus/De incarnatione; Matthew densify; Lucam caution; pseudo De exitu / Ascension (Athanasius).
+- True OET; `caffeinate -dims` kept. Next: residual authentic scraps or Lucam Greek-only under caution.
 ## 2026-09-13 (Air — Rank-1 short-works batch SERIES)
 
 - After Solutiones `5ca057b2` / Ad Calosyrium `e47599be`, audited next earliest authentic Rank-1.
