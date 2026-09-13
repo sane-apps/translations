@@ -1,3 +1,10 @@
+## 2026-09-13 (Air — Cyril Trinity Dialogues SERIES CLOSEOUT)
+
+- `caffeinate -dims` kept.
+- `cyril-alexandria-trinity-dialogue-1` SERIES CLOSEOUT tip `1a34e0e8` (D1 `94dbb869`/`02fc0008` → D2 `e70f7cc8`/`36292f08` → D3 `a5a2dd86`/`20d4ef09` → D4 `94758039`/`c25b53ab` → D5 `25a21e18`/`1cd39f48` → D6 `fda0de55`/`9e2f549d` → D7 `efa6c055`/`1a34e0e8`).
+- PG 75 CPG 5216; true OET; Melito skipped; never Cyril Matthew densify; no Durand SC / modern sync.
+- Tips merge-ready for Merge-and-ship. Next: audit earliest Rank-1 OET across corpus.
+
 ## 2026-09-13 (Air — Rank-1 audit → Trinity Dialogue 1)
 
 - Origen Rank-1 OET exhausted (`af9c9531`); Pauline deferred.
