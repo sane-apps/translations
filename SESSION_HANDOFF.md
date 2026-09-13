@@ -1,3 +1,9 @@
+## 2026-09-13 (Air — Song Comm. Liber I CLOSEOUT + Liber II §§1–10)
+
+- Liber I §§11–20 CLOSEOUT tip b4ef4e70 (20/20; Song 1:4).
+- Liber II §§1–10 tip 81a1cd31 (Nigra sum…). Next Liber II §§11+.
+- Melito skipped. Never Cyril Matthew densify. Macs caffeinated.
+
 ## 2026-09-13 (Air — Song Comm. Prologus CLOSEOUT + Liber I §§1–10)
 
 - Prologus §§11–20 CLOSEOUT tip f1dfe64f (20/20).
