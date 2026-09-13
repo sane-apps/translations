@@ -3,7 +3,7 @@
 - `caffeinate -dims` kept.
 - After Trinity Dialogues SERIES `1a34e0e8`, next earliest Rank-1 OET: **`cyril-alexandria-thesaurus`** (CPG 5215; PG 75).
 - Rationale: no usable PD English (Greystone partial = modern/copyrighted); lockable PG 75; natural companion after Dialogues.
-- Opening tip `704d5e64` (prologue) merge-ready; Logos/Assertion I next. Melito skipped; never Cyril Matthew densify.
+- Tips: prol `704d5e64` → Logos I open `7c253775` / rem `7c253775`; Logos II next. Melito skipped; never Cyril Matthew densify.
 - Tips merge-ready for Merge-and-ship. Standing rules unchanged.
 
 ## 2026-09-13 (Air — Cyril Trinity Dialogues SERIES CLOSEOUT)
