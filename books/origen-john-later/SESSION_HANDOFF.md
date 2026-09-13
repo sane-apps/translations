@@ -93,3 +93,9 @@
 - Claim `origen-john-later-28-1-13-oet`. Tip `76dfc69` after Book 20 CLOSEOUT `3fa1d31`.
 - Next: Book 28 §§14–26 CLOSEOUT → Book 32.
 - Melito skipped. Never Cyril Matthew.
+
+## 2026-09-13 (Air — Origen John later Book 28 §§14–26 CLOSEOUT tip 142e102)
+
+- Claim `origen-john-later-28-14-26-oet`. Tip `142e102`. Book 28 **26/26**.
+- Next: Book **32**.
+- Melito skipped. Never Cyril Matthew.
