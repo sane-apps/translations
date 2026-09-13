@@ -1,3 +1,10 @@
+## 2026-09-13 (Air — Job Selecta/Enarrationes + Proverbs SERIES)
+
+- `caffeinate -dims` renewed.
+- Job Selecta `319dd847` (2u); Job Enarrationes `390da499` (4u); Proverbs Expositio `22ff6026` (7u); Proverbs Fragmenta `78404781` (2u).
+- Cyril Khazarzar Rank-1 remains EXHAUSTED. Melito skipped; never Cyril Matthew densify.
+- Next: Psalms Greek Excerpta/Fragmenta (≠ Rufinus).
+
 ## 2026-09-13 (Air — Job Homiliae + scraps SERIES; keep going)
 
 - `caffeinate -dims` confirmed/renewed.
