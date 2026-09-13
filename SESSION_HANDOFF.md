@@ -1,3 +1,16 @@
+## 2026-09-13 (Air — On Prayer opened)
+
+- Matthew later SERIES CLOSEOUT .
+- Tipped Origen On Prayer §§1–2  (GCS 3; Pass A≠B; no O'Meara/Greer).
+- Next: On Prayer remainder earliest-forward, then Exhortation to Martyrdom; caffeinate -dims; Merge-and-ship.
+
+## 2026-09-13 (Air — Matthew later SERIES CLOSEOUT)
+
+-  SERIES CLOSEOUT tip  (XV–XVII + Series through titulus/guards).
+- Prior: XV /; XVI /; XVII /; Series open→rem ….
+- Next Rank-1 without pause (prefer lockable GCS; Melito skipped; never Cyril Matthew densify; Luke Rank-2/ANF).
+- caffeinate -dims; Merge-and-ship.
+
 ## 2026-09-13 (Air — Matthew Series Peter denial)
 
 - Series §§9–10 tip `aa057d5f` after arrest `f2aa69e6`.
