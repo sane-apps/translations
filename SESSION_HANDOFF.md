@@ -3,7 +3,7 @@
 - Origen Rank-1 OET exhausted (`af9c9531`); Pauline deferred.
 - Audit: Melito skipped; Irenaeus Demonstration densify done; never Cyril Matthew densify.
 - Next earliest Rank-1 OET across corpus: **`cyril-alexandria-trinity-dialogue-1`** (CPG 5216; PG 75).
-- Opening tip `94dbb869`; Dial.1 rem CLOSEOUT `02fc0008`; Dialogue 2 next earliest-forward.
+- Tips: Dial.1 open `94dbb869` → rem `02fc0008` → Dial.2 open `e70f7cc8`; Dial.2 rem next.
 - `caffeinate -dims` kept. Standing rules unchanged. Keep tipping Merge-and-ship.
 
 ## 2026-09-13 (Air — NT fragments SERIES)
