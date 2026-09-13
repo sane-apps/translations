@@ -1,3 +1,10 @@
+## 2026-09-13 (Air — Luke Homilies SERIES CLOSEOUT; Letters next)
+
+- `caffeinate -dims` confirmed.
+- `origen-luke-homilies` SERIES CLOSEOUT tip `8567c6fd` (open `3a197b9b` → 2–10 `a5fd8e43` → 11–20 `1e341fb5` → 21–30 `98e69a03` → 31–39 `8567c6fd`).
+- Next Rank-1/queue: **`origen-letters`** (Africanus + Gregory; no ANF 4 Crombie).
+- Tips merge-ready for Merge-and-ship. Melito skipped; never Cyril Matthew densify; no ANF 9 on Luke.
+
 ## 2026-09-13 (Air — Philocalia SERIES CLOSEOUT; Luke Homilies next)
 
 - `caffeinate -dims` confirmed.
