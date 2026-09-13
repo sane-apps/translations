@@ -1,3 +1,17 @@
+## 2026-09-13 (Air — Principiis opened after Celsum SERIES)
+
+- Contra Celsum SERIES `70a9a146` closed.
+- Tipped De Principiis Pref+I.1 `0193d59d` (GCS 22 Rufinus; disclose paraphrase; no ANF Crombie/Butterworth).
+- Next: Principiis earliest-forward Books I–IV → SERIES CLOSEOUT; caffeinate -dims; Merge-and-ship.
+
+## 2026-09-13 (Air — Contra Celsum SERIES CLOSEOUT; Principiis next)
+
+- `caffeinate -dims` confirmed.
+- `origen-contra-celsum` SERIES CLOSEOUT tip `70a9a146`.
+  - Open `e6346628` → Pref `e8d6e493` → Book I rem `e250317f` → B2 `b95d9fab` → B3 `59816547` → B4 `1bc56d90` → B5 `9c4eb52c` → B6 `dd62d2c5` → B7 `a7adb07d` → B8/SERIES `70a9a146`.
+- Next Rank-1 promoted: **`origen-principiis`** (GCS 22 Rufinus; disclose paraphrase; no ANF Crombie/Butterworth).
+- Tips merge-ready for Merge-and-ship. Melito skipped; never Cyril Matthew densify.
+
 ## 2026-09-13 (Air — Contra Celsum opened)
 
 - prayer-martyrdom SERIES CLOSEOUT .
