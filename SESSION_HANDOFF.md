@@ -1,3 +1,11 @@
+## 2026-09-13 (Air — Origen Pauline SERIES CLOSED; next Regnorum)
+
+- `caffeinate -dims` confirmed.
+- Cyril Khazarzar Rank-1 already EXHAUSTED/shipped (Lucam Greek-only + residuals).
+- Deferred Origen Pauline tipped from Khazarzar (footer-safe): Ephesians SERIES `dc2096b1` (7u); 1 Cor `30aea2e0` (10u); Hebrews scrap `7aec66dc`; Romans catena `6e744e38` (≠ Rufinus Romans).
+- Next earliest-untranslated Rank-1: **Fragmenta in librum primum Regnorum** (skip De engastrimytho — already in `origen-jeremiah-samuel`), then Lamentationes.
+- True OET; Melito skipped; never Cyril Matthew densify; skip Pusey-PD / Greystone / Lunn / Hill.
+
 ## 2026-09-13 (Air — Lucam Greek-only + Cyril Rank-1 EXHAUSTED)
 
 - Residual scraps: Fragmentum in Psalmum `517bd5ce`; Fragmenta de uno filio `c91ff187`; Fragmentum papyraceum `df474667`.
