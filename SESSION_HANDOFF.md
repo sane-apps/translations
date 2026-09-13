@@ -1,3 +1,11 @@
+## 2026-09-13 (Air — Amphilochius + Severianus Rank-1)
+
+- `caffeinate -dims` kept.
+- After Didymus: tipped Amphilochius PG39 (13 SERIES) and Severianus PG65 (20 SERIES).
+- Fixed Severianus Genesim/Rom/2Cor after Didymus filename collision (refetch `Severianus__*`).
+- Densify: Nemesius, Macarius, ANF. Melito skipped; never Cyril Matthew densify.
+- Next: Hesychius PG93 / further corpus-wide Rank-1.
+
 ## 2026-09-13 (Air — Didymus PG39 Rank-1 SERIES batch)
 
 - `caffeinate -dims` kept.
