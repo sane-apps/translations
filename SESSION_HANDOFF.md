@@ -1,3 +1,11 @@
+## 2026-09-13 (Air — Olympiodorus + Epiphanius leftovers)
+
+- `caffeinate -dims` kept.
+- Tipped Olympiodorus PG93 (8 SERIES) and Epiphanius leftovers (27 SERIES).
+- Skipped Epiphanius Ancoratus/Panarion/Anacephalaeosis/De mensuris (densify).
+- Densify: Nemesius/Macarius/ANF/Philostorgius. Melito skipped; never Cyril Matthew densify.
+- Next: more corpus-wide Rank-1.
+
 ## 2026-09-13 (Air — Eudocia / Georgius / John Antioch)
 
 - `caffeinate -dims` kept.
