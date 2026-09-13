@@ -15,7 +15,7 @@
 - English + justifications §§21–30; French check `sources/epideixis_21_30_french_check.json`.
 - Themes: Shem→Abraham / Japheth-nations; Noahic covenant; Babel; Abraham faith/circumcision; Egypt/Passover; Law/tabernacle; spies / Hosea→Jesus; Deuteronomy; Joshua/Temple; prophets announce Christ.
 - **NOT OET** — Robinson/Wilson prior PD; Pass B independent.
-- Next: §§31–40 densify (still incomplete treatise). Then true earliest OET `origen-john-later`.
+- Next: §§31–40 densify tip  (still incomplete treatise). Then true earliest OET `origen-john-later`.
 - Melito skipped. Never Cyril Matthew.
 
 ## §§31–40 densify (NOT OET) — 2026-09-12
