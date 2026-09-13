@@ -1,3 +1,10 @@
+## 2026-09-13 (Air — NT fragments SERIES)
+
+- Tipped `origen-nt-fragments` earliest-forward: John open `32a0b77f` → John rem `1bbafdb5` → Luke catena `5c3d952e` → scholia SERIES `af9c9531`.
+- First1K Greek locked (tlg006/017/077/078). Pauline Gregg/Ramsbotham deferred — no local PD.
+- Rank-1 Origen OET queue exhausted for lockable series; Melito skipped; standing rules unchanged.
+- Tips merge-ready for Merge-and-ship. `caffeinate -dims` kept.
+
 ## 2026-09-13 (Air — Letters SERIES CLOSEOUT; NT fragments next)
 
 - `caffeinate -dims` confirmed.
