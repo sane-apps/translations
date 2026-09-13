@@ -1,3 +1,12 @@
+## 2026-09-13 (Air — Theophanes Confessor Chronographia Rank-1)
+
+- `caffeinate -dims` kept.
+- Tipped Theophanes Confessor Chronographia **56u** SERIES `c4fce4df3` (no usable complete PD English; Mango/Scott modern).
+- Wave mates stamped: Gennadius scraps + Bryennius + Phokas + Symeon Magister (9 SERIES / 102u this stamp set).
+- Prior: Maximus 12/374; Damascus 42/138; Nicephorus Patriarch 3/45.
+- Densify: Nemesius/Macarius/ANF/Philostorgius. Melito skipped; never Cyril Matthew densify.
+- Next: more lockable Greek without usable PD English; tip merge-ready; keep going.
+
 ## 2026-09-13 (Air — Gennadius / Bryennius / Phokas / Symeon Magister Rank-1)
 
 - `caffeinate -dims` kept.
