@@ -34,12 +34,20 @@
 - Melito skipped. Never Cyril Matthew.
 
 
-## 2026-09-12 (Air — Origen John later 13 §§41–50 tip )
 
-- Tip  after . Book 13 now 50/~64. Next §§51–64 CLOSEOUT, then Books 19→20→28→32.
+## 2026-09-13 (Air — Origen John later 13 §§41–50 tip `6c1170b`)
+
+- Tip `6c1170b` after `63ac47d`. Book 13 now 50/64. Next §§51–64 CLOSEOUT, then Books 19→20→28→32.
+- Melito skipped. Never Cyril Matthew.
+
+
+## 2026-09-13 (Air — Origen John later 13 §§51–64 CLOSEOUT tip TIPSHA)
+
+- Claim `origen-john-later-13-51-64-oet`: Book 13 §§51–64 Pass A≠B OET CLOSEOUT. Tip `TIPSHA` after `6c1170b`. Book 13 **64/64**.
+- Next: Book **19** (~10-section tips) → 20 → 28 → 32.
 - Melito skipped. Never Cyril Matthew.
 
 ## Next
 
-- Book 13 §§11–20 (then finish Book 13; afterward 19 → 20 → 28 → 32).
+- Book 19 §§1–10 (then finish 19; afterward 20 → 28 → 32).
 - Melito skipped. Never Cyril Matthew.
