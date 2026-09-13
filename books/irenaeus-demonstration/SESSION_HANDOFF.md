@@ -6,3 +6,7 @@
 - **Prior English:** Robinson 1920 / Wilson exist — **check only; Pass B independent, not copied**.
 - **Skip Melito. Never Cyril Matthew.**
 - Inline Logos bible refs on quotes/allusions.
+
+## §§11–20 densify
+- Tip `a477be4` (NOT OET). CLAIMS `b576018`; next claim §§21–30 densify.
+- OET badge withdrawn for whole Demonstration (Robinson/Wilson prior PD).
