@@ -1,3 +1,10 @@
+## 2026-09-13 (Air — Procopius of Gaza PG87)
+
+- `caffeinate -dims` kept.
+- Tipped Procopius of Gaza 10 SERIES (109u), incl. Isaiah 72u.
+- Densify: Nemesius/Macarius/ANF/Philostorgius. Melito skipped; never Cyril Matthew densify.
+- Next: more corpus-wide Rank-1 (Oecumenius / Cosmas / Chronicon Paschale — PD-audit first).
+
 ## 2026-09-13 (Air — Nonnos / Eusebius Emesa / Alexander / Arethas / Theodorus PG86a / Georges Pisides)
 
 - `caffeinate -dims` kept.
