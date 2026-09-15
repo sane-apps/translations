@@ -1,3 +1,11 @@
+## 2026-09-15 (Scribe — Baron tip-ready; ship paused for CoS H1 UX)
+
+- Locked Robert Baron *Philosophia theologiae ancillans* (Oxford: T. Robinson & R. Davis, 1658; Editi priori correctior) from IA `bim_early-english-books-1641-1700_philosophia-theologi-an_baron-robert_1658` (Wing B887). First edition St Andrews 1621 also on IA.
+- Tip: Exercitatio Prima Art. I–II *De Ente & Essentia* (necessary being; being by essence). Pass A≠B; tip-ready PASS; DOCX built (verify_docx notes 0 Bible links — no Scripture in this locus; honest).
+- Claim `baron-ente-art1-2-tip`. Manual tip closeout path (non-Origen; ai_promote may refuse).
+- **Ship held:** parent CoS priority UX English-first H1s — do not run `scripts/ship.sh` until resume.
+- Target when resumed: https://fathers.saneapps.com/works/baron-philosophia-theologiae-ancillans/
+
 ## 2026-09-15 (Scribe — Crocius Liber I Cap. 1 tip ready to ship)
 
 - Locked Ludwig Crocius *Syntagma sacrae theologiae* (Bremen: Berthold Villerian, 1636) from SLUB Dresden id335860389 (PD Mark 1.0; VD17 14:684303C). No IA copy located.
