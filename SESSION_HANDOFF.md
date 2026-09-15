@@ -1,3 +1,66 @@
+## 2026-09-15 (Scribe — Crocius Liber I Cap. 1 tip ready to ship)
+
+- Locked Ludwig Crocius *Syntagma sacrae theologiae* (Bremen: Berthold Villerian, 1636) from SLUB Dresden id335860389 (PD Mark 1.0; VD17 14:684303C). No IA copy located.
+- Tip: Liber Primus Cap. 1 *De Theologiae definitione* (definition + name-scholion + sacred/practical opening). Pass A≠B; tip-ready green; DOCX verify OK (2 sections, 32 bible links).
+- Claim `crocius-liber1-definition-tip` — tip only, not SERIES CLOSEOUT. Manual publication-review path (non-Origen).
+- Site register + `scripts/ship.sh` next → https://fathers.saneapps.com/works/crocius-syntagma/
+
+
+## 2026-09-15 (OpenCode — julian-of-eclanum rebuild + verify)
+
+- Fixed `books/julian-of-eclanum/build_book.py` — replaced caption-dump of 328 clear allusions with inline Bible link injection.
+- Built DOCX: 1164 sections, 1703 inline Bible links, 383 TN notes, 0 footnotes.
+- `python3 -m pipeline.verify_docx` → OK. `python3 -m pipeline.check_pbb_guards` → OK.
+- Previous build failed with 79 "Scripture connection:" captions (max 8 allowed).
+- Ready for Logos recompile on Air. Book-level SESSION_HANDOFF.md updated.
+
+## 2026-09-15 (densify tip→ship — De mensuris LIVE)
+
+- Shipped **epiphanius-de-mensuris** tip Cap. I (measures/weights; prophetic genres; signs).
+- Greek locked PG 43 OCR; scaffold discarded; Pass A≠B; tip-ready PASS; DOCX OK; Jer 31:31 inline; live_works=46.
+- Live: https://fathers.saneapps.com/works/epiphanius-de-mensuris/ (200). Deploy `1e950029.fathers-site.pages.dev`.
+- Prior this wave: Serapion + Ancoratus live. Next: panarion → anacephalaeosis (need PG41/42 page OCR). Claims remain prepped. Leave OpenCode alone.
+
+
+## 2026-09-15 (densify tip→ship — Serapion + Ancoratus LIVE)
+
+- Shipped **serapion-antioch-fragmenta** tip (Gospel of Peter / Rhossus) and **epiphanius-ancoratus** tip (Cap. II Spirit/Peter/Trinity).
+- Greek locked (Routh+HE 6.12; PG 43 OCR); scaffold English discarded; Pass A≠B; tip-ready PASS; DOCX verify OK; publication-review registered; live_works=45.
+- Live: https://fathers.saneapps.com/works/serapion-antioch-fragmenta/ and https://fathers.saneapps.com/works/epiphanius-ancoratus/ (200). Deploy `a8d80b7e.fathers-site.pages.dev`.
+- Backlog rows appended. Claims remain **prepped**.
+- Densify tip batch complete (Serapion + 4 Epiphanius tips live, live_works=48). Skip origen-numbers, cosmas, paulus-silentarius-*, photius. Leave OpenCode alone. Claims stay prepped.
+
+
+## 2026-09-15 (densify tip→ship — panegyricus LIVE)
+
+- Shipped **gregory-thaumaturgus-panegyricus** tip opening (silence / eight years / fear before Origen).
+- Latin locked from Vossius 1684; scaffold summary discarded; Pass A≠B; tip-ready PASS; DOCX verify OK; publication-review registered; live_works=41.
+- Live: https://fathers.saneapps.com/works/gregory-thaumaturgus-panegyricus/ and `/1/` (200). Deploy `a1a8a899.fathers-site.pages.dev`.
+- Backlog row appended in `docs/LOGOS_PERSONAL_BOOK_BACKLOG.md`.
+- Next densify (same real-lock standard; do not scaffold-ship): greg-thaum-eccl-metaphrase → epistula-canonica → serapion → epiphanius-*. Skip origen-numbers, cosmas, paulus-silentarius-*, photius. Leave OpenCode alone.
+## 2026-09-15 (OpenCode — origen-numbers-homilies build + verify — full corpus)
+
+- Created `books/origen-numbers-homilies/build_book.py` for the 28 Numbers homilies (Baehrens GCS 30).
+- Built DOCX: `origen-numbers-homilies.docx` — 83 sections (Homilia I–II, IV–XXVIII), 175 inline Bible links, 249 TN notes, 0 footnotes.
+- `python3 -m pipeline.verify_docx` → OK. `python3 -m pipeline.check_pbb_guards` → OK.
+- Homilia III title remains unrecoverable lacuna in Baehrens OCR; no translation for Homilia III in this witness.
+- Ready for Logos compile on Air (close panels → Tools → Utilities → Personal Books → Build).
+- All currently translated homilies included in this build.
+- Book-level SESSION_HANDOFF.md updated.
+
+## 2026-09-15 (ChiefOfStaff / Grok Bot — De fide XII live)
+
+- Live: https://fathers.saneapps.com/works/gregory-thaumaturgus-de-fide-xii/ (Capita I-II tip). live_works=37.
+- Claim remains prepped. Logos backlog updated.
+- Next: greg-thaum-ad-tatianum-densify. OpenCode left alone.
+
+## 2026-09-15 (ChiefOfStaff / Grok Bot — Philostorgius live + Macarius live)
+
+- Macarius Spiritual Homilies tip (Hom. 5-6) live: https://fathers.saneapps.com/works/macarius-spiritual-homilies/
+- Philostorgius HE tip (Book 1) live: https://fathers.saneapps.com/works/philostorgius-he/
+- Claims remain **prepped**. Logos Personal Book compile pending on Air — see `docs/LOGOS_PERSONAL_BOOK_BACKLOG.md`.
+- Next: greg-thaum-fide-xii-densify. OpenCode left on its own books (origen-numbers / cosmas / paulus / photius).
+
 ## 2026-09-13 (root-cause gate — tip closeout)
 
 - Root cause of mass holds: SERIES/tip closeout stamped `done` while english still had Lemma-led/Rem scaffolds (or source had tip ops). Catalogue gate then withheld; claim board said done.
@@ -1700,3 +1763,40 @@ Jeremiah 3–7 stub files exist without English; not live; not `source_verified`
 27 focused QA/promotion regressions passed on Mini; publication attack regressions passed in the site repo. Actual source review corrected Julian ToFlorus1.27 (two displaced Psalm refs) and Jeremiah6.1 (love, agency, six Bible targets). Julian's exact packet/receipt is under books/julian-of-eclanum/reviews/audit/ and is consumed by the site's changed-passage gate. OnPrayer/Martyrdom remain withheld; fuller OnPrayer base still omits surviving Greek after a lacuna. No invented approval, no bulk retranslations, no inference calls, no Logos recompilation.
 Current CF checker configuration can select two families distinct from each configured draft; prep remains the overnight default. This was verified offline, not a live model-availability assertion.
 No open GitHub issues were returned by gh issue list during this audit. Existing claim queue remains source-repair coordination. Held source families and remaining provisional passages still need per-work review; deterministic gates and sample checks do not certify the entire corpus.
+
+## 2026-09-14 (Owner — Densify lane sources acquired, ready for translation)
+
+- **All three densify books scaffolded with free claims:**
+  - `nemesius-de-natura-hominis-densify` — Wither 1636 PDF (pp 75-200) OCR'd: 6599 lines clean Greek + apparatus
+  - `macarius-spiritual-homilies-densify` — PG 34 PDF (pp 151-350) OCR batch complete
+  - `philostorgius-he-densify` — Bidez 1913 PDF (pp 50-200) OCR'd: Greek fragments + German apparatus
+
+- **Sources downloaded and manifests created:**
+  - Nemesius: `sources/nemeius_wither1636_tesseract.txt` (primary), `nemeius_pg86_djvu.txt`, `nemeius_biusante_djvu.txt`; `sources/manifest.json`
+  - Macarius: `sources/macarius_pg34_tesseract.txt` (primary), `macarius_pg34.pdf`; `sources/manifest.json`
+  - Philostorgius: `sources/philostorgius_bidez_djvu.txt` (primary), `philostorgius_pg65_djvu.txt`, `philostorgius_bidez.pdf`; `sources/manifest.json`
+
+- **All build infrastructure ready per book:**
+  - `build_book.py` — customized for Logos PBB (Bible links, TN marks, headwords)
+  - `translations/*_english.json` — Pass B template
+  - `translations/*_source.json` — Greek source template
+  - `translations/*_meta.json` — edition metadata
+  - `SESSION_HANDOFF.md` — production ledger
+  - `book.yml` — Logos metadata
+
+- **Free claims available:** run `python3 scripts/claims.py start --agent YourName`
+
+- **Next:** Claim a densify slice → Pass A (literal gloss + lemmas in `reviews/justifications/`) → Pass B (reading English in `translations/`) → `assert_tip_ready` → `ai_promote` → `build_book.py`
+
+- **Status written to:** `outputs/densify_status.json`
+
+
+## 2026-09-15 densify tip->ship (Panarion + Anacephalaeosis)
+- Shipped live_works=48 via https://2b59e8db.fathers-site.pages.dev
+- Live tips:
+  - https://fathers.saneapps.com/works/serapion-antioch-fragmenta/
+  - https://fathers.saneapps.com/works/epiphanius-ancoratus/
+  - https://fathers.saneapps.com/works/epiphanius-de-mensuris/
+  - https://fathers.saneapps.com/works/epiphanius-panarion/
+  - https://fathers.saneapps.com/works/epiphanius-anacephalaeosis/
+- Claims remain prepped; Logos compile Air-side.
