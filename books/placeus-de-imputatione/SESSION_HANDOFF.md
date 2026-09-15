@@ -23,7 +23,7 @@ Canonical path: `~/SaneApps/clients/translations/books/placeus-de-imputatione/`
 - Translations: Pass A + Pass B for sections 1-2
 - DOCX: pending local build
 - Logos Build: Air backlog after live ship
-- Site: **ship paused** (parent CoS UX: title underline + Author expand bio) — local tip-ready / publication-review prep only until resume
+- Site: **ship paused** (parent CoS UX: title underline + Author expand bio) — tip-ready; publication-review registered (site d9505d2); PUBLIC_ENGLISH_TITLES mapped; translations tip commit c260683e9. Resume scripts/ship.sh only when parent says.
 
 ## Next
 
