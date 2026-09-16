@@ -1,3 +1,20 @@
+## 2026-09-16 (Controller — full sweep landed: 4440 checked, migration committed)
+
+- Sweep DONE: 4440 judgments, 0 errors, ~85% agree. Cost about a dime of
+  metered tokens (6.3M in). Non-vocab certainty census: 226 probable + 6
+  allusion across 14 books, all silently rendered as clear links by builders.
+- Adjudicated 9 with sources open: 5 upgrades (Wis 11:24, 1 Cor 11:28,
+  Ezek 44:9, Ex 12:35-36 distinctive image, 2 Cor 4:7 — all quoted or
+  unmistakable), 1 padding deletion (2 Tim 3:16, philocalia 22), 3 keeps
+  (Hab 2:4, Gen 15:6, Jer 31:31-33 stay possible: mediated via the NT text
+  the author actually invokes — now the standing rule for mediated links).
+- Migrated the remaining 223 probable/allusion to possible (lateral, honest
+  uncertainty, caption-only rendering). Diffs audited: certainty, reason,
+  and note vocabulary only. Epiphanius packet refreshed, VALID.
+- Committed (80 files). Builders never see another non-vocab value without
+  the gate noticing: allowed values are clear|possible, enforced by rule
+  and now by corpus-wide consistency.
+
 ## 2026-09-16 (Controller — sweep interim, identity fix, cover SOP)
 
 - Full-corpus Jev sweep running in background (935+/4440 at last check;
