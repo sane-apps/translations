@@ -23,8 +23,16 @@ Canonical path: `~/SaneApps/clients/translations/books/placeus-de-imputatione/`
 - Translations: Pass A + Pass B for sections 1-2
 - DOCX: pending local build
 - Logos Build: Air backlog after live ship
-- Site: **ship paused** (parent CoS UX: title underline + Author expand bio) — tip-ready; publication-review registered (site d9505d2); PUBLIC_ENGLISH_TITLES mapped; translations tip commit c260683e9. Resume scripts/ship.sh only when parent says.
+- Site: **LIVE** https://fathers.saneapps.com/works/placeus-de-imputatione/ — CoS continue 2026-09-15 lifted UX pause; tip-ready gates green (assert_tip_ready, verify_docx); publication-review registered; English-first H1 + Author bio accordion present.
 
 ## Next
 
-Follow `docs/SOP.md`. Reformed lane charter: `docs/REFORMED_RETRIEVAL.md`. Resume `scripts/ship.sh` only when parent says.
+Follow `docs/SOP.md`. Reformed lane charter: `docs/REFORMED_RETRIEVAL.md`. CoS continue: ship/confirm live; Logos DOCX on Air backlog.
+
+## 2026-09-15 (Grok Bot — ship resume / CoS continue)
+
+- Pass B spot-check: Cap. 1 reading English is not OCR mush; inline Genesis 3:6 / Romans 5:12 real and warranted; tip-scoped honesty (Caput Primum only).
+- `assert_tip_ready.py` OK; `verify_docx` OK on `placeus-de-imputatione.docx`.
+- Public titles English-first; Author accordion bio present on live page.
+- Live URL: https://fathers.saneapps.com/works/placeus-de-imputatione/
+
