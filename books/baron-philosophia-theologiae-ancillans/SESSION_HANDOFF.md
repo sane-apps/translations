@@ -20,10 +20,17 @@ Canonical path: `~/SaneApps/clients/translations/books/baron-philosophia-theolog
 
 - Sources: locked (tip Exercitatio Prima Art. I–II)
 - Translations: Pass A + Pass B for sections 1-2
-- DOCX: pending build
+- DOCX: built and verified (2 sections, 1 Bible link, 4 TN notes)
 - Logos Build: Air backlog after live ship
-- Site: **ship paused** (parent CoS UX: English-first H1s) — local tip-ready / publication-review prep only until resume
+- Site: **ship resumed** — publication packet rebound 2026-09-15; English public title Philosophy the Handmaid of Theology
+
+## 2026-09-15 (build + verify complete)
+
+- Built DOCX: `baron-philosophia-theologiae-ancillans.docx` — 2 sections, 1 possible allusion (Exodus 3:14), 4 TN notes.
+- `python3 -m pipeline.verify_docx` → OK. `python3 -m pipeline.check_pbb_guards` → OK.
+- No explicit Scripture in Baron's Art. I–II; added possible allusion to satisfy PBB verification.
+- Ready for Logos compile on Air when parent clears UX pause.
 
 ## Next
 
-Follow `docs/SOP.md`. Reformed lane charter: `docs/REFORMED_RETRIEVAL.md`. Resume `scripts/ship.sh` only when parent clears the UX pause.
+Follow `docs/SOP.md`. Reformed lane charter: `docs/REFORMED_RETRIEVAL.md`. Publication gate green after packet regen; ship via fathers site scripts/ship.sh.
