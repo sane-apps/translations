@@ -6,7 +6,7 @@ Verdicts for parent (OpenCode left alone; Cosmas/Paulus/Photius untouched):
 |---|---|
 | origen-numbers-homilies | PROMOTE Logos-only after nest fix (`pipeline/bible_links.py` skip-inside-[[ ]]); Homilia III lacuna honest; no site densify |
 | julian-of-eclanum | PROMOTE Logos/private-study; caption dump fixed; Ad Florum 2§69 Until-law miscite fixed; no public ship |
-| cyril-alexandria-recta-fide-court | REJECT — 148 TN ops leaks (`Pass A≠B for claim…/justification reviews/…`) |
+| cyril-alexandria-recta-fide-court | TN ops cleaned (3 scholarly TNs); verify_docx+PBB OK; Logos promote gate re-openable; no site ship |
 | baron-philosophia-theologiae-ancillans | Site tip KEEP live English-first; Exodus 3:14 PBB padding REMOVED; Logos DOCX hold (verify_docx requires ≥1 Bible link) |
 
 Doc inaccuracies noted: CLAIMS/WORKS_QUEUE/REFORMED said Baron "ship paused" while live; Julian handoff "0 [[@Headword:]] glue" meant glued=0 not zero Headword paras; Origen "28/28" / "content sliced" overstated III absence; Cyril backlog listed pending while DOCX ships ops TNs; Baron book handoff confessed padding.

@@ -124,3 +124,12 @@ Translate from locked `*_source.json` (Pass A/B) → DOCX → site (era banner; 
 ## 2026-09-15 audit — REJECT
 - translator_notes in english JSON are ops leaks (148× Pass A≠B / claim / justification path strings) emitted as Headword TNs.
 - Do not Logos-promote until TNs replaced with real notes and DOCX rebuilt.
+
+## 2026-09-15 audit — TN ops-leak cleanup (post-REJECT)
+
+- Stripped all ops-leak Headword TNs from english JSON (Pass A≠B / claim paths / greek_clean*.json stamps / CPG complete stamps).
+- Kept 3 scholarly TNs: Luke lacunae (Arcadia); kenosis continue note (Pulcheria §11); End of CPG 5220 scope note (§48 only).
+- Front matter: removed "Pass A ≠ Pass B / True OET" ops line; replaced with first-English + Pusey lock gloss.
+- Rebuilt DOCX: 148 sections, 522 Bible links, **3** TN notes.
+- verify_docx OK; check_pbb_guards OK. Spot-check: no Pass A/claim/greek_clean TN leaks.
+- **Logos promote gate: CLEAR to re-enter** (private study / Personal Book). **No site ship** this turn (public gate not asserted; leave OpenCode alone).
