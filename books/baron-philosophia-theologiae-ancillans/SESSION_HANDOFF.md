@@ -34,3 +34,9 @@ Canonical path: `~/SaneApps/clients/translations/books/baron-philosophia-theolog
 ## Next
 
 Follow `docs/SOP.md`. Reformed lane charter: `docs/REFORMED_RETRIEVAL.md`. Publication gate green after packet regen; ship via fathers site scripts/ship.sh.
+
+## 2026-09-15 (audit — removed PBB padding)
+
+- Removed fake `added_allusions` Exodus 3:14 (certainty=possible) that was explicitly added "to satisfy PBB verification" with no textual warrant in Art. I–II (justifications already said none invented).
+- Rebuilt DOCX: 2 sections, **0** Bible links, 4 TN notes. `verify_docx` OK. Tip-scoped honesty restored for Logos.
+- Live site tip already English-first at https://fathers.saneapps.com/works/baron-philosophia-theologiae-ancillans/ (no Exodus padding on public HTML — site uses English JSON, not DOCX captions).

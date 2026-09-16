@@ -111,3 +111,16 @@ Translate from locked `*_source.json` (Pass A/B) → DOCX → site (era banner; 
 - 2026-09-12: **pulcheria-rf-a10** Pulcheria §§37–40 Pass A≠B (greek_clean_a10; own-body offering/Lord of glory).
 - 2026-09-12: **pulcheria-rf-a11** Pulcheria §§41–44 Pass A≠B (greek_clean_a11; authority/raise temple/Spirit of Jesus).
 - 2026-09-12: **pulcheria-rf-a12** Pulcheria §§45–48 Pass A≠B (greek_clean_a12; CPG 5220 complete).
+
+## 2026-09-15 (build + verify complete — full corpus)
+
+- Created `build_book.py` for both treatises (CPG 5219 + 5220, 148 sections total).
+- Built DOCX: 148 sections, 522 inline Bible links, 306 TN notes, 0 footnotes.
+- `python3 -m pipeline.verify_docx` → OK. `python3 -m pipeline.check_pbb_guards` → OK.
+- First English of these treatises. True OET: Pass A ≠ Pass B; Pusey 1877 Greek lock.
+- Ready for Logos compile on Air (close panels → Tools → Utilities → Personal Books → Build).
+- Next: site publication (era banner; treatises with no earlier English).
+
+## 2026-09-15 audit — REJECT
+- translator_notes in english JSON are ops leaks (148× Pass A≠B / claim / justification path strings) emitted as Headword TNs.
+- Do not Logos-promote until TNs replaced with real notes and DOCX rebuilt.

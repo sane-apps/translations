@@ -1,4 +1,4 @@
-"""Build Cyril of Alexandria: On the True Faith to the Imperial Women Logos Personal Book DOCX."""
+"""Build Origen Homilies on Numbers Logos Personal Book DOCX."""
 from __future__ import annotations
 
 import json
@@ -17,29 +17,179 @@ from pipeline.docx_helpers import (
 )
 
 BOOK_DIR = Path(__file__).resolve().parent
-OUT_DOCX = BOOK_DIR / "cyril-alexandria-recta-fide-court English.docx"
+OUT_DOCX = BOOK_DIR / "origen-numbers-homilies.docx"
 RECEIPT = BOOK_DIR / "build_receipt.json"
 
 WORKS = [
     (
-        "ad_arcadiam_marinamque_english.json",
-        "On the True Faith to Arcadia and Marina (CPG 5219)",
-        "arc",
-        "De recta fide ad dominas (Arcadia and Marina). Pusey, S. Cyrilli Opera, vol. 5 (1877), pp. 153–264. Greek locked from IA SPNCyrilli7.",
+        "num_hom1_english.json",
+        "Homilies on Numbers — Homilia I",
+        "num1",
+        "Homilies on Numbers. Baehrens, Origenes Werke VII (GCS 30, 1921). Homilia I–III; Homilia III title unrecoverable in this witness.",
     ),
     (
-        "ad_pulcheriam_eudociamque_english.json",
-        "On the True Faith to Pulcheria and Eudocia (CPG 5220)",
-        "puch",
-        "De recta fide ad augustas (Pulcheria and Eudocia). Same Pusey volume, pp. 265–333. Greek locked from IA SPNCyrilli7.",
+        "num_hom2_english.json",
+        "Homilies on Numbers — Homilia II",
+        "num2",
+        "Homilies on Numbers. Baehrens, Origenes Werke VII (GCS 30, 1921).",
+    ),
+    (
+        "num_hom4_english.json",
+        "Homilies on Numbers — Homilia IV",
+        "num4",
+        "Homilies on Numbers. Baehrens, Origenes Werke VII (GCS 30, 1921). Homilia III title unrecoverable — next titled unit is Homilia IV.",
+    ),
+    (
+        "num_hom5_english.json",
+        "Homilies on Numbers — Homilia V",
+        "num5",
+        "Homilies on Numbers. Baehrens, Origenes Werke VII (GCS 30, 1921).",
+    ),
+    (
+        "num_hom6_english.json",
+        "Homilies on Numbers — Homilia VI",
+        "num6",
+        "Homilies on Numbers. Baehrens, Origenes Werke VII (GCS 30, 1921).",
+    ),
+    (
+        "num_hom7_english.json",
+        "Homilies on Numbers — Homilia VII",
+        "num7",
+        "Homilies on Numbers. Baehrens, Origenes Werke VII (GCS 30, 1921).",
+    ),
+    (
+        "num_hom8_english.json",
+        "Homilies on Numbers — Homilia VIII",
+        "num8",
+        "Homilies on Numbers. Baehrens, Origenes Werke VII (GCS 30, 1921).",
+    ),
+    (
+        "num_hom9_english.json",
+        "Homilies on Numbers — Homilia IX",
+        "num9",
+        "Homilies on Numbers. Baehrens, Origenes Werke VII (GCS 30, 1921).",
+    ),
+    (
+        "num_hom10_english.json",
+        "Homilies on Numbers — Homilia X",
+        "num10",
+        "Homilies on Numbers. Baehrens, Origenes Werke VII (GCS 30, 1921).",
+    ),
+    (
+        "num_hom11_english.json",
+        "Homilies on Numbers — Homilia XI",
+        "num11",
+        "Homilies on Numbers. Baehrens, Origenes Werke VII (GCS 30, 1921).",
+    ),
+    (
+        "num_hom12_english.json",
+        "Homilies on Numbers — Homilia XII",
+        "num12",
+        "Homilies on Numbers. Baehrens, Origenes Werke VII (GCS 30, 1921).",
+    ),
+    (
+        "num_hom13_english.json",
+        "Homilies on Numbers — Homilia XIII",
+        "num13",
+        "Homilies on Numbers. Baehrens, Origenes Werke VII (GCS 30, 1921).",
+    ),
+    (
+        "num_hom14_english.json",
+        "Homilies on Numbers — Homilia XIV",
+        "num14",
+        "Homilies on Numbers. Baehrens, Origenes Werke VII (GCS 30, 1921).",
+    ),
+    (
+        "num_hom15_english.json",
+        "Homilies on Numbers — Homilia XV",
+        "num15",
+        "Homilies on Numbers. Baehrens, Origenes Werke VII (GCS 30, 1921).",
+    ),
+    (
+        "num_hom16_english.json",
+        "Homilies on Numbers — Homilia XVI",
+        "num16",
+        "Homilies on Numbers. Baehrens, Origenes Werke VII (GCS 30, 1921).",
+    ),
+    (
+        "num_hom17_english.json",
+        "Homilies on Numbers — Homilia XVII",
+        "num17",
+        "Homilies on Numbers. Baehrens, Origenes Werke VII (GCS 30, 1921).",
+    ),
+    (
+        "num_hom18_english.json",
+        "Homilies on Numbers — Homilia XVIII",
+        "num18",
+        "Homilies on Numbers. Baehrens, Origenes Werke VII (GCS 30, 1921).",
+    ),
+    (
+        "num_hom19_english.json",
+        "Homilies on Numbers — Homilia XIX",
+        "num19",
+        "Homilies on Numbers. Baehrens, Origenes Werke VII (GCS 30, 1921).",
+    ),
+    (
+        "num_hom20_english.json",
+        "Homilies on Numbers — Homilia XX",
+        "num20",
+        "Homilies on Numbers. Baehrens, Origenes Werke VII (GCS 30, 1921).",
+    ),
+    (
+        "num_hom21_english.json",
+        "Homilies on Numbers — Homilia XXI",
+        "num21",
+        "Homilies on Numbers. Baehrens, Origenes Werke VII (GCS 30, 1921).",
+    ),
+    (
+        "num_hom22_english.json",
+        "Homilies on Numbers — Homilia XXII",
+        "num22",
+        "Homilies on Numbers. Baehrens, Origenes Werke VII (GCS 30, 1921).",
+    ),
+    (
+        "num_hom23_english.json",
+        "Homilies on Numbers — Homilia XXIII",
+        "num23",
+        "Homilies on Numbers. Baehrens, Origenes Werke VII (GCS 30, 1921).",
+    ),
+    (
+        "num_hom24_english.json",
+        "Homilies on Numbers — Homilia XXIV",
+        "num24",
+        "Homilies on Numbers. Baehrens, Origenes Werke VII (GCS 30, 1921).",
+    ),
+    (
+        "num_hom25_english.json",
+        "Homilies on Numbers — Homilia XXV",
+        "num25",
+        "Homilies on Numbers. Baehrens, Origenes Werke VII (GCS 30, 1921).",
+    ),
+    (
+        "num_hom26_english.json",
+        "Homilies on Numbers — Homilia XXVI",
+        "num26",
+        "Homilies on Numbers. Baehrens, Origenes Werke VII (GCS 30, 1921).",
+    ),
+    (
+        "num_hom27_english.json",
+        "Homilies on Numbers — Homilia XXVII",
+        "num27",
+        "Homilies on Numbers. Baehrens, Origenes Werke VII (GCS 30, 1921).",
+    ),
+    (
+        "num_hom28_english.json",
+        "Homilies on Numbers — Homilia XXVIII",
+        "num28",
+        "Homilies on Numbers. Baehrens, Origenes Werke VII (GCS 30, 1921).",
     ),
 ]
 
 FRONT_MATTER = [
-    "New English rendering for private study, prepared with AI assistance from locked Greek (Pusey 1877, PG 76). No modern copyrighted translation has been copied. King FC 129 covers ad Theodosium only and was used as a style check only.",
-    "Scope: two court treatises — De recta fide ad dominas (CPG 5219, §§1–100) and De recta fide ad augustas (CPG 5220, §§1–48). The treatise ad Theodosium (CPG 5218) is excluded as it has a modern English in King FC 129.",
+    "New English rendering for private study, prepared with AI assistance from locked Latin (Baehrens, GCS 30, 1921). No modern copyrighted translation has been copied. Scheck FOTC is not the reading text.",
+    "Scope: Numbers Homiliae I–II and IV–XXVIII in Rufinus's Latin as printed in Baehrens GCS 30 (Origenes Werke VII, 1921). Homilia III is absent from this build: the Baehrens OCR/scan has an unrecoverable title lacuna (running headers jump II→IV) and no Homilia III translation file is included. Do not present this Personal Book as 28/28 complete text.",
     "Bible quotations and clear allusions are linked inline in the reading text. Possible connections stay as short captions. Translator notes use numbered Headword marks — Logos Personal Books do not compile Word footnotes.",
-    "Pass A ≠ Pass B. First English of these treatises. True OET.",
+    "Pass A ≠ Pass B. True OET: no ANF; do not copy Scheck FOTC.",
 ]
 
 # Logos-visible superscripts for TN headword links (not Word footnotes).
@@ -49,9 +199,8 @@ _STOP = {
     "being", "between", "chapter", "clear", "could", "echo", "echoes", "every",
     "first", "from", "further", "here", "into", "same", "saying", "shall", "should",
     "their", "there", "these", "those", "through", "under", "where", "which", "while",
-    "with", "would", "cyril", "alexandria", "pusey", "greek", "latin", "lxx",
-    "also", "than", "then", "that", "this", "they", "them", "have", "been", "were",
-    "when", "what", "your", "unto",
+    "with", "would", "origen", "greek", "latin", "lxx", "also", "than", "then", "that",
+    "this", "they", "them", "have", "been", "were", "when", "what", "your", "unto",
 }
 
 
@@ -81,12 +230,14 @@ def _allusion_ref(raw) -> tuple[str, str, str]:
 
 
 def _ref_already_in(text: str, reference: str) -> bool:
+    """True if this allusion's book+loc already appears as a detectable Bible ref."""
     for m in REF.finditer(reference):
         book = "Psalm" if m["book"] == "Psalms" else m["book"]
         for loc in _expand_comma_verses(book, m["loc"].replace("–", "-")):
             needle = f"{book} {loc}"
             if needle in text:
                 return True
+            # loose: book + chapter present as linked-style prose
             if re.search(rf"\b{re.escape(book)}\s+{re.escape(loc.split(':')[0])}\b", text):
                 return True
     return False
@@ -98,6 +249,7 @@ def _reason_words(reason: str) -> list[str]:
         for w in re.findall(r"[A-Za-z']{5,}", reason)
         if w.lower() not in _STOP
     ]
+    # Quoted snippets in the reason are strong anchors into the English.
     for q in re.findall(r"'([^']{6,80})'|\"([^\"]{6,80})\"", reason):
         snippet = (q[0] or q[1]).lower()
         words.extend(w for w in re.findall(r"[A-Za-z']{5,}", snippet) if w not in _STOP)
@@ -105,22 +257,26 @@ def _reason_words(reason: str) -> list[str]:
 
 
 def _insert_cite_before_punct(text: str, end: int, cite: str) -> str:
+    """Insert cite immediately before punctuation at end (inclusive index of punct)."""
     return text[:end] + cite + text[end:]
 
 
 def _word_hit(word: str, haystack: str) -> bool:
     if word in haystack:
         return True
+    # persecutors ↔ persecute, heavenly ↔ heaven, etc.
     if len(word) >= 6 and word[:6] in haystack:
         return True
     return False
 
 
 def _inject_cite_in_paragraph(paragraph: str, reference: str, reason: str) -> str:
+    """Place (Book ch:v) immediately before the best-matching clause's terminal punct."""
     cite = f" ({reference})"
     if f"({reference})" in paragraph:
         return paragraph
     words = _reason_words(reason)
+    # Score on text without prior cites so earlier marks do not steal matches.
     score_base = re.sub(r"\s*\([^)]*\d[^)]*\)", "", paragraph)
     best_clause = None
     best_score = -1.0
@@ -145,8 +301,11 @@ def _inject_cite_in_paragraph(paragraph: str, reference: str, reason: str) -> st
             return _insert_cite_before_punct(paragraph, end - 1, cite)
         return paragraph + cite
 
+    # Locate the clause's leading text in the live paragraph (cites may already sit
+    # after earlier clauses). Use a punct-free core for the search.
     core = re.sub(r"[.;!?]+$", "", best_clause.strip())
     core = re.sub(r"\s+", " ", core)
+    # Prefer the last 50 chars of the core — unique enough within a paragraph.
     needle = core[-50:] if len(core) > 50 else core
     pos = paragraph.find(needle)
     if pos < 0:
@@ -159,6 +318,7 @@ def _inject_cite_in_paragraph(paragraph: str, reference: str, reason: str) -> st
             return _insert_cite_before_punct(paragraph, end - 1, cite)
         return paragraph + cite
 
+    # Walk from end of needle to the clause terminal punct, skipping existing cites.
     end = pos + len(needle)
     while end < len(paragraph):
         ch = paragraph[end]
@@ -178,6 +338,10 @@ def _inject_cite_in_paragraph(paragraph: str, reference: str, reason: str) -> st
 
 
 def inject_refs_into_paragraphs(paragraphs: list[str], allusions: list) -> tuple[list[str], list[dict]]:
+    """
+    Put clear Bible refs inline beside the matching clause, not as a caption dump.
+    Possible/uncertain allusions are returned for short captions.
+    """
     original = list(paragraphs)
     paras = list(paragraphs)
     if not paras:
@@ -212,12 +376,12 @@ def inject_refs_into_paragraphs(paragraphs: list[str], allusions: list) -> tuple
 
 def main() -> None:
     doc = setup_document(
-        title="Cyril of Alexandria: On the True Faith to the Imperial Women (New English)",
-        author="Cyril of Alexandria",
+        title="Origen: Homilies on Numbers (New English)",
+        author="Origen of Alexandria",
         subject="New English rendering for private Logos study",
-        keywords="Cyril of Alexandria, Arcadia, Marina, Pulcheria, Eudocia, CPG 5219, CPG 5220",
+        keywords="Origen, Numbers, GCS 30",
     )
-    doc.add_paragraph("Cyril of Alexandria: On the True Faith to the Imperial Women", style="Title")
+    doc.add_paragraph("Origen: Homilies on Numbers", style="Title")
     doc.add_paragraph("A new English rendering for private study", style="Subtitle")
     for para in FRONT_MATTER:
         doc.add_paragraph(para)
@@ -247,14 +411,18 @@ def main() -> None:
                 entry.get("added_allusions") or [],
             )
             n_paras = 0
+            last_linked = ""
             for para in enriched:
                 linked = linker.bible_text(para, key=key, label=label)
                 doc.add_paragraph(linked)
+                last_linked = linked
                 n_paras += 1
 
             # Translator notes → Headword TN marks (Logos compiles these; Word footnotes do not).
             notes = [n.strip() for n in (entry.get("translator_notes") or []) if (n or "").strip()]
             if notes and n_paras:
+                # Re-write last paragraph with trailing TN marks.
+                # python-docx: easiest path — append marks as a new short paragraph after body.
                 marks = []
                 for note in notes:
                     n = len(tn_records) + 1
@@ -290,7 +458,7 @@ def main() -> None:
         add_heading_with_headword(doc, bookmarks, "Translator notes", 1, "translation_notes")
         doc.add_paragraph(
             "Numbered marks in the chapters open these notes. They flag lacunae, "
-            "wording choices, and rough passages — not Cyril's text."
+            "wording choices, and rough passages — not Origen's text."
         )
         for rec in tn_records:
             hw = rec["headword"]
@@ -302,10 +470,10 @@ def main() -> None:
     doc.save(OUT_DOCX)
 
     if not records:
-        raise SystemExit("no English JSON yet — translate first")
+        raise SystemExit("no English JSON yet — translate Numbers Homilia 1 first")
 
     receipt = {
-        "title": "Cyril of Alexandria: On the True Faith to the Imperial Women (New English)",
+        "title": "Origen: Homilies on Numbers (New English)",
         "section_count": len(records),
         "paragraph_count": sum(r["paragraphs"] for r in records),
         "bookmark_count": len(bookmarks.ids),
