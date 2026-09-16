@@ -1,3 +1,19 @@
+## 2026-09-16 (Controller — sweep interim, identity fix, cover SOP)
+
+- Full-corpus Jev sweep running in background (935+/4440 at last check;
+  early rate ~800 agree / 146 mismatch, 0 errors).
+- Adjudicated first 6 high-confidence flags with source in hand: removed 2
+  duplicate-scope links (Ex 6:2-8 under clear 6:6-7; Lk 16:13 under clear Mt
+  6:24), upgraded Ex 23:5 to clear (near-verbatim quotation), kept Jer 31
+  possible (mediated via Hebrews, author invokes Hebrews), overruled 2 wrong
+  Jev none calls on commentary-lemma verses (Mt 8:25-26, Mt 9:23 — the
+  fragment expounds the cited verse itself).
+- Lesson for future Jev prompts: a commentary fragment expounding its lemma
+  verse counts as clear, not none.
+- Book identity now loads from book.yml (pipeline.book_meta, tested); five
+  builders purged of foreign titles/authors/front pages; all five rebuilt
+  DOCXs verify green. Covers + descriptions mandatory SOP with series rule.
+
 ## 2026-09-16 (Controller — supervised unit 1 landed: 4 allusion flags)
 
 - Dispatched tight brief on the free lane: adjudicate 4 Jev flags, certainty
