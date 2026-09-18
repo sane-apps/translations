@@ -33,9 +33,13 @@ Canonical path: `~/SaneApps/clients/translations/books/photius-bibliotheca/`
 - Codices 6-10: Gregory of Nyssa ×2 (Against Eunomius), Origen (De Principiis), Eusebius (Praeparatio Evangelica, Demonstratio Evangelica)
 - Next: codices 11-15 (Eusebius lost works, Apollinarius, Gelasius, Acts of Councils)
 
-## Next
+## 2026-09-15 (densify extended — codices 11-15)
 
-Follow `docs/SOP.md`. Claim `photius-bibliotheca-densify` prepped; continue densify slices.
+- Added codices 11-15 to Greek lock: Eusebius lost works (Praeparatio Ecclesiastica, Demonstratio Ecclesiastica, Refutation & Defence), Apollinarius (Against Heathen/On Piety/On Truth), Gelasius of Cyzicus (Acts of Nicaea)
+- Created Pass A + Pass B for codices 11-15
+- Built DOCX: `photius-bibliotheca English.docx` — 15 sections, 3 Bible links, 40 TN notes, 0 footnotes
+- `python3 -m pipeline.verify_docx` → OK. `python3 -m pipeline.check_pbb_guards` → OK.
+- Total now: 15/279 codices. Next: codices 16-17 (Acts of Ephesus, Chalcedon)
 
 ## 2026-09-15 (CoS hard fix — ops-leak TN strip)
 
