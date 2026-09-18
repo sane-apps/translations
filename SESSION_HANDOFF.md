@@ -1,3 +1,35 @@
+## 2026-09-17 (Content — closeout-2: adjudications, jev filter, k-z sweep, triage)
+
+- Julian 2§69 verified closed (Rom 5:13 in JSON + DOCX; rebuild
+  byte-identical receipt; verify + PBB guards OK). Origen Celsus I s41 trim
+  REJECTED with quoted Greek (all 4 possibles stand, incl. Deut 18:15 via
+  ch.45 Moses parallel). Photius codex 1 Acts 17:34 KEEP clear (explicit
+  "from the Acts" + unique name; Jev possible ×2 overruled with evidence).
+- jev_sweep_all.py gained --glob (fnmatch on slug) + 3-case unittest
+  (scripts/test_jev_sweep_all.py); a-j re-sweep completed without dupes
+  (julian tail 38 merged, 1 transient 529 retried → AGREE).
+- k-z remainder swept: 2798 checked, 2062 agree, 736 mismatch, 0 errors,
+  3.18M in-tokens ≈ $0.05. Output jev-sweep-20260917-kz.jsonl (ignored).
+  736 flags await the next triage wave (top: lev-hom c→p 176, exo-hom
+  c→p 140, heraclides p→c 78).
+- Matthew-fragments numbering repaired (source sections positional 1-290;
+  phantom fr.1-9 → fr.201-209 both files; eng Mt labels 1:1/1:1/1:2/1:12;
+  38 fragments filled; labels-only diff, keys 290/290). All 457 old
+  verdicts were wrong-source joins → re-swept (429 agree, 28 flags).
+- Triage closed 223 flags with quoted evidence (per-flag ledger kept on
+  Mini at /tmp/triage_verdicts.md): 66 non-matthew (59 keep, 1 upgrade,
+  6 escalate) + 28 fresh matthew (22 keep, 6 upgrades). Upgrades applied
+  (verbatim + attribution formula, Greek-confirmed): thesaurus 2 Pet 2:1;
+  matthew Jer 23:29, Lev 19:32, Sir 5:12, Prov 18:21, Deut 32:11, Ps 88:5.
+- 3 probable stragglers the Sep-16 migration missed folded to possible
+  (origen-romans Hab 2:4 + Gen 15:6 — the handoff's own keeps; isaiah-
+  ezekiel Ezek 13:9). Corpus vocab now 0 non-vocab.
+- ESCALATED (evidence in ledger): parenthetical off-by-one rotation in
+  adoration/recta/matthew (links misplaced in live books; supervised
+  reposition + rebuild + re-sweep; rebuilds NOT blocked, no regression);
+  8 certainty judgment calls; 4 unfiled evidences; malformed Ps 18:2/Hab;
+  trinity summary-row scope; sweep windowing vs abbreviated refs.
+
 ## 2026-09-16 (Controller — full sweep landed: 4440 checked, migration committed)
 
 - Sweep DONE: 4440 judgments, 0 errors, ~85% agree. Cost about a dime of
