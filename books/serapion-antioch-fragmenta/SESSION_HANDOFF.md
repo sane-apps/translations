@@ -38,3 +38,12 @@ Follow `docs/SOP.md`.
 - TNs: 3→2.
 - **Logos gate: CLEAR for Air Personal Book backlog** after this strip (private study).
 - **Site:** KEEP live tip (Pass B already ok). Section HTML does not embed Headword TNs; no re-ship this turn (About/meta on live may still show older densify wording until a later packet rebuild).
+
+## 2026-09-17 (SerapionRe — stale-packet re-review, Mini)
+
+- **Cause:** English re-saved post-review (translator_notes cleanup); all 5 English paras + Greek byte-identical, row/file digests moved. Old packet f6abc79d stale.
+- **Review:** clause-by-clause vs locked Routh/HE 6.12 Greek; DjVu OCR + Eusebius HE 6.12 TEI cross-checked; Pass A!=B; Gal 4:14 filed clear upheld (Jev advisory possible@0.53 overruled by wording parallel; DOCX injects cite inline).
+- **Artifacts:** regenerated reviews/audit/serapion_fragmenta_tip.packet.json (e158eda9, lane tool only — no hand-edited hashes) + fresh serapion_fragmenta_tip.review.json.
+- **Gate:** validate_audit_receipt == [] (direct + CLI --receipt, exit 0); assert_tip_ready exit 0.
+- **Coordination gap:** serapion-fragmenta-densify is prepped (Owner); no free serapion slice exists, so no board take/mark was made rather than squat an unrelated free slice.
+- **Not touched:** _register_payload.json digests still reference old packet (no lane script owns that file); DOCX/Logos rebuild left for Air lane.
