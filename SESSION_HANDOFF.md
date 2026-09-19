@@ -1,3 +1,7 @@
+## 2026-09-19 (Grok — Origen Greek Psalms 1–4.4 LIVE)
+
+Parent landed 4.2–4.4 after the fire’s 4.1 and shipped the batch. Packet `63f09556`. Site SHIP OK: 57 treatises / 2863 sections. Live https://fathers.saneapps.com/works/origen-psalms-fragments-greek/ 13 titles through Psalm 4:4. Deploy `9b4c9dfa.fathers-site.pages.dev`. Visual 32/32 (artifact `261ba362`). Next lock header **4.5**. Photius 18–22 held. Cesti still 98.
+
 ## 2026-09-19 (Grok — Origen Greek Psalm 4.1 LANDED, not shipped)
 
 Work-session Mini renewed to 2026-09-20T04:05:01Z. Do not work_session_off. Health IDLE; no hung draft. Live still Psalms 1–3 (9 / HTTP 200). `draft_remaining.py --start 10 --limit 1`: CF 10 score-ok but Οʹ=ninth, ἄξιον ὅσῃ δύναμις as vocative, λογικῆς=logical, οὐχ ἓν τέλος inverted, βάσανος=trial, ὑπερνικῶμεν=overcome, Pass A a summary (not globbed). Supervisor wrote Pass A ≠ B from locked PG 12 (ratio 0.247). Local English 10 sections through Psalm 4 inscription / being-made-alive in Christ. Do not ship yet (GAP 1; need 3 chapters; visual is 32 images). Do not re-land 1–10. Held-scaffold not globbed. Photius 18–22 held. Cesti still 98. Next fire: lock header **4.2** (`--start 11 --limit 1`), then 4.3–4.8, then 5.1.
