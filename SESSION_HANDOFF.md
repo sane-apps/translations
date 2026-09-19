@@ -1,3 +1,7 @@
+## 2026-09-19 night (Grok — Cesti 7.17 vigil LANDED, not shipped)
+
+Work-session renewed Mini to 2026-09-19T17:54:12Z. Health IDLE; no hung draft. Live still 7.16 (27 sections / HTTP 200). Self-check ok. `draft_remaining.py --start 28 --limit 1`: SKIP 28 (crib on disk), CRIB 29 NV score-fail (A==B) exit 1. Supervisor rewrote 28–29 from locked PG 10; cribs not globbed; Pass A ≠ B (ratio 0.56/0.55); tip-ready ok. Local English now 29 sections through 7.17. Do not ship yet (need 3 chapters; visual is 32 images). Photius 18–22 held. Next fire: `--start 30 --limit 1` (1.18 elephants).
+
 ## 2026-09-19 (Grok — Cesti 7.4–7.14 LIVE; overnight continues 7.15+)
 
 Shipped Julius Africanus *Cesti* book 7 through 7.14 (military hunting). New English from locked PG 10 / remaining split sections 12–24; CF cribs not used; Pass A ≠ Pass B. Tip-ready OK. Packet `9d3ac30132ddea` + receipt, uncertainties []. Logos DOCX 24 sections / 0 Bible (honest; compile still held). Site SHIP OK: 56 treatises / 2776 sections. Deploy `ea39159c.fathers-site.pages.dev`, CSS `?v=f0f1afd6e7`. Live https://fathers.saneapps.com/works/africanus-cesti/ (200) H1 The Cesti, 24 thought titles, tip of book 7 (not the whole Cesti), no Lemma-led. Photius 18–22 stay held. Next: Cesti 7.15–7.20 (river/wall, sound, vigil, elephants, farming, missile seal) from split sections 25–37, then next oldest Ante-Nicene Rank-1.
@@ -7,9 +11,9 @@ Shipped Julius Africanus *Cesti* book 7 through 7.14 (military hunting). New Eng
 Proven loop is Jeremiah overnight: one unit, `run_bounded`/`claim_wall_s` exit 4, fail-fast, `fathers_overnight_health.py`, content-fail → next claim. Cesti uses the same rules (`docs/SUPERVISED_COMPUTE.md` Cesti overnight). Do not run a second 26-slice draft.
 
 **Tonight**
-1. Live now: Cesti book 7 through **7.16 theft of sound** (27 sections) after this ship.
-2. Remaining book 7, in order: 1.17 vigil (2) → 1.18 elephants (2) → 1.19 farming (6) → missile seal if present. Split sections **28–37**.
-3. Each fire: `draft_remaining.py --start N --limit 1` (90s wall, fail-fast). Supervisor Pass A≠B. Land 3–6 chapters, then packet + ship (visual is 32 images — do not ship every chapter).
+1. Live now: Cesti book 7 through **7.16 theft of sound** (27 sections). Local English through **7.17 vigil** (29 sections); not shipped.
+2. Remaining book 7, in order: 1.18 elephants (2) → 1.19 farming (6) → missile seal if present. Split sections **30–37**.
+3. Each fire: `draft_remaining.py --start N --limit 1` (90s wall, fail-fast). Supervisor Pass A≠B. Land 3–6 chapters, then packet + ship (visual is 32 images — do not ship every chapter). Next: `--start 30`.
 4. Hang watch: `~/.grok/long-running-background-tasks/watch_cesti_overnight.sh` (live 200, health HUNG, silent draft heartbeat, work-session expiry). Kill hung `draft_remaining.py`; do not retry unbounded.
 5. Photius 18–22 stay held. No origin push.
 
