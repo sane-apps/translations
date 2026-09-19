@@ -1,6 +1,8 @@
 ## 2026-09-19 (Grok — Cesti 3.33–3.36 LIVE; this lock's book 3 closed)
 
-Work-session renewed Mini to 2026-09-20T00:30:23Z. Health IDLE; hang watch on; no hung draft. Live was book 7 + 2 + 3.1–3.32 (82 / HTTP 200). Self-check ok. Sequential `--limit 1` drafts 83–86: CF score-ok but φρῦνος=mythical phrynon, ζʹ=6, θυίᾳ=incense, Κύκνος=Cygnus, δίεφθον=perish (not globbed). Supervisor wrote Pass A ≠ B from locked PG 10 (ratio 0.339/0.319/0.222/0.263). Tip-ready ok. Packet `6dc7df51`. DOCX 86 sections / 0 Bible (honest; compile held). Site SHIP OK: 56 treatises / 2838 sections. Deploy `c270d536.fathers-site.pages.dev`, CSS `?v=f0f1afd6e7`. Live https://fathers.saneapps.com/works/africanus-cesti/ (200) H1 The Cesti, 86 thought titles, tip through 3.36 pulse plaster that erases a horse's burnt brand, no Lemma-led. Visual: 32/32 ui-review PNGs inspected (artifact `f27dc151`) plus extra Cesti reader/s83/s86 shots in `outputs/visual-audit-africanus/`. Photius 18–22 held. This lock's book 3 is closed (no 3.20 in the lock). Do not re-ship 1–86. Do not invent a book-4 split; wait if one appears.
+Work-session renewed Mini to 2026-09-20T00:53:18Z (prior session had expired). Health IDLE; hang watch on; no hung draft. Live book 7 + 2 + 3.1–3.36 (86 / HTTP 200). Packet `6dc7df51`. Site SHIP OK: 56 treatises / 2838 sections. Live https://fathers.saneapps.com/works/africanus-cesti/ (200) H1 The Cesti, 86 thought titles through 3.36 brand-erasure plaster. Photius 18–22 held. This lock's book 3 is closed (no 3.20 in the lock). Do not re-ship 1–86.
+
+Same lock continues at **4.1 weights and measures** (offset 79922), then 8.2 and 9.1–9.5. Split on disk: `outputs/africanus-overnight/book4_remaining_split.json` sections 87–98. That is not invented. Next fire: `--split book4_remaining_split.json --start 87`.
 
 ## 2026-09-19 night (Grok — Cesti 3.29 LANDED, not shipped)
 
