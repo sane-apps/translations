@@ -18,10 +18,17 @@ Canonical path: `~/SaneApps/clients/translations/books/photius-bibliotheca/`
 ## State
 
 - Sources: locked (Greek copy-text + Freese PD English reference)
-- Translations: Pass A + Pass B for codices 1-10
+- Translations: Pass A + Pass B for codices 1-22
 - DOCX: built 2026-09-15; verify_docx OK; 10 sections, 3 Bible links, 25 TN notes
 - Logos Build: Air backlog after live ship
 - Site: publication-review registered; ship next
+
+## 2026-09-18 (Grok — densify 18-22)
+
+- Locked Bekker 1824 p.5 (IA `bibliothecaexrec00photuoft` leaf n16) for Codices 18-22: Fifth/Sixth/Seventh Councils, Philoponus On the Resurrection, Theodosius the Monk.
+- Free lanes: CF Qwen Pass A/B drafts; NV Nemotron (one 503, then OK); Gemini checker-C (ok / needs_fix / then 429). Supervisor revised all five against the Greek. Freese originality gate clean.
+- DOCX rebuilt: 22 sections, 1 Bible link, 54 TN, 0 footnotes; verify_docx + PBB OK.
+- Do not ship 18-22 until new scope/packet reviews. Live site stays at 1-17. Logos rebuild of this DOCX is still pending.
 
 ## 2026-09-15 (densify tip build + verify complete)
 

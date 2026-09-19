@@ -1,3 +1,9 @@
+## 2026-09-18 (Grok — pick up after Muse closeout-4; Photius 18-22)
+
+Muse closeout-4 is done on Mini: 23+5 Logos builds, 5 at-risk reviews, Photius 1-17 registered and live (55 treatises). Overnight CF/NV `no_progress` because the Jeremiah queue is empty; Gemini prep still ran. NV 503 on one call this session; Gemini 429 after two checker hits.
+
+Picked up densify at Photius 18-22 (Bekker 1824 p.5, IA leaf n16). Locked Greek from the page image. Free lanes drafted (CF Qwen + NV Nemotron); supervisor revised Pass A≠B against the Greek; Freese originality gate clean on all five. DOCX 22 sections, verify_docx + PBB OK. Do **not** ship 18-22 to the site until scope/packet reviews exist (live remains 1-17). Next: Photius 23-26 on the same Bekker page, or reviews for 18-22.
+
 ## 2026-09-17 (Content — closeout-2: adjudications, jev filter, k-z sweep, triage)
 
 - Julian 2§69 verified closed (Rom 5:13 in JSON + DOCX; rebuild
