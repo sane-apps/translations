@@ -7,8 +7,8 @@ Shipped Julius Africanus *Cesti* book 7 through 7.14 (military hunting). New Eng
 Proven loop is Jeremiah overnight: one unit, `run_bounded`/`claim_wall_s` exit 4, fail-fast, `fathers_overnight_health.py`, content-fail → next claim. Cesti uses the same rules (`docs/SUPERVISED_COMPUTE.md` Cesti overnight). Do not run a second 26-slice draft.
 
 **Tonight**
-1. Live now (this ship): Cesti book 7 through **7.14 military hunting** (24 sections).
-2. Remaining book 7, in order: 1.15 river/wall (2 chunks) → 1.16 sound → 1.17 vigil (2) → 1.18 elephants (2) → 1.19 farming (6) → missile seal. Split: `outputs/africanus-overnight/book7_remaining_split.json` sections **25–37**.
+1. Live now: Cesti book 7 through **7.16 theft of sound** (27 sections) after this ship.
+2. Remaining book 7, in order: 1.17 vigil (2) → 1.18 elephants (2) → 1.19 farming (6) → missile seal if present. Split sections **28–37**.
 3. Each fire: `draft_remaining.py --start N --limit 1` (90s wall, fail-fast). Supervisor Pass A≠B. Land 3–6 chapters, then packet + ship (visual is 32 images — do not ship every chapter).
 4. Hang watch: `~/.grok/long-running-background-tasks/watch_cesti_overnight.sh` (live 200, health HUNG, silent draft heartbeat, work-session expiry). Kill hung `draft_remaining.py`; do not retry unbounded.
 5. Photius 18–22 stay held. No origin push.
