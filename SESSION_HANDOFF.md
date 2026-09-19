@@ -1,3 +1,7 @@
+## 2026-09-19 (Grok — Cesti PG 10 lock EXHAUSTED live, 98 sections)
+
+Work-session Mini to 2026-09-20T02:25:40Z. Health IDLE; hang watch on. Live **98 / HTTP 200**. Packet `37a42465`. Site SHIP OK: 56 treatises / 2850 sections. Deploy `d05a3b54.fathers-site.pages.dev`. Live https://fathers.saneapps.com/works/africanus-cesti/ H1 The Cesti, 98 titles through 9.5 ripe grape. Identity books 7, 2, 3, 4, 8, 9, and 13. Visual 32/32 (artifact `d6d39ef7`). Photius 18–22 held. Logos compile held. This Khazarzar lock is exhausted. Do not invent the next split. Next oldest untranslated Ante-Nicene Rank-1 needs a real existing lock, not a new slug.
+
 ## 2026-09-19 (Grok — Cesti 9.1 chunk 1 LANDED, not shipped)
 
 Work-session renewed Mini to 2026-09-20T02:25:40Z. Health IDLE; hang watch on; no hung draft. Live still 92 (through 8.2 stypsis / HTTP 200). Self-check ok. `draft_remaining.py --split book4_remaining_split.json --start 93 --limit 1`: NV 93 usable but A==B score-fail (African knowledge, milking men, durian, leeks, gilding, squill, scorpion stings — not globbed). Supervisor wrote Pass A ≠ B from locked PG 10 (ratio 0.327). Tip-ready ok. Local English 93 sections through Psellus on Africanus’s paradoxes of generation, thieves, and farming. Lock dittography παιδοται unrestored. Do not ship yet (GAP 1; need 3 chapters; visual is 32 images). Do not re-ship 1–92. Do not re-land 87–93. Photius 18–22 held. Next fire: `--split book4_remaining_split.json --start 94 --limit 1` (9.1 continued). Remaining this lock: 94–98. Ship 93 with the next 2–5 chapters.
