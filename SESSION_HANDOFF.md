@@ -1,3 +1,11 @@
+## 2026-09-19 (Grok — authors chronological + BC/AD LIVE)
+
+Owner asked for authors earliest-first and BC/AD, never CE. Live https://fathers.saneapps.com/authors/ starts Clement of Rome fl. c. 96 AD, then Didache/Barnabas/Ignatius/Hermas/Justin; Irenaeus (c. 130–c. 202 AD) before Julius Africanus (c. 160–c. 240 AD). No CE/BCE on public HTML. Topic headings now suffix AD (Hermas fl. c. 140 AD). Site local commit `3cb3b77`. Deploy `12f8c612.fathers-site.pages.dev`. Visual 32/32 (artifact `962e76bc`). Origen psalms still 18 live through Psalm 5.1. Cesti still 98. Photius 18–22 held. Hang watch and 30m scheduler on. Next lock header **5.8** (`--start 19 --limit 1`). Do not work_session_off.
+
+## 2026-09-19 (Grok — Origen Greek Psalm 5.1 LANDED, not shipped)
+
+Work-session Mini renewed to 2026-09-20T05:04:51Z. Do not work_session_off. Health IDLE; no hung draft. Live still Psalms 1–4.8 (17 / HTTP 200). `draft_remaining.py --start 18 --limit 1`: CF 18 score-ok but κληρονομούσης=κληρονομίας, lemma mixed with the comment, Pass A a summary that invented a missing sigma (not globbed). Supervisor wrote Pass A ≠ B from locked PG 12 (ratio 0.286). Local English 18 sections through Psalm 5 inscription / Christ’s inheritance is the rational nature. Do not ship yet (GAP 1; need 3 chapters; visual is 32 images). Do not re-land 1–18. Held-scaffold not globbed. Photius 18–22 held. Cesti still 98. Next fire: lock header **5.8** (`--start 19 --limit 1`), then 5.9–5.13, then **6.2**.
+
 ## 2026-09-19 (Grok — Origen Greek Psalms 1–4.8 LIVE)
 
 Parent landed 4.6–4.8 after the fire’s 4.5 and shipped the batch. Packet `5ef64134`. Site SHIP OK: 57 treatises / 2867 sections. Live https://fathers.saneapps.com/works/origen-psalms-fragments-greek/ 17 titles through Psalm 4:8. Deploy `57cc5613.fathers-site.pages.dev`. Visual 32/32 (artifact `0e6bee62`). Next lock header **5.1**. Photius 18–22 held. Cesti still 98.
