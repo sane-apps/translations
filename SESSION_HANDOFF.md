@@ -1,3 +1,15 @@
+## 2026-09-19 (Grok — Origen Greek Psalms 1–5.10 LIVE)
+
+Hang watch woke on GAP 3. Parent packeted 1–21 (`d21d025c`) and shipped. Site SHIP OK: 57 treatises / 2871 sections. Live https://fathers.saneapps.com/works/origen-psalms-fragments-greek/ 21 titles through Psalm 5:10 opened tomb / dead works. Deploy `43263874.fathers-site.pages.dev`. Visual 32/32 (artifact `bd76092a`). Authors still earliest-first with BC/AD. Photius 18–22 held. Cesti still 98. LOCAL 21 LIVE 21 GAP 0. Next lock header **5.11**. Do not work_session_off.
+
+## 2026-09-19 (Grok — Origen Greek Psalm 5.9 LANDED, not shipped)
+
+Work-session Mini still on toward 2026-09-20T05:34:56Z. Do not work_session_off. Health IDLE. Live Psalms 1–5.1 (18 / HTTP 200). `draft_remaining.py --start 20 --limit 1`: CF 20 usable but A==B score-fail (προκοπῇ=cutting, διαβασκαίνοντες=passing through, νοητῶν=things, δηλονότι split as δη, ἕνεκα as ἐν ἐκα — not globbed). Supervisor wrote Pass A ≠ B from locked PG 12 (ratio 0.192). Local English 20 sections through Psalm 5:9 / intelligible enemies begrudge the soul’s progress. Do not ship yet (GAP 2; need 3 chapters; visual is 32 images). Do not re-land 1–20. Held-scaffold not globbed. Photius 18–22 held. Cesti still 98. Next fire: lock header **5.10** (`--start 21 --limit 1`).
+
+## 2026-09-19 (Grok — Origen Greek Psalm 5.8 LANDED, not shipped)
+
+Work-session Mini still on toward 2026-09-20T05:04:51Z. Do not work_session_off. Health IDLE. Live Psalms 1–5.1 (18 / HTTP 200). `draft_remaining.py --start 19 --limit 1`: NV 19 score-ok but OCR ἅγιόν read as Son, λύσατε=loose, φησίν=they say (not globbed). Supervisor wrote Pass A ≠ B from locked PG 12 (ratio 0.288). Local English 19 sections through Psalm 5:8 / holy temple is Christ. Do not ship yet (GAP 1; need 3 chapters; visual is 32 images). Do not re-land 1–19. Held-scaffold not globbed. Photius 18–22 held. Cesti still 98. Next fire: lock header **5.9** (`--start 20 --limit 1`). Authors chronology + BC/AD already live.
+
 ## 2026-09-19 (Grok — authors chronological + BC/AD LIVE)
 
 Owner asked for authors earliest-first and BC/AD, never CE. Live https://fathers.saneapps.com/authors/ starts Clement of Rome fl. c. 96 AD, then Didache/Barnabas/Ignatius/Hermas/Justin; Irenaeus (c. 130–c. 202 AD) before Julius Africanus (c. 160–c. 240 AD). No CE/BCE on public HTML. Topic headings now suffix AD (Hermas fl. c. 140 AD). Site local commit `3cb3b77`. Deploy `12f8c612.fathers-site.pages.dev`. Visual 32/32 (artifact `962e76bc`). Origen psalms still 18 live through Psalm 5.1. Cesti still 98. Photius 18–22 held. Hang watch and 30m scheduler on. Next lock header **5.8** (`--start 19 --limit 1`). Do not work_session_off.
