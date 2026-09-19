@@ -86,6 +86,18 @@ instead of working around it. End with a short report and wait for orders.
 - A run doing only tiny read-only tool calls for many minutes with nothing
   landing is stuck, not working. Stop it and re-brief smaller.
 
+## Cesti / Rank-1 overnight (same walls as Jeremiah)
+
+Jeremiah `overnight_quota.py` is the proven loop. Cesti uses the same rules, not a second burn:
+
+1. **One chapter (or at most three short ones) per fire.** `draft_remaining.py --limit 1` default. Never 20+ slices in one process.
+2. **Wall.** `install_wall_deadline` / `run_bounded` — exit 4 on hang. Health: `python3 scripts/fathers_overnight_health.py` (`--kill` only if the log is silent).
+3. **Fail-fast.** Empty JSON, choices-only objects, or missing `english[]` stop the run (exit 2). Score-fail stops the run (exit 1) so a supervisor rewrites that slice. Do not `--keep-going`.
+4. **Cribs are not reading English.** `outputs/africanus-overnight/drafts/` and `reviews/held-scaffold/` must not be globbed into `translations/`.
+5. **Content fail → next chapter.** Same as overnight `content_skips`: do not sit on one bad slice until morning.
+6. **Ship in batches**, not after every chapter (visual receipt is 32 images). Land 3–6 chapters, then packet + `ship.sh`.
+7. **Photius 18–22 stay held.** Do not append them to the 1–17 lock.
+
 ## Standing prohibitions
 
 These restate project rules where free-compute agents keep tripping:

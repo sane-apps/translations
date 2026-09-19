@@ -1,3 +1,14 @@
+## 2026-09-19 night plan (oversee — no morning hang)
+
+Proven loop is Jeremiah overnight: one unit, `run_bounded`/`claim_wall_s` exit 4, fail-fast, `fathers_overnight_health.py`, content-fail → next claim. Cesti uses the same rules (`docs/SUPERVISED_COMPUTE.md` Cesti overnight). Do not run a second 26-slice draft.
+
+**Tonight**
+1. Live now (this ship): Cesti book 7 through **7.14 military hunting** (24 sections).
+2. Remaining book 7, in order: 1.15 river/wall (2 chunks) → 1.16 sound → 1.17 vigil (2) → 1.18 elephants (2) → 1.19 farming (6) → missile seal. Split: `outputs/africanus-overnight/book7_remaining_split.json` sections **25–37**.
+3. Each fire: `draft_remaining.py --start N --limit 1` (90s wall, fail-fast). Supervisor Pass A≠B. Land 3–6 chapters, then packet + ship (visual is 32 images — do not ship every chapter).
+4. Hang watch: `~/.grok/long-running-background-tasks/watch_cesti_overnight.sh` (live 200, health HUNG, silent draft heartbeat, work-session expiry). Kill hung `draft_remaining.py`; do not retry unbounded.
+5. Photius 18–22 stay held. No origin push.
+
 ## 2026-09-19 (Grok — Cesti 7.1–7.3 LIVE; overnight continues 7.4+)
 
 Verified live then expanded Julius Africanus *Cesti* book 7. Photius 18–22 stay held (1–17 still 200; lock SHA for 1–17 unchanged). New English from locked PG 10: remainder of On arming, On the destruction of enemies, Athletic contest. Tip-ready OK. Packet `7df208b0c056` + receipt. Logos DOCX 11 sections / 0 Bible (honest; compile still held). Site SHIP OK: 56 treatises / 2763 sections. Live https://fathers.saneapps.com/works/africanus-cesti/ (200) H1 The Cesti, 11 thought titles, no Lemma-led. Next overnight: Cesti 7.4–7.20 (wound, horse chapters, hunting, river/wall, sound, vigil, elephants, farming, missile seal), then next oldest Ante-Nicene Rank-1. CF cribs for 12–37 exist under `outputs/africanus-overnight/drafts/` — many A==B or truncated; do not glob them. Do not ship Photius 18–22.
