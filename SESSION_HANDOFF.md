@@ -1,3 +1,7 @@
+## 2026-09-19 (Grok — Origen Greek Psalms 1–3 LIVE)
+
+Parent shipped leftover Psalm 3 (7–9) after the 30m fire landed without shipping. Packet `1c9207db`. Site SHIP OK: 57 treatises / 2859 sections. Live https://fathers.saneapps.com/works/origen-psalms-fragments-greek/ 9 titles through Psalm 3:8. Deploy `e3a4fd83.fathers-site.pages.dev`. Visual 32/32 (artifact `d22c4afd`). Next lock header **4.1**. Photius 18–22 held. Cesti still 98.
+
 ## 2026-09-19 (Grok — Origen Greek Psalm 3 LANDED, not shipped)
 
 Work-session Mini renewed to 2026-09-20T03:34:58Z. Do not work_session_off. Health IDLE; no hung draft. Live still Psalms 1–2 (6 / HTTP 200). `draft_remaining.py --start 7 --limit 1`: CF 7 usable but truncated/inverted (προκόπτοντες, ἐπιβάλλῃ, ὄρος as mouth, ὄμφαξ as blood — not globbed). Supervisor wrote Pass A ≠ B from locked PG 12 (ratio 0.51/0.51/0.67). Tip-ready ok. Local English 9 sections through Psalm 3:8 teeth of sinners. Do not ship yet (GAP 3 sections / 1 chapter; next fire packets + 32-PNG inspect + ship). Held-scaffold not globbed. Photius 18–22 held. Cesti still 98. Next fire: remaining `working/u01_rem_greek.txt` at 4.1, then u02.
