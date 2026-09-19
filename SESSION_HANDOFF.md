@@ -1,3 +1,7 @@
+## 2026-09-19 night (Grok — Cesti 3.21 LANDED, not shipped)
+
+Work-session renewed Mini to 2026-09-19T22:53:54Z. Health IDLE; hang watch on; no hung draft. Live book 7 + 2 + 3.1–3.19 (69 / HTTP 200). Self-check ok. `draft_remaining.py --split book3_remaining_split.json --start 70 --limit 1`: CF 70 score-ok but two/cumin/mix/laurels/rabid-dogs/new-wine (not globbed). Supervisor wrote Pass A ≠ B from locked PG 10 (ratio 0.350). Tip-ready ok. Local English 70 sections through 3.21 four-part rabies drench. Do not ship yet (need 3 chapters; visual is 32 images). Do not re-ship 1–69. Photius 18–22 held. Next fire: `--start 71 --limit 1` (3.22 asp bites).
+
 ## 2026-09-19 night (Grok — Cesti 3.16 LANDED, not shipped)
 
 Work-session renewed Mini to 2026-09-19T22:23:52Z. Health IDLE; hang watch on; no hung draft. Live book 7 + 2 + 3.1–3.15 (65 / HTTP 200). Self-check ok. `draft_remaining.py --split book3_remaining_split.json --start 66 --limit 1`: CF 66 score-ok but African-dog/wound/sponge/15-days/wool-omitted (not globbed). Supervisor wrote Pass A ≠ B from locked PG 10 (ratio 0.150). Tip-ready ok. Local English 66 sections through 3.16 dog-brain fracture. Do not ship yet (need 3 chapters; visual is 32 images). Photius 18–22 held. Next fire: `--start 67 --limit 1` (3.17 warts).
