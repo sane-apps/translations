@@ -1,3 +1,7 @@
+## 2026-09-19 night (Grok — Cesti 3.25 LANDED, not shipped)
+
+Work-session renewed Mini to 2026-09-19T23:25:39Z. Health IDLE; hang watch on; no hung draft. Live book 7 + 2 + 3.1–3.24 (73 / HTTP 200). Self-check ok. `draft_remaining.py --split book3_remaining_split.json --start 74 --limit 1`: CF 74 score-ok but vinegar=acid, plaster=shaped, Lemnian-earth-without-inflammation, second paragraph dropped Γῆ Λημνία (not globbed). Supervisor wrote Pass A ≠ B from locked PG 10 (ratio 0.277). Tip-ready ok. Local English 74 sections through 3.25 Lemnian earth vs venomous water-animals. Do not ship yet (need 3 chapters; visual is 32 images). Do not re-ship 1–73. Photius 18–22 held. Next fire: `--start 75 --limit 1` (3.26 prophylactic oil/marrow/wax).
+
 ## 2026-09-19 night (Grok — Cesti 3.21 LANDED, not shipped)
 
 Work-session renewed Mini to 2026-09-19T22:53:54Z. Health IDLE; hang watch on; no hung draft. Live book 7 + 2 + 3.1–3.19 (69 / HTTP 200). Self-check ok. `draft_remaining.py --split book3_remaining_split.json --start 70 --limit 1`: CF 70 score-ok but two/cumin/mix/laurels/rabid-dogs/new-wine (not globbed). Supervisor wrote Pass A ≠ B from locked PG 10 (ratio 0.350). Tip-ready ok. Local English 70 sections through 3.21 four-part rabies drench. Do not ship yet (need 3 chapters; visual is 32 images). Do not re-ship 1–69. Photius 18–22 held. Next fire: `--start 71 --limit 1` (3.22 asp bites).
