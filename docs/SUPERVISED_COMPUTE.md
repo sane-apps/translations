@@ -88,15 +88,38 @@ instead of working around it. End with a short report and wait for orders.
 
 ## Cesti / Rank-1 overnight (same walls as Jeremiah)
 
-Jeremiah `overnight_quota.py` is the proven loop. Cesti uses the same rules, not a second burn:
+Jeremiah `overnight_quota.py` is the proven loop. Cesti uses the same rules, not a second burn. The 2026-09-18/19 run proved this: live moved (book 7 → 2 → 3.36) only when the parent shipped leftover landings. Fires that land one chapter and stop are expected. A hang with nothing live in the morning is a failed overnight.
 
-1. **One chapter (or at most three short ones) per fire.** `draft_remaining.py --limit 1` default. Never 20+ slices in one process.
-2. **Wall.** `install_wall_deadline` / `run_bounded` — exit 4 on hang. Health: `python3 scripts/fathers_overnight_health.py` (`--kill` only if the log is silent).
-3. **Fail-fast.** Empty JSON, choices-only objects, or missing `english[]` stop the run (exit 2). Score-fail stops the run (exit 1) so a supervisor rewrites that slice. Do not `--keep-going`.
-4. **Cribs are not reading English.** `outputs/africanus-overnight/drafts/` and `reviews/held-scaffold/` must not be globbed into `translations/`.
-5. **Content fail → next chapter.** Same as overnight `content_skips`: do not sit on one bad slice until morning.
-6. **Ship in batches**, not after every chapter (visual receipt is 32 images). Land 3–6 chapters, then packet + `ship.sh`.
+### Roles (do not collapse into one 26-slice process)
+
+1. **30-minute scheduler** — renew the Mini work session, draft and land **one** chapter, skip on content fail. If local English is already 3+ ahead of live, **ship first**.
+2. **Hang watch** (`~/.grok/long-running-background-tasks/watch_cesti_overnight.sh`) — live HTTP 200, hung-process kill, stale `draft_remaining.py` heartbeat kill, work-session expiry, unshipped backlog ≥ 3. Stdout is only `ACTION_REQUIRED` / `FAILED` / `DONE`.
+3. **Parent (this session)** — ship leftover landings. Do not wait for the next fire if a batch is already on disk. Subagents must not `work_session_off`.
+
+### Per-fire steps
+
+1. `ruby ~/SaneApps/infra/SaneProcess/scripts/SaneMaster.rb work_session_on --host mini --hours 8`. Never `work_session_off` while overnight is live.
+2. `python3 scripts/fathers_overnight_health.py`. If `HUNG`, `--kill` then continue. If `draft_remaining.py` is already running, do not start another.
+3. `PYTHONPATH=. python3 outputs/africanus-overnight/overnight_status.py`. If `gap >= 3`, packet + 32-PNG inspect + `ship.sh` **before** drafting the next chapter.
+4. `PYTHONPATH=. python3 outputs/africanus-overnight/draft_remaining.py --self-check`
+5. `PYTHONPATH=. python3 outputs/africanus-overnight/draft_remaining.py --split outputs/africanus-overnight/book4_remaining_split.json --start <first-missing> --limit 1`
+   - Exit 2 empty/choices-only JSON, exit 1 score fail, exit 4 hang wall. Never `--keep-going`. Never 20+ slices.
+6. Supervisor-write Pass A ≠ Pass B from locked PG 10. Do not glob `outputs/africanus-overnight/drafts/` or `reviews/held-scaffold/` into `translations/`.
+7. Content fail → rewrite that slice or skip to the **next** chapter. Do not sit until morning.
+8. After 3–6 new chapters on disk (or when the lock slice ends): `register_packet.py`, `assert_tip_ready.py`, dry-run `ship.sh`, inspect every `outputs/ui-review` PNG, then `ship.sh --skip-build`. If live-byte check fails on `/` `/works/` `/data/search-index.json`, wait and re-run `check_links.py --live` (DYNAMIC cache lag). Local commit only. No origin push.
+
+### Walls (same as Jeremiah)
+
+1. **One chapter per fire.** `draft_remaining.py --limit 1` default.
+2. **90s wall.** `install_wall_deadline` / `run_bounded` — exit 4 on hang.
+3. **Fail-fast.** Empty JSON, choices-only objects, or missing `english[]` stop the run (exit 2). Score-fail stops the run (exit 1).
+4. **Cribs are not reading English.**
+5. **Content fail → next chapter.**
+6. **Ship in batches of 3–6**, not after every chapter (visual receipt is 32 images). Parent ships leftover local landings; do not leave morning with local 87 / live 86.
 7. **Photius 18–22 stay held.** Do not append them to the 1–17 lock.
+8. **Do not invent splits.** Use the lock at the next offset. Book 4.1 starts at PG 10 offset 79922 (`book4_remaining_split.json` 87–98). Section 90 contains Homeric/magic then Cestus 18 colophon and the start of Cestus 13 ch. 22 — do not title it as still 4.1 without cutting.
+9. **Logos compile stays held** while `verify_docx` reports 0 Bible links (honest).
+10. After this lock is exhausted (through 9.5 / section 98), next oldest untranslated Ante-Nicene Rank-1. Do not invent the next split.
 
 ## Standing prohibitions
 
