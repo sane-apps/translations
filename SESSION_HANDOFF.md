@@ -1,3 +1,11 @@
+## 2026-09-19 (Grok — Origen Greek Psalms 1–9.9 LIVE)
+
+Fire landed 9.1; parent supervisor-wrote 9.6 / 9.8 / 9.9 from locked PG 12. Hang watch woke on GAP 4; parent packeted 1–41 (`b407d130`) and shipped. SHIP OK: 57 treatises / 2891 sections. Live https://fathers.saneapps.com/works/origen-psalms-fragments-greek/ 41 titles through Psalm 9:9 inhabited world is the church. Deploy `2cdeef1f.fathers-site.pages.dev`. Visual 32/32 (artifact `6e96442d`). Authors earliest-first with BC/AD. Photius 18–22 held. Cesti still 98. LOCAL 41 LIVE 41 GAP 0. Next lock header **9.13**. Split has 9.13 and 9.14. Do not re-land 1–41. Do not work_session_off.
+
+## 2026-09-19 (Grok — Origen Greek Psalm 9.1 LANDED, not shipped)
+
+Work-session Mini on toward 2026-09-20T08:05:04Z. Do not work_session_off. Health IDLE; no hung draft. Live Psalms 1–8.6 (37 / HTTP 200). `draft_remaining.py --start 38 --limit 1`: CF 38 score-ok but A a summary; πρὸς αὐτὸν οὐ περὶ αὐτοῦ inverted; τῶν τελείων ἴδιον as prophet’s perfect nature; ἐπηρμέναις=guided; ἐν ὅλῃ as uncertain corruption; ᾄδεσθαι missed (not globbed). Supervisor wrote Pass A ≠ B from locked PG 12 (ratio 0.231). Tip-ready ok. Local English 38 sections through Psalm 9:1 / sung to him not about him. Split extended with lock headers **9.8** (section 40) and **9.9** (section 41) so 9.6 is not LOCK_DONE. Do not ship yet (GAP 1; need 3 chapters; visual is 32 images). Do not re-land 1–38. Held-scaffold not globbed. Photius 18–22 held. Cesti still 98. Next fire: lock header **9.6** (`--start 39 --limit 1`), then **9.8**. Jev not needed (inline quotes, no added_allusions).
+
 ## 2026-09-19 (Grok — Origen Greek Psalms 1–8.6 LIVE)
 
 Fire landed 8.1; parent supervisor-wrote 8.3 / 8.6 from locked PG 12. Hang watch woke on GAP 3; parent packeted 1–37 (`3369a09e`) and shipped. Live-byte DYNAMIC lag on / /works /search-index, but work page 37 titles after 20s. Site 57 treatises / 2887 sections. Live https://fathers.saneapps.com/works/origen-psalms-fragments-greek/ through Psalm 8:6 crown of man / incarnate economy. Deploy `9806e4b2.fathers-site.pages.dev`. Visual 32/32 (artifact `0a11c1b0`). Authors earliest-first with BC/AD. Photius 18–22 held. Cesti still 98. LOCAL 37 LIVE 37 GAP 0. Next lock header **9.1**. Split already has 9.1 and 9.6. Do not re-land 1–37. Do not work_session_off.
