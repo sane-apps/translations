@@ -1,3 +1,7 @@
+## 2026-09-19 night (Grok — Cesti book 7 CLOSED live)
+
+Shipped 7.19 remainder + 7.20 missile seal + colophon. Live 37 sections / 2789. Packet `ae38f015`. Appendix after colophon and book-2 pinax held. Next overnight: Cesti **book 2** from the same PG 10 lock (`outputs/africanus-overnight/book2_remaining_split.json`). Photius 18–22 held. Hang watch still on.
+
 ## 2026-09-19 night (Grok — Cesti 7.19 opening LIVE, farming 32–34)
 
 Work-session renewed Mini to 2026-09-19T18:23:51Z. Health IDLE; no hung draft. Live was 7.18 (31 / 2783). Self-check ok. Split 32–34 cribs were summaries (not globbed). Supervisor wrote Pass A ≠ B from locked PG 10 (ratio 0.65/0.62/0.59). Tip-ready ok. Packet `7dd263e0`. DOCX 34 sections / 0 Bible (honest; compile held). Site SHIP OK: 56 treatises / 2786 sections. Deploy `50e0c630.fathers-site.pages.dev`, CSS `?v=f0f1afd6e7`. Live https://fathers.saneapps.com/works/africanus-cesti/ (200) H1 The Cesti, 34 thought titles, tip through 7.19 wine/vinegar/oil/garum, no Lemma-led. Photius 18–22 held. Remaining farming split 35–37 then missile seal. Next fire: `--start 35 --limit 1`.
