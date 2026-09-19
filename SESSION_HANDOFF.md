@@ -1,3 +1,11 @@
+## 2026-09-19 (Grok — Origen Greek Psalms 1–9.36 LIVE)
+
+Fire landed 9.28,29; parent supervisor-wrote 9.30-32 / 9.33 / 9.34 / 9.36 from locked PG 12. Hang watch woke on GAP 5; parent packeted 1–51 (`a227afde`) and shipped. SHIP OK: 57 treatises / 2901 sections. Live https://fathers.saneapps.com/works/origen-psalms-fragments-greek/ 51 titles through Psalm 9:36 shatter the arm. Deploy `d43a2609.fathers-site.pages.dev`. Visual 32/32 (artifact `b916bab4`). Authors earliest-first with BC/AD. Photius 18–22 held. Cesti still 98. LOCAL 51 LIVE 51 GAP 0. Next lock header **9.37,38**, then **10.4**. Do not re-land 1–51. Do not work_session_off.
+
+## 2026-09-19 (Grok — Origen Greek Psalm 9.28,29 LANDED, not shipped)
+
+Work-session Mini on toward 2026-09-20T09:05:28Z. Do not work_session_off. Health IDLE; no hung draft. Live Psalms 1–9.18 (46 / HTTP 200). `draft_remaining.py --start 47 --limit 1`: CF 47 score-ok but Οὗ ἀρᾶς as ‘Do not restrain’; γέμει treated as corruption γέ μει; ἐγκάθηται lemma ἐγκαθίδρυμα (not globbed). Supervisor wrote Pass A ≠ B from locked PG 12 (ratio 0.225). Tip-ready ok. Local English 47 sections through Psalm 9:28-29 / mouth full of cursing / sinner sits in ambush. Split extended with lock headers **9.34** (50), **9.36** (51), **9.37,38** (52) so 9.33 is not LOCK_DONE. Do not ship yet (GAP 1; need 3 chapters; visual is 32 images). Do not re-land 1–46. Held-scaffold not globbed. Photius 18–22 held. Cesti still 98. Next fire: lock header **9.30-32** (`--start 48 --limit 1`), then **9.33**. Jev not needed (inline quotes, no added_allusions).
+
 ## 2026-09-19 (Grok — Origen Greek Psalms 1–9.18 LIVE)
 
 Fire landed 9.13; parent supervisor-wrote 9.14 / 9.16 / 9.17 / 9.18 from locked PG 12. Hang watch woke on GAP 5; parent packeted 1–46 (`fcb1ccac`) and shipped. SHIP OK: 57 treatises / 2896 sections. Live https://fathers.saneapps.com/works/origen-psalms-fragments-greek/ 46 titles through Psalm 9:18 sinners turned back into Hades to see Jesus’ soul. Deploy `97ebb7c7.fathers-site.pages.dev`. Visual 32/32 (artifact `bed5d034`). Authors earliest-first with BC/AD. Photius 18–22 held. Cesti still 98. LOCAL 46 LIVE 46 GAP 0. Next lock header **9.28,29**. Split has 9.30-32 and 9.33. Do not re-land 1–46. Do not work_session_off.
