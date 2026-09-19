@@ -1,3 +1,7 @@
+## 2026-09-19 night (Grok — Cesti 3.16 LANDED, not shipped)
+
+Work-session renewed Mini to 2026-09-19T22:23:52Z. Health IDLE; hang watch on; no hung draft. Live book 7 + 2 + 3.1–3.15 (65 / HTTP 200). Self-check ok. `draft_remaining.py --split book3_remaining_split.json --start 66 --limit 1`: CF 66 score-ok but African-dog/wound/sponge/15-days/wool-omitted (not globbed). Supervisor wrote Pass A ≠ B from locked PG 10 (ratio 0.150). Tip-ready ok. Local English 66 sections through 3.16 dog-brain fracture. Do not ship yet (need 3 chapters; visual is 32 images). Photius 18–22 held. Next fire: `--start 67 --limit 1` (3.17 warts).
+
 ## 2026-09-19 night (Grok — Cesti 3.12 LANDED, not shipped)
 
 Work-session renewed Mini to 2026-09-19T21:53:53Z. Health IDLE; hang watch on; no hung draft. Live book 7 + 2 + 3.1–3.11 (61 / HTTP 200). Self-check ok. `draft_remaining.py --split book3_remaining_split.json --start 62 --limit 1`: CF 62 score-ok but crowning/hand-made-echinus/mix (not globbed). Supervisor wrote Pass A ≠ B from locked PG 10 (ratio 0.255). Tip-ready ok. Local English 62 sections through 3.12 crow-fat dropsy drench. Do not ship yet (need 3 chapters; visual is 32 images). Photius 18–22 held. Next fire: `--start 63 --limit 1` (3.13 horse colors).
