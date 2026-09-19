@@ -1,3 +1,7 @@
+## 2026-09-19 night (Grok — Cesti 7.17–7.18 LIVE)
+
+Shipped vigil + elephants with the 7.16 tip. Live 31 sections / 2783. Packet `ab16352d`. Remaining: 7.19 farming (split 32–37). Photius 18–22 held. Hang watch still on. Next fire: `--start 32 --limit 1`.
+
 ## 2026-09-19 night (Grok — Cesti 7.17 vigil LANDED, not shipped)
 
 Work-session renewed Mini to 2026-09-19T17:54:12Z. Health IDLE; no hung draft. Live still 7.16 (27 sections / HTTP 200). Self-check ok. `draft_remaining.py --start 28 --limit 1`: SKIP 28 (crib on disk), CRIB 29 NV score-fail (A==B) exit 1. Supervisor rewrote 28–29 from locked PG 10; cribs not globbed; Pass A ≠ B (ratio 0.56/0.55); tip-ready ok. Local English now 29 sections through 7.17. Do not ship yet (need 3 chapters; visual is 32 images). Photius 18–22 held. Next fire: `--start 30 --limit 1` (1.18 elephants).
@@ -11,9 +15,9 @@ Shipped Julius Africanus *Cesti* book 7 through 7.14 (military hunting). New Eng
 Proven loop is Jeremiah overnight: one unit, `run_bounded`/`claim_wall_s` exit 4, fail-fast, `fathers_overnight_health.py`, content-fail → next claim. Cesti uses the same rules (`docs/SUPERVISED_COMPUTE.md` Cesti overnight). Do not run a second 26-slice draft.
 
 **Tonight**
-1. Live now: Cesti book 7 through **7.16 theft of sound** (27 sections). Local English through **7.17 vigil** (29 sections); not shipped.
-2. Remaining book 7, in order: 1.18 elephants (2) → 1.19 farming (6) → missile seal if present. Split sections **30–37**.
-3. Each fire: `draft_remaining.py --start N --limit 1` (90s wall, fail-fast). Supervisor Pass A≠B. Land 3–6 chapters, then packet + ship (visual is 32 images — do not ship every chapter). Next: `--start 30`.
+1. Live now: Cesti book 7 through **7.18 elephants** (31 sections / 2783).
+2. Remaining book 7: 1.19 farming paradoxes (split **32–37**) → missile seal if present.
+3. Each fire: `draft_remaining.py --start N --limit 1` (90s wall, fail-fast). Supervisor Pass A≠B. Land 3–6 chapters, then packet + ship. Next: `--start 32`.
 4. Hang watch: `~/.grok/long-running-background-tasks/watch_cesti_overnight.sh` (live 200, health HUNG, silent draft heartbeat, work-session expiry). Kill hung `draft_remaining.py`; do not retry unbounded.
 5. Photius 18–22 stay held. No origin push.
 
