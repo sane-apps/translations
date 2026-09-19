@@ -1,3 +1,7 @@
+## 2026-09-18 (Grok — Africanus Cesti tip LIVE; oldest untranslated Ante-Nicene)
+
+Charter is oldest-untranslated first. Julius Africanus *Cesti* was SERIES-CLOSEOUT in name only: every English row was Lemma-led / Rem scaffold. Replaced book-7 pinax + proem + On arming with new English from locked PG 10 Greek. tip-ready OK. Packet/receipt validate. Logos DOCX built (0 Bible links — honest; hold Logos compile). Site SHIP OK: 56 treatises / 2755 sections. Live https://fathers.saneapps.com/works/africanus-cesti/ (200). Photius 1-17 kept live; 18-22 drafts held in reviews/held-18-22 so the 1-17 lock SHA stays bound. Next overnight: remaining Cesti fragments (held-scaffold Greek), then next oldest Ante-Nicene.
+
 ## 2026-09-18 (Grok — pick up after Muse closeout-4; Photius 18-22)
 
 Muse closeout-4 is done on Mini: 23+5 Logos builds, 5 at-risk reviews, Photius 1-17 registered and live (55 treatises). Overnight CF/NV `no_progress` because the Jeremiah queue is empty; Gemini prep still ran. NV 503 on one call this session; Gemini 429 after two checker hits.

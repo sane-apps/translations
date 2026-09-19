@@ -1,4 +1,4 @@
-"""Build Photius: Bibliotheca (Myriobiblon) Logos Personal Book DOCX."""
+"""Build Julius Africanus Cesti Logos Personal Book DOCX."""
 from __future__ import annotations
 
 import json
@@ -17,64 +17,39 @@ from pipeline.docx_helpers import (
 )
 
 BOOK_DIR = Path(__file__).resolve().parent
-OUT_DOCX = BOOK_DIR / "photius-bibliotheca English.docx"
+OUT_DOCX = BOOK_DIR / "africanus-cesti.docx"
 RECEIPT = BOOK_DIR / "build_receipt.json"
 
-# Load all codex English files (Pass B)
-CODEX_FILES = [
-    "bibl_codex_1_english.json",
-    "bibl_codex_2_english.json",
-    "bibl_codex_3_english.json",
-    "bibl_codex_4_english.json",
-    "bibl_codex_5_english.json",
-    "bibl_codex_6_english.json",
-    "bibl_codex_7_english.json",
-    "bibl_codex_8_english.json",
-    "bibl_codex_9_english.json",
-    "bibl_codex_10_english.json",
-    "bibl_codex_11_english.json",
-    "bibl_codex_12_english.json",
-    "bibl_codex_13_english.json",
-    "bibl_codex_14_english.json",
-    "bibl_codex_15_english.json",
-    "bibl_codex_16_english.json",
-    "bibl_codex_17_english.json",
-]
+ENGLISH_FILE = "cesti_u01_open_english.json"
+SOURCE_FILE = "cesti_u01_open_source.json"
+META_FILE = "cesti_u01_open_meta.json"
 
 FRONT_MATTER = [
-    "New English rendering for private study, prepared with AI assistance from locked Greek (Bekker 1824). Freese 1920 (PD English, codices 1-165) used as reference only — not copied. No modern copyrighted translation has been copied.",
-    "Scope: tip densify — first 17 codices of 279 (Theodore on Dionysius through the Acts of Chalcedon).",
-    "Bible quotations and clear allusions are linked inline in the reading text. Possible connections stay as short captions. Translator notes use numbered Headword marks — Logos Personal Books do not compile Word footnotes.",
-    "Pass A ≠ Pass B. First English from Greek for these codices. True OET for these sections.",
+    "New English rendering for private study, prepared with AI assistance from locked Greek. No modern copyrighted translation has been copied.",
+    "Scope: tip of Julius Africanus, Cesti book 7 — table of contents, proem, and the chapter On arming. The rest of the surviving fragments are not in this volume.",
+    "Editorial note: Greek copy-text is PG 10 Cesti fragmenta (Khazarzar). No public-domain English of the Cesti body is known; ANF translates the letters only.",
+    "Translator notes use numbered Headword marks — Logos Personal Books do not compile Word footnotes.",
 ]
 
-# Logos-visible superscripts for TN headword links (not Word footnotes).
 _SUP = "⁰¹²³⁴⁵⁶⁷⁸⁹"
 _STOP = {
     "about", "after", "against", "almost", "already", "among", "because", "before",
     "being", "between", "chapter", "clear", "could", "echo", "echoes", "every",
     "first", "from", "further", "here", "into", "same", "saying", "shall", "should",
     "their", "there", "these", "those", "through", "under", "where", "which", "while",
-    "with", "would", "photius", "bibliotheca", "greek", "latin", "freese", "bekker",
-    "also", "than", "then", "that", "this", "they", "them", "have", "been", "were",
-    "when", "what", "your", "unto",
+    "with", "would", "greg", "ory", "greek", "latin", "lxx", "also", "than", "then", "that",
+    "this", "they", "them", "have", "been", "were", "when", "what", "your", "unto",
 }
-
 
 def tn_mark(n: int) -> str:
     return "".join(_SUP[int(ch)] for ch in str(n))
 
-
-def section_label(work_title: str, section, title: str | None = None) -> str:
-    if section == "proem":
-        base = f"{work_title}, proem"
-    else:
-        base = f"{work_title} {section}"
+def section_label(section: str, title: str | None = None) -> str:
+    base = f"Section {section}"
     titled = (title or "").strip()
     if titled:
         return f"{base} — {titled}"
     return base
-
 
 def _allusion_ref(raw) -> tuple[str, str, str]:
     if isinstance(raw, dict):
@@ -84,7 +59,6 @@ def _allusion_ref(raw) -> tuple[str, str, str]:
             (raw.get("reason") or "").strip(),
         )
     return (str(raw).strip(), "clear", "")
-
 
 def _ref_already_in(text: str, reference: str) -> bool:
     for m in REF.finditer(reference):
@@ -97,7 +71,6 @@ def _ref_already_in(text: str, reference: str) -> bool:
                 return True
     return False
 
-
 def _reason_words(reason: str) -> list[str]:
     words = [
         w.lower()
@@ -109,10 +82,8 @@ def _reason_words(reason: str) -> list[str]:
         words.extend(w for w in re.findall(r"[A-Za-z']{5,}", snippet) if w not in _STOP)
     return words
 
-
 def _insert_cite_before_punct(text: str, end: int, cite: str) -> str:
     return text[:end] + cite + text[end:]
-
 
 def _word_hit(word: str, haystack: str) -> bool:
     if word in haystack:
@@ -120,7 +91,6 @@ def _word_hit(word: str, haystack: str) -> bool:
     if len(word) >= 6 and word[:6] in haystack:
         return True
     return False
-
 
 def _inject_cite_in_paragraph(paragraph: str, reference: str, reason: str) -> str:
     cite = f" ({reference})"
@@ -140,8 +110,7 @@ def _inject_cite_in_paragraph(paragraph: str, reference: str, reason: str) -> st
             score += 0.5
         score += min(len(s), 120) / 2000.0
         if score > best_score:
-            best_score = score
-            best_clause = s
+            best_score, best_clause = score, s
 
     if best_clause is None or best_score < 1.0:
         end = len(paragraph)
@@ -182,7 +151,6 @@ def _inject_cite_in_paragraph(paragraph: str, reference: str, reason: str) -> st
         break
     return _insert_cite_before_punct(paragraph, end, cite)
 
-
 def inject_refs_into_paragraphs(paragraphs: list[str], allusions: list) -> tuple[list[str], list[dict]]:
     original = list(paragraphs)
     paras = list(paragraphs)
@@ -215,89 +183,103 @@ def inject_refs_into_paragraphs(paragraphs: list[str], allusions: list) -> tuple
 
     return paras, leftovers
 
-
 def main() -> None:
     doc = setup_document(
-        title="Photius: Bibliotheca (Myriobiblon) — Densify (Codices 1–17)",
-        author="Photius of Constantinople",
+        title="Julius Africanus: The Cesti (New English)",
+        author="Julius Africanus",
         subject="New English rendering for private Logos study",
-        keywords="Photius, Bibliotheca, Myriobiblon, Byzantine, codices",
+        keywords="Julius Africanus, Cesti, military encyclopedia",
     )
-    doc.add_paragraph("Photius: Bibliotheca (Myriobiblon)", style="Title")
-    doc.add_paragraph("A new English rendering for private study — Tip: Codices 1–17", style="Subtitle")
-    for para in FRONT_MATTER:
-        doc.add_paragraph(para)
-
     linker = BibleLinker()
+    doc.add_paragraph("Julius Africanus: The Cesti", style="Title")
+    doc.add_paragraph("A new English rendering for private study", style="Subtitle")
+    for para in FRONT_MATTER:
+        doc.add_paragraph(linker.bible_text(para, key="front", label="Front matter"))
+
+    meta_path = BOOK_DIR / "translations" / META_FILE
+    edition_line = "Edition TBD"
+    first_english = False
+    first_english_note = "No complete English of the Cesti body is known; ANF has the letters only."
+    if meta_path.exists():
+        meta = json.loads(meta_path.read_text())
+        edition_line = meta.get("edition") or edition_line
+        first_english = bool(meta.get("first_english", False))
+        first_english_note = meta.get("first_english_note") or first_english_note
+
     bookmarks = BookmarkStore()
     tn_records: list[dict] = []
     records: list[dict] = []
 
-    add_heading_with_headword(doc, bookmarks, "Bibliotheca (Myriobiblon) — Codices 1–17", 1, "bibl-work")
-    doc.add_paragraph("Photius of Constantinople, 9th century. Greek locked from Bekker 1824 / PG 103.", style="Caption")
+    path = BOOK_DIR / "translations" / ENGLISH_FILE
+    if not path.exists():
+        raise SystemExit(f"no English JSON yet — translate first ({ENGLISH_FILE})")
+    entries = json.loads(path.read_text())
+    if not entries:
+        raise SystemExit("empty English JSON")
 
-    for fname in CODEX_FILES:
-        path = BOOK_DIR / "translations" / fname
-        if not path.exists():
-            continue
-        entries = json.loads(path.read_text())
-        if not entries:
-            continue
-        for entry in entries:
-            codex = entry["codex"]
-            label = section_label("Codex", codex, entry.get("title"))
-            key = f"bibl-{codex}"
-            add_heading_with_headword(doc, bookmarks, label, 2, key)
+    src_path = BOOK_DIR / "translations" / SOURCE_FILE
+    src_map: dict[str, dict] = {}
+    if src_path.exists():
+        src_rows = json.loads(src_path.read_text())
+        src_map = {str(s.get("section")): s for s in src_rows if isinstance(s, dict)}
 
-            enriched, possible = inject_refs_into_paragraphs(
-                list(entry.get("english") or []),
-                entry.get("added_allusions") or [],
-            )
-            n_paras = 0
-            for para in enriched:
-                linked = linker.bible_text(para, key=key, label=label)
-                doc.add_paragraph(linked)
-                n_paras += 1
+    add_heading_with_headword(doc, bookmarks, "The Cesti", 1, "africanus-cesti-work")
+    doc.add_paragraph(edition_line, style="Caption")
 
-            # Translator notes → Headword TN marks
-            notes = [n.strip() for n in (entry.get("translator_notes") or []) if (n or "").strip()]
-            if notes and n_paras:
-                marks = []
-                for note in notes:
-                    n = len(tn_records) + 1
-                    hw = f"TN {n}"
-                    mark = tn_mark(n)
-                    marks.append(f"[[{mark} >> Headword:{hw}]]")
-                    tn_records.append(
-                        {
-                            "n": n,
-                            "headword": hw,
-                            "note": note,
-                            "citation": label,
-                            "excerpt_id": key,
-                        }
-                    )
-                doc.add_paragraph(" ".join(marks))
+    for entry in entries:
+        section = entry["section"]
+        label = section_label(section, entry.get("title"))
+        key = f"africanus-{section}"
+        add_heading_with_headword(doc, bookmarks, label, 2, key)
 
-            for a in possible:
-                reason = a.get("reason") or ""
-                line = f"Possible allusion: {a['reference']}"
-                if reason:
-                    line += f" — {reason}"
-                doc.add_paragraph(
-                    linker.bible_text(line, key=key, label=label, note=True),
-                    style="Caption",
+        enriched, possible = inject_refs_into_paragraphs(
+            list(entry.get("english") or []),
+            entry.get("added_allusions") or [],
+        )
+        n_paras = 0
+        for para in enriched:
+            linked = linker.bible_text(para, key=key, label=label)
+            doc.add_paragraph(linked)
+            n_paras += 1
+
+        notes = [n.strip() for n in (entry.get("translator_notes") or []) if (n or "").strip()]
+        if notes and n_paras:
+            marks = []
+            for note in notes:
+                n = len(tn_records) + 1
+                hw = f"TN {n}"
+                mark = tn_mark(n)
+                marks.append(f"[[{mark} >> Headword:{hw}]]")
+                tn_records.append(
+                    {
+                        "n": n,
+                        "headword": hw,
+                        "note": note,
+                        "citation": label,
+                        "excerpt_id": key,
+                    }
                 )
+            doc.add_paragraph(" ".join(marks))
 
-            records.append(
-                {"key": key, "label": label, "paragraphs": n_paras, "source": fname}
+        for a in possible:
+            reason = a.get("reason") or ""
+            line = f"Possible allusion: {a['reference']}"
+            if reason:
+                line += f" — {reason}"
+            doc.add_paragraph(
+                linker.bible_text(line, key=key, label=label, note=True),
+                style="Caption",
             )
+
+        records.append(
+            {"key": key, "label": label, "paragraphs": n_paras, "source": ENGLISH_FILE}
+        )
 
     if tn_records:
         add_heading_with_headword(doc, bookmarks, "Translator notes", 1, "translation_notes")
         doc.add_paragraph(
             "Numbered marks in the chapters open these notes. They flag lacunae, "
-            "wording choices, and rough passages — not Photius's text."
+            "wording choices, and rough passages — not Africanus's text."
         )
         for rec in tn_records:
             hw = rec["headword"]
@@ -308,11 +290,8 @@ def main() -> None:
     assert_internal_links(doc, bookmarks.ids)
     doc.save(OUT_DOCX)
 
-    if not records:
-        raise SystemExit("no English JSON yet — translate first")
-
     receipt = {
-        "title": "Photius: Bibliotheca (Myriobiblon) — Tip (Codices 1–17)",
+        "title": "Julius Africanus: The Cesti (New English)",
         "section_count": len(records),
         "paragraph_count": sum(r["paragraphs"] for r in records),
         "bookmark_count": len(bookmarks.ids),
@@ -327,7 +306,6 @@ def main() -> None:
         f"wrote {OUT_DOCX.name}: {len(records)} sections, "
         f"{len(linker.link_receipts)} bible links, {len(tn_records)} TN notes"
     )
-
 
 if __name__ == "__main__":
     main()
