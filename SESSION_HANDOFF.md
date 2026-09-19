@@ -1,3 +1,7 @@
+## 2026-09-19 night (Grok — Cesti 3.29 LANDED, not shipped)
+
+Work-session renewed Mini to 2026-09-19T23:54:03Z. Health IDLE; hang watch on; no hung draft. Live book 7 + 2 + 3.1–3.28 (77 / HTTP 200). Self-check ok. `draft_remaining.py --split book3_remaining_split.json --start 78 --limit 1`: CF 78 score-ok but hornets=beetles, tenthrēdones=centipedes, mallow=malachite, sisymbrium=sycamore, coriander=dust, dung=bulbit, wild-cucumber=rue, galbanum=chalybeate, sage=beeswax (not globbed). Supervisor wrote Pass A ≠ B from locked PG 10 (ratio 0.335). Tip-ready ok. Local English 78 sections through 3.29 laurel plaster and hive-smoke against bees and wasps. Do not ship yet (need 3 chapters; visual is 32 images). Do not re-ship 1–77. Photius 18–22 held. Next fire: `--start 79 --limit 1` (3.30 dipsas).
+
 ## 2026-09-19 night (Grok — Cesti 3.25 LANDED, not shipped)
 
 Work-session renewed Mini to 2026-09-19T23:25:39Z. Health IDLE; hang watch on; no hung draft. Live book 7 + 2 + 3.1–3.24 (73 / HTTP 200). Self-check ok. `draft_remaining.py --split book3_remaining_split.json --start 74 --limit 1`: CF 74 score-ok but vinegar=acid, plaster=shaped, Lemnian-earth-without-inflammation, second paragraph dropped Γῆ Λημνία (not globbed). Supervisor wrote Pass A ≠ B from locked PG 10 (ratio 0.277). Tip-ready ok. Local English 74 sections through 3.25 Lemnian earth vs venomous water-animals. Do not ship yet (need 3 chapters; visual is 32 images). Do not re-ship 1–73. Photius 18–22 held. Next fire: `--start 75 --limit 1` (3.26 prophylactic oil/marrow/wax).
