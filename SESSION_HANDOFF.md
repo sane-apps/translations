@@ -1,3 +1,7 @@
+## 2026-09-19 night (Grok — Cesti 2.5 LANDED, not shipped)
+
+Work-session renewed Mini to 2026-09-19T19:23:56Z. Health IDLE; hang watch on; no hung draft. Live still book 7 + 2.1–2.4 (41 / HTTP 200). Self-check ok. `draft_remaining.py --split book2_remaining_split.json --start 42 --limit 1`: CRIB 42 CF truncated/wrong (τιθύμαλλος=wool, ἔχις=scorpion, ἀσπίς=shield — not globbed). Supervisor wrote Pass A ≠ B from locked PG 10 (ratio 0.577). Tip-ready ok. Local English 42 sections through 2.5 palisade-spurge arrow-salve. Do not ship yet (need 3 chapters; visual is 32 images). Photius 18–22 held. Next fire: `--start 43 --limit 1` (2.6 soldiers' health).
+
 ## 2026-09-19 night (Grok — Cesti 2.1 LANDED, not shipped)
 
 Work-session renewed Mini to 2026-09-19T18:53:51Z. Health IDLE; hang watch on; no hung draft. Live still book 7 colophon (37 / HTTP 200). Self-check ok. `draft_remaining.py --split book2_remaining_split.json --start 38 --limit 1`: OK 38 CF crib (Ζηλωτὸς=Zealot, ὄξος=sour — not globbed). Supervisor wrote Pass A ≠ B from locked PG 10 (ratio 0.504). Tip-ready ok. Local English 38 sections through 2.1. Do not ship yet (need 3 chapters; visual is 32 images). Photius 18–22 held. Next fire: `--start 39 --limit 1` (2.2 field destruction).
