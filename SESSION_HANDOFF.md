@@ -14,6 +14,10 @@ Work-session renewed Mini to 2026-09-19T19:23:56Z. Health IDLE; hang watch on; n
 
 Work-session renewed Mini to 2026-09-19T18:53:51Z. Health IDLE; hang watch on; no hung draft. Live still book 7 colophon (37 / HTTP 200). Self-check ok. `draft_remaining.py --split book2_remaining_split.json --start 38 --limit 1`: OK 38 CF crib (Ζηλωτὸς=Zealot, ὄξος=sour — not globbed). Supervisor wrote Pass A ≠ B from locked PG 10 (ratio 0.504). Tip-ready ok. Local English 38 sections through 2.1. Do not ship yet (need 3 chapters; visual is 32 images). Photius 18–22 held. Next fire: `--start 39 --limit 1` (2.2 field destruction).
 
+## 2026-09-19 night (Grok — Cesti 3.1–3.3 LIVE)
+
+Shipped hedgehog-liver, swallow-herb/ivy collyria, east-facing foal. Live 53 sections / 2805. Next: 3.4 (split 54). Photius 18–22 held. Hang watch on.
+
 ## 2026-09-19 night (Grok — Cesti book 2 CLOSED live)
 
 Shipped 2.9–2.12. Live 49 sections / 2801 through hunt of hearing. Next: book 3 (`book3_remaining_split.json` sections 50–86, 3.1–3.36). Photius 18–22 held. Hang watch on.
