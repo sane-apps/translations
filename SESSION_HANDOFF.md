@@ -1,3 +1,11 @@
+## 2026-09-19 night (Grok — Cesti 2.1 LANDED, not shipped)
+
+Work-session renewed Mini to 2026-09-19T18:53:51Z. Health IDLE; hang watch on; no hung draft. Live still book 7 colophon (37 / HTTP 200). Self-check ok. `draft_remaining.py --split book2_remaining_split.json --start 38 --limit 1`: OK 38 CF crib (Ζηλωτὸς=Zealot, ὄξος=sour — not globbed). Supervisor wrote Pass A ≠ B from locked PG 10 (ratio 0.504). Tip-ready ok. Local English 38 sections through 2.1. Do not ship yet (need 3 chapters; visual is 32 images). Photius 18–22 held. Next fire: `--start 39 --limit 1` (2.2 field destruction).
+
+## 2026-09-19 night (Grok — Cesti 2.1–2.4 LIVE)
+
+Shipped book 2 opening with book 7: sleeping-wine, fields, trees, horses. Live 41 sections / 2793. Packet `ba0aafaa`. Next: 2.5 arrow-salve (split 42). Photius 18–22 held. Hang watch on.
+
 ## 2026-09-19 night (Grok — Cesti book 7 CLOSED live)
 
 Shipped 7.19 remainder + 7.20 missile seal + colophon. Live 37 sections / 2789. Packet `ae38f015`. Appendix after colophon and book-2 pinax held. Next overnight: Cesti **book 2** from the same PG 10 lock (`outputs/africanus-overnight/book2_remaining_split.json`). Photius 18–22 held. Hang watch still on.
