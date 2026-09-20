@@ -1,3 +1,7 @@
+## 2026-09-20 (Grok — Origen Greek Psalms 1–19.3,4 LIVE)
+
+30m fire drafted 18.12 (`--start 84 --limit 1`): CF 84 score-ok but lemma split; ἀληθινὰ as adverbs; μελλομένων as ‘those about God’; wrong Bible allusion — not globbed. Supervisor wrote Pass A ≠ B from locked PG 12 (ratio 0.276) and leftover 18.13,14 / 19.3,4 (0.191 / 0.149). Packet `fe7a422f`. Tip-ready ok. 32/32 PNGs inspected (artifact `216f7528`). `ship.sh --skip-build` SHIP OK: 57 treatises / 2936 sections. Live https://fathers.saneapps.com/works/origen-psalms-fragments-greek/ HTTP 200, H1 Fragments on the Psalms (Greek), 86 titles through Psalm 19:3-4 whole-burnt-offering fattened by the Spirit. Deploy `30e168cb.fathers-site.pages.dev` (live-byte check 0 failed). CSS `?v=795fb67ec6`. Authors earliest-first with BC/AD, no CE. Photius 18–22 held. Cesti still 98. Split extended with **19.8**. Do not re-land 1–86. Held-scaffold not globbed. Do not work_session_off. Next lock header **19.8**. Jev not needed (inline quotes, no added_allusions).
+
 ## 2026-09-20 (Grok — Origen Greek Psalms 1–18.10 LIVE)
 
 Parent kept landing after GAP 0 so the page would not sit idle: 18.3-4 / 18.6 / 18.8 / 18.10 from locked PG 12. Packet `ec1eff97`. SHIP OK: 57 treatises / 2933 sections. Live https://fathers.saneapps.com/works/origen-psalms-fragments-greek/ 83 titles through Psalm 18:10 judgments true. Deploy `3857d26a.fathers-site.pages.dev`. Visual 32/32 (artifact `309f5e27`). Next lock header **18.12**. Do not re-land 1–83. Do not work_session_off.
