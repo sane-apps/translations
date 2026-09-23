@@ -1,3 +1,379 @@
+## 2026-09-23 — Strimesius HEXAS Coena Annotatio VI §.VIII densify BOUND (Mini; not shipped)
+
+- Before: **734** → After: **742**; packet `hexas_coena_annotatio_vi_sviii_densify`
+- Added: Annotatio VI §.VIII (Ex omnibus / Annotatio VI close)
+- **HEXAS De Coena Domini Annotatio VI CLOSED**
+- Next Hexas: Annotationum Prior / Annotatio I De Providentia Dei
+- Punch X: **NO**; parent commits tip eng
+- Gates: check_pass_ab / assert_tip_ready / validate_audit_receipt ok
+- Live: tip-734 cleared (57/5955); tip re-read 734 before append
+- Titles: §735 Annotatio VI §.VIII open: Ex omnibus — Supper di; §736 Annotatio VI §.VIII: no dissent on substantial p; §737 Annotatio VI §.VIII: fight is only Oral/Corporal; §738 Annotatio VI §.VIII: not means of salvation but ; §739 Annotatio VI §.VIII: Reformed need not ‘return’ ; §740 Annotatio VI §.VIII: drop contradictory/unreveal; §741 Annotatio VI §.VIII: convert conditional to abso; §742 Annotatio VI §.VIII close: fortify Evangelic con
+- Next: HEXAS Annotationum Prior / Annotatio I De Providentia Dei (post Lutherum Controversies; an Deus auctor peccati?) ~4–8 after clear
+- Hold: until live **>5955** OR 12m
+- Claim stays **claimed**
+
+## 2026-09-23 — Strimesius HEXAS Coena Annotatio VI §.VII densify BOUND (Mini; not shipped)
+
+- Before: **727** → After: **734**; packet `hexas_coena_annotatio_vi_svii_densify`
+- Added: Annotatio VI §.VII (Wittenberger fundamentality; Paul on panem Domini)
+- Stopped before §.VIII (Ex omnibus wrap)
+- Punch X: **NO**; parent commits tip eng
+- Gates: check_pass_ab / assert_tip_ready / validate_audit_receipt ok
+- Live: tip-727 cleared (57/5926); tip re-read 727 before append
+- Titles: §728 Annotatio VI §.VII open: Wittenberger — Indigni ; §729 Annotatio VI §.VII: is spiritual presence mere i; §730 Annotatio VI §.VII: presence common to unfaithfu; §731 Annotatio VI §.VII press: if Indignorum doctrine; §732 Annotatio VI §.VII reply: Paul never teaches Imp; §733 Annotatio VI §.VII: Indigni eat panem Domini (br; §734 Annotatio VI §.VII close: that head confirms pre
+- Next: HEXAS De Coena Domini Annotatio VI §.VIII (Ex omnibus / Protestant Supper dissent not of such weight; Annotatio VI close; then next Hexas locus) ~4–8 after clear
+- Hold: until live **>5926** OR 12m
+- Claim stays **claimed**
+
+## 2026-09-23 — Strimesius HEXAS Coena Annotatio VI §.VI densify BOUND (Mini; not shipped)
+
+- Before: **719** → After: **727**; packet `hexas_coena_annotatio_vi_svi_densify`
+- Added: Annotatio VI §.VI (objections for Impious Oral through Concord 1536)
+- Stopped before §.VII
+- Punch X: **NO**; parent commits tip eng
+- Gates: check_pass_ab / assert_tip_ready / validate_audit_receipt ok
+- Live: tip-719 cleared (57/5896); tip re-read 719 before append
+- Titles: §720 Annotatio VI §.VI open: four objections + biblic; §721 Annotatio VI §.VI biblical: 1 Cor 11 guilty→eat ; §722 Annotatio VI §.VI (2): sacrament integrity if Or; §723 Annotatio VI §.VI press: Luther Major Catechism ; §724 Annotatio VI §.VI reply: sacraments restricted e; §725 Annotatio VI §.VI (3): crucified for all → eaten; §726 Annotatio VI §.VI (4): Wittenberg Concord 1536 —; §727 Annotatio VI §.VI close: Concord = sacrament/exh
+- Next: HEXAS De Coena Domini Annotatio VI §.VII (Wittenberger: necessity/fundamentality of corporal Indigni eating; then §.VIII+/Annotatio close) ~4–8 after clear
+- Hold: until live **>5896** OR 12m
+- Claim stays **claimed**
+
+## 2026-09-23 — Strimesius HEXAS Coena Annotatio VI §.V densify BOUND (Mini; not shipped)
+
+- Before: **711** → After: **719**; packet `hexas_coena_annotatio_vi_sv_densify`
+- Added: Annotatio VI §.V Classis III Rationativa (spiritual food; Impious nature)
+- Stopped before §.VI (objections for Impious Oral)
+- Punch X: **NO**; parent commits tip eng
+- Gates: check_pass_ab / assert_tip_ready / validate_audit_receipt ok
+- Live: tip-711 cleared (57/5866); tip re-read 711 before append
+- Titles: §712 Annotatio VI §.V open: Classis III Rationativa —; §713 Annotatio VI §.V (1): Impious lack supernatural ; §714 Annotatio VI §.V (1): spiritual food nourishes f; §715 Annotatio VI §.V AD PRIUS: Edite/Hoc — bread (Lu; §716 Annotatio VI §.V instantia: Edite may cover brea; §717 Annotatio VI §.V AD POSTERIUS: Word/Baptism need; §718 Annotatio VI §.V (2a): Impious resist grace-incr; §719 Annotatio VI §.V close (2b–c): against mandate; 
+- Next: HEXAS De Coena Domini Annotatio VI §.VI (objections for Impious Oral: sacrament nature / crucified body / Reformed concession / Wittenberg; then §.VII+) ~4–8 after clear
+- Hold: until live **>5866** OR 12m
+- Claim stays **claimed**
+
+## 2026-09-23 — Strimesius HEXAS Coena Annotatio VI §.IV densify BOUND (Mini; not shipped)
+
+- Before: **705** → After: **711**; packet `hexas_coena_annotatio_vi_siv_densify`
+- Added: Annotatio VI §.IV (patristic metonymy / Picherellus)
+- Stopped before §.V (Classis III Rationativa) — §.IV was a full ~6-locus slice
+- Punch X: **NO**; parent commits tip eng
+- Gates: check_pass_ab / assert_tip_ready / validate_audit_receipt ok
+- Live: tip-705 cleared (57/5838); tip re-read 705 before append
+- Titles: §706 Annotatio VI §.IV open: Fathers seem to give Ind; §707 Annotatio VI §.IV: Picherellus — metonymic speec; §708 Annotatio VI §.IV: seeming proof from Fathers — ; §709 Annotatio VI §.IV: Augustine’s own glosses — sac; §710 Annotatio VI §.IV: Ad Inquis. Januarii — sacrame; §711 Annotatio VI §.IV close: other Fathers same; Pic
+- Next: HEXAS De Coena Domini Annotatio VI §.V (Classis III Rationativa / spiritual food; then §.VI+) ~4–8 after clear
+- Hold: until live **>5838** OR 12m
+- Claim stays **claimed**
+
+## 2026-09-23 — Strimesius HEXAS Coena Annotatio VI §.III densify BOUND (Mini; not shipped)
+
+- Before: **698** → After: **705**; packet `hexas_coena_annotatio_vi_siii_densify`
+- Added: Annotatio VI §.III Classis II Patristica (Augustine–Bernard)
+- Stopped before §.IV (metonymy / Picherellus)
+- Punch X: **NO**; parent commits tip eng
+- Gates: check_pass_ab / assert_tip_ready / validate_audit_receipt ok
+- Live: tip-698 cleared (57/5809); tip re-read 698 before append
+- Titles: §699 Annotatio VI §.III open: Classis II Patristica —; §700 Annotatio VI §.III (1): Augustine — Peter panem ; §701 Annotatio VI §.III (1): Scultetus — Judas ate br; §702 Annotatio VI §.III (2): Augustine/Jerome/Origen ; §703 Annotatio VI §.III (2): Paschasius — repeatedly ; §704 Annotatio VI §.III (3): Augustine/Zeno — outside; §705 Annotatio VI §.III close: Bernard — res sacramen
+- Next: HEXAS De Coena Domini Annotatio VI §.IV (patristic metonymy / Picherellus; then §.V Classis III Rationativa) ~4–8 after clear
+- Hold: until live **>5809** OR 12m
+- Claim stays **claimed**
+
+## 2026-09-23 — Strimesius HEXAS Coena Annotatio VI §.II densify BOUND (Mini; not shipped)
+
+- Before: **691 passages**
+- After: **698 passages**
+- Pass A≠B; OUR; packet `hexas_coena_annotatio_vi_sii_densify`; sections 1–691 unchanged
+- Added: HEXAS De Coena Domini Annotatio VI §.II (Classis I Judas / 1 Cor / Jn 6)
+- Fresh PDF: `sources/strimesius_1708_hexades_annotatio_v_coena_pp485_540_pdftotext.txt`
+- Stopped before Annotatio VI §.III (Patristica)
+- Punch X: **NO**; Ship: **NO** (parent commits tip eng)
+- Honest partial: yes (closes §.II Classis I; §.III+ remain)
+- Gates: check_pass_ab ok; assert_tip_ready ok; validate_audit_receipt ok
+- Live: tip-691 hold cleared (live 57/5780); tip re-read 691 before append
+- Titles: §692 Annotatio VI §.II open: Reformed assertion — thr; §693 Annotatio VI §.II Classis I.1: Judas at institut; §694 Annotatio VI §.II Classis I.1 cont.: same block ; §695 Annotatio VI §.II Classis I.2: 1 Cor 10:21 — dem; §696 Annotatio VI §.II Classis I.3: 1 Cor 11 temporal; §697 Annotatio VI §.II Classis I.3: flesh vivifies / ; §698 Annotatio VI §.II close: Scripture ignores corpo
+- Next locus: HEXAS De Coena Domini Annotatio VI §.III (Classis II Patristica: Augustine/Scultetus/Hieronymus/Origen; then §.IV+) ~4–8 after clear
+- Hold after tip-ready: until live **>5780** OR 12m
+- Claim stays **claimed**
+
+## 2026-09-23 — Strimesius HEXAS Coena Annotatio VI §.I densify BOUND (Mini; not shipped)
+
+- Before: **684 passages**
+- After: **691 passages**
+- Pass A≠B; OUR; packet `hexas_coena_annotatio_vi_si_densify`; sections 1–684 unchanged
+- Added: HEXAS De Coena Domini Annotatio VI §.I (Manducatio Oralis Indignorum)
+- Fresh PDF extract: `sources/strimesius_1708_hexades_annotatio_v_coena_pp485_540_pdftotext.txt`
+- Prefatio silence J.IX–X: skipped (not contiguous)
+- Stopped before Annotatio VI §.II
+- Sister Arminianismum Halle: still Anubis-blocked — skipped; Controversias only
+- Remaining gap: Prefatio silence reasons (J.IX–X) + Coena Hexas Annotatio VI §.II+ + deeper Controversiae / Part II — whole folio not claimed
+- Punch X: **NO**
+- Ship: **NO** (parent commits tip eng)
+- Honest partial: yes (closes Annotatio VI §.I; §.II+ remain)
+- Gates: check_pass_ab ok; assert_tip_ready ok; validate_audit_receipt ok
+- Packet/receipt: `reviews/audit/hexas_coena_annotatio_vi_si_densify.{packet,review,receipt}.json`
+- Live: tip-684 hold cleared (live 57/5751); tip re-read 684 before append
+- Titles: §685 Annotatio VI §.I open: Indignorum — prelibate sa; §686 Annotatio VI §.I: sacramental Oral eating — intr; §687 Annotatio VI §.I: Reformed allow extrinsic sense; §688 Annotatio VI §.I: Indigni absolute — habitual im; §689 Annotatio VI §.I: Indigni secundum quid — weak l; §690 Annotatio VI §.I: Apostle (1 Cor 11) on latter —; §691 Annotatio VI §.I close: Reformed dispute Indigni
+- Next locus: HEXAS De Coena Domini Annotatio VI §.II (Assertionis Reformatæ Rationes / three classes; Judas first; then §.III+) ~4–8 after clear
+- Hold after tip-ready: until live **>5751** OR 12m
+- Claim `strimesius-in-controversias-densify` stays **claimed**
+
+## 2026-09-23 — Strimesius HEXAS Coena Annotatio V §.XII densify BOUND (Mini; not shipped)
+
+- Before: **676 passages**
+- After: **684 passages**
+- Pass A≠B; OUR; packet `hexas_coena_annotatio_v_sxii_densify`; sections 1–676 unchanged
+- Added: HEXAS De Coena Domini Annotatio V §.XII (Lutheran testimonia Calixtus–Sennertus)
+- Fresh PDF extract: `sources/strimesius_1708_hexades_annotatio_v_coena_pp485_540_pdftotext.txt`
+- Prefatio silence J.IX–X: skipped (not contiguous)
+- Stopped before Annotatio VI (Indignorum)
+- Sister Arminianismum Halle: still Anubis-blocked — skipped; Controversias only
+- Remaining gap: Prefatio silence reasons (J.IX–X) + Coena Hexas Annotatio VI+ + deeper Controversiae / Part II — whole folio not claimed
+- Punch X: **NO**
+- Ship: **NO**
+- Honest partial: yes (closes Annotatio V §.XII; Annotatio VI+ remain)
+- Gates: check_pass_ab ok per justification 677–684; tip-ready ok; validate_audit_receipt ok
+- Packet/receipt: `reviews/audit/hexas_coena_annotatio_v_sxii_densify.{packet,review,receipt}.json`
+- Live: stale HOLD >5693 stopped; live 57/5721; tip re-read 676 before append
+- Titles: §677 Annotatio V §.XII open: Author lashes four Luthe; §678 Annotatio V §.XII (1): Calixtus Senior — authori; §679 Annotatio V §.XII (2): Pufendorf — Oral not amon; §680 Annotatio V §.XII (3): Hulsemann — judgment of R; §681 Annotatio V §.XII (4): Luther charge — hostile l; §682 Annotatio V §.XII (4) replies: anger makes testi; §683 Annotatio V §.XII fifth: Sennertus — sacraments ; §684 Annotatio V §.XII close: Sennertus §.LXV same of
+- Next locus: HEXAS De Coena Domini Annotatio VI §.I (Manducatio Oralis Indignorum; then §.II+) ~4–8 after clear
+- Hold after tip-ready: until live **>5721** OR 12m
+- Claim `strimesius-in-controversias-densify` stays **claimed**
+
+## 2026-09-23 — Strimesius HEXAS Coena Annotatio V §.XI densify BOUND (Mini; not shipped)
+
+- Before: **670 passages**
+- After: **676 passages**
+- Pass A≠B; OUR; packet `hexas_coena_annotatio_v_sxi_densify`; sections 1–670 unchanged
+- Added: HEXAS De Coena Domini Annotatio V §.XI (Quinta Probatio / Irenaeus)
+- Fresh PDF extract: `sources/strimesius_1708_hexades_annotatio_v_coena_pp485_540_pdftotext.txt`
+- Prefatio silence J.IX–X: skipped (not contiguous)
+- Stopped before Annotatio V §.XII
+- Sister Arminianismum Halle: still Anubis-blocked — skipped; Controversias only
+- Remaining gap: Prefatio silence reasons (J.IX–X) + Coena Hexas Annotatio V §.XII+ + deeper Controversiae / Part II — whole folio not claimed
+- Punch X: **NO**
+- Ship: **NO**
+- Honest partial: yes (closes §.XI; §.XII+ remain)
+- Gates: check_pass_ab ok per justification 671–676; tip-ready ok; validate_audit_receipt ok
+- Packet/receipt: `reviews/audit/hexas_coena_annotatio_v_sxi_densify.{packet,review,receipt}.json`
+- Live: tip-670 hold cleared (live 57/5693); tip re-read 670 before append
+- Titles: §671 Annotatio V §.XI open: Quinta Probatio — Ignorat; §672 Annotatio V §.XI: Author §.XIX cover — Subject e; §673 Annotatio V §.XI: Forbes/Fabricius — Calvin with; §674 Annotatio V §.XI: Predicate error — Valentinian ; §675 Annotatio V §.XI: receiving Eucharist ≠ oral eat; §676 Annotatio V §.XI close: Jn 6:54 spiritual souls’
+- Next locus: HEXAS De Coena Domini Annotatio V §.XII (Lutheran testimonia Calixtus+; then §.XIII+) ~4–8 after clear
+- Hold after tip-ready: until live **>5693** OR 12m
+- Claim `strimesius-in-controversias-densify` stays **claimed**
+
+## 2026-09-23 — Strimesius HEXAS Coena Annotatio V §.X densify BOUND (Mini; not shipped)
+
+- Before: **664 passages**
+- After: **670 passages**
+- Pass A≠B; OUR; packet `hexas_coena_annotatio_v_sx_densify`; sections 1–664 unchanged
+- Added: HEXAS De Coena Domini Annotatio V §.X (Quarta Probatio / digna discretio)
+- Fresh PDF extract: `sources/strimesius_1708_hexades_annotatio_v_coena_pp485_540_pdftotext.txt`
+- Prefatio silence J.IX–X: skipped (not contiguous)
+- Stopped before Annotatio V §.XI
+- Sister Arminianismum Halle: still Anubis-blocked — skipped; Controversias only
+- Remaining gap: Prefatio silence reasons (J.IX–X) + Coena Hexas Annotatio V §.XI+ + deeper Controversiae / Part II — whole folio not claimed
+- Punch X: **NO**
+- Ship: **NO**
+- Honest partial: yes (closes §.X; §.XI+ remain)
+- Gates: check_pass_ab ok per justification 665–670; tip-ready ok `prefatio_si_tip_english.json`+`prefatio_si_tip_source.json`; validate_audit_receipt ok
+- Packet/receipt: `reviews/audit/hexas_coena_annotatio_v_sx_densify.{packet,review,receipt}.json`
+- Live: tip-664 12m hold cleared; tip re-read 664 before append
+- Titles: §665 Annotatio V §.X open: Quarta Probatio — digna di; §666 Annotatio V §.X: prior reply — Indignorum error ; §667 Annotatio V §.X: Wittenberger §.XVIII counters —; §668 Annotatio V §.X reply (1): Indignorum gravity de; §669 Annotatio V §.X reply (2): Oral-fundamentality n; §670 Annotatio V §.X close: Beza reductio — faith-pre
+- Next locus: HEXAS De Coena Domini Annotatio V §.XI (Quinta Probatio / Irenaeus duabus rebus; then §.XII+) ~4–8 after clear
+- Hold after tip-ready: until live **>5646** OR 12m
+- Claim `strimesius-in-controversias-densify` stays **claimed**
+
+## 2026-09-23 — Strimesius HEXAS Coena Annotatio V §.VIII–IX densify BOUND (Mini; not shipped)
+
+- Before: **658 passages**
+- After: **664 passages**
+- Pass A≠B; OUR; packet `hexas_coena_annotatio_v_sviii_ix_densify`; sections 1–658 unchanged
+- Added: HEXAS De Coena Domini Annotatio V §.VIII–IX (Secunda/Tertia Probatio)
+- Numbering: print §.VIII follows §.VII (handoff “§.V” was a miss; densified contiguous next)
+- Fresh PDF extract: `sources/strimesius_1708_hexades_annotatio_v_coena_pp485_540_pdftotext.txt`
+- Prefatio silence J.IX–X: skipped (not contiguous)
+- Stopped before Annotatio V §.X
+- Sister Arminianismum Halle: still Anubis-blocked — skipped; Controversias only
+- Remaining gap: Prefatio silence reasons (J.IX–X) + Coena Hexas Annotatio V §.X+ + deeper Controversiae / Part II — whole folio not claimed
+- Punch X: **NO**
+- Ship: **NO**
+- Honest partial: yes (closes §.IX; §.X+ remain)
+- Gates: check_pass_ab ok per justification 659–664; tip-ready ok `prefatio_si_tip_english.json`+`prefatio_si_tip_source.json`; validate_audit_receipt ok
+- Packet/receipt: `reviews/audit/hexas_coena_annotatio_v_sviii_ix_densify.{packet,review,receipt}.json`
+- Live: live 57/5646; tip-658 hold cleared; tip re-read 658 before append
+- Titles: §659 Annotatio V §.VIII open: Secunda Probatio — Oral; §660 Annotatio V §.VIII: Author retreats to presence ; §661 Annotatio V §.VIII reply (1): solace from presen; §662 Annotatio V §.VIII reply (2): vivification/solac; §663 Annotatio V §.IX open: Tertia Probatio — denying; §664 Annotatio V §.IX: Reformed teach spiritual prese
+- Next locus: HEXAS De Coena Domini Annotatio V §.X (Quarta Probatio / digna discretio; then §.XI+) ~4–8 after clear
+- Hold after tip-ready: until live **>5646** OR 12m
+- Claim `strimesius-in-controversias-densify` stays **claimed**
+
+## 2026-09-23 — Strimesius HEXAS Coena Annotatio V §.IV §.6–VII densify BOUND (Mini; not shipped)
+
+- Before: **652 passages**
+- After: **658 passages**
+- Pass A≠B; OUR; packet `hexas_coena_annotatio_v_siv_s6_densify`; sections 1–652 unchanged
+- Added: HEXAS De Coena Domini Annotatio V §.IV §.6–VII (Fundamentalitatem; testamentary goods; Oral not fundamental)
+- Prefatio silence J.IX–X: skipped (not contiguous)
+- Stopped before Annotatio V §.V
+- Sister Arminianismum Halle: still Anubis-blocked — skipped; Controversias only
+- Remaining gap: Prefatio silence reasons (J.IX–X) + Coena Hexas Annotatio V §.V+ + deeper Controversiae / Part II — whole folio not claimed
+- Punch X: **NO**
+- Ship: **NO**
+- Honest partial: yes (closes Annotatio V §.IV; §.V+ remain)
+- Gates: check_pass_ab ok per justification 653–658; tip-ready ok `prefatio_si_tip_english.json`+`prefatio_si_tip_source.json`; validate_audit_receipt ok
+- Packet/receipt: `reviews/audit/hexas_coena_annotatio_v_siv_s6_densify.{packet,review,receipt}.json`
+- Live: live 57/5604; tip-652 hold cleared; tip re-read 652 before append
+- Titles: §653 Annotatio V §.IV §.6: Author §14 — denying Suppe; §654 Annotatio V §.IV §.6: mandate+medium syllogism f; §655 Annotatio V §.IV §.6: millennium heresy; baptism; §656 Annotatio V §.IV §VII open: five-proof vindicati; §657 Annotatio V §.IV §VII: heirs-only goods; spiritu; §658 Annotatio V §.IV close: Oral (if true) lesser te
+- Next locus: HEXAS De Coena Domini Annotatio V §.V ~4–8 after clear; fresh PDF past ~490 if needed
+- Hold after tip-ready: until live **>5604** OR 12m
+- Claim `strimesius-in-controversias-densify` stays **claimed**
+
+## 2026-09-23 — Strimesius HEXAS Coena Annotatio V §.IV cont. densify BOUND (Mini; not shipped)
+
+- Before: **646 passages**
+- After: **652 passages**
+- Pass A≠B; OUR; packet `hexas_coena_annotatio_v_siv_cont_densify`; sections 1–646 unchanged
+- Added: HEXAS De Coena Domini Annotatio V §.IV cont. (exception; Fundamentalitatem; three charges+replies)
+- Prefatio silence J.IX–X: skipped (not contiguous)
+- Stopped mid-Annotatio V §.IV before §.6 / §.V
+- Sister Arminianismum Halle: still Anubis-blocked — skipped; Controversias only
+- Remaining gap: Prefatio silence reasons (J.IX–X) + Coena Hexas Annotatio V §.IV §.6+/§.V+ + deeper Controversiae / Part II — whole folio not claimed
+- Punch X: **NO**
+- Ship: **NO**
+- Honest partial: yes (§.IV cont. through presence/sacramental replies; §.6+ remain)
+- Gates: check_pass_ab ok per justification 647–652; tip-ready ok `prefatio_si_tip_english.json`+`prefatio_si_tip_source.json`; validate_audit_receipt ok
+- Packet/receipt: `reviews/audit/hexas_coena_annotatio_v_siv_cont_densify.{packet,review,receipt}.json`
+- Live: live 57/5570; tip-646 hold cleared; tip re-read 646 before append
+- Titles: §647 Annotatio V §.IV cont.: Lutheran exception — Ora; §648 Annotatio V §.IV: reply — organ defines mode; na; §649 Annotatio V §.IV: Reformed impugn Oral’s Fundame; §650 Annotatio V §.IV: Author’s three charges — doubt; §651 Annotatio V §.IV: reply to first — double elench; §652 Annotatio V §.IV cont. close: denying Oral ≠ den
+- Next locus: HEXAS De Coena Domini Annotatio V §.IV cont. (§.6 / further Anti-Irenicum fundamentalitatem; then §.V) ~4–8 after clear
+- Hold after tip-ready: until live **>5570** OR 12m
+- Claim `strimesius-in-controversias-densify` stays **claimed**
+
+## 2026-09-23 — Strimesius HEXAS Coena Annotatio V §.IV densify BOUND (Mini; not shipped)
+
+- Before: **640 passages**
+- After: **646 passages**
+- Pass A≠B; OUR; packet `hexas_coena_annotatio_v_siv_densify`; sections 1–640 unchanged
+- Added: HEXAS De Coena Domini Annotatio V §.IV Reformed three genera vs corporal-oral (honest partial)
+- Prefatio silence J.IX–X: skipped (not contiguous)
+- Stopped mid-Annotatio V §.IV (exception / further §.IV remain)
+- Sister Arminianismum Halle: still Anubis-blocked — skipped; Controversias only
+- Remaining gap: Prefatio silence reasons (J.IX–X) + Coena Hexas Annotatio V §.IV cont./§.V+ + deeper Controversiae / Part II — whole folio not claimed
+- Punch X: **NO**
+- Ship: **NO**
+- Honest partial: yes (three genera through Jn 6:63; §.IV remainder remains)
+- Gates: check_pass_ab ok per justification 641–646; tip-ready ok `prefatio_si_tip_english.json`+`prefatio_si_tip_source.json`; validate_audit_receipt ok
+- Packet/receipt: `reviews/audit/hexas_coena_annotatio_v_siv_densify.{packet,review,receipt}.json`
+- Live: live still 5525; tip-640 12m hold cleared; tip re-read 640 before append
+- Titles: §641 Annotatio V §.IV open: Reformed impugn third inv; §642 Annotatio V §.IV FIRST genus (1): merely spiritu; §643 Annotatio V §.IV FIRST genus (2)–(3): passion/de; §644 Annotatio V §.IV SECOND genus: Christ as eater; ; §645 Annotatio V §.IV THIRD genus (1): anthropophagy,; §646 Annotatio V §.IV THIRD genus (2)–(3): sensual; C
+- Next locus: HEXAS De Coena Domini Annotatio V §.IV cont. (Lutheran exception / further §.IV after THIRD genus; then §.V) ~4–8 after clear
+- Hold after tip-ready: until live **>5525** OR 12m
+- Claim `strimesius-in-controversias-densify` stays **claimed**
+
+## 2026-09-23 — Strimesius HEXAS Coena Annotatio V §.III densify BOUND (Mini; not shipped)
+
+- Before: **635 passages**
+- After: **640 passages**
+- Pass A≠B; OUR; packet `hexas_coena_annotatio_v_siii_densify`; sections 1–635 unchanged
+- Added: HEXAS De Coena Domini Annotatio V §.III (Lutheran double corporal / oral; Selneccer; Neoterici)
+- Prefatio silence J.IX–X: skipped (not contiguous)
+- Stopped before Annotatio V §.IV
+- Sister Arminianismum Halle: still Anubis-blocked — skipped; Controversias only
+- Remaining gap: Prefatio silence reasons (J.IX–X) + Coena Hexas Annotatio V §.IV+ + deeper Controversiae / Part II — whole folio not claimed
+- Punch X: **NO**
+- Ship: **NO**
+- Honest partial: yes (closes Annotatio V §.III; §.IV+ remain)
+- Gates: check_pass_ab ok per justification 636–640; tip-ready ok `prefatio_si_tip_english.json`+`prefatio_si_tip_source.json`; validate_audit_receipt ok
+- Packet/receipt: `reviews/audit/hexas_coena_annotatio_v_siii_densify.{packet,review,receipt}.json`
+- Live: live 57/5525; tip-635 hold cleared; tip re-read 635 before append
+- Titles: §636 Annotatio V §.III open: Lutherans admit double f; §637 Annotatio V §.III: invent double corporal eating; §638 Annotatio V §.III: still Capernaite; Oral preach; §639 Annotatio V §.III: Selneccer — natural of elemen; §640 Annotatio V §.III close: Neoterici make Oral fun
+- Next locus: HEXAS De Coena Domini Annotatio V §.IV (Reformed attack third invented corporal-oral eating; three argument genera) ~4–8 after clear
+- Hold after tip-ready: until live **>5525** OR 12m
+- Claim `strimesius-in-controversias-densify` stays **claimed**
+
+## 2026-09-23 — Strimesius HEXAS Coena Annotatio V §.II densify BOUND (Mini; not shipped)
+
+- Before: **630 passages**
+- After: **635 passages**
+- Pass A≠B; OUR; packet `hexas_coena_annotatio_v_sii_densify`; sections 1–630 unchanged
+- Added: HEXAS De Coena Domini Annotatio V §.II (double true eating; Augustine/Picherellus; Luther)
+- Prefatio silence J.IX–X: skipped (not contiguous)
+- Stopped before Annotatio V §.III
+- Sister Arminianismum Halle: still Anubis-blocked — skipped; Controversias only
+- Remaining gap: Prefatio silence reasons (J.IX–X) + Coena Hexas Annotatio V §.III+ + deeper Controversiae / Part II — whole folio not claimed
+- Punch X: **NO**
+- Ship: **NO**
+- Honest partial: yes (closes Annotatio V §.II; §.III+ remain)
+- Gates: check_pass_ab ok per justification 631–635; tip-ready ok `prefatio_si_tip_english.json`+`prefatio_si_tip_source.json`; validate_audit_receipt ok
+- Packet/receipt: `reviews/audit/hexas_coena_annotatio_v_sii_densify.{packet,review,receipt}.json`
+- Live: live 57/5498 (deploy 48fb47ec); tip-630 hold cleared; bound tips 658/598/662/630; tip re-read 630 before append
+- Titles: §631 Annotatio V §.II open: antiquity’s double true e; §632 Annotatio V §.II: Picherellus summons Augustine ; §633 Annotatio V §.II: Augustine antitheses — spiritu; §634 Annotatio V §.II: teeth vs heart; sacramento ten; §635 Annotatio V §.II close: Luther agrees (Postilla;
+- Next locus: HEXAS De Coena Domini Annotatio V §.III (Lutheran double corporal / oral restriction; Selneccer) ~4–8 after clear
+- Hold after tip-ready: until live **>5498** OR 12m
+- Claim `strimesius-in-controversias-densify` stays **claimed**
+
+## 2026-09-23 — Strimesius HEXAS Coena Annotatio V §.I densify BOUND (Mini; not shipped)
+
+- Before: **624 passages**
+- After: **630 passages**
+- Pass A≠B; OUR; packet `hexas_coena_annotatio_v_si_densify`; sections 1–624 unchanged
+- Added: HEXAS De Coena Domini Annotatio V §.I (Oral Manducation propria/improptia)
+- Prefatio silence J.IX–X: skipped (not contiguous)
+- Stopped before Annotatio V §.II
+- Sister Arminianismum Halle: still Anubis-blocked — skipped; Controversias only
+- Remaining gap: Prefatio silence reasons (J.IX–X) + Coena Hexas Annotatio V §.II+ + deeper Controversiae / Part II — whole folio not claimed
+- Punch X: **NO**
+- Ship: **NO**
+- Honest partial: yes (closes Annotatio V §.I; §.II+ remain)
+- Gates: check_pass_ab ok per justification 625–630; tip-ready ok `prefatio_si_tip_english.json`+`prefatio_si_tip_source.json`; validate_audit_receipt ok
+- Packet/receipt: `reviews/audit/hexas_coena_annotatio_v_si_densify.{packet,review,receipt}.json`
+- Live: live 57/5471 (deploy ba9b2232); tip-624 hold cleared; bound tips 651/592/654/624; tip re-read 624 before append
+- Titles: §625 Annotatio V §.I open: Manducatio propria vs impr; §626 Annotatio V §.I: broader vs stricter (masticatio; §627 Annotatio V §.I: merely spiritual vs sacramental; §628 Annotatio V §.I: both true (Jn 6); PRIOR oral ca; §629 Annotatio V §.I: Lutheran vs Reformed — celestia; §630 Annotatio V §.I close: POSTERIOR improper spirit
+- Next locus: HEXAS De Coena Domini Annotatio V §.II (double true eating; Augustine/Picherellus) ~4–8 after clear
+- Hold after tip-ready: until live **>5471** OR 12m
+- Claim `strimesius-in-controversias-densify` stays **claimed**
+
+## 2026-09-23 — Strimesius HEXAS Coena Annotatio IV §.XXIV densify BOUND (Mini; not shipped)
+
+- Before: **618 passages**
+- After: **624 passages**
+- Pass A≠B; OUR; packet `hexas_coena_annotatio_iv_sxxiv_densify`; sections 1–618 unchanged
+- Added: HEXAS De Coena Domini Annotatio IV §.XXIV (spiritual=most-real; Professor; Torun; two Controversies)
+- Fresh PDF extract: `sources/strimesius_1708_hexades_annotatio_iv_coena_pp445_490_pdftotext.txt`
+- Prefatio silence J.IX–X: skipped (not contiguous)
+- Stopped before Annotatio V (Oral Manducation)
+- Sister Arminianismum Halle: still Anubis-blocked — skipped; Controversias only
+- Remaining gap: Prefatio silence reasons (J.IX–X) + Coena Hexas Annotatio V+ + deeper Controversiae / Part II — whole folio not claimed
+- Punch X: **NO**
+- Ship: **NO**
+- Honest partial: yes (closes Annotatio IV §.XXIV; Annotatio V+ remain)
+- Gates: check_pass_ab ok per justification 619–624; tip-ready ok `prefatio_si_tip_english.json`+`prefatio_si_tip_source.json`; validate_audit_receipt ok
+- Packet/receipt: `reviews/audit/hexas_coena_annotatio_iv_sxxiv_densify.{packet,review,receipt}.json`
+- Live: live 57/5444 (deploy e1ad1a2d); tip-618 hold cleared; bound tips 644/586/646/618; tip re-read 618 before append
+- Titles: §619 Annotatio IV §.XXIV open: true most-real = spiri; §620 Annotatio IV §.XXIV: Clarissimus Professor’s cal; §621 Annotatio IV §.XXIV: rebuttal (1) — private twis; §622 Annotatio IV §.XXIV: rebuttal (2)–(3) — Trelcati; §623 Annotatio IV §.XXIV: Torun n.10–13 — not naked s; §624 Annotatio IV §.XXIV close: Reformed truly believ
+- Next locus: HEXAS De Coena Domini Annotatio V §.I (De Manducatione Corporis Christi Orali) ~4–8 after clear
+- Hold after tip-ready: until live **>5444** OR 12m
+- Claim `strimesius-in-controversias-densify` stays **claimed**
+
+## 2026-09-23 — Strimesius HEXAS Coena Annotatio IV §.XXIII cont. densify BOUND (Mini; not shipped)
+
+- Before: **612 passages**
+- After: **618 passages**
+- Pass A≠B; OUR; packet `hexas_coena_annotatio_iv_sxxiii_cont_densify`; sections 1–612 unchanged
+- Added: HEXAS De Coena Domini Annotatio IV §.XXIII cont. Wren AD POSTERIUS / psychic objection through XXIII close
+- Prefatio silence J.IX–X: skipped (not contiguous)
+- Stopped before Annotatio IV §.XXIV
+- Sister Arminianismum Halle: still Anubis-blocked — skipped; Controversias only
+- Remaining gap: Prefatio silence reasons (J.IX–X) + Coena Hexas Annotatio IV §.XXIV+ + deeper Controversiae / Part II — whole folio not claimed
+- Punch X: **NO**
+- Ship: **NO**
+- Honest partial: yes (closes §.XXIII; §.XXIV+ remain)
+- Gates: check_pass_ab ok per justification 613–618; tip-ready ok `prefatio_si_tip_english.json`+`prefatio_si_tip_source.json`; validate_audit_receipt ok
+- Packet/receipt: `reviews/audit/hexas_coena_annotatio_iv_sxxiii_cont_densify.{packet,review,receipt}.json`
+- Live: live 57/5418 (deploy 450e8d2c); tip-612 hold cleared; bound tips 638/580/638/612; tip re-read 612 before append
+- Titles: §613 Annotatio IV §.XXIII cont.: Wren AD POSTERIUS — ; §614 Annotatio IV §.XXIII: Psychic argument — natural; §615 Annotatio IV §.XXIII: Wren’s Jude 19 elenchus — ; §616 Annotatio IV §.XXIII: Jn 6:63 + 1 Cor 2:13 — Spi; §617 Annotatio IV §.XXIII: Body existed psychikōs and; §618 Annotatio IV §.XXIII close: double mode of exist
+- Next locus: HEXAS De Coena Domini Annotatio IV §.XXIV ~4–8 after clear; fresh PDF past ~450 if needed
+- Hold after tip-ready: until live **>5418** OR 12m
+- Claim `strimesius-in-controversias-densify` stays **claimed**
+
 ## 2026-09-23 — Strimesius HEXAS Coena Annotatio IV §.XXII–XXIII densify BOUND (Mini; not shipped)
 
 - Before: **606 passages**

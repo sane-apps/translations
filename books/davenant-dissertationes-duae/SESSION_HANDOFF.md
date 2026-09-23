@@ -1,3 +1,183 @@
+## 2026-09-23 ~12:20 ET (Cursor — Davenant Cap. X Ultimum Propos. 2–3 densify)
+
+CoS densify: Cap. X Ultimum Propos. 2 cont. + Propos. 3 open. Punch X: **NO**. Did **not** ship. Hold cleared; live 57/5955; tip 793->801. HOLD until live >5955 OR 12m. Packet `praedestinatione_cap10_propos2_densify` id `ec0c5276c96b3eb3c186e5fc7af2aaf9f555287ba121c87d8512162fe236c631`.
+
+### Punch X?
+**NO**
+
+---
+
+## 2026-09-23 ~12:10 ET (Cursor — Davenant Cap. X Ultimum Propos. 1.III/2 densify)
+
+CoS densify: Cap. X Ultimum Propos. 1.III Salisbury/Fathers + Propos. 2 open. Punch X: **NO**. Did **not** ship. Hold cleared; live 57/5926; tip 785->793. HOLD until live >5926 OR 12m. Packet `praedestinatione_cap10_propos1iii_densify` id `4ff2b02a18755b1635095b3057de8ac9e76c1c4dc92381e6c5b21e57e73cf163`.
+
+### Punch X?
+**NO**
+
+---
+
+## 2026-09-23 ~12:05 ET (Cursor — Davenant Cap. X Ultimum Propos. 1 densify)
+
+CoS densify: Cap. X Ultimum Propos. 1 Orthodox Grace vs Pelagius + Arminius parallel. Punch X: **NO**. Did **not** ship. Hold cleared; live 57/5896; tip 777->785. HOLD until live >5896 OR 12m. Packet `praedestinatione_cap10_propos1_densify` id `fe6d670dcaf2c90cf2033e62e90451b580ff9b969a0329d94ffe16891eb170bc`.
+
+### Punch X?
+**NO**
+
+---
+
+## 2026-09-23 ~11:55 ET (Cursor — Davenant Cap. X Ultimum Secunda densify)
+
+CoS densify: Cap. X Ultimum Secunda cont. De bono pers. 23 / Vasquez / Patres / triple-cord. Punch X: **NO**. Did **not** ship. Hold cleared; live 57/5866; tip 769->777. HOLD until live >5866 OR 12m. Packet `praedestinatione_cap10_ultimum2_densify` id `55fde9f257410106ccf087ddba54a6a62244026e6fe54bea5fd0f088b80c2bb6`.
+
+### Punch X?
+**NO**
+
+---
+
+## 2026-09-23 ~11:32 ET (Cursor — Davenant Cap. X Ultimum densify)
+
+CoS densify: Cap. X Corvinus + Ultimum Prima/Secunda open. Punch X: **NO**. Did **not** ship. Hold cleared; live 57/5838; tip 761->769. HOLD until live >5838 OR 12m. Packet `praedestinatione_cap10_ultimum_densify` id `ed5179ce07766de4ca9d26ecac78aaac1f32387f7b8a42d22710142197f6dbf3`.
+
+### Punch X?
+**NO**
+
+---
+
+## 2026-09-23 ~11:25 ET (Cursor — Davenant Cap. X Arg. X cont. densify)
+
+CoS densify: Cap. X Arg. X cont. gratis data / Aug / Prov / Ambrose / Basil. Punch X: **NO**. Did **not** ship. Hold cleared; live 57/5809; tip 753->761. HOLD until live >5809 OR 12m. Packet `praedestinatione_cap10_arg10_densify` id `1994c574e00a77d66bd89fdb74b6767f6ce51df8bdf6cf46a982b47b0556739d`.
+
+### Punch X?
+**NO**
+
+---
+
+## 2026-09-23 ~11:05 ET (Cursor — Davenant Cap. X Arg. IX+ densify)
+
+CoS densify: Cap. X Arg. IX natura non-electionis / Rom.ix + Arg. X open. Punch X: **NO**. Did **not** ship. Hold cleared; live 57/5780; tip 745->753. HOLD until live >5780 OR 12m. Packet `praedestinatione_cap10_arg9_densify` id `b10954e58f68daf8ea8fa4e1a5aae9c1c53b3d485dc77326382d804232fa96b0`.
+
+### Punch X?
+**NO**
+
+---
+
+## 2026-09-23 ~10:55 ET (Cursor — Davenant Cap. X Arg. VII+ densify)
+
+CoS densify: Cap. X Arg. VII Isa.liii.10 / Aug. De praedest. sanct. 10 + Arg. VIII infants. Punch X: **NO**. Did **not** ship. Hold cleared; live 57/5751; tip 737->745. HOLD until live >5751 OR 12m. Packet `praedestinatione_cap10_arg7_densify` id `3879743fc975a10f46747fcb5c2b571dd81fbf967de18ea054ff99b51a837ac3`.
+
+### Punch X?
+**NO**
+
+---
+
+## 2026-09-23 ~10:45 ET (Cursor — Davenant Cap. X Arg. VI+ densify)
+
+CoS densify: Cap. X Arg. V Minor close + Arg. VI Principatus + Arg. VII Arminius open. Punch X: **NO**. Did **not** ship. Hold cleared; live 57/5721; tip 729->737. HOLD until live >5721 OR 12m. Packet `praedestinatione_cap10_arg6_densify` id `306af848e2221184c763d5701a933b981e318bb0ff5cb1b1a161cea29e72b83a`.
+
+### Punch X?
+**NO**
+
+---
+
+## 2026-09-23 ~10:19 ET (Cursor — Davenant Cap. X Arg. V densify)
+
+CoS densify: Cap. X Arg. V given/not-given to Christ. Punch X: **NO**. Did **not** ship. Hold cleared; live 57/5693; tip 721->729. HOLD until live >5693 OR 12m. Packet `praedestinatione_cap10_arg5_densify` id `93f0a978217a93a9de39a4844802f9c47e1d920f940d0b073a6bd312529692df`.
+
+### Punch X?
+**NO**
+
+---
+
+## 2026-09-23 ~10:07 ET (Cursor — Davenant Cap. X Arg. IV+ densify)
+
+CoS densify: Cap. X Arg. III close–V open. Punch X: **NO**. Did **not** ship. Hold cleared (12m); live 57/5646; tip 713->721. HOLD until live >5646 OR 12m. Packet `praedestinatione_cap10_arg4_densify` id `8988f170cb7e7010f34cfe147dc14cd8e4f5914d639454bafe2111b627d3e170`.
+
+### Punch X?
+**NO**
+
+---
+
+## 2026-09-23 ~09:54 ET (Cursor — Davenant Cap. X Arg. II+ densify)
+
+CoS densify: Cap. X Arg. II–III. Punch X: **NO**. Did **not** ship. Hold cleared; live 57/5646; tip 706->713. HOLD until live >5646 OR 12m. Packet `praedestinatione_cap10_arg2_densify` id `a24270d5f990abd39336bb11878bc58407ef8111190ba6ade2a1537cf8495aae`.
+
+### Punch X?
+**NO**
+
+---
+
+## 2026-09-23 ~09:47 ET (Cursor — Davenant Cap. X cont. densify)
+
+CoS densify: Cap. X controversy-sum + Arg. I. Punch X: **NO**. Did **not** ship. Hold cleared (12m); live 57/5604; tip 698->706. HOLD until live >5604 OR 12m. Packet `praedestinatione_cap10_cont_densify` id `7e15e75b13cb25ec65bd0626ad14e6e9a735bad06e20ce01760a66c6e0a41a68`.
+
+### Punch X?
+**NO**
+
+---
+
+## 2026-09-23 ~09:33 ET (Cursor — Davenant Cap. IX Arg. 14 Sol close / Cap. X open densify)
+
+CoS densify: Cap. IX Arg. 14 Sol close + Cap. X open. Punch X: **NO**. Did **not** ship. Hold cleared; live 57/5604; tip 690->698. HOLD until live >5604 OR 12m. Packet `praedestinatione_cap9_arg14_solclose_densify` id `ea0b2244fdd36eaee9d127b13070e4662d119dab818fc726c9e4b0e68fa8e093`.
+
+### Punch X?
+**NO**
+
+---
+
+## 2026-09-23 ~09:11 ET (Cursor — Davenant Cap. IX Arg. 14 Sol cont. densify)
+
+CoS densify: Cap. IX Arg. 14 Sol cont. Punch X: **NO**. Did **not** ship. Hold cleared; live 57/5570; tip 682->690. HOLD until live >5570 OR 12m. Packet `praedestinatione_cap9_arg14_solcont_densify` id `60b9322632399ed0d9759a211f7438fa098026c4332887bbeec69fdd77aab722`.
+
+### Punch X?
+**NO**
+
+---
+
+## 2026-09-23 ~09:03 ET (Cursor — Davenant Cap. IX Arg. 14 densify)
+
+CoS densify: Cap. IX Arg. 14 religion-foundation. Punch X: **NO**. Did **not** ship. Hold cleared (12m); live 57/5525; tip 674->682. HOLD until live >5525 OR 12m. Packet `praedestinatione_cap9_arg14_densify` id `09db200a38b9b7809c012342aa356ae81ef0401f826a55464ad7dd1b4d9f766d`.
+
+### Punch X?
+**NO**
+
+---
+
+## 2026-09-23 ~08:48 ET (Cursor — Davenant Cap. IX Arg. 13 densify)
+
+CoS densify: Cap. IX Arg. 13 ministers sluggish. Punch X: **NO**. Did **not** ship. Hold cleared; live 57/5525; tip 666->674. HOLD until live >5525 OR 12m. Packet `praedestinatione_cap9_arg13_densify` id `61914a2fc3ceaff764b0cc51d4ce87c32805feedb8af903249e151f1d615674a`.
+
+### Punch X?
+**NO**
+
+---
+
+## 2026-09-23 ~08:37 ET (Cursor — Davenant Cap. IX Arg. 12 densify)
+
+CoS densify: Cap. IX Arg. 12 public prayers. Punch X: **NO**. Did **not** ship. Hold cleared; live 57/5498; tip 658->666; deploy 48fb47ec. HOLD until live >5498 OR 12m. Packet `praedestinatione_cap9_arg12_densify` id `00928ad223fb682601dd55a1de76923374c1207bf62e08b388e045dd3c571594`.
+
+### Punch X?
+**NO**
+
+---
+
+## 2026-09-23 ~08:27 ET (Cursor — Davenant Cap. IX Arg. 11 densify)
+
+CoS densify: Cap. IX Arg. 11 Baptism/Corvinus. Punch X: **NO**. Did **not** ship. Hold cleared; live 57/5471; tip 651->658; deploy ba9b2232. HOLD until live >5471 OR 12m. Packet `praedestinatione_cap9_arg11_densify` id `a57087163a2263a0edf5aa97d3d8b91c07cece26564deda1811bc3b6364d11f5`.
+
+### Punch X?
+**NO**
+
+---
+
+## 2026-09-23 ~08:15 ET (Cursor — Davenant Cap. IX Arg. 10 Sol cont. densify)
+
+CoS densify: Cap. IX Arg. 10 Sol cont. Punch X: **NO**. Did **not** ship. Hold cleared; live 57/5444; tip 644->651; deploy e1ad1a2d. HOLD until live >5444 OR 12m. Packet `praedestinatione_cap9_arg10_solcont_densify` id `32d6819e5ca7076a5a8477ba573ed6c5955f77cc77ae55e042d5879043268b4c`.
+
+### Punch X?
+**NO**
+
+---
+
 ## 2026-09-23 ~07:51 ET (Cursor — Davenant Cap. IX Arg. 9 close / Arg. 10 densify)
 
 CoS densify: Cap. IX Arg. 9 Sol close + Arg. 10. Punch X: **NO**. Did **not** ship. Hold cleared; live 57/5418; tip 638->644; deploy 450e8d2c. HOLD until live >5418 OR 12m. Packet `praedestinatione_cap9_arg9_arg10_densify` id `d0c38ce26ecb62f4f1e48a2fea46d795cf054a47ce64eecd3810924d3a394755`.

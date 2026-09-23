@@ -1,0 +1,145 @@
+{
+  "generated_at": "2026-09-22T19:55:38-04:00",
+  "route": "SaneMaster.rb tool_discovery",
+  "authoritative": true,
+  "query": "davenant densify",
+  "query_terms": [
+    "davenant densify",
+    "davenant",
+    "densify"
+  ],
+  "project_root": "/Users/stephansmac/SaneApps/clients/translations/books/davenant-dissertationes-duae",
+  "checks": {
+    "canonical_paths": [
+      {
+        "name": "Tool discovery and canonical path selection",
+        "keywords": [
+          "tool",
+          "tools",
+          "missing",
+          "workflow",
+          "sop",
+          "standard",
+          "documented",
+          "enforce",
+          "enforced",
+          "path",
+          "best",
+          "hunting",
+          "workaround"
+        ],
+        "command": "ruby scripts/SaneMaster.rb tool_discovery --query \"...\"",
+        "source": "scripts/SaneMaster.rb tool_discovery",
+        "why": "Proof step before claiming a tool is missing or inventing a workaround.",
+        "score": 1
+      }
+    ],
+    "skills_registry": {
+      "source": [
+        "/Users/stephansmac/.codex/SKILLS_REGISTRY.md"
+      ],
+      "matches": [],
+      "exists": true
+    },
+    "global_skills": {
+      "source": [
+        "/Users/stephansmac/.codex/skills",
+        "/Users/stephansmac/.agents/skills"
+      ],
+      "matches": [],
+      "file_count": 78
+    },
+    "local_code": {
+      "source": [
+        "/Users/stephansmac/SaneApps/clients/translations/books/davenant-dissertationes-duae/scripts",
+        "/Users/stephansmac/SaneApps/clients/translations/books/davenant-dissertationes-duae/templates"
+      ],
+      "matches": [],
+      "file_count": 0
+    },
+    "project_docs": {
+      "source": [],
+      "matches": [],
+      "file_count": 0
+    },
+    "doctor": {
+      "command": "/opt/homebrew/Cellar/ruby/4.0.6_1/bin/ruby /Users/stephansmac/SaneApps/clients/translations/books/davenant-dissertationes-duae/scripts/SaneMaster.rb mcp_watchdog doctor --quiet --json && /Users/stephansmac/.codex/bin/check-mcps",
+      "status": "failed",
+      "watchdog": {
+        "command": "/opt/homebrew/Cellar/ruby/4.0.6_1/bin/ruby /Users/stephansmac/SaneApps/clients/translations/books/davenant-dissertationes-duae/scripts/SaneMaster.rb mcp_watchdog doctor --quiet --json",
+        "exit_code": 1,
+        "timed_out": false,
+        "issues": [
+          "mcp_watchdog doctor command failed",
+          "mcp_watchdog doctor JSON parse failed"
+        ],
+        "configured_servers": null,
+        "running_servers": null
+      },
+      "live_probe": {
+        "command": "/Users/stephansmac/.codex/bin/check-mcps",
+        "exit_code": 0,
+        "timed_out": false,
+        "pass_count": 8,
+        "warnings": [],
+        "failures": [],
+        "summary_lines": [
+          "[PASS] github - ok",
+          "[PASS] apple-docs - http://127.0.0.1:37911/mcp",
+          "[PASS] macos-automator - http://127.0.0.1:37913/mcp",
+          "[PASS] serena - http://127.0.0.1:37917/mcp",
+          "[PASS] xcode - ok",
+          "[PASS] node_repl - ok",
+          "[PASS] agentmemory - ok",
+          "[PASS] openaiDeveloperDocs - ok"
+        ]
+      },
+      "exit_code": 1,
+      "timed_out": false,
+      "warning_lines": [
+        "mcp_watchdog doctor command failed",
+        "mcp_watchdog doctor JSON parse failed"
+      ],
+      "summary_lines": [
+        "[PASS] github - ok",
+        "[PASS] apple-docs - http://127.0.0.1:37911/mcp",
+        "[PASS] macos-automator - http://127.0.0.1:37913/mcp",
+        "[PASS] serena - http://127.0.0.1:37917/mcp",
+        "[PASS] xcode - ok",
+        "[PASS] node_repl - ok",
+        "[PASS] agentmemory - ok",
+        "[PASS] openaiDeveloperDocs - ok",
+        "mcp_watchdog doctor command failed",
+        "mcp_watchdog doctor JSON parse failed"
+      ]
+    },
+    "validation_report": {
+      "command": "/opt/homebrew/Cellar/ruby/4.0.6_1/bin/ruby /Users/stephansmac/SaneApps/clients/translations/books/davenant-dissertationes-duae/scripts/validation_report.rb --json",
+      "status": "failed",
+      "status_detail": null,
+      "exit_code": 1,
+      "timed_out": false,
+      "verdict": null,
+      "verdict_status": null,
+      "verdict_detail": null,
+      "issue_count": null,
+      "warning_count": null,
+      "parse_error": "validation report did not return JSON"
+    }
+  },
+  "summary": {
+    "existing_path_found": true,
+    "recommendation": "Existing path found. Reuse or extend what is already here before adding a new tool.",
+    "doctor_status": "failed",
+    "validation_status": "failed",
+    "doctor_ok": false,
+    "validation_ok": false,
+    "validation_blocks_tool_use": true,
+    "canonical_commands": [
+      "ruby scripts/SaneMaster.rb tool_discovery --query \"...\""
+    ],
+    "top_existing_paths": [
+      "scripts/SaneMaster.rb tool_discovery"
+    ]
+  }
+}

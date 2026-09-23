@@ -1,0 +1,1456 @@
+{
+  "data" : {
+    "screenshot_raw" : "",
+    "mutation_targeting_available" : true,
+    "semantic_scope" : "exact_or_requested",
+    "element_count" : 84,
+    "coordinate_context" : {
+      "delivered_image_size" : [
+        1470,
+        922
+      ],
+      "version" : 1,
+      "native_scale" : 2,
+      "output_scale" : 1,
+      "window" : {
+        "window_id" : 14168,
+        "index" : 0,
+        "title" : "Logos Pro"
+      },
+      "logical_space" : "global_display_points",
+      "origin" : "top_left",
+      "reference_id" : "ps1_e012c6589ced2c484e30a60af95ab972",
+      "requested_scale" : {
+        "logical1x" : {
+
+        }
+      },
+      "display" : {
+        "index" : 0
+      },
+      "logical_bounds" : [
+        [
+          0,
+          34
+        ],
+        [
+          1470,
+          922
+        ]
+      ]
+    },
+    "snapshot_id" : "ps1_e012c6589ced2c484e30a60af95ab972",
+    "snapshot_reusable" : true,
+    "is_dialog" : false,
+    "application_name" : "Logos",
+    "interactable_count" : 39,
+    "execution_time" : 0.3650010824203491,
+    "observation" : {
+      "state_snapshot" : {
+        "display_count" : 0,
+        "window_count" : 0,
+        "running_application_count" : 81
+      },
+      "warnings" : [
+
+      ],
+      "spans" : [
+        {
+          "duration_ms" : 14.246875,
+          "metadata" : {
+
+          },
+          "name" : "state.snapshot"
+        },
+        {
+          "duration_ms" : 10.911584,
+          "metadata" : {
+
+          },
+          "name" : "target.resolve"
+        },
+        {
+          "duration_ms" : 118.350667,
+          "metadata" : {
+            "engine" : "CGWindowList"
+          },
+          "name" : "capture.window"
+        },
+        {
+          "duration_ms" : 48.158417,
+          "metadata" : {
+
+          },
+          "name" : "detection.ax"
+        },
+        {
+          "duration_ms" : 22.989958,
+          "metadata" : {
+
+          },
+          "name" : "detection.ocr"
+        },
+        {
+          "duration_ms" : 1.333375,
+          "metadata" : {
+
+          },
+          "name" : "output.write"
+        },
+        {
+          "duration_ms" : 0.893208,
+          "metadata" : {
+
+          },
+          "name" : "output.raw.write"
+        },
+        {
+          "duration_ms" : 0.43725,
+          "metadata" : {
+
+          },
+          "name" : "snapshot.write"
+        },
+        {
+          "duration_ms" : 322.193042,
+          "metadata" : {
+
+          },
+          "name" : "desktop.observe"
+        }
+      ],
+      "target" : {
+        "hints" : [
+
+        ],
+        "open_if_needed" : false,
+        "window_id" : 14168,
+        "source" : "window-id",
+        "bounds" : [
+          [
+            0,
+            34
+          ],
+          [
+            1470,
+            922
+          ]
+        ],
+        "resolved_kind" : "window-id",
+        "requested_kind" : "pid"
+      }
+    },
+    "window_title" : "Logos Pro",
+    "screenshot_annotated" : "",
+    "capture_mode" : "window",
+    "ui_map" : "\/Users\/sj\/.peekaboo\/snapshots\/ps1_e012c6589ced2c484e30a60af95ab972\/snapshot.json",
+    "ui_elements" : [
+      {
+        "id" : "elem_1",
+        "role" : "button",
+        "role_description" : "unknown",
+        "description" : "Help",
+        "help" : "Help",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 914,
+          "width" : 42,
+          "x" : 0,
+          "height" : 38
+        },
+        "label" : "Help"
+      },
+      {
+        "id" : "elem_2",
+        "role" : "button",
+        "role_description" : "unknown",
+        "description" : "Enter passage or topic",
+        "help" : "Enter passage or topic",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 70,
+          "width" : 38,
+          "x" : 4,
+          "height" : 38
+        },
+        "label" : "Enter passage or topic"
+      },
+      {
+        "id" : "elem_3",
+        "role" : "button",
+        "role_description" : "unknown",
+        "description" : "Dashboard",
+        "help" : "Dashboard",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 109,
+          "width" : 38,
+          "x" : 4,
+          "height" : 38
+        },
+        "label" : "Dashboard"
+      },
+      {
+        "id" : "elem_4",
+        "role" : "button",
+        "role_description" : "unknown",
+        "description" : "Library",
+        "help" : "Library",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 148,
+          "width" : 38,
+          "x" : 4,
+          "height" : 38
+        },
+        "label" : "Library"
+      },
+      {
+        "id" : "elem_5",
+        "role" : "button",
+        "role_description" : "unknown",
+        "help" : "Search",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 187,
+          "width" : 38,
+          "x" : 4,
+          "height" : 38
+        },
+        "label" : "unknown"
+      },
+      {
+        "id" : "elem_6",
+        "role" : "button",
+        "role_description" : "unknown",
+        "help" : "Bible",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 226,
+          "width" : 38,
+          "x" : 4,
+          "height" : 38
+        },
+        "label" : "unknown"
+      },
+      {
+        "id" : "elem_7",
+        "role" : "button",
+        "role_description" : "unknown",
+        "help" : "Study Assistant",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 265,
+          "width" : 38,
+          "x" : 4,
+          "height" : 38
+        },
+        "label" : "unknown"
+      },
+      {
+        "id" : "elem_8",
+        "role" : "button",
+        "role_description" : "unknown",
+        "help" : "Factbook",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 304,
+          "width" : 38,
+          "x" : 4,
+          "height" : 38
+        },
+        "label" : "unknown"
+      },
+      {
+        "id" : "elem_9",
+        "role" : "button",
+        "role_description" : "unknown",
+        "description" : "Documents",
+        "help" : "Documents",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 343,
+          "width" : 38,
+          "x" : 4,
+          "height" : 38
+        },
+        "label" : "Documents"
+      },
+      {
+        "id" : "elem_10",
+        "role" : "button",
+        "role_description" : "unknown",
+        "description" : "Guides",
+        "help" : "Guides",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 382,
+          "width" : 38,
+          "x" : 4,
+          "height" : 38
+        },
+        "label" : "Guides"
+      },
+      {
+        "id" : "elem_11",
+        "role" : "button",
+        "role_description" : "unknown",
+        "description" : "Tools",
+        "help" : "Tools",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 421,
+          "width" : 38,
+          "x" : 4,
+          "height" : 38
+        },
+        "label" : "Tools"
+      },
+      {
+        "id" : "elem_12",
+        "role" : "button",
+        "role_description" : "unknown",
+        "description" : "More shortcuts",
+        "help" : "More shortcuts",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 600,
+          "width" : 38,
+          "x" : 0,
+          "height" : 22
+        },
+        "label" : "More shortcuts"
+      },
+      {
+        "id" : "elem_13",
+        "role" : "button",
+        "role_description" : "unknown",
+        "description" : "Christian Standard Bible",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 468,
+          "width" : 20.5,
+          "x" : 13,
+          "height" : 30
+        },
+        "label" : "Christian Standard Bible"
+      },
+      {
+        "id" : "elem_14",
+        "role" : "button",
+        "role_description" : "unknown",
+        "description" : "ESV",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 498,
+          "width" : 20.5,
+          "x" : 13,
+          "height" : 30
+        },
+        "label" : "ESV"
+      },
+      {
+        "id" : "elem_15",
+        "role" : "button",
+        "role_description" : "unknown",
+        "description" : "NASB95",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 528,
+          "width" : 20,
+          "x" : 13,
+          "height" : 30
+        },
+        "label" : "NASB95"
+      },
+      {
+        "id" : "elem_16",
+        "role" : "button",
+        "role_description" : "unknown",
+        "description" : "Psalms Explorer",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 558,
+          "width" : 20.5,
+          "x" : 13,
+          "height" : 30
+        },
+        "label" : "Psalms Explorer"
+      },
+      {
+        "id" : "elem_17",
+        "role" : "button",
+        "role_description" : "unknown",
+        "help" : "Help Center",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 631,
+          "width" : 42,
+          "x" : 0,
+          "height" : 38
+        },
+        "label" : "unknown"
+      },
+      {
+        "id" : "elem_18",
+        "role" : "button",
+        "role_description" : "unknown",
+        "description" : "Layouts",
+        "help" : "Layouts",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 670,
+          "width" : 42,
+          "x" : 0,
+          "height" : 38
+        },
+        "label" : "Layouts"
+      },
+      {
+        "id" : "elem_19",
+        "role" : "button",
+        "role_description" : "unknown",
+        "help" : "Close all panels",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 709,
+          "width" : 42,
+          "x" : 0,
+          "height" : 38
+        },
+        "label" : "unknown"
+      },
+      {
+        "id" : "elem_20",
+        "role" : "button",
+        "role_description" : "unknown",
+        "description" : "You’ve used 2% of your monthly AI credits\nCredits refill: September 21\n1 Updated Book\n",
+        "help" : "You’ve used 2% of your monthly AI credits\nCredits refill: September 21\n1 Updated Book\n",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 756,
+          "width" : 38,
+          "x" : 4,
+          "height" : 38
+        },
+        "label" : "You’ve used 2% of your monthly AI credits\nCredits refill: September 21\n1 Updated Book"
+      },
+      {
+        "id" : "elem_23",
+        "role" : "button",
+        "role_description" : "unknown",
+        "description" : "Items are waiting to be synchronized.",
+        "help" : "Items are waiting to be synchronized.",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 795,
+          "width" : 46,
+          "x" : 0,
+          "height" : 40
+        },
+        "label" : "Items are waiting to be synchronized."
+      },
+      {
+        "id" : "elem_24",
+        "role" : "button",
+        "role_description" : "unknown",
+        "help" : "Store",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 836,
+          "width" : 42,
+          "x" : 0,
+          "height" : 38
+        },
+        "label" : "unknown"
+      },
+      {
+        "id" : "elem_25",
+        "role" : "button",
+        "role_description" : "unknown",
+        "description" : "Account",
+        "help" : "Account",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 875,
+          "width" : 42,
+          "x" : 0,
+          "height" : 38
+        },
+        "label" : "Account"
+      },
+      {
+        "id" : "elem_28",
+        "role" : "button",
+        "role_description" : "unknown",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 77,
+          "width" : 24,
+          "x" : 178,
+          "height" : 16
+        },
+        "label" : "unknown"
+      },
+      {
+        "id" : "elem_30",
+        "role" : "button",
+        "role_description" : "unknown",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 67,
+          "width" : 36,
+          "x" : 202,
+          "height" : 36
+        },
+        "label" : "unknown"
+      },
+      {
+        "id" : "elem_31",
+        "role" : "button",
+        "role_description" : "unknown",
+        "help" : "Open or close this Panel’s menu",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 112,
+          "width" : 24,
+          "x" : 722,
+          "height" : 18
+        },
+        "label" : "unknown"
+      },
+      {
+        "id" : "elem_32",
+        "role" : "button",
+        "role_description" : "button",
+        "title" : "Add book",
+        "is_actionable" : true,
+        "is_enabled" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 111,
+          "width" : 62,
+          "x" : 53,
+          "height" : 20
+        },
+        "label" : "Add book"
+      },
+      {
+        "id" : "elem_33",
+        "role" : "button",
+        "role_description" : "button",
+        "is_actionable" : true,
+        "is_enabled" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 106,
+          "width" : 30,
+          "x" : 681,
+          "height" : 30
+        },
+        "title" : ""
+      },
+      {
+        "id" : "elem_54",
+        "role" : "button",
+        "role_description" : "button",
+        "title" : "Finished",
+        "is_actionable" : true,
+        "is_enabled" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 434,
+          "width" : 102,
+          "x" : 646,
+          "height" : 24
+        },
+        "label" : "Finished"
+      },
+      {
+        "id" : "elem_60",
+        "role" : "button",
+        "role_description" : "unknown",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 77,
+          "width" : 24,
+          "x" : 1082,
+          "height" : 16
+        },
+        "label" : "unknown"
+      },
+      {
+        "id" : "elem_62",
+        "role" : "button",
+        "role_description" : "unknown",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 67,
+          "width" : 36,
+          "x" : 1106,
+          "height" : 36
+        },
+        "label" : "unknown"
+      },
+      {
+        "id" : "elem_67",
+        "role" : "button",
+        "role_description" : "button",
+        "is_actionable" : true,
+        "is_enabled" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 181.5,
+          "width" : 26,
+          "x" : 1443,
+          "height" : 26
+        },
+        "title" : ""
+      },
+      {
+        "id" : "elem_73",
+        "role" : "button",
+        "role_description" : "increment page button",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 242,
+          "width" : 7,
+          "x" : 1458,
+          "height" : 709
+        },
+        "label" : "increment page button"
+      },
+      {
+        "id" : "elem_74",
+        "role" : "button",
+        "role_description" : "decrement page button",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 216,
+          "width" : 7,
+          "x" : 1458,
+          "height" : 9.5
+        },
+        "label" : "decrement page button"
+      },
+      {
+        "id" : "elem_77",
+        "role" : "button",
+        "role_description" : "unknown",
+        "is_actionable" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 923,
+          "width" : 18,
+          "x" : 38,
+          "height" : 18
+        },
+        "label" : "unknown"
+      },
+      {
+        "id" : "elem_78",
+        "role" : "button",
+        "role_description" : "close button",
+        "is_actionable" : true,
+        "is_enabled" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 42,
+          "width" : 16,
+          "x" : 8,
+          "height" : 16
+        },
+        "label" : "close button"
+      },
+      {
+        "id" : "elem_79",
+        "role" : "button",
+        "role_description" : "full screen button",
+        "help" : "this button also has an action to zoom the window",
+        "is_actionable" : true,
+        "is_enabled" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 42,
+          "width" : 16,
+          "x" : 54,
+          "height" : 16
+        },
+        "label" : "full screen button"
+      },
+      {
+        "id" : "elem_82",
+        "role" : "button",
+        "role_description" : "minimize button",
+        "is_actionable" : true,
+        "is_enabled" : true,
+        "ax_role" : "AXButton",
+        "bounds" : {
+          "y" : 42,
+          "width" : 16,
+          "x" : 31,
+          "height" : 16
+        },
+        "label" : "minimize button"
+      },
+      {
+        "id" : "elem_64",
+        "role" : "textField",
+        "role_description" : "text entry area",
+        "is_actionable" : false,
+        "is_enabled" : false,
+        "ax_role" : "AXTextArea",
+        "is_selected" : false,
+        "is_value_settable" : false,
+        "bounds" : {
+          "y" : 140,
+          "width" : 709,
+          "x" : 759,
+          "height" : 37
+        },
+        "label" : "text entry area"
+      },
+      {
+        "id" : "elem_76",
+        "role" : "textField",
+        "role_description" : "text entry area",
+        "is_actionable" : false,
+        "is_enabled" : false,
+        "ax_role" : "AXTextArea",
+        "is_selected" : false,
+        "is_value_settable" : false,
+        "bounds" : {
+          "y" : 213,
+          "width" : 696,
+          "x" : 759,
+          "height" : 741
+        },
+        "label" : "text entry area"
+      },
+      {
+        "id" : "elem_21",
+        "role" : "image",
+        "role_description" : "image",
+        "description" : "",
+        "is_actionable" : false,
+        "is_enabled" : true,
+        "ax_role" : "AXImage",
+        "bounds" : {
+          "y" : 755,
+          "width" : 40,
+          "x" : 3,
+          "height" : 40
+        },
+        "label" : "image"
+      },
+      {
+        "id" : "elem_29",
+        "role" : "image",
+        "role_description" : "image",
+        "description" : "",
+        "is_actionable" : false,
+        "is_enabled" : true,
+        "ax_role" : "AXImage",
+        "bounds" : {
+          "y" : 75,
+          "width" : 20,
+          "x" : 54,
+          "height" : 20
+        },
+        "label" : "image"
+      },
+      {
+        "id" : "elem_34",
+        "role" : "image",
+        "role_description" : "image",
+        "description" : "",
+        "is_actionable" : false,
+        "is_enabled" : true,
+        "ax_role" : "AXImage",
+        "bounds" : {
+          "y" : 147,
+          "width" : 50,
+          "x" : 45,
+          "height" : 62
+        },
+        "label" : "image"
+      },
+      {
+        "id" : "elem_38",
+        "role" : "image",
+        "role_description" : "image",
+        "description" : "",
+        "is_actionable" : false,
+        "is_enabled" : true,
+        "ax_role" : "AXImage",
+        "bounds" : {
+          "y" : 223,
+          "width" : 50,
+          "x" : 45,
+          "height" : 62
+        },
+        "label" : "image"
+      },
+      {
+        "id" : "elem_42",
+        "role" : "image",
+        "role_description" : "image",
+        "description" : "",
+        "is_actionable" : false,
+        "is_enabled" : true,
+        "ax_role" : "AXImage",
+        "bounds" : {
+          "y" : 299,
+          "width" : 50,
+          "x" : 45,
+          "height" : 62
+        },
+        "label" : "image"
+      },
+      {
+        "id" : "elem_46",
+        "role" : "image",
+        "role_description" : "image",
+        "description" : "",
+        "is_actionable" : false,
+        "is_enabled" : true,
+        "ax_role" : "AXImage",
+        "bounds" : {
+          "y" : 375,
+          "width" : 50,
+          "x" : 45,
+          "height" : 62
+        },
+        "label" : "image"
+      },
+      {
+        "id" : "elem_50",
+        "role" : "image",
+        "role_description" : "image",
+        "description" : "",
+        "is_actionable" : false,
+        "is_enabled" : true,
+        "ax_role" : "AXImage",
+        "bounds" : {
+          "y" : 376,
+          "width" : 18,
+          "x" : 276,
+          "height" : 18
+        },
+        "label" : "image"
+      },
+      {
+        "id" : "elem_55",
+        "role" : "image",
+        "role_description" : "image",
+        "description" : "",
+        "is_actionable" : false,
+        "is_enabled" : true,
+        "ax_role" : "AXImage",
+        "bounds" : {
+          "y" : 475,
+          "width" : 50,
+          "x" : 45,
+          "height" : 62
+        },
+        "label" : "image"
+      },
+      {
+        "id" : "elem_61",
+        "role" : "image",
+        "role_description" : "image",
+        "description" : "",
+        "is_actionable" : false,
+        "is_enabled" : true,
+        "ax_role" : "AXImage",
+        "bounds" : {
+          "y" : 75,
+          "width" : 20,
+          "x" : 767,
+          "height" : 20
+        },
+        "label" : "image"
+      },
+      {
+        "id" : "elem_63",
+        "role" : "group",
+        "role_description" : "group",
+        "is_actionable" : false,
+        "ax_role" : "AXGroup",
+        "bounds" : {
+          "y" : 103,
+          "width" : 709,
+          "x" : 759,
+          "height" : 74
+        },
+        "label" : "group"
+      },
+      {
+        "id" : "elem_75",
+        "role" : "group",
+        "role_description" : "group",
+        "is_actionable" : false,
+        "ax_role" : "AXGroup",
+        "bounds" : {
+          "y" : 213,
+          "width" : 696,
+          "x" : 759,
+          "height" : 741
+        },
+        "label" : "group"
+      },
+      {
+        "id" : "elem_80",
+        "role" : "group",
+        "role_description" : "group",
+        "is_actionable" : false,
+        "ax_role" : "AXGroup",
+        "bounds" : {
+          "y" : 43,
+          "width" : 14,
+          "x" : 55,
+          "height" : 14
+        },
+        "label" : "group"
+      },
+      {
+        "id" : "elem_81",
+        "role" : "group",
+        "role_description" : "group",
+        "is_actionable" : false,
+        "ax_role" : "AXGroup",
+        "bounds" : {
+          "y" : 43,
+          "width" : 14,
+          "x" : 55,
+          "height" : 14
+        },
+        "label" : "group"
+      },
+      {
+        "id" : "elem_0",
+        "role" : "other",
+        "role_description" : "standard window",
+        "title" : "Logos Pro",
+        "is_actionable" : false,
+        "ax_role" : "AXWindow",
+        "bounds" : {
+          "y" : 34,
+          "width" : 1470,
+          "x" : 0,
+          "height" : 922
+        },
+        "label" : "Logos Pro"
+      },
+      {
+        "id" : "elem_22",
+        "role" : "other",
+        "role_description" : "text",
+        "label" : "1",
+        "is_actionable" : false,
+        "ax_role" : "AXStaticText",
+        "bounds" : {
+          "y" : 766.5,
+          "width" : 10,
+          "x" : 18,
+          "height" : 17
+        },
+        "value" : "1"
+      },
+      {
+        "id" : "elem_26",
+        "role" : "other",
+        "role_description" : "split group",
+        "is_actionable" : false,
+        "ax_role" : "AXSplitGroup",
+        "bounds" : {
+          "y" : 67,
+          "width" : 1422,
+          "x" : 46,
+          "height" : 887
+        },
+        "label" : "split group"
+      },
+      {
+        "id" : "elem_27",
+        "role" : "other",
+        "role_description" : "scroll area",
+        "is_actionable" : false,
+        "ax_role" : "AXScrollArea",
+        "bounds" : {
+          "y" : 67,
+          "width" : 709,
+          "x" : 46,
+          "height" : 36
+        },
+        "label" : "scroll area"
+      },
+      {
+        "id" : "elem_35",
+        "role" : "other",
+        "role_description" : "text",
+        "label" : "Ante-Nicene Dogmatics",
+        "is_actionable" : false,
+        "ax_role" : "AXStaticText",
+        "bounds" : {
+          "y" : 148,
+          "width" : 649,
+          "x" : 102,
+          "height" : 20
+        },
+        "value" : "Ante-Nicene Dogmatics"
+      },
+      {
+        "id" : "elem_36",
+        "role" : "other",
+        "role_description" : "text",
+        "label" : "Ante-Nicene Fathers (topical library)",
+        "is_actionable" : false,
+        "ax_role" : "AXStaticText",
+        "bounds" : {
+          "y" : 168,
+          "width" : 649,
+          "x" : 102,
+          "height" : 20
+        },
+        "value" : "Ante-Nicene Fathers (topical library)"
+      },
+      {
+        "id" : "elem_37",
+        "role" : "other",
+        "role_description" : "text",
+        "label" : "Last built today",
+        "is_actionable" : false,
+        "ax_role" : "AXStaticText",
+        "bounds" : {
+          "y" : 188,
+          "width" : 649,
+          "x" : 102,
+          "height" : 20
+        },
+        "value" : "Last built today"
+      },
+      {
+        "id" : "elem_39",
+        "role" : "other",
+        "role_description" : "text",
+        "label" : "IVP Bible Background Commentary",
+        "is_actionable" : false,
+        "ax_role" : "AXStaticText",
+        "bounds" : {
+          "y" : 224,
+          "width" : 649,
+          "x" : 102,
+          "height" : 20
+        },
+        "value" : "IVP Bible Background Commentary"
+      },
+      {
+        "id" : "elem_40",
+        "role" : "other",
+        "role_description" : "text",
+        "label" : "Chavalas, Matthew",
+        "is_actionable" : false,
+        "ax_role" : "AXStaticText",
+        "bounds" : {
+          "y" : 244,
+          "width" : 649,
+          "x" : 102,
+          "height" : 20
+        },
+        "value" : "Chavalas, Matthew"
+      },
+      {
+        "id" : "elem_41",
+        "role" : "other",
+        "role_description" : "text",
+        "label" : "Last built October 12, 2020",
+        "is_actionable" : false,
+        "ax_role" : "AXStaticText",
+        "bounds" : {
+          "y" : 264,
+          "width" : 649,
+          "x" : 102,
+          "height" : 20
+        },
+        "value" : "Last built October 12, 2020"
+      },
+      {
+        "id" : "elem_43",
+        "role" : "other",
+        "role_description" : "text",
+        "label" : "Julian of Eclanum: Surviving Arguments Preserved by Augustine",
+        "is_actionable" : false,
+        "ax_role" : "AXStaticText",
+        "bounds" : {
+          "y" : 300,
+          "width" : 649,
+          "x" : 102,
+          "height" : 20
+        },
+        "value" : "Julian of Eclanum: Surviving Arguments Preserved by Augustine"
+      },
+      {
+        "id" : "elem_44",
+        "role" : "other",
+        "role_description" : "text",
+        "label" : "Julian of Eclanum",
+        "is_actionable" : false,
+        "ax_role" : "AXStaticText",
+        "bounds" : {
+          "y" : 320,
+          "width" : 649,
+          "x" : 102,
+          "height" : 20
+        },
+        "value" : "Julian of Eclanum"
+      },
+      {
+        "id" : "elem_45",
+        "role" : "other",
+        "role_description" : "text",
+        "label" : "Last built yesterday",
+        "is_actionable" : false,
+        "ax_role" : "AXStaticText",
+        "bounds" : {
+          "y" : 340,
+          "width" : 649,
+          "x" : 102,
+          "height" : 20
+        },
+        "value" : "Last built yesterday"
+      },
+      {
+        "id" : "elem_47",
+        "role" : "other",
+        "role_description" : "text",
+        "label" : "Origen: On Prayer and Exhortation to Martyrdom",
+        "is_actionable" : false,
+        "ax_role" : "AXStaticText",
+        "bounds" : {
+          "y" : 376,
+          "width" : 175,
+          "x" : 102,
+          "height" : 38
+        },
+        "value" : "Origen: On Prayer and Exhortation to Martyrdom"
+      },
+      {
+        "id" : "elem_48",
+        "role" : "other",
+        "role_description" : "text",
+        "label" : "Origen of Alexandria",
+        "is_actionable" : false,
+        "ax_role" : "AXStaticText",
+        "bounds" : {
+          "y" : 414,
+          "width" : 175,
+          "x" : 102,
+          "height" : 20
+        },
+        "value" : "Origen of Alexandria"
+      },
+      {
+        "id" : "elem_49",
+        "role" : "other",
+        "role_description" : "text",
+        "label" : "Last built today",
+        "is_actionable" : false,
+        "ax_role" : "AXStaticText",
+        "bounds" : {
+          "y" : 434,
+          "width" : 175,
+          "x" : 102,
+          "height" : 26
+        },
+        "value" : "Last built today"
+      },
+      {
+        "id" : "elem_51",
+        "role" : "other",
+        "role_description" : "text",
+        "label" : "Build succeeded with 0 errors, 0 warnings.",
+        "is_actionable" : false,
+        "ax_role" : "AXStaticText",
+        "bounds" : {
+          "y" : 376,
+          "width" : 249,
+          "x" : 293,
+          "height" : 38
+        },
+        "value" : "Build succeeded with 0 errors, 0 warnings."
+      },
+      {
+        "id" : "elem_52",
+        "role" : "other",
+        "role_description" : "text",
+        "label" : "Open book",
+        "is_actionable" : false,
+        "ax_role" : "AXStaticText",
+        "bounds" : {
+          "y" : 414,
+          "width" : 350,
+          "x" : 277,
+          "height" : 20
+        },
+        "value" : "Open book"
+      },
+      {
+        "id" : "elem_53",
+        "role" : "other",
+        "role_description" : "text",
+        "label" : "View log file…",
+        "is_actionable" : false,
+        "ax_role" : "AXStaticText",
+        "bounds" : {
+          "y" : 434,
+          "width" : 350,
+          "x" : 277,
+          "height" : 26
+        },
+        "value" : "View log file…"
+      },
+      {
+        "id" : "elem_56",
+        "role" : "other",
+        "role_description" : "text",
+        "label" : "Systematic Theology",
+        "is_actionable" : false,
+        "ax_role" : "AXStaticText",
+        "bounds" : {
+          "y" : 476,
+          "width" : 649,
+          "x" : 102,
+          "height" : 20
+        },
+        "value" : "Systematic Theology"
+      },
+      {
+        "id" : "elem_57",
+        "role" : "other",
+        "role_description" : "text",
+        "label" : "Grudem, Wayne",
+        "is_actionable" : false,
+        "ax_role" : "AXStaticText",
+        "bounds" : {
+          "y" : 496,
+          "width" : 649,
+          "x" : 102,
+          "height" : 20
+        },
+        "value" : "Grudem, Wayne"
+      },
+      {
+        "id" : "elem_58",
+        "role" : "other",
+        "role_description" : "text",
+        "label" : "Last built October 29, 2020",
+        "is_actionable" : false,
+        "ax_role" : "AXStaticText",
+        "bounds" : {
+          "y" : 516,
+          "width" : 649,
+          "x" : 102,
+          "height" : 20
+        },
+        "value" : "Last built October 29, 2020"
+      },
+      {
+        "id" : "elem_59",
+        "role" : "other",
+        "role_description" : "scroll area",
+        "is_actionable" : false,
+        "ax_role" : "AXScrollArea",
+        "bounds" : {
+          "y" : 67,
+          "width" : 709,
+          "x" : 759,
+          "height" : 36
+        },
+        "label" : "scroll area"
+      },
+      {
+        "id" : "elem_65",
+        "role" : "other",
+        "role_description" : "split group",
+        "is_actionable" : false,
+        "ax_role" : "AXSplitGroup",
+        "bounds" : {
+          "y" : 177,
+          "width" : 709,
+          "x" : 759,
+          "height" : 777
+        },
+        "label" : "split group"
+      },
+      {
+        "id" : "elem_66",
+        "role" : "other",
+        "role_description" : "split group",
+        "is_actionable" : false,
+        "ax_role" : "AXSplitGroup",
+        "bounds" : {
+          "y" : 177,
+          "width" : 709,
+          "x" : 759,
+          "height" : 777
+        },
+        "label" : "split group"
+      },
+      {
+        "id" : "elem_68",
+        "role" : "other",
+        "role_description" : "list",
+        "description" : "path",
+        "is_actionable" : false,
+        "is_enabled" : true,
+        "ax_role" : "AXList",
+        "bounds" : {
+          "y" : 184.5,
+          "width" : 685,
+          "x" : 758,
+          "height" : 20
+        },
+        "label" : "path"
+      },
+      {
+        "id" : "elem_69",
+        "role" : "other",
+        "role_description" : "text",
+        "label" : "On Prayer",
+        "is_actionable" : false,
+        "is_enabled" : true,
+        "ax_role" : "AXStaticText",
+        "bounds" : {
+          "y" : 185.5,
+          "width" : 75,
+          "x" : 759,
+          "height" : 18
+        },
+        "value" : "On Prayer"
+      },
+      {
+        "id" : "elem_70",
+        "role" : "other",
+        "role_description" : "text",
+        "label" : "On Prayer 1",
+        "is_actionable" : false,
+        "is_enabled" : true,
+        "ax_role" : "AXStaticText",
+        "bounds" : {
+          "y" : 185.5,
+          "width" : 80,
+          "x" : 834,
+          "height" : 18
+        },
+        "value" : "On Prayer 1"
+      },
+      {
+        "id" : "elem_71",
+        "role" : "other",
+        "role_description" : "scroll bar",
+        "label" : "0.01385326869785786",
+        "is_actionable" : true,
+        "is_enabled" : true,
+        "ax_role" : "AXScrollBar",
+        "is_value_settable" : true,
+        "bounds" : {
+          "y" : 212,
+          "width" : 15,
+          "x" : 1454,
+          "height" : 743
+        },
+        "value" : "0.01385326869785786"
+      },
+      {
+        "id" : "elem_72",
+        "role" : "other",
+        "role_description" : "value indicator",
+        "label" : "0.01385326869785786",
+        "is_actionable" : false,
+        "ax_role" : "AXValueIndicator",
+        "bounds" : {
+          "y" : 225.5,
+          "width" : 7,
+          "x" : 1458,
+          "height" : 16
+        },
+        "value" : "0.01385326869785786"
+      },
+      {
+        "id" : "elem_83",
+        "role" : "other",
+        "role_description" : "text",
+        "label" : "Logos Pro",
+        "is_actionable" : false,
+        "is_enabled" : true,
+        "ax_role" : "AXStaticText",
+        "bounds" : {
+          "y" : 42,
+          "width" : 69,
+          "x" : 82,
+          "height" : 16
+        },
+        "value" : "Logos Pro"
+      }
+    ]
+  },
+  "success" : true,
+  "target_receipt" : {
+    "process_start_identity_decimal" : "1789077219649192",
+    "window_id" : 14168,
+    "pid" : 44992,
+    "process_start_identity" : 1789077219649192
+  },
+  "debug_logs" : [
+    "[2026-09-10T21:55:10.986Z] DEBUG: Runtime host: remote onDemand via \/Users\/sj\/Library\/Application Support\/Peekaboo\/daemon-5f60a177459c9613.sock (build 4.3.1 (4.3.1))",
+    "[2026-09-10T21:55:10.986Z] VERBOSE [Operation]: Starting operation {hasAnalyzePrompt=false, mode=auto, menubar=false, operation=see_command, app=none, annotate=false}",
+    "[2026-09-10T21:55:10.986Z] VERBOSE [Performance]: Starting timer 'see_command'",
+    "[2026-09-10T21:55:11.001Z] VERBOSE [Capture]: Starting capture and detection phase",
+    "[2026-09-10T21:55:11.001Z] VERBOSE [Capture]: Using desktop observation pipeline {target=pid:44992}",
+    "[2026-09-10T21:55:11.001Z] VERBOSE [Operation]: Starting operation {operation=capture_phase, mode=window}",
+    "[2026-09-10T21:55:11.001Z] VERBOSE [Performance]: Starting timer 'capture_phase'",
+    "[2026-09-10T21:55:11.350Z] VERBOSE [Operation]: Operation completed {operation=capture_phase, mode=window, success=true}",
+    "[2026-09-10T21:55:11.350Z] VERBOSE [Performance]: Timer 'capture_phase' completed {duration_ms=348}",
+    "[2026-09-10T21:55:11.350Z] VERBOSE [Performance]: Desktop observation span {duration_ms=14, span=state.snapshot}",
+    "[2026-09-10T21:55:11.350Z] VERBOSE [Performance]: Desktop observation span {duration_ms=11, span=target.resolve}",
+    "[2026-09-10T21:55:11.350Z] VERBOSE [Performance]: Desktop observation span {duration_ms=118, span=capture.window}",
+    "[2026-09-10T21:55:11.350Z] VERBOSE [Performance]: Desktop observation span {duration_ms=48, span=detection.ax}",
+    "[2026-09-10T21:55:11.350Z] VERBOSE [Performance]: Desktop observation span {duration_ms=23, span=detection.ocr}",
+    "[2026-09-10T21:55:11.350Z] VERBOSE [Performance]: Desktop observation span {duration_ms=1, span=output.write}",
+    "[2026-09-10T21:55:11.350Z] VERBOSE [Performance]: Desktop observation span {duration_ms=1, span=output.raw.write}",
+    "[2026-09-10T21:55:11.350Z] VERBOSE [Performance]: Desktop observation span {duration_ms=0, span=snapshot.write}",
+    "[2026-09-10T21:55:11.350Z] VERBOSE [Performance]: Desktop observation span {duration_ms=322, span=desktop.observe}",
+    "[2026-09-10T21:55:11.351Z] VERBOSE [Capture]: Capture completed successfully {screenshotSize=863086, snapshotId=ps1_e012c6589ced2c484e30a60af95ab972, elementCount=84}"
+  ]
+}

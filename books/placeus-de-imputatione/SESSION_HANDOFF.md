@@ -1,3 +1,228 @@
+## 2026-09-23 Cap. X Rom. 5:14 densify
+
+- Before: **706** sections (through Cap. X foedus tip)
+- After: **712** sections (through Cap. X Rom. 5:14 tip)
+- Packet: `cap10_mp_rom5_v14_densify` id `f593a953ea27b2d0dc452554c5a28879c231b5d4291f1e4637208d216bc1ee02`
+- Locked Latin: `sources/_placeus_cap10_mp_rom5_v14_latin_lock.txt` (1661 PDF pp. 370–372 tip)
+- Pass A≠B; OUR; English-first; no PBB/ops TNs
+- Lemma note: typus futuri; reatus habitualis; Pighius; Punch X=NO
+- Gates: `check_pass_ab` ok cap10_mp_rom5_v14_707–712; `--tip-ready` 0; packet `reviews/audit/cap10_mp_rom5_v14_densify.packet.json`
+- Hold: after tip-ready; live>5955 or 12m (`sources/_ocr_cap10_mp_rom5_v14/hold_receipt.json`; released ?)
+- Stopped after Cap. X Rom. 5:14 tip (act/habit continue)…
+- Honest partial: Cap. X after v.14 / rest / ~494 pp Disputatio remain (**do not claim full Disputatio**)
+- Claim `placeus-de-imputatione-densify` stays claimed (scribe-placeus); no second claim; not marked done
+- Punch X: **NO** (do not ship)
+
+## 2026-09-23 Cap. X reatus densify
+
+- Before: **670** sections (through Cap. X GAR.3 tip)
+- After: **676** sections (through Cap. X reatus tip)
+- Packet: `cap10_mp_rom5_reatus_densify` id `3d8f501ac436ff706eb6e1b22fad18ad418869a6a715c4a1e7440035f374a4c3`
+- Locked Latin: `sources/_placeus_cap10_mp_rom5_reatus_latin_lock.txt` (1661 PDF pp. 360–362 tip)
+- Pass A≠B; OUR; English-first; no PBB/ops TNs
+- Lemma note: solus reatus; ἁμαρτία; ἄχρι νόμου; Punch X=NO
+- Gates: `check_pass_ab` ok cap10_mp_rom5_reatus_671–676; `--tip-ready` 0; packet `reviews/audit/cap10_mp_rom5_reatus_densify.packet.json`
+- Hold: after tip-ready; live>5780 or 12m (`sources/_ocr_cap10_mp_rom5_reatus/hold_receipt.json`; released elapsed>=720s)
+- Stopped before Cap. X continue…
+- Honest partial: Cap. X continue+ / rest / ~494 pp Disputatio remain (**do not claim full Disputatio**)
+- Claim `placeus-de-imputatione-densify` stays claimed (scribe-placeus); no second claim; not marked done
+- Punch X: **NO** (do not ship)
+
+## 2026-09-23 Cap. IX equity / Martyr communion densify
+
+- Before: **652** sections (through Cap. IX inhaerentia tip)
+- After: **658** sections (through Cap. IX equity/Martyr communion tip)
+- Packet: `cap9_equity_densify` id `49604a1afb9155c19b358b1a8170cb8bce66079c26ed2f2dd9332f9a810e7b22`
+- Locked Latin: `sources/_placeus_cap9_equity_latin_lock.txt` (1661 PDF pp. 356–357 tip)
+- Pass A≠B; OUR; English-first; no PBB/ops TNs
+- Lemma note: philanthropia; vi communionis; tou einai; Petrum Martyrem
+- Gates: `check_pass_ab` ok cap9_equity_653–658; `--tip-ready` 0; packet `reviews/audit/cap9_equity_densify.packet.json`
+- Hold: after tip-ready; live>5693 or 12m (`sources/_ocr_cap9_equity/hold_receipt.json`; released elapsed>=720s)
+- Stopped before Cap. X (Rom. 5.13+)…
+- Honest partial: Cap. IX deepen+ / rest of MS examination / ~494 pp Disputatio remain (**do not claim full Disputatio**)
+- Claim `placeus-de-imputatione-densify` stays claimed (scribe-placeus); no second claim; not marked done
+- Punch X: **NO** (do not ship)
+
+## 2026-09-23 Cap. IX imputation vs inhaerentia / habitual densify
+
+- Before: **646** sections (through Cap. IX missa/poena tip)
+- After: **652** sections (through Cap. IX habitual-imputation / not-in-us tip)
+- Packet: `cap9_inhaerentia_densify` id `0c1e860a1644ea47ef67a5abd895a99aaf8dc78f6c51781575b108e4ad4ed728`
+- Locked Latin: `sources/_placeus_cap9_inhaerentia_latin_lock.txt` (1661 PDF pp. 355–356 tip)
+- Pass A≠B; OUR; English-first; no PBB/ops TNs
+- Lemma note: inhaerentia; peccatum habituale; imputatur≠inest; do not revive εργον
+- Gates: `check_pass_ab` ok cap9_inhaerentia_647–652; `--tip-ready` 0; packet `reviews/audit/cap9_inhaerentia_densify.packet.json`
+- Hold: after tip-ready; live>5646 or 12m (`sources/_ocr_cap9_inhaerentia/hold_receipt.json`; released ?)
+- Stopped before Cap. IX equity / Martyr…
+- Honest partial: Cap. IX deepen+ / rest of MS examination / ~494 pp Disputatio remain (**do not claim full Disputatio**)
+- Claim `placeus-de-imputatione-densify` stays claimed (scribe-placeus); no second claim; not marked done
+- Punch X: **NO** (do not ship)
+
+## 2026-09-23 Cap. IX missa / poena originale counter densify
+
+- Before: **640** sections (through Cap. IX vadem tip)
+- After: **646** sections (through Cap. IX missa/poena → deny original tip)
+- Packet: `cap9_missa_poena_densify` id `1d7db0824124b791b514c80376fffaffc97177e4674e287cc1630c7d368d50df`
+- Locked Latin: `sources/_placeus_cap9_missa_poena_latin_lock.txt` (1661 PDF pp. 354–355 tip)
+- Pass A≠B; OUR; English-first; no PBB/ops TNs
+- Lemma note: missa; poena originale; loco nostro punitus; do not revive εργον
+- Gates: `check_pass_ab` ok cap9_missa_poena_641–646; `--tip-ready` 0; packet `reviews/audit/cap9_missa_poena_densify.packet.json`
+- Hold: after tip-ready; live>5646 or 12m (`sources/_ocr_cap9_missa_poena/hold_receipt.json`; released elapsed>=720s)
+- Stopped before Cap. IX imputation vs inhaerentia…
+- Honest partial: Cap. IX deepen+ / rest of MS examination / ~494 pp Disputatio remain (**do not claim full Disputatio**)
+- Claim `placeus-de-imputatione-densify` stays claimed (scribe-placeus); no second claim; not marked done
+- Punch X: **NO** (do not ship)
+
+## 2026-09-23 Cap. IX peccavit pro omnibus posteris / vadem densify
+
+- Before: **634** sections (through Cap. IX Zanchius actu tip)
+- After: **640** sections (through Cap. IX vadem / only-Adam-Eve tip)
+- Packet: `cap9_pro_posteris_densify` id `6fe6a606b3725426e28cef0eb6a000d68a816d477a0468eb6c491d65d098b0ab`
+- Locked Latin: `sources/_placeus_cap9_pro_posteris_latin_lock.txt` (1661 PDF pp. 353–354 tip)
+- Pass A≠B; OUR; English-first; no PBB/ops TNs
+- Lemma note: loco nostro; vadem; peccare loco alterius; do not revive εργον
+- Gates: `check_pass_ab` ok cap9_pro_posteris_635–640; `--tip-ready` 0; packet `reviews/audit/cap9_pro_posteris_densify.packet.json`
+- Hold: after tip-ready; live>5604 or 12m (`sources/_ocr_cap9_pro_posteris/hold_receipt.json`; released ?)
+- Stopped before Cap. IX missa/poena originale counter…
+- Honest partial: Cap. IX deepen+ / rest of MS examination / ~494 pp Disputatio remain (**do not claim full Disputatio**)
+- Claim `placeus-de-imputatione-densify` stays claimed (scribe-placeus); no second claim; not marked done
+- Punch X: **NO** (do not ship)
+
+## 2026-09-23 Cap. IX aptitudo / Sohnius / Zanchius actu densify
+
+- Before: **628** sections (through Cap. IX Calvin Clavis tip)
+- After: **634** sections (through Cap. IX Zanchius actu / original vitium tip)
+- Packet: `cap9_aptitudo_densify` id `ce83955e322e96cf9b29d76aea2912d5f1088c23808f9489c22de49f71836ba9`
+- Locked Latin: `sources/_placeus_cap9_aptitudo_latin_lock.txt` (1661 PDF pp. 352–353 tip)
+- Pass A≠B; OUR; English-first; no PBB/ops TNs
+- Lemma note: aptitudo; Sohnius; Zanchius; peccare actu; do not revive εργον
+- Gates: `check_pass_ab` ok cap9_aptitudo_629–634; `--tip-ready` 0; packet `reviews/audit/cap9_aptitudo_densify.packet.json`
+- Hold: after tip-ready; live>5604 or 12m (`sources/_ocr_cap9_aptitudo/hold_receipt.json`; released elapsed>=720s)
+- Stopped before Cap. IX peccavit pro omnibus posteris…
+- Honest partial: Cap. IX deepen+ / rest of MS examination / ~494 pp Disputatio remain (**do not claim full Disputatio**)
+- Claim `placeus-de-imputatione-densify` stays claimed (scribe-placeus); no second claim; not marked done
+- Punch X: **NO** (do not ship)
+
+## 2026-09-23 Cap. IX PLAC immediate-imputation + Calvin Clavis densify
+
+- Before: **622** sections (through Cap. IX Rom5 omnes/Jeroboam tip)
+- After: **628** sections (through Cap. IX Calvin Clavis / Rom5 habitual tip)
+- Packet: `cap9_immed_clavis_densify` id `3bca5a4a00caa54dc904f5aab2e28f57c86539fabd52054fd694d94fe1f7b4cb`
+- Locked Latin: `sources/_placeus_cap9_immed_clavis_latin_lock.txt` (1661 PDF pp. 351–352 tip)
+- Pass A≠B; OUR; English-first; no PBB/ops TNs
+- Lemma note: imputatio immediata/antecedens; Clavis Scripturae; habitualis significatio; do not revive εργον
+- Gates: `check_pass_ab` ok cap9_immed_clavis_623–628; `--tip-ready` 0; packet `reviews/audit/cap9_immed_clavis_densify.packet.json`
+- Hold: after tip-ready; live>5570 or 12m (`sources/_ocr_cap9_immed_clavis/hold_receipt.json`; released live_sections>5570 (5604))
+- Stopped before Cap. IX aptitudo / Sohnius / Zanchius…
+- Honest partial: Cap. IX deepen+ / rest of MS examination / ~494 pp Disputatio remain (**do not claim full Disputatio**)
+- Claim `placeus-de-imputatione-densify` stays claimed (scribe-placeus); no second claim; not marked done
+- Punch X: **NO** (do not ship)
+
+## 2026-09-23 Cap. IX Rom 5 omnes / Jeroboam + peccaverunt densify
+
+- Before: **616** sections (through Cap. IX GAR 2 mortem Adami tip)
+- After: **622** sections (through Cap. IX peccaverunt syllogism / GAR Resp tip)
+- Packet: `cap9_rom5_omnes_densify` id `295b589003355fbb8aaaacad970e5ef75322d4975e6320f55fcf852dde4f5c6e`
+- Locked Latin: `sources/_placeus_cap9_rom5_omnes_latin_lock.txt` (1661 PDF pp. 349–351 tip)
+- Pass A≠B; OUR; English-first; no PBB/ops TNs
+- Lemma note: peccatum Jeroboami; omnes peccaverunt; quatuor termini; do not revive εργον
+- Gates: `check_pass_ab` ok cap9_rom5_omnes_617–622; `--tip-ready` 0; packet `reviews/audit/cap9_rom5_omnes_densify.packet.json`
+- Hold: after tip-ready; live>5570 or 12m (`sources/_ocr_cap9_rom5_omnes/hold_receipt.json`; released elapsed>=720s)
+- Stopped before Cap. IX PLAC immediate-imputation expl / Calvin Clavis…
+- Honest partial: Cap. IX deepen+ / rest of MS examination / ~494 pp Disputatio remain (**do not claim full Disputatio**)
+- Claim `placeus-de-imputatione-densify` stays claimed (scribe-placeus); no second claim; not marked done
+- Punch X: **NO** (do not ship)
+
+## 2026-09-23 Cap. IX GAR 2 / mortem Adami imputari densify
+
+- Before: **610** sections (through Cap. IX GAR Resp.1 / GAR 2 open tip)
+- After: **616** sections (through Cap. IX PLAC why-only-Adam / dual reasons tip)
+- Packet: `cap9_gar2_mors_densify` id `7eb7550788f04e8185b1191d2c70b83d23e56e0ed57ba0d6963c0532451c71d3`
+- Locked Latin: `sources/_placeus_cap9_gar2_mors_latin_lock.txt` (1661 PDF pp. 348–349 tip)
+- Pass A≠B; OUR; English-first; no PBB/ops TNs
+- Lemma note: mortem Adami imputari; in Adamo morimur; omnes; do not revive εργον
+- Gates: `check_pass_ab` ok cap9_gar2_mors_611–616; `--tip-ready` 0; packet `reviews/audit/cap9_gar2_mors_densify.packet.json`
+- Hold: after tip-ready; live>5525 or 12m (`sources/_ocr_cap9_gar2_mors/hold_receipt.json`; released live_sections>5525 (5570))
+- Stopped before Cap. IX Rom 5 omnes / Jeroboam syllogism…
+- Honest partial: Cap. IX deepen+ / rest of MS examination / ~494 pp Disputatio remain (**do not claim full Disputatio**)
+- Claim `placeus-de-imputatione-densify` stays claimed (scribe-placeus); no second claim; not marked done
+- Punch X: **NO** (do not ship)
+
+## 2026-09-23 Cap. IX GAR Resp. 1 (Confession Art. 10) densify
+
+- Before: **604** sections (through Cap. IX PLAC Rom5/communion tip)
+- After: **610** sections (through Cap. IX GAR Resp.1 / GAR 2 open tip)
+- Packet: `cap9_gar_resp1_densify` id `942afa80f124b46e9fa3cab70227e2463ba9e093e7d4891537f53c73b1067fdb`
+- Locked Latin: `sources/_placeus_cap9_gar_resp1_latin_lock.txt` (1661 PDF pp. 347–348 tip)
+- Pass A≠B; OUR; English-first; no PBB/ops TNs
+- Lemma note: morti addictos; Art. 10; in ipsa Adami persona; do not revive εργον
+- Gates: `check_pass_ab` ok cap9_gar_resp1_605–610; `--tip-ready` 0; packet `reviews/audit/cap9_gar_resp1_densify.packet.json`
+- Hold: after tip-ready; live>5525 or 12m (`sources/_ocr_cap9_gar_resp1/hold_receipt.json`; released elapsed>=720s)
+- Stopped before Cap. IX GAR 2 / PLAC mortem Adami imputari…
+- Honest partial: Cap. IX deepen+ / rest of MS examination / ~494 pp Disputatio remain (**do not claim full Disputatio**)
+- Claim `placeus-de-imputatione-densify` stays claimed (scribe-placeus); no second claim; not marked done
+- Punch X: **NO** (do not ship)
+
+## 2026-09-23 Cap. IX PLAC evangelical-justice + Heb.7 / 1 Cor.15 densify
+
+- Before: **598** sections (through Cap. IX PLAC vere/proprie equity tip)
+- After: **604** sections (through Cap. IX PLAC Rom5/communion tip before GAR Resp.1)
+- Packet: `cap9_plac_evang_densify` id `0d9637fd936961e85bcbe4d705d4c17b7df39f43aca28167b6bf4298419275fb`
+- Locked Latin: `sources/_placeus_cap9_plac_evang_latin_lock.txt` (1661 PDF pp. 345–347 tip)
+- Pass A≠B; OUR; English-first; no PBB/ops TNs
+- Lemma note: iustitia evangelica; Heb 7 Levi; 1 Cor 15; vi communionis naturalis; do not revive εργον
+- Gates: `check_pass_ab` ok cap9_plac_evang_599–604; `--tip-ready` 0; packet `reviews/audit/cap9_plac_evang_densify.packet.json`
+- Hold: after tip-ready; live>5498 or 12m (`sources/_ocr_cap9_plac_evang/hold_receipt.json`; released live_sections>5498 (5525))
+- Stopped before Cap. IX GAR Resp. 1 (Confession Art. 10)…
+- Honest partial: Cap. IX deepen+ / rest of MS examination / ~494 pp Disputatio remain (**do not claim full Disputatio**)
+- Claim `placeus-de-imputatione-densify` stays claimed (scribe-placeus); no second claim; not marked done
+- Punch X: **NO** (do not ship)
+
+## 2026-09-23 Cap. IX PLAC vere/falso & proprie densify (after GAR 5)
+
+- Before: **592** sections (through Cap. IX GAR 4 tip)
+- After: **598** sections (through Cap. IX PLAC vere/proprie equity tip)
+- Packet: `cap9_plac_vere_densify` id `81d378989374da32a6cb581a7f0a792edd47275bb27ca7f5f3a83418b2cb3b25`
+- Locked Latin: `sources/_placeus_cap9_plac_vere_latin_lock.txt` (1661 PDF pp. 344–345 tip)
+- Pass A≠B; OUR; English-first; no PBB/ops TNs
+- Lemma note: personaliter; vadi peccatoris; Pighius; Martyr/Calvin/Chamier; do not revive εργον
+- Gates: `check_pass_ab` ok cap9_plac_vere_593–598; `--tip-ready` 0; packet `reviews/audit/cap9_plac_vere_densify.packet.json`
+- Hold: after tip-ready; live>5471 or 12m (`sources/_ocr_cap9_plac_vere/hold_receipt.json`; released live_sections>5471 (5498))
+- Stopped before Cap. IX PLAC evangelical-justice reply / Heb. 7 / 1 Cor. 15…
+- Honest partial: Cap. IX deepen+ / rest of MS examination / ~494 pp Disputatio remain (**do not claim full Disputatio**)
+- Claim `placeus-de-imputatione-densify` stays claimed (scribe-placeus); no second claim; not marked done
+- Punch X: **NO** (do not ship)
+
+## 2026-09-23 Cap. IX ephho densify (omit/death dilemma → before all-sinners)
+
+- Before: **586** sections (through Cap. IX Pelagian telum tip)
+- After: **592** sections (through Cap. IX GAR 4 tip)
+- Packet: `cap9_gar4_densify` id `686c6daaa9a6c7f78421ec7e632ebc04fd5c8448f4d2bbee0d4849da61a6ba83`
+- Locked Latin: `sources/_placeus_cap9_gar4_latin_lock.txt` (1661 PDF pp. 343–344 tip)
+- Pass A≠B; OUR; English-first; no PBB/ops TNs
+- Lemma note: Pighius; Pelagiani; mors animae; silentio praeterire; do not revive εργον
+- Gates: `check_pass_ab` ok cap9_gar4_587–592; `--tip-ready` 0; packet `reviews/audit/cap9_gar4_densify.packet.json`
+- Hold: after tip-ready; live>5444 or 12m (`sources/_ocr_cap9_gar4/hold_receipt.json`; released live_sections>5444 (5471) @~588s)
+- Stopped before Cap. IX eph-ho / eph-ho pantes…
+- Honest partial: Cap. IX deepen+ / rest of MS examination / ~494 pp Disputatio remain (**do not claim full Disputatio**)
+- Claim `placeus-de-imputatione-densify` stays claimed (scribe-placeus); no second claim; not marked done
+- Punch X: **NO** (do not ship)
+
+## 2026-09-23 Cap. IX ephho densify (omit/death dilemma → before all-sinners)
+
+- Before: **580** sections (through Cap. IX alius-pro-nobis tip)
+- After: **586** sections (through Cap. IX Pelagian telum tip)
+- Packet: `cap9_pelag_densify` id `bd7429579cdc2471a5d6aaca5c2e9200a56758a7929a46f22c4af6fde375f094`
+- Locked Latin: `sources/_placeus_cap9_pelag_latin_lock.txt` (1661 PDF pp. 342–343 tip)
+- Pass A≠B; OUR; English-first; no PBB/ops TNs
+- Lemma note: Pighius; Pelagiani; mors animae; silentio praeterire; do not revive εργον
+- Gates: `check_pass_ab` ok cap9_pelag_581–586; `--tip-ready` 0; packet `reviews/audit/cap9_pelag_densify.packet.json`
+- Hold: after tip-ready; live>5418 or 12m (`sources/_ocr_cap9_pelag/hold_receipt.json`; released ?)
+- Stopped before Cap. IX eph-ho / eph-ho pantes…
+- Honest partial: Cap. IX deepen+ / rest of MS examination / ~494 pp Disputatio remain (**do not claim full Disputatio**)
+- Claim `placeus-de-imputatione-densify` stays claimed (scribe-placeus); no second claim; not marked done
+- Punch X: **NO** (do not ship)
+
 ## 2026-09-23 Cap. IX ephho densify (omit/death dilemma → before all-sinners)
 
 - Before: **574** sections (through Cap. IX jest/serio tip)

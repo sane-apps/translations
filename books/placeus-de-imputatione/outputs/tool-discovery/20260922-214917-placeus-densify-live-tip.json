@@ -1,0 +1,239 @@
+{
+  "generated_at": "2026-09-22T21:49:15-04:00",
+  "route": "SaneMaster.rb tool_discovery",
+  "authoritative": true,
+  "query": "placeus densify live tip",
+  "query_terms": [
+    "placeus densify live tip",
+    "placeus",
+    "densify",
+    "live"
+  ],
+  "project_root": "/Users/stephansmac/SaneApps/clients/translations/books/placeus-de-imputatione",
+  "checks": {
+    "canonical_paths": [
+      {
+        "name": "Tool discovery and canonical path selection",
+        "keywords": [
+          "tool",
+          "tools",
+          "missing",
+          "workflow",
+          "sop",
+          "standard",
+          "documented",
+          "enforce",
+          "enforced",
+          "path",
+          "best",
+          "hunting",
+          "workaround"
+        ],
+        "command": "ruby scripts/SaneMaster.rb tool_discovery --query \"...\"",
+        "source": "scripts/SaneMaster.rb tool_discovery",
+        "why": "Proof step before claiming a tool is missing or inventing a workaround.",
+        "score": 1
+      }
+    ],
+    "skills_registry": {
+      "source": [
+        "/Users/stephansmac/.codex/SKILLS_REGISTRY.md"
+      ],
+      "matches": [
+        {
+          "term": "live",
+          "file": "/Users/stephansmac/.codex/SKILLS_REGISTRY.md",
+          "line": 31,
+          "content": "| `status` | live project state across sources, including distribution/listing lanes | \"what's the status\", \"where are we\", \"catch me up\", \"what's actually going on\" |"
+        },
+        {
+          "term": "live",
+          "file": "/Users/stephansmac/.codex/SKILLS_REGISTRY.md",
+          "line": 82,
+          "content": "- ask where the failure lives or what path is authoritative -> `codebase-explorer`"
+        }
+      ],
+      "exists": true
+    },
+    "global_skills": {
+      "source": [
+        "/Users/stephansmac/.codex/skills",
+        "/Users/stephansmac/.agents/skills"
+      ],
+      "matches": [
+        {
+          "term": "live",
+          "file": "/Users/stephansmac/.agents/skills/firecrawl-agent/SKILL.md",
+          "line": 18,
+          "content": "- You want the AI to figure out where the data lives"
+        },
+        {
+          "term": "live",
+          "file": "/Users/stephansmac/.codex/skills/status/SKILL.md",
+          "line": 33,
+          "content": "Read `~/SaneApps/meta/PROJECT_MAP.md` for the roster. Cover **every live bucket** listed there, not only `apps/`:"
+        },
+        {
+          "term": "live",
+          "file": "/Users/stephansmac/.codex/skills/status/SKILL.md",
+          "line": 45,
+          "content": "Prefer live git + live public channels over handoff:"
+        },
+        {
+          "term": "live",
+          "file": "/Users/stephansmac/.codex/skills/status/SKILL.md",
+          "line": 50,
+          "content": "- for shippable apps: live appcast / dist ZIP vs tagged version when a release question is open"
+        },
+        {
+          "term": "live",
+          "file": "/Users/stephansmac/.codex/skills/status/SKILL.md",
+          "line": 54,
+          "content": "Skip `archive/` and `outputs/`. Skip a repo that is clean, on the last release tag (or matching live appcast), and has no customer-facing unreleased work. Do not trust stale PROJECT_MAP “not released” notes over live appcast/dist."
+        },
+        {
+          "term": "live",
+          "file": "/Users/stephansmac/.codex/skills/email-ops/SKILL.md",
+          "line": 27,
+          "content": "auth, reconciliation, attachments, delivery verification, and support GitHub context."
+        },
+        {
+          "term": "live",
+          "file": "/Users/stephansmac/.codex/skills/email-ops/SKILL.md",
+          "line": 69,
+          "content": "If a customer purchased before licensing was live and no key exists, use `legacy-license-recover <id>` after `review`. It verifies the legacy order, reuses or creates the real one-time 100% LemonSqueezy recovery code, writes the approved draft/evidence bundle, runs `reconcile` + `verify-facts`, and stops before approval/send."
+        },
+        {
+          "term": "live",
+          "file": "/Users/stephansmac/.codex/skills/email-ops/SKILL.md",
+          "line": 138,
+          "content": "- **LemonSqueezy webhook:** /webhook/lemonsqueezy (purchase delivery emails)"
+        },
+        {
+          "term": "live",
+          "file": "/Users/stephansmac/.codex/skills/critic/SKILL.md",
+          "line": 77,
+          "content": "- first gather the live bug-family context from the relevant status/handoff/issues/research sources"
+        },
+        {
+          "term": "live",
+          "file": "/Users/stephansmac/.codex/skills/critic/SKILL.md",
+          "line": 83,
+          "content": "1. live cluster confirmation"
+        },
+        {
+          "term": "live",
+          "file": "/Users/stephansmac/.codex/skills/evolve/SKILL.md",
+          "line": 12,
+          "content": "- Read the current AGENTS.md, handoff, skill registry, dependency baseline and the live client tool surface. Use `ruby ~/SaneApps/infra/SaneProcess/scripts/SaneMaster.rb tool_discovery --query \"the actual question\"` and reuse its receipt."
+        },
+        {
+          "term": "live",
+          "file": "/Users/stephansmac/.agents/skills/firecrawl-browser/SKILL.md",
+          "line": 57,
+          "content": "| `--ttl <seconds>`            | Session time-to-live                               |"
+        }
+      ],
+      "file_count": 78
+    },
+    "local_code": {
+      "source": [
+        "/Users/stephansmac/SaneApps/clients/translations/books/placeus-de-imputatione/scripts",
+        "/Users/stephansmac/SaneApps/clients/translations/books/placeus-de-imputatione/templates"
+      ],
+      "matches": [],
+      "file_count": 0
+    },
+    "project_docs": {
+      "source": [],
+      "matches": [],
+      "file_count": 0
+    },
+    "doctor": {
+      "command": "/opt/homebrew/Cellar/ruby/4.0.6_1/bin/ruby /Users/stephansmac/SaneApps/clients/translations/books/placeus-de-imputatione/scripts/SaneMaster.rb mcp_watchdog doctor --quiet --json && /Users/stephansmac/.codex/bin/check-mcps",
+      "status": "failed",
+      "watchdog": {
+        "command": "/opt/homebrew/Cellar/ruby/4.0.6_1/bin/ruby /Users/stephansmac/SaneApps/clients/translations/books/placeus-de-imputatione/scripts/SaneMaster.rb mcp_watchdog doctor --quiet --json",
+        "exit_code": 1,
+        "timed_out": false,
+        "issues": [
+          "mcp_watchdog doctor command failed",
+          "mcp_watchdog doctor JSON parse failed"
+        ],
+        "configured_servers": null,
+        "running_servers": null
+      },
+      "live_probe": {
+        "command": "/Users/stephansmac/.codex/bin/check-mcps",
+        "exit_code": 0,
+        "timed_out": false,
+        "pass_count": 8,
+        "warnings": [],
+        "failures": [],
+        "summary_lines": [
+          "[PASS] github - ok",
+          "[PASS] apple-docs - http://127.0.0.1:37911/mcp",
+          "[PASS] macos-automator - http://127.0.0.1:37913/mcp",
+          "[PASS] serena - http://127.0.0.1:37917/mcp",
+          "[PASS] xcode - ok",
+          "[PASS] node_repl - ok",
+          "[PASS] agentmemory - ok",
+          "[PASS] openaiDeveloperDocs - ok"
+        ]
+      },
+      "exit_code": 1,
+      "timed_out": false,
+      "warning_lines": [
+        "mcp_watchdog doctor command failed",
+        "mcp_watchdog doctor JSON parse failed"
+      ],
+      "summary_lines": [
+        "[PASS] github - ok",
+        "[PASS] apple-docs - http://127.0.0.1:37911/mcp",
+        "[PASS] macos-automator - http://127.0.0.1:37913/mcp",
+        "[PASS] serena - http://127.0.0.1:37917/mcp",
+        "[PASS] xcode - ok",
+        "[PASS] node_repl - ok",
+        "[PASS] agentmemory - ok",
+        "[PASS] openaiDeveloperDocs - ok",
+        "mcp_watchdog doctor command failed",
+        "mcp_watchdog doctor JSON parse failed"
+      ]
+    },
+    "validation_report": {
+      "command": "/opt/homebrew/Cellar/ruby/4.0.6_1/bin/ruby /Users/stephansmac/SaneApps/clients/translations/books/placeus-de-imputatione/scripts/validation_report.rb --json",
+      "status": "failed",
+      "status_detail": null,
+      "exit_code": 1,
+      "timed_out": false,
+      "verdict": null,
+      "verdict_status": null,
+      "verdict_detail": null,
+      "issue_count": null,
+      "warning_count": null,
+      "parse_error": "validation report did not return JSON"
+    }
+  },
+  "summary": {
+    "existing_path_found": true,
+    "recommendation": "Existing path found. Reuse or extend what is already here before adding a new tool.",
+    "doctor_status": "failed",
+    "validation_status": "failed",
+    "doctor_ok": false,
+    "validation_ok": false,
+    "validation_blocks_tool_use": true,
+    "canonical_commands": [
+      "ruby scripts/SaneMaster.rb tool_discovery --query \"...\""
+    ],
+    "top_existing_paths": [
+      "scripts/SaneMaster.rb tool_discovery",
+      "/Users/stephansmac/.codex/SKILLS_REGISTRY.md",
+      "/Users/stephansmac/.agents/skills/firecrawl-agent/SKILL.md",
+      "/Users/stephansmac/.codex/skills/status/SKILL.md",
+      "/Users/stephansmac/.codex/skills/email-ops/SKILL.md",
+      "/Users/stephansmac/.codex/skills/critic/SKILL.md",
+      "/Users/stephansmac/.codex/skills/evolve/SKILL.md",
+      "/Users/stephansmac/.agents/skills/firecrawl-browser/SKILL.md"
+    ]
+  }
+}
