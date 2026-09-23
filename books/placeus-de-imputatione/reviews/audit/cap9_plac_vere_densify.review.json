@@ -1,5 +1,5 @@
 {
-  "packet_id": "b9cc6a7dfe276a5d5ec9c52b89ebf259b03c2eb73be5f18bf10dd3376da85c1b",
+  "packet_id": "81d378989374da32a6cb581a7f0a792edd47275bb27ca7f5f3a83418b2cb3b25",
   "reviewer": "scribe-placeus / Placeus Cap. IX ephho densify review, 2026-09-23",
   "verdict": "pass",
   "scope_review": {
@@ -10581,7 +10581,7 @@
       "covered_source_paragraphs": [
         1
       ],
-      "notes": "Section 587: Cap. IX ephho densify from locked 1661 Latin (pp. 343–344 tip); Pass A != B."
+      "notes": "Section 587: prior densify retained; Pass A != B."
     },
     {
       "section": "588",
@@ -10599,7 +10599,7 @@
       "covered_source_paragraphs": [
         1
       ],
-      "notes": "Section 588: Cap. IX ephho densify from locked 1661 Latin (pp. 343–344 tip); Pass A != B."
+      "notes": "Section 588: prior densify retained; Pass A != B."
     },
     {
       "section": "589",
@@ -10617,7 +10617,7 @@
       "covered_source_paragraphs": [
         1
       ],
-      "notes": "Section 589: Cap. IX ephho densify from locked 1661 Latin (pp. 343–344 tip); Pass A != B."
+      "notes": "Section 589: prior densify retained; Pass A != B."
     },
     {
       "section": "590",
@@ -10635,7 +10635,7 @@
       "covered_source_paragraphs": [
         1
       ],
-      "notes": "Section 590: Cap. IX ephho densify from locked 1661 Latin (pp. 343–344 tip); Pass A != B."
+      "notes": "Section 590: prior densify retained; Pass A != B."
     },
     {
       "section": "591",
@@ -10653,7 +10653,7 @@
       "covered_source_paragraphs": [
         1
       ],
-      "notes": "Section 591: Cap. IX ephho densify from locked 1661 Latin (pp. 343–344 tip); Pass A != B."
+      "notes": "Section 591: prior densify retained; Pass A != B."
     },
     {
       "section": "592",
@@ -10671,7 +10671,115 @@
       "covered_source_paragraphs": [
         1
       ],
-      "notes": "Section 592: Cap. IX ephho densify from locked 1661 Latin (pp. 343–344 tip); Pass A != B."
+      "notes": "Section 592: prior densify retained; Pass A != B."
+    },
+    {
+      "section": "593",
+      "verdict": "pass",
+      "checks": {
+        "source_identity": true,
+        "completeness": true,
+        "negation": true,
+        "agency": true,
+        "modality": true,
+        "doctrine": true,
+        "scripture": true
+      },
+      "uncertainties": [],
+      "covered_source_paragraphs": [
+        1
+      ],
+      "notes": "Section 593: Cap. IX ephho densify from locked 1661 Latin (pp. 344–345 tip); Pass A != B."
+    },
+    {
+      "section": "594",
+      "verdict": "pass",
+      "checks": {
+        "source_identity": true,
+        "completeness": true,
+        "negation": true,
+        "agency": true,
+        "modality": true,
+        "doctrine": true,
+        "scripture": true
+      },
+      "uncertainties": [],
+      "covered_source_paragraphs": [
+        1
+      ],
+      "notes": "Section 594: Cap. IX ephho densify from locked 1661 Latin (pp. 344–345 tip); Pass A != B."
+    },
+    {
+      "section": "595",
+      "verdict": "pass",
+      "checks": {
+        "source_identity": true,
+        "completeness": true,
+        "negation": true,
+        "agency": true,
+        "modality": true,
+        "doctrine": true,
+        "scripture": true
+      },
+      "uncertainties": [],
+      "covered_source_paragraphs": [
+        1
+      ],
+      "notes": "Section 595: Cap. IX ephho densify from locked 1661 Latin (pp. 344–345 tip); Pass A != B."
+    },
+    {
+      "section": "596",
+      "verdict": "pass",
+      "checks": {
+        "source_identity": true,
+        "completeness": true,
+        "negation": true,
+        "agency": true,
+        "modality": true,
+        "doctrine": true,
+        "scripture": true
+      },
+      "uncertainties": [],
+      "covered_source_paragraphs": [
+        1
+      ],
+      "notes": "Section 596: Cap. IX ephho densify from locked 1661 Latin (pp. 344–345 tip); Pass A != B."
+    },
+    {
+      "section": "597",
+      "verdict": "pass",
+      "checks": {
+        "source_identity": true,
+        "completeness": true,
+        "negation": true,
+        "agency": true,
+        "modality": true,
+        "doctrine": true,
+        "scripture": true
+      },
+      "uncertainties": [],
+      "covered_source_paragraphs": [
+        1
+      ],
+      "notes": "Section 597: Cap. IX ephho densify from locked 1661 Latin (pp. 344–345 tip); Pass A != B."
+    },
+    {
+      "section": "598",
+      "verdict": "pass",
+      "checks": {
+        "source_identity": true,
+        "completeness": true,
+        "negation": true,
+        "agency": true,
+        "modality": true,
+        "doctrine": true,
+        "scripture": true
+      },
+      "uncertainties": [],
+      "covered_source_paragraphs": [
+        1
+      ],
+      "notes": "Section 598: Cap. IX ephho densify from locked 1661 Latin (pp. 344–345 tip); Pass A != B."
     }
   ]
 }
