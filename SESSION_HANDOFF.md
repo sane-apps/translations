@@ -1,3 +1,9 @@
+## 2026-09-23 ~18:00 ET (Cursor — Ammonius held u01-u02)
+
+- Earliest held first-English: ammonius-fragmenta-joannem. Replaced u01+u02 scaffolds with real Pass A/B. tip-ready ok. Commit e02d861db pushed.
+- Agents on u03-u06 and u07-u10. Ship when all 10 units clear SCAFFOLD. Punch X=NO. Cap not resumed ahead of held.
+- Do not work_session_off.
+
 ## 2026-09-23 17:00 ET (Pipeline — Logos 31/31 COMPLETE, red-team closed)
 
 All 31 DOCX books now compiled AND uploaded to Faithlife (all owner
