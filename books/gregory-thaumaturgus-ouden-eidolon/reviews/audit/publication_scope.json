@@ -6,16 +6,13 @@
   "period": "c. 250–270",
   "status": "available",
   "edition": "PG 10; Eis to ouden eidolon en kosmo (Khazarzar)",
+  "section_count": 1,
   "blurb": "Gregory Thaumaturgus, short Greek scrap on true honor versus honor of what is not God.",
-  "topics": [
-    "faith-and-obedience",
-    "old-and-new",
-    "hermeneutics-types",
-    "idolatry",
-    "gospel-fourfold"
-  ],
-  "first_english": true,
-  "first_english_note": "Original English Translation of Gregory’s Eis to ouden eidolon — new OET from PG 10 Greek. Modern English syncs were not used as wording.",
+  "era_note": "These Greek scraps belong to the first three centuries of the church (or the early fourth, disclosed in the work note when later).",
+  "groups": [],
+  "related_topics": [],
+  "first_english": false,
+  "first_english_note": "",
   "text_history": {
     "method": "Original English Translation of Gregory Thaumaturgus, Eis to ouden eidolon en kosmo — new OET from PG 10 Greek.",
     "witnesses": [
@@ -25,5 +22,8 @@
         "role": "copy-text"
       }
     ]
-  }
+  },
+  "section_ids": [
+    "frag-open"
+  ]
 }
