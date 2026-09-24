@@ -1,3 +1,14 @@
+## 2026-09-24 ~01:45 ET (Muse — rank1 burn verdict + ship status)
+
+- CF auto lane PROVEN working (took/drafted/checked/fail-closed/released correctly, 6977 neurons). But cyr-isa queue is systematically unpromotable: 4/4 opening rows now HELD (prologue, logos1-open/rem-early/rem-close; 3 held 9-22, rem-close by this burn). Checkers refuse on OCR-fragmentary Greek + word-choice disputes. Queue needs SOURCE prep (OCR cleanup vs print) before auto mode can promote — translation-lane prep work, not more burn. 82 free rows remain for nightly probing. No re-burn tonight.
+- Ship: loop holds ship lock with live --skip-build (includes my 4 wired tips, 105 works). Standing down on my own ship; will verify live when it lands.
+
+## 2026-09-23 ~23:30 ET (Muse — CF burn idle diagnosis)
+
+- Overnight 21:10 ran clean rc=0 in ~2s: 83 pause skips, queue_empty, 738/10000 neurons. All 86 free rows are cyr-isa (rank1, owner-paused since 9-13). Zero free rows in active lanes; active-lane books are operator-owned (Cursor loop/scribes) so no auto rows queued — daemon idles correctly per charter.
+- Rank1 resume needs owner: (1) quality review of 173 tip commits since 9-13 (Origen scraps wave today), (2) Symeon Junior Theologica tip-or-defer (completes 4-work set; never started, no book dir), (3) flip rank1 active in work-lanes.json. Brief handed to owner; no pause touched.
+- Site verified live 200s (home + retitled work URLs). Logos FM run at 20/27 builds, driver retrying a stuck row.
+
 ## 2026-09-23 ~18:00 ET (Cursor — Ammonius held u01-u02)
 
 - Earliest held first-English: ammonius-fragmenta-joannem. Replaced u01+u02 scaffolds with real Pass A/B. tip-ready ok. Commit e02d861db pushed.
