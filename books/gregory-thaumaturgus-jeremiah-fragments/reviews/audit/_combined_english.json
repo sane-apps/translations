@@ -1,5 +1,38 @@
 [
   {
+    "section": "u01-open",
+    "work": "jeremiah-fragments",
+    "part": "u01-open",
+    "title": "On hypocrisy (Jer 9:8): peace on the lips, enmity in the heart",
+    "english": [
+      "[[He speaks peaceably to his neighbor, but in himself he holds enmity >> Bible:Jeremiah 9:8]]. The scribes and Pharisees would not have inherited so many [[woes >> Bible:Matthew 23:13]] from the Savior except for hypocrisy: he kept naming them whitewashed tombs, fair outside and full of dead bones within. If we do good to the neighbor through unfeigned love, we hear, [[as you did it to one of the least of these my brothers, you did it to me >> Bible:Matthew 25:40]]; and if through deceitful hypocrisy we show evil to a brother, we sin against God as well. Hypocrisy is a dread enemy, brothers — hidden deceit in the heart set to trap the simple."
+    ],
+    "notes_covered": [],
+    "added_allusions": [
+      {
+        "reference": "Jeremiah 9:8",
+        "reason": "speaks peaceably… holds enmity",
+        "certainty": "clear"
+      },
+      {
+        "reference": "Matthew 23:13",
+        "reason": "woes to scribes and Pharisees",
+        "certainty": "clear"
+      },
+      {
+        "reference": "Matthew 25:40",
+        "reason": "done to the least, done to me",
+        "certainty": "clear"
+      }
+    ],
+    "translator_notes": [
+      "Copy-text PG 10 Khazarzar Fragmenta in Jeremiam (De Simulatione). PD.",
+      "True OET; Pass A ≠ Pass B. Melito skipped; never Cyril Matthew densify."
+    ],
+    "baehrens": "PG 10 Frag. Jer. De Simulatione open",
+    "claim": "gregory-jeremiah-u01-open-oet"
+  },
+  {
     "section": "u01-rem-early",
     "work": "jeremiah-fragments",
     "part": "u01-rem",
