@@ -1,3 +1,36 @@
+## 2026-09-24 ~11:00 ET (Muse — all-lanes run)
+
+- Owner asked why NV idles: nothing structural, agents just ran --lanes cf. All three lanes now share one atomic queue (CF+NV take different rows; Gemini artifacts-only). Fixed en route: Gemini lane generalized to any book adapter (was Jeremiah-only), 503/UNAVAILABLE retry with backoff, retired 2.5-flash-lite dropped for flash-lite-latest, gloss cap scaled to source length. Tests: scripts/test_gemini_failover.py 8/8. Live run muse-allhands (max 4 claims): CF on logos2-rem-early, NV on logos2-rem-mid, Gemini prep+checker-C on 4 sections. Log /tmp/allhands.log.
+
+## 2026-09-24 (Cursor — Apollinaris Romans + Diodorus tips shipped)
+
+- Tipped and shipped: apollinaris-fragmenta-romanos; diodorus-fragmenta.
+- Live: https://85ff6519.fathers-site.pages.dev · 116 treatises; live gate failed:0.
+- Commits: translations `11b1acbd0`; site `528a7c8`.
+- Next slice: apollinaris-fragmenta-joannem (24 secs), then matthaeum/psalmos/diodorus-romanos.
+
+## 2026-09-24 (Cursor — Marcellus + Cyril Jerusalem tips shipped)
+
+- Tipped and shipped: marcellus-ancyranus-fragmenta; cyril-jerusalem-epistula-constantium; homilia-ego-vado; homilia-occursum; homilia-paralyticum.
+- Live: https://c57e8b8b.fathers-site.pages.dev · 114 treatises; live gate failed:0.
+- Commits: translations `f2f9bee97`; site `e0814da`.
+- Next: Apollinaris fragments (catalog after Cyril Jerusalem).
+
+## 2026-09-24 (Cursor — Theodore + Eusebius Emesa tips shipped)
+
+- Tipped and shipped: theodorus-heracleensis-matthew-fragments; eusebius-emesa-fragmenta-galatas; eusebius-emesa-fragmenta-romanos; eusebius-emesa-fragmentum-1cor.
+- Live: https://0b28958e.fathers-site.pages.dev · 109 treatises; live gate failed:0.
+- Commits: translations `79ef0bfba`; site `ecaf219`.
+- Next catalog held after these (skip Luke/Rauer): marcellus-ancyranus-fragmenta, then Cyril Jerusalem scraps.
+
+## 2026-09-24 (Cursor — Eustathius remaining tips shipped)
+
+- Five PG 18 Eustathius scraps tipped Pass A/B OET and shipped: de-melchisedech, homilia-lazarum, in-genesim-de-creatione, in-inscriptione-titulorum, oratio-dominus-creavit.
+- Live: https://1d22cd73.fathers-site.pages.dev · 105 treatises; live catalogue gate failed:0 on recheck.
+- Corpus commits: translations `9070fd153`; site `1dda5d0`.
+- Stayed catalog earliest→latest (rank1 tip closeouts). Reformed densify not touched.
+- Next: next earliest held after Eustathius remainder (see inventory). Luke still Rauer-blocked; Cap parked.
+
 ## 2026-09-24 ~01:45 ET (Muse — rank1 burn verdict + ship status)
 
 - CF auto lane PROVEN working (took/drafted/checked/fail-closed/released correctly, 6977 neurons). But cyr-isa queue is systematically unpromotable: 4/4 opening rows now HELD (prologue, logos1-open/rem-early/rem-close; 3 held 9-22, rem-close by this burn). Checkers refuse on OCR-fragmentary Greek + word-choice disputes. Queue needs SOURCE prep (OCR cleanup vs print) before auto mode can promote — translation-lane prep work, not more burn. 82 free rows remain for nightly probing. No re-burn tonight.
