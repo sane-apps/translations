@@ -1,5 +1,22 @@
 [
   {
+    "section": "frag-open",
+    "work": "sententiae",
+    "part": "open",
+    "title": "Piety, mother of the virtues; knowing God",
+    "english": [
+      "Piety must be cared for above all — rightly called mother of the virtues, for it is their beginning and their end. Both sight and the natural law teach knowledge of God, the cause that holds all things together and makes them: sight by striking what is seen and fixed; the law by reasoning from the seen and ordered things up to their leader."
+    ],
+    "notes_covered": [],
+    "added_allusions": [],
+    "translator_notes": [
+      "Copy-text PG 10 Khazarzar Sententiae. PD.",
+      "True OET; Pass A ≠ Pass B. Melito skipped; never Cyril Matthew densify."
+    ],
+    "baehrens": "PG 10 Sententiae 1–2",
+    "claim": "gregory-sententiae-open-oet"
+  },
+  {
     "section": "frag-rem-early",
     "work": "sententiae",
     "part": "rem",
