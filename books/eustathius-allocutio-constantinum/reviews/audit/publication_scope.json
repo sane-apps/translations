@@ -6,14 +6,12 @@
   "period": "c. 325",
   "status": "available",
   "edition": "PG 18; Allocutio ad imperatorem Constantinum (Khazarzar) [Sp.]",
+  "section_count": 4,
   "blurb": "Address (PG marks Spurious) thanking Constantine and urging the Nicaea council against Arius.",
-  "topics": [
-    "father-son-spirit",
-    "christology-two-natures",
-    "heresy-and-schism",
-    "church-and-empire"
-  ],
-  "first_english": true,
+  "era_note": "These Greek scraps belong to the first three centuries of the church (or the early fourth, disclosed in the work note when later).",
+  "groups": [],
+  "related_topics": [],
+  "first_english": false,
   "first_english_note": "Original English Translation of the Allocutio ad Constantinum — new OET from PG 18 Greek (Spurious attribution disclosed).",
   "text_history": {
     "method": "Original English Translation — new OET from PG 18 Greek.",
@@ -25,5 +23,11 @@
         "note": "Spurious"
       }
     ]
-  }
+  },
+  "section_ids": [
+    "frag-open",
+    "frag-rem-early",
+    "frag-rem-mid",
+    "frag-rem-close"
+  ]
 }
