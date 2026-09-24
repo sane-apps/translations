@@ -1,5 +1,23 @@
 [
   {
+    "section": "frag-open",
+    "work": "cyril-alexandria-solutiones-vat-447",
+    "part": "frag",
+    "title": "Rich man and Lazarus: deed or type of judgment?",
+    "english": [
+      "Fragments.",
+      "8. There was a rich man, feasting splendidly each day; and a poor man, Lazarus, was cast at his gate, covered with sores, according to the Gospel history (Luke 16:19-23). Both died: the poor man went to rest, the other to punishment. Have these things already happened, and was a fitting repayment allotted to each — or does the story stamp the image of the coming judgment…"
+    ],
+    "notes_covered": [],
+    "added_allusions": [],
+    "translator_notes": [
+      "True OET from PG 77 / Vat. gr. 447 Greek; Pass A ≠ Pass B.",
+      "Melito skipped; never Cyril Matthew densify; skip Pusey-PD / Greystone / Lunn / Hill."
+    ],
+    "baehrens": "PG 77; Solutiones Vat 447 frag-open",
+    "claim": "cyril-sv-frag-open-oet"
+  },
+  {
     "section": "frag-rem-early",
     "work": "cyril-alexandria-solutiones-vat-447",
     "part": "frag",
@@ -13,7 +31,7 @@
       "True OET from PG 77 / Vat. gr. 447 Greek; Pass A ≠ Pass B.",
       "Melito skipped; never Cyril Matthew densify; skip Pusey-PD / Greystone / Lunn / Hill."
     ],
-    "baehrens": "PG 77; Solutiones Vat 447 rem early",
+    "baehrens": "PG 77; Solutiones Vat 447 frag-rem-early",
     "claim": "cyril-sv-frag-rem-oet"
   },
   {
@@ -30,7 +48,7 @@
       "True OET from PG 77 / Vat. gr. 447 Greek; Pass A ≠ Pass B.",
       "Melito skipped; never Cyril Matthew densify; skip Pusey-PD / Greystone / Lunn / Hill."
     ],
-    "baehrens": "PG 77; Solutiones Vat 447 rem mid",
+    "baehrens": "PG 77; Solutiones Vat 447 frag-rem-mid",
     "claim": "cyril-sv-frag-rem-oet"
   },
   {
@@ -48,7 +66,7 @@
       "Melito skipped; never Cyril Matthew densify; skip Pusey-PD / Greystone / Lunn / Hill.",
       "Trailing modern digital reuse notice in source not treated as Cyril."
     ],
-    "baehrens": "PG 77; Solutiones Vat 447 rem close",
+    "baehrens": "PG 77; Solutiones Vat 447 frag-rem-close",
     "claim": "cyril-sv-frag-rem-oet"
   }
 ]
