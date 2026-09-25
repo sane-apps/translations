@@ -1,5 +1,25 @@
 [
   {
+    "section": "u01-open",
+    "work": "severianus-de-tribus-pueris",
+    "part": "u01",
+    "title": "The Triumph of Falsehood and the Resilience of the Three Youths",
+    "english": [
+      "theater",
+      "The statue is made well-proportioned and symmetrical, so that either by its size or by the beauty of its composition it might overcome truth, having been forced, by means of falsehood. The art indeed shone, the gold gleamed, the herald shouted, the tyrant threatened, and the furnace was blazing; and along with all these things, the sounds of the musical instruments most terribly drove the foolish into impiety, and the fantasy of what is seen entirely stole the attention of all who were watching.",
+      "Yet the provocation of impiety was even more dominant than that of the saints. For all, as it were to say, like being swept by a violent torrent of deception into the cliff of idolatry, these three fine youths, having placed themselves faithfully upon the rock of piety, were not swept away. They were swept away by the stream of injustice. For it is right to say to them: 'If the Lord had not been with us (Psalm 124:1), then the living would have overwhelmed us. If their anger had been kindled against us (Psalm 124:3), then the water would have submerged us.' Our soul passed through a torrent; thus our soul passed through the unsubstantial water. But they were neither submerged by the stream, nor were they caught by the snares, but escaping well into piety, and having used the high wing of faith, they were saved, according to the Proverb-maker: 'Like a dove from the snares, and like an eagle from the trap' (Proverbs 1:17). And only when seeing the devil's nets spread against all humanity did the pious voice grow louder, according to the Hymnographer, saying: 'The sinners shall fall into a pit' (Psalm 70:1). And these three captives did not look away from their own brevity, even while being pursued by so many, but they knew precisely that even the smallest spark of piety is sufficient to consume and vanish all impiety. Because of this, even though they were three, they strengthened one another and bound themselves together. For they knew that the narrow and pressed way is..."
+    ],
+    "notes_covered": [],
+    "added_allusions": [],
+    "translator_notes": [
+      "Copy-text: PG (Khazarzar). PD.",
+      "True OET; Pass A ≠ Pass B. Melito skipped; never Cyril Matthew densify.",
+      "Lacunae marked [...]. Machine draft tip-checked."
+    ],
+    "baehrens": "PG De tribus pueris u01-open",
+    "claim": "sev-dtp-u01-open-oet"
+  },
+  {
     "section": "u01-rem-early",
     "work": "severianus-de-tribus-pueris",
     "part": "u01",
@@ -67,5 +87,79 @@
     ],
     "baehrens": "PG De tribus pueris u01-rem-close",
     "claim": "sev-dtp-u01-rem-close-oet"
+  },
+  {
+    "section": "u02-open",
+    "work": "severianus-de-tribus-pueris",
+    "part": "u02",
+    "title": "The Distinction of Humanity",
+    "english": [
+      "For even from the worshipped animals they named the cities; and it is said among them [to be] Dogs and Sheep and Wolves and Lions. But after all these things he brings forward the human race. Bless, he says, O sons of men, the Lord (Psalm 146:1).",
+      "Lastly the human race is arranged, not according to its worth, but because of the creation. Bless, O Israel, the Lord (Psalm 135:1). Which was an exceptional race of the men upon the earth, this indeed he brings forward, and so many differences he sets out within the nation, and he brings forward the priests of the Lord for the reproof of the priests of the false gods. He says then: Slaves of the Lord.",
+      "Then, so that those who preceded this dance might not be counted as strangers by those living, they count them before God, saying: Bless, spirits and souls of the righteous, the Lord; then, O holy ones and humble in heart, the Lord (Luke 1:46-47). Why [are there] holy ones and humble ones?"
+    ],
+    "notes_covered": [],
+    "added_allusions": [],
+    "translator_notes": [
+      "Copy-text: PG (Khazarzar). PD.",
+      "True OET; Pass A ≠ Pass B. Melito skipped; never Cyril Matthew densify.",
+      "Lacunae marked [...]. Machine draft tip-checked."
+    ],
+    "baehrens": "PG De tribus pueris u02-open",
+    "claim": "sev-dtp-u02-open-oet"
+  },
+  {
+    "section": "u02-rem-early",
+    "work": "severianus-de-tribus-pueris",
+    "part": "u02",
+    "title": "The Fire of God and the Three Youths",
+    "english": [
+      "Does he remember? In order to show that God opposes the proud and gives grace to the humble, He burned the arrogant outside the furnace, but preserved those who are humble in the midst of the fire. Therefore also the fire continued with the saints; for even among all things, the Creator was commanded to praise even the fire: 'Bless, fire and burning, the Lord' (Ps 148:8). This is so that the Babylonian magicians, by whom fire is honored, might be instructed, because this [fire] is not of those being worshiped, but of those worshiping. But nevertheless, coming to the last part, let us rest the word. 'Bless, says Ananias, Azarias, Mishael, the Lord' (Dan 3:24). What was the need for so many ranks to be listed before their final name? For were they not themselves among the sons of Israel blessing?"
+    ],
+    "notes_covered": [],
+    "added_allusions": [],
+    "translator_notes": [
+      "Copy-text: PG (Khazarzar). PD.",
+      "True OET; Pass A ≠ Pass B. Melito skipped; never Cyril Matthew densify.",
+      "Lacunae marked [...]. Machine draft tip-checked."
+    ],
+    "baehrens": "PG De tribus pueris u02-rem-early",
+    "claim": "sev-dtp-u02-rem-early-oet"
+  },
+  {
+    "section": "u02-rem-mid",
+    "work": "severianus-de-tribus-pueris",
+    "part": "u02",
+    "title": "The Purpose of the Blessing",
+    "english": [
+      "They were not included among the slaves of the Lord when they were saying, 'Bless, slaves of the Lord, the Lord'; nor, when [they were called] 'Holy and humble in heart,' were they counted among the holy ones. So what is the purpose of the deposition, 'Bless, Hananiah, Azariah, Mishael, the Lord'? But because the wonder was superabundant, because it was against human nature (for having entered the furnace in body, they trod upon it), so that no one of the fallen might dare to call them gods because of the strange wonder, and so that they might worship more justly, rather than the fire [consuming] those surrounded by the fire, so that those seeing might not suffer such a thing; for this reason they signal their own slavery and confess the worship, saying, 'Bless, Hananiah, Azariah, Mishael, the Lord.' And it is said that God did not allow Daniel to continue into the..."
+    ],
+    "notes_covered": [],
+    "added_allusions": [],
+    "translator_notes": [
+      "Copy-text: PG (Khazarzar). PD.",
+      "True OET; Pass A ≠ Pass B. Melito skipped; never Cyril Matthew densify.",
+      "Lacunae marked [...]. Machine draft tip-checked."
+    ],
+    "baehrens": "PG De tribus pueris u02-rem-mid",
+    "claim": "sev-dtp-u02-rem-mid-oet"
+  },
+  {
+    "section": "u02-rem-close",
+    "work": "severianus-de-tribus-pueris",
+    "part": "u02",
+    "title": "The Integrity of the Miracle",
+    "english": [
+      "This testimony was received. For since the king's dream was interpreted, and he was worshiped by this king as a god, and he was called Belteshazzar by the name of the god among the Persians (Dan 5:13), so that it might not be thought—because of the name of Belteshazzar being attached to him—that the fire's energy had ceased, God manages that Daniel not be brought into the middle, so that the wonder might be pure in its piety. And these things indeed are to this much; but may it be for us, through the prayers and intercessions of those who bore witness, to take up the same zeal, to be worthy of the same praises, and to obtain the same kingdom, by the grace and philanthropy of our Lord Jesus Christ, to whom the glory and the power belong unto the ages of ages. Amen."
+    ],
+    "notes_covered": [],
+    "added_allusions": [],
+    "translator_notes": [
+      "Copy-text: PG (Khazarzar). PD.",
+      "True OET; Pass A ≠ Pass B. Melito skipped; never Cyril Matthew densify.",
+      "Lacunae marked [...]. Machine draft tip-checked."
+    ],
+    "baehrens": "PG De tribus pueris u02-rem-close",
+    "claim": "sev-dtp-u02-rem-close-oet"
   }
 ]
