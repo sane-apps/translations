@@ -6,15 +6,12 @@
   "period": "c. 345–399",
   "status": "available",
   "edition": "PG; De octo spiritibus malitiae (Khazarzar)",
+  "section_count": 8,
   "blurb": "Evagrius Ponticus — On the Eight Evil Spirits.",
-  "topics": [
-    "asceticism",
-    "prayer",
-    "virtue-and-vice",
-    "monastic-life",
-    "scripture-hermeneutics"
-  ],
-  "first_english": true,
+  "era_note": "These Greek scraps belong to the first three centuries of the church (or the early fourth, disclosed in the work note when later).",
+  "groups": [],
+  "related_topics": [],
+  "first_english": false,
   "first_english_note": "Original English Translation — new OET from PG Greek.",
   "text_history": {
     "method": "Original English Translation — new OET from PG Greek.",
@@ -25,5 +22,15 @@
         "role": "copy-text"
       }
     ]
-  }
+  },
+  "section_ids": [
+    "u01-open",
+    "u01-rem-early",
+    "u01-rem-mid",
+    "u01-rem-close",
+    "u02-open",
+    "u02-rem-early",
+    "u02-rem-mid",
+    "u02-rem-close"
+  ]
 }
