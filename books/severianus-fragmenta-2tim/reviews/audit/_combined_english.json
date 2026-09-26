@@ -1,5 +1,25 @@
 [
   {
+    "section": "u01-open",
+    "work": "severianus-fragmenta-2tim",
+    "part": "u01",
+    "title": "Command and Promise in the Epistles",
+    "english": [
+      "In the first epistle, intending to hand over ecclesiastical canons, he spoke by command; but in the second, by promise, he said: for the apostleship indeed ordains the things that are profitable by the command of God, but to those who hear it, it promises life, not of the present, but of the eternal, that which is in Christ Jesus. In the first epistle, by command, he says he is intending to ordain, but in the second epistle, by promise: for the apostleship indeed ordains, but on the hope of obtaining eternal life, it [promises] those who obey.",
+      "He does not say 'not the ceasing of life,' but 'of the faith toward God.'",
+      "Because the trial against those preaching the gospel was making a cutting off of the gospel, because of this he says: suffer hardship for the gospel. And he brought forward: according to the power of God, because the very suffering itself needs the help of God, the one having abolished death and having enlightened life and incorruption through the gospel. There was life also in Adam and among those after him, but by the death of disobedience it was darkened. It was therefore enlightened now by the resurrection of Christ; it was darkened by death, it is being enlightened through Christ. And how is it possible to test the gospel? As..."
+    ],
+    "notes_covered": [],
+    "added_allusions": [],
+    "translator_notes": [
+      "Copy-text: PG (Khazarzar). PD.",
+      "True OET; Pass A ≠ Pass B. Melito skipped; never Cyril Matthew densify.",
+      "Lacunae marked [...]. Machine draft tip-checked."
+    ],
+    "baehrens": "PG Fragmenta in epistulam ii ad Timotheum u01-open",
+    "claim": "sev-f2ti-u01-open-oet"
+  },
+  {
     "section": "u01-rem-early",
     "work": "severianus-fragmenta-2tim",
     "part": "u01",
