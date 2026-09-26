@@ -1,5 +1,25 @@
 [
   {
+    "section": "u01-open",
+    "work": "epiphanius-appendices-ad-indices-apostolorum-discipulorumque",
+    "part": "u01",
+    "title": "Lists of Disciples and Apostles",
+    "english": [
+      "Timothy, the bishop of Ephesus, was established by the blessed Paul and was from the Gentiles, not from the circumcision. Paul testifies much concerning him, admonishing him to guard the good confession of the gift that had been given to him, and he himself martyred himself there in glory.",
+      "Titus, the bishop of Crete, preached the gospel of the Lord to the Cretans and the surrounding islands, and having died there, he was buried. Criscus preached the gospel of the Lord in Gaul, and he is buried there. The eunuch of the queen Candace of the Ethiopians preached the gospel of the Lord Jesus Christ in prosperous Arabia, in the island of Taprobane, and throughout the whole Red Sea; the record says that he also testified gloriously and was buried there. His cemetery is an unassailable weapon for the faithful against robbers, a place of refuge that drives away disease and performs healings even until this day.",
+      "Regarding the apostles of the Savior who have become [apostles], as Clement relates in the fifth of his outlines: Barnabas, Soshenes, Cephas (the namesake of Peter), Matthias, who was counted among the eleven, Eubulus, Pudens, Criscus in the fourth, Barsabas, and Linus, of whom Paul remembers..."
+    ],
+    "notes_covered": [],
+    "added_allusions": [],
+    "translator_notes": [
+      "Copy-text: PG (Khazarzar). PD.",
+      "True OET; Pass A ≠ Pass B. Melito skipped; never Cyril Matthew densify.",
+      "Lacunae marked [...]. Machine draft tip-checked."
+    ],
+    "baehrens": "PG Appendices ad indices apostolorum discipulorumque u01-open",
+    "claim": "epi-appa-u01-open-oet"
+  },
+  {
     "section": "u01-rem-early",
     "work": "epiphanius-appendices-ad-indices-apostolorum-discipulorumque",
     "part": "u01",
