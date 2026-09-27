@@ -1,5 +1,24 @@
 [
   {
+    "section": "u01-open",
+    "work": "epiphanius-epistula-ad-joannem-hierosolymitanum",
+    "part": "u01",
+    "title": "Letter to John the Bishop of Aelia",
+    "english": [
+      "A letter written to John, the Bishop of Aelia. Epiphanius the Bishop greets the most venerable brother, Pope John, in the Lord.",
+      "It was necessary for us, beloved, not to be carried along by the appearance of lots, for the divine Scripture says: 'neither murmur as some murmured and were destroyed by the destroyer.' And the God of peace will act with us, according to his own philanthropy, so that Satan may be crushed under the feet of us Christians, and every evil pretext may be driven away, so that the bond of us... may not be split."
+    ],
+    "notes_covered": [],
+    "added_allusions": [],
+    "translator_notes": [
+      "Copy-text: PG (Khazarzar). PD.",
+      "True OET; Pass A ≠ Pass B. Melito skipped; never Cyril Matthew densify.",
+      "Lacunae marked [...]. Machine draft tip-checked."
+    ],
+    "baehrens": "PG Epistula ad Joannem Hierosolymitanum u01-open",
+    "claim": "epi-joan-u01-open-oet"
+  },
+  {
     "section": "u01-rem-early",
     "work": "epiphanius-epistula-ad-joannem-hierosolymitanum",
     "part": "u01",
