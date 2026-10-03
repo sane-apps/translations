@@ -35,6 +35,14 @@
 
 **Cloudflare credits and rate limit (2026-10-03 ~18:45):** CF case #02359041 answered: 20 rpm per account per model is documented policy; 50 rpm only via AI Gateway Unified Billing prepaid credits, which Startup credits do NOT cover; 100 rpm only via the Custom Requirements Form. Measured spend (GraphQL aiInferenceAdaptiveGroups x $0.011/1k neurons): Oct 1 ~$55, Oct 2 ~$59, Oct 3 ~$598 (15 lanes + Aura-2 narration). At ~$600/day the $9,980 grant lasts ~16 days (to ~Oct 19). Owner-approved reply sent 22:44 UTC from Gmail on the case thread: asks whether Startup credits can fund Unified Billing, and for a further credit tier or public-good program; offers a case study / "built on Cloudflare" credit. Open owner decision: cut spend now (fewer lanes, pause narration) or hold pace until CF answers.
 
+**Spend cut and audit (2026-10-03 evening; owner: "we need proven results"):**
+- Lanes cut 15 -> 6 (C x2, E, A, B, D); reopened books go first in every lane (commit 69a0c0394). health_watch expects 6.
+- Ultracode spend audit (40 agents, each waste item attacked by 2 skeptics): docs/SPEND_AUDIT_20261003.md. Proven waste ~\$79/day ongoing + ~\$58 one-off; the real problem is certified words: \$33 per 1,000 all-in (small books already \$12.8). Daily metric from now on: cost per certified 1,000 source words (+7-day rolling).
+- Applied (commit 4331d72f5): GLM-5.3 out of checker pairs (~\$70/day; 27% empty calls; bench had rejected it); polish only reader-flagged sections and only at mean >= 3.0. Overnight catchup job disabled (plist .disabled): it existed only to restart the retired overnight-quota runner.
+- Accuracy fix: a stale pre-fix lane (pid 54938, D2) wrote "soul" -> "Jerusalem" repairs in origen-jeremiah-samuel; stopped it; sections 13.2, 14, 23, 25, 31, 34 archived as *.gatehold.json and the book reopened for redraft.
+- Owner decisions open: pace of the orion/arcas re-voice (~\$307-360 one-off, runs in 2-3 days unless capped); the quotation-voice fix (saves ~\$53 one-off; audio only); Flash stays off (owner: stay on Pro).
+- Still open from the audit: two lanes ran the same book at once (barnabas-epistle 18:04; didache x3) -> possible race in prev_running/update_log; GLM-5.3 failure types; pass old findings into held-section redrafts.
+
 **Not changed, on purpose:** dropping findings whose quote is not in the English. 45 such findings: 33 noise but 10 real (misquoted), so it would let real errors through.
 
 **Read-round data (stall item 3):** reader scores barely move (mean +0.02 over rounds; 74/109 unchanged). "unexplained" is the largest reader class (688) and never reaches a fix: these are real technical terms (Evagrius "intelligent natures") that only the introduction can explain. PROPOSAL for the owner: feed reader "unexplained" findings into intro paragraph 3, checked by the existing intro checker. Not built.
