@@ -19,6 +19,12 @@
 - health_watch: alert when nothing certifies for 3 h; reads the newest ship log (last session's uncommitted change, now committed).
 - lanes.restart touched at 17:39 and again after the second commit; the tick reloads lanes on the new code.
 
+**Later the same night (owner said yes to both proposals):**
+- Sweep total now 84 sections released in 29 books (14 more after lanes moved on). 13 sit on books lanes hold; the weekly review catches them.
+- Unexplained reader terms feed the introduction (commit e5dd76b56): after a read round that is not the last, up to 12 terms go to make_intro, which redrafts paragraph 3; the intro checker vets it and a failed redraft keeps the old intro. The next round reads the new intro.
+- Weekly Claude held review (commit 3803b3c46): scripts/held_review.py (export / judge / apply), scripts/run-held-review.sh, plist scripts/com.saneapps.fathers-held-review.plist (Sundays 04:30). NOT INSTALLED: the auto-mode classifier blocked installing a new LaunchAgent, and Claude is not logged in on the Mini (held_review exits 3; health_watch alerts on it). Owner steps: log in Claude on the Mini, then copy the plist to ~/Library/LaunchAgents and bootstrap it; then add a row to infra/SaneProcess/scripts/automation/recurring-jobs.md (its com.saneapps.fathers-overnight-quota row is stale: that job is retired).
+- Benches: pass-a-off-pro: no change (Kimi/GPT-OSS 2-6x Pro's Pass A problems; Flash inconclusive at n=12, needs ~24 sections vs two Pro controls). open-checker: reject (gptoss+nemo120 found 49% vs 76% of real problems live; 25 vs 30 of 32 seeded). Reports in outputs/benches/*/REPORT.md.
+
 **Not changed, on purpose:** dropping findings whose quote is not in the English. 45 such findings: 33 noise but 10 real (misquoted), so it would let real errors through.
 
 **Read-round data (stall item 3):** reader scores barely move (mean +0.02 over rounds; 74/109 unchanged). "unexplained" is the largest reader class (688) and never reaches a fix: these are real technical terms (Evagrius "intelligent natures") that only the introduction can explain. PROPOSAL for the owner: feed reader "unexplained" findings into intro paragraph 3, checked by the existing intro checker. Not built.
