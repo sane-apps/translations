@@ -1,3 +1,83 @@
+## 2026-09-29 ~10:30 ET (Densify — Exercitatio Tertia Art. I–XXX densify COMPLETE; Tertia COMPLETE)
+
+- Claim `baron-philosophia-densify` held by **Densify**. Crocius CLOSED — Crocius files not modified. Prima Art. I–XII (secs 1–12) **PRESERVED**. Secunda Art. I–XV (secs 13–27) **PRESERVED**.
+- **Before:** 27 english/source sections (Prima 1–12 + Secunda 13–27).
+- **After:** **57** sections. Appended Tertia Art. I–XXX as sections **28–57**.
+- Arts COMPLETE this turn (Exercitatio Tertia — De Fide, Scientia, & Opinione): Art. I–XXX (PDF pp.108–213 / printed ~105–211). Art. XXX ends FINIS Exercitationis Tertiae.
+- Latin locks: `sources/_baron_fide_art{1..30}_latin_lock.txt` + tess/pdftotext + `_ocr_tertia/` (p-107…p-213).
+- Justifications: `reviews/justifications/fide_{1..30}.json` (A≠B; `check_pass_ab` ok=30).
+- Gates: `check_pass_ab` ok=30 (fide_1–30); `--tip-ready` PASS; `verify_translation_qa` packet `fide_art1_30_densify` PASS (receipt packet_id 487d0b21…).
+- **Tertia complete?** YES — Art. I–XXX on disk (secs 28–57). Prima + Secunda + Tertia = 57 sections. Index has no Quarta; Tertia reaches FINIS.
+- Punch X = NO. No ship / ai_promote / mixed commit.
+
+## Next
+
+- Optional: OUR gate / visual stamp / ship for Tertia when parent opens ship lane — **not this run**.
+- Philosophia three Exercitationes densify COMPLETE on disk; volume 213 pp. No further Exercitatio in Baron index. No X.
+
+## 2026-09-29 ~09:30 ET (Densify — Exercitatio Secunda Art. VI–XV densify COMPLETE; Secunda COMPLETE)
+
+- Claim `baron-philosophia-densify` held by **Densify**. Crocius CLOSED — Crocius files not modified. Prima Art. I–XII (secs 1–12) **PRESERVED**. Secunda Art. I–V (secs 13–17) **PRESERVED**.
+- **Before:** 17 english/source sections (Prima 1–12 + Secunda Art. I–V).
+- **After:** **27** sections. Appended Secunda Art. VI–XV as sections **18–27**.
+- Arts COMPLETE this turn:
+  - Art. VI — An precedens doctrina tollat peccati originalis propagationem (PDF pp.73–76 / printed 71–74)
+  - Art. VII — Solvuntur argumenta contra propagationem nativae corruptionis per semen (PDF pp.77–80 / printed 75–78)
+  - Art. VIII — Proponuntur & solvuntur aliquot quaestiones de propagatione peccati originalis (PDF pp.81–83 / printed 79–81)
+  - Art. IX — Diluuntur leviora argumenta contra creationem & infusionem animae (PDF pp.83–85 / printed 81–83)
+  - Art. X — An possit reddi commodior ratio traductionis concupiscentiae (PDF pp.85–89 / printed 83–87)
+  - Art. XI — Considerantur duae aliae sententiae de traductione peccati (PDF pp.89–94 / printed 87–92)
+  - Art. XII — Ostenditur eos qui animarum creationem impugnant dissentire; tres primae sententiae confutantur (PDF pp.94–96 / printed 92–94)
+  - Art. XIII — Refellitur quarta sententia Balthasaris Meisneri (PDF pp.96–101 / printed 94–99)
+  - Art. XIV — Confutatur quinta sententia Timothei Bright Cantabrigiensis (PDF pp.101–105 / printed 99–103)
+  - Art. XV — Confutatas omnes sententias de traduce; creatio animae tutius explicat propagationem (PDF pp.105–107 / printed 103–105)
+- Latin locks: `sources/_baron_anima_art{6..15}_latin_lock.txt` + tess/pdftotext + `_ocr_secunda_art6plus/` (p-073…p-113).
+- Justifications: `reviews/justifications/anima_{6..15}.json` (A≠B dist ~0.889–0.988).
+- Gates: `check_pass_ab` ok=10 (anima_6–15); `--tip-ready` PASS; `verify_translation_qa` packet `anima_art6_15_densify` PASS (receipt packet_id 53931c2a…).
+- **Secunda complete?** YES — Art. I–XV on disk (secs 13–27). Prima + Secunda = 27 sections.
+- Punch X = NO. No ship / ai_promote / mixed commit.
+
+## Next
+
+- Optional later: Exercitatio Tertia tip (De Fide, Scientia, &c.) from printed ~p.105 / PDF ~107 onward — **not opened this run unless parent redirects**.
+- Still not whole Philosophia (213 pp). No X.
+
+## 2026-09-29 ~09:15 ET (Densify — Exercitatio Secunda Art. II–V densify COMPLETE)
+
+- Claim `baron-philosophia-densify` held by **Densify**. Crocius CLOSED — Crocius files not modified. Prima Art. I–XII (secs 1–12) **PRESERVED**.
+- **Before:** 13 english/source sections (Prima 1–12 + Secunda Art. I tip sec.13).
+- **After:** **17** sections. Appended Secunda Art. II–V as sections **14–17**.
+- Arts COMPLETE this turn:
+  - Art. II — De duplici materiae causalitate & potentia; formarum eductio (PDF pp.59–62 / printed 57–60)
+  - Art. III — An anima rationalis sit ex traduce (PDF pp.62–66 / printed 60–64)
+  - Art. IV — An & quomodo homo vere generare hominem (PDF pp.66–69 / printed 64–67)
+  - Art. V — Utrum generatio in productione formae an in conjunctione formae cum materia (PDF pp.69–73 / printed 67–71)
+- Latin locks: `sources/_baron_anima_art{2,3,4,5}_latin_lock.txt` + tess/pdftotext checks + `_ocr_secunda_art2plus/`.
+- Justifications: `reviews/justifications/anima_{2,3,4,5}.json` (A≠B dist ~0.965–0.981).
+- Gates: `check_pass_ab` ok=5 (anima_1–5); `--tip-ready` PASS; `verify_translation_qa` packet `anima_art2_5_densify` PASS (receipt packet_id 25464077…).
+- **Secunda complete?** NO — Art. VI–XV remain (next Art. VI An precedens doctrina tollat peccati originalis propagationem, PDF ~p.73 / printed ~71).
+- Punch X = NO. No ship / ai_promote / mixed commit.
+
+## Next
+
+- Continue Secunda densify: Art. VI from PDF ~p.73 onward through Art. XV if feasible.
+- Still not whole Philosophia (213 pp). No X.
+
+## 2026-09-29 (Densify — Exercitatio Secunda Art. I tip started)
+
+- Claim `baron-philosophia-densify` freed from stale Scribe Prima row; taken by **Densify**. Slice: Exercitatio Secunda Art. I tip (De formarum materialium/immaterialium diversitate). Prima Art. I–XII COMPLETE confirmed on disk (12 english/source sections).
+- Next Exercitatio identity: **Exercitatio Secunda** — *De Origine animae, & propagatione peccati*. Art. I opens the common doctrine on origin of the soul / form diversity.
+- Latin ready: locked `sources/_baron_anima_art1_latin_lock.txt` from IA 1658 PDF **pp.56–58** (printed **pp.54–56**) + tess + pdftotext + DjVu. Checks: `baron_1658_secunda_art1_pages_{tesseract,pdftotext}.txt`, `sources/_ocr_secunda_art1/`.
+- Densify packet started: english/source **section 13**; justification `reviews/justifications/anima_1.json` (Pass A≠B distance ~0.959; `check_pass_ab` ok=1). No Scripture / no PBB; English-first title.
+- Scope: Secunda Art. I tip only. Art. II+ (duplici materiae causalitate … through Art. XV) remain. Not whole Philosophia (213 pp).
+- Punch X = NO. No ship / ai_promote / mixed commit. Crocius untouched (densify CLOSED / ready-for-review).
+
+## Next
+
+- Optional: OUR gate / visual stamp / ship for section 13 when parent opens ship lane — **not this run**.
+- Else continue Secunda densify: Art. II (De duplici materiae causalitate & potentia; formarum eductio) from PDF ~p.59 / printed p.57 onward.
+- Still not whole Philosophia (213 pp). No X.
+
 ## 2026-09-21 (Scribe — Art. XII SHIPPED / Exercitatio Prima densify COMPLETE)
 
 - Live target: Exercitatio Prima Art. I–XII (12 passages). OUR + visual stamp + ship. No X.
