@@ -31,6 +31,8 @@
 - Issues #1-#20 (label held-section) = those sections; #21-#23 = open fidelity items (Origen Philocalia §§2,4-7; Origen Romans catena; Cyril De adoratione 10 §18).
 - After a PR merges, `python3 scripts/held_review.py import` (also first step of the weekly run) reads held/ from origin/main without touching the working tree, gate-checks the English, releases the section and reopens the book. To refresh held/ after a review: `held_review.py publish --dir <review dir>`, then commit and push. Close an issue when its section certifies.
 
+**Flash bench decision:** flash-polish-repair finished (outputs/benches/flash-polish-repair/REPORT.md): fidelity equal within noise on 12 sections (8 vs 7 problems), editing ~3x less Pro traffic, but one uncaught drift (Trypho 11: estese "stopped" -> "brought to its fulfillment"). Recommendation to owner: stay on Pro; revisit only if CF denies the 100/min request (case #02359041) and throughput becomes the limit.
+
 **Not changed, on purpose:** dropping findings whose quote is not in the English. 45 such findings: 33 noise but 10 real (misquoted), so it would let real errors through.
 
 **Read-round data (stall item 3):** reader scores barely move (mean +0.02 over rounds; 74/109 unchanged). "unexplained" is the largest reader class (688) and never reaches a fix: these are real technical terms (Evagrius "intelligent natures") that only the introduction can explain. PROPOSAL for the owner: feed reader "unexplained" findings into intro paragraph 3, checked by the existing intro checker. Not built.
