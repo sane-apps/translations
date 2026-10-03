@@ -1,5 +1,66 @@
 ## 2026-09-29 (Densify — Sanctorum Cultu Pars Secunda Reformata I-XL densify LOCAL)
 
+## 2026-10-03 evening: Claude session handoff (resume here)
+
+**Live now**
+- Beliefs map: https://viapatrum.org/beliefs/. 19 questions, positions by distinguishing mark, Claude-audited verdicts, attribution list. Spec: docs/BELIEFS_MAP_SPEC.md. Data: websites/fathers.saneapps.com/data/explore/{doctrine_questions,doctrines,attribution,doctrine_map}.json. Nightly job com.saneapps.fathers-beliefs (03:30) runs run-doctrine-map.sh.
+- Audio is on R2 (bucket viapatrum-audio, https://audio.viapatrum.org):
+  - The narrator is the Cloudflare Worker viapatrum-narrator: queue viapatrum-narration, private bucket viapatrum-narrator-work, no public endpoint.
+  - Voices are Aura-2: Orion narrates, Arcas reads Scripture. 128 kbps (owner decision).
+  - Mini drain: com.saneapps.fathers-audio-next, KOKORO_ENGINE=cf-worker.
+  - Ships upload only changed local mp3s; scripts/audio_r2.py refuses bytes that don't match their hash key.
+- Every page has a share card with ?v=<hash>; ship.sh draws the cards.
+
+**Pipeline state** (translations repo)
+- 15 lanes (com.saneapps.fathers-recert tick every 30 min, scripts/run-recert-lanes.sh). They run earliest writer first (scripts/book_era.py).
+- Checker pairs rotate around GPT-OSS-120B. Readers and brief judges are JUDGES = Kimi K2.6 + GLM-5.2 (WP_JUDGES).
+- Graceful restart: `touch outputs/work-pipeline/lanes.restart`. NEVER kill lanes.
+- Every model call goes through llm_bakeoff.vendor_call:
+  - per-model rate limiter (/tmp/vendor-rate);
+  - hybrid routing: direct while a slot is free, overflow to the batch broker com.saneapps.cf-batch-broker on 127.0.0.1:8799.
+- Paid CF models are capped at ~20 req/min per model. CF support case #02359041 asks for 100/min.
+- Grant: $10k startup credits, ~$9.98k unused (the billing page lags; use GraphQL aiInferenceAdaptiveGroups). The credits exclude AI Gateway, and a hook blocks that route and CF_BATCH=0.
+- Fixed today:
+  - GPT-OSS as reader (scored 2 in 20/21 rounds: the certification stall);
+  - the substring names gate;
+  - banned-rendering bans only where the source term occurs (B3);
+  - two reader scores required (B1);
+  - certify on the final text read (B2);
+  - skipped reads clear stale scores (B5).
+  94 tests pass (scripts/test_work_pipeline_efficiency.py, pipeline/test_work_lint.py).
+- The re-gate of held sections now runs offline every tick (scripts/regate_held.py).
+- The old overnight job com.saneapps.fathers-overnight-quota is RETIRED (plist renamed .disabled).
+- Health check: `python3 scripts/health_watch.py` (ALERT/EVENT lines; checks lanes, 429s, broker, narration, ships, disk, ship-lock orphans, certification stall). Relaunch a bounded monitor loop on the Air at session start.
+
+**Intake today: 397 early works** (writers who died by 451)
+- 68 Greek from TEI, 135 Latin (CSEL/Perseus), 179 Migne PG (Khazarzar typed text + scan collation), 15 Apostolic Fathers/Apologists.
+- All passed scripts/provenance_audit.py and are committed.
+- Tool: scripts/intake_first1k.py (Greek/Latin/PG modes, --edition, --skip-units).
+- Inventory of all 1,280 early works: docs/early-inventory.json.
+- Plans: docs/greek-intake-plan.json, docs/latin-intake-plan.json.
+- INTAKE IS PAUSED until certification flows.
+
+**Next, in order**
+1. Confirm certification resumed after the graceful restart: queue.json results, health_watch "certified" count. The last certification before the fixes was 12:18.
+2. Held-section sweep, the biggest remaining lever: ~436 sections are held for "confirmed problems after 3 repairs". Sample them and classify real errors against checker noise.
+3. Stall-report items still open:
+   - "unexplained" findings never reach the fix step;
+   - read/fix rounds don't raise scores (+0.05 average); stop rounds early;
+   - add score anchors to the reader prompt (work_read.py:59), benched on the 66 certified works.
+4. Rerun the four owner-approved model benches. The workflow was stopped by the usage limit; the script is in ~/.claude/projects/-Users-sj/43671ba8-.../workflows/scripts/via-patrum-model-benches-*.js. The benches: DeepSeek Flash for polish/repair, Pass A off DeepSeek Pro, a new open checker (Nemotron-120B bench results are in outputs/defect-bench/REPORT-nemo120.md), and packing short sections.
+5. Ship items deferred while a ship ran: ship.sh stage timing and parallel checks, clonefile staging, one serial inject run. Then search-index sharding before 25 MiB (an assert at 24 MiB is in build_site.py).
+6. Translation fixes from the audit are done; the list is in docs/FIDELITY_ISSUES_20261003.md. Still open there: Origen Philocalia §§2, 4-7 and the Romans catena are paraphrase and need retranslation, and Cyril De adoratione 10 §18 has a corrupt source.
+7. Watch the narrator Worker's dead-letter queue (viapatrum-narration-dlq) and the broker /stats; neither is in health_watch yet.
+8. Resume intake (Chrysostom remainder, Latin round 4: City of God, Jerome and Augustine letters need script fixes) once lanes certify again.
+
+**Rules learned** (also in Claude memory via-patrum-failure-modes)
+- Never edit a running ship.sh. Preview into /tmp, never dist/, while a ship runs.
+- Kill orphans holding outputs/ship.lock.
+- Scripted HTTP checks must send a User-Agent: the zone's bot protection 403s Python's default.
+- Open dashboard forms in a new tab.
+- Model or token-permission changes need owner approval. The auto-mode classifier blocks token-permission edits even when approved.
+
+
 - Before: **1557**. After: **1597** (contiguous Sanctorum Cultu Pars Secunda Reformata I-XL → §§1558–1597).
 - Packet `sanctorum_cultu_pars_secunda_i_xl_densify`. Punch X = NO. Not shipped.
 - Latin lock: `sources/_le_blanc_sanctorum_cultu_latin_lock.txt` EXTENDED (Romana I-LXXVII PRESERVED + PARS SECUNDA Reformata banner + I-XL). Imaginum + Remissione + Distinctione + fidei locks untouched. Justifications `sanctorum_cultu_{n}.json`; OCR/apply under `sources/_ocr_sanctorum_cultu/`.
