@@ -25,6 +25,12 @@
 - Weekly Claude held review (commit 3803b3c46): scripts/held_review.py (export / judge / apply), scripts/run-held-review.sh, plist scripts/com.saneapps.fathers-held-review.plist (Sundays 04:30). INSTALLED and loaded 2026-10-03 18:20; first run Sunday 04:30 (no test run: 22:37-03:30 is reserved for the Ten Leopards run). Owner confirmed Claude Code is signed in on the Mini (GUI session); over ssh `claude auth status` reads loggedIn false (keychain context), so if Sunday's run exits 3 (health_watch alerts), store a `claude setup-token` token as CLAUDE_CODE_OAUTH_TOKEN in sane-env. Row added to recurring-jobs.md (uncommitted, beside another session's edits).
 - Benches: pass-a-off-pro: no change (Kimi/GPT-OSS 2-6x Pro's Pass A problems; Flash inconclusive at n=12, needs ~24 sections vs two Pro controls). open-checker: reject (gptoss+nemo120 found 49% vs 76% of real problems live; 25 vs 30 of 32 seeded). Reports in outputs/benches/*/REPORT.md.
 
+**Outside contributors (owner 2026-10-03: "point Grok/Muse at the GitHub"):**
+- Pushed to GitHub (main == origin/main at b0957f082).
+- held/<book>/<section>.json: the 20 sections still held, each with source, English, findings and reviewer notes; held/README.md says how to fix one. CONTRIBUTING (way 5) and docs/START_HERE.md point there.
+- Issues #1-#20 (label held-section) = those sections; #21-#23 = open fidelity items (Origen Philocalia §§2,4-7; Origen Romans catena; Cyril De adoratione 10 §18).
+- After a PR merges, `python3 scripts/held_review.py import` (also first step of the weekly run) reads held/ from origin/main without touching the working tree, gate-checks the English, releases the section and reopens the book. To refresh held/ after a review: `held_review.py publish --dir <review dir>`, then commit and push. Close an issue when its section certifies.
+
 **Not changed, on purpose:** dropping findings whose quote is not in the English. 45 such findings: 33 noise but 10 real (misquoted), so it would let real errors through.
 
 **Read-round data (stall item 3):** reader scores barely move (mean +0.02 over rounds; 74/109 unchanged). "unexplained" is the largest reader class (688) and never reaches a fix: these are real technical terms (Evagrius "intelligent natures") that only the introduction can explain. PROPOSAL for the owner: feed reader "unexplained" findings into intro paragraph 3, checked by the existing intro checker. Not built.
