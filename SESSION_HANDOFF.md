@@ -1,5 +1,3 @@
-## 2026-09-29 (Densify — Sanctorum Cultu Pars Secunda Reformata I-XL densify LOCAL)
-
 ## 2026-10-03 evening: Claude session handoff (resume here)
 
 **Live now**
@@ -60,6 +58,7 @@
 - Open dashboard forms in a new tab.
 - Model or token-permission changes need owner approval. The auto-mode classifier blocks token-permission edits even when approved.
 
+## 2026-09-29 (Densify — Sanctorum Cultu Pars Secunda Reformata I-XL densify LOCAL)
 
 - Before: **1557**. After: **1597** (contiguous Sanctorum Cultu Pars Secunda Reformata I-XL → §§1558–1597).
 - Packet `sanctorum_cultu_pars_secunda_i_xl_densify`. Punch X = NO. Not shipped.
