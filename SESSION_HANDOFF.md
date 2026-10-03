@@ -1,3 +1,30 @@
+## 2026-10-03 night: Claude session (resume here; the evening section below still holds)
+
+**Fixed: lanes started by the tick died at once.** From 16:38 every lane the 30-min tick started died within seconds. launchd kills a job's children when the job script exits; the 3 lanes that lived were started by hand. Nothing certified 16:36-17:34. Fix: `AbandonProcessGroup=true` in ~/Library/LaunchAgents/com.saneapps.fathers-recert.plist (backup: outputs/com.saneapps.fathers-recert.plist.bak-20261003). 15/15 lanes alive after the 17:34 tick.
+
+**Held-section sweep (step 2) done.** 122 sections were held for "confirmed problems after 3 repairs" (not 436; re-gating cleared the rest), with 290 findings. Four Claude Opus judges read every one against the source:
+- 175 noise (60%), 102 real (35%), 13 unsure (corrupt or ambiguous source).
+- For real findings, the checker's suggested fix was wrong or ungrammatical about 2 times in 3, and repairs had turned correct text wrong in several places.
+- Neither safeguard filters noise: findings both checkers agreed on were real 35% of the time, the same as referee-upheld ones. Glossary-class findings: 0 of 10 real.
+- Files: outputs/held-sweep/ (findings.jsonl, verdicts.jsonl, confirmed_holds.txt, route.py, kept_held.json, archive/ = originals of every released section).
+- Applied with outputs/held-sweep/apply_verdicts.py: 70 sections released in 28 books (36 all-noise, 34 with 51 judge fixes). Each carries a "sweep" record (fixed + dismissed findings) that goes into its justification. Their queue rows are "reopened", so lanes run the whole-work read and certification.
+- 33 sections were skipped because a lane held their book. RERUN `python3 outputs/held-sweep/apply_verdicts.py` (dry-run first) when those lanes move on; it only touches sections whose findings still match what was judged.
+- Still held, for a person (kept_held.json): 7 corrupt-source sections, 10 whose real finding quotes text no longer present, 1 where the fix made "but but".
+- Judges also saw real errors no checker raised: Theodorus Heracleensis u01-rem-mid ὑπελιμπάνετο ("still remained", not "was being left behind"); Didymus contra Montanistas reply "he" not "she"; Ammonius u07-open and u08-rem-close; Origen Jer 5.2 "his angels"; Origen Job "drawn power". Epiphanius: a section split falls between "εἷς | Κύριος".
+
+**Pipeline changes (commits 63f0c0168, 17d08d1bb; 97 tests pass):**
+- read_and_fix keeps the best passing text: 11 of 119 works passed a read round and then lost it in a later one (scores swing ~0.5 on near-equal text). The last round falling below the bar now restores the passing round's text and its bound scores.
+- Repair prompt: checkers are often wrong; check the source first; never edit correct English; no more "every problem needs an edit".
+- Checker glossary findings count as minor (gate + lint enforce the glossary).
+- health_watch: alert when nothing certifies for 3 h; reads the newest ship log (last session's uncommitted change, now committed).
+- lanes.restart touched at 17:39 and again after the second commit; the tick reloads lanes on the new code.
+
+**Not changed, on purpose:** dropping findings whose quote is not in the English. 45 such findings: 33 noise but 10 real (misquoted), so it would let real errors through.
+
+**Read-round data (stall item 3):** reader scores barely move (mean +0.02 over rounds; 74/109 unchanged). "unexplained" is the largest reader class (688) and never reaches a fix: these are real technical terms (Evagrius "intelligent natures") that only the introduction can explain. PROPOSAL for the owner: feed reader "unexplained" findings into intro paragraph 3, checked by the existing intro checker. Not built.
+
+**Benches (step 4):** pack-short-sections REJECTED on existing data (baseline 18 pass/2 hold, packed 7 pass/13 hold). flash-polish-repair, pass-a-off-pro and open-checker are being finished from their saved arms by subagents; reports go to outputs/benches/<name>/REPORT.md.
+
 ## 2026-10-03 evening: Claude session handoff (resume here)
 
 **Live now**
