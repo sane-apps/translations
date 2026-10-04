@@ -5,6 +5,12 @@
 2. Certification volume per dollar: daily metric = cost per 1k source words passed and certified (CF GraphQL + queue.json). Then the waste-per-word ultracode pass (blind held-section redrafts, near-copy redrafts, flat read rounds, Pro calls that end in held attempts).
 3. Audio: LATER, owner's call. Nothing decided yet.
 
+**Outside contributors (owner 2026-10-03 22:00: "a stranger can hook their AI up to our github and be useful immediately... connect at the same time without crossing"):**
+- docs/START_HERE.md now opens with paste-into-your-AI steps: claim an issue, sparse clone (tested: 3 s, 45 MB vs 10+ GB), work, one PR "Fixes #N". Commit 839de7550.
+- Shared claim board: .github/workflows/claims.yml. /claim labels the issue `claimed` and replies; a second claimant is refused (runs per issue serialized, live re-read); /unclaim releases; claims with no open PR expire after 7 days (daily 06:17 UTC). Tested live on issue #1: claim, unclaim and the expiry run all passed. NOT tested: refusal of a second account (no second account).
+- All 23 issues now start with the /claim line.
+- Gaps for Monday: (1) only 23 issues exist; make more (held_review publish each week; spot-check issues for certified works; the [fidelity] list). (2) Lanes do not know about claims: before opening an issue for a whole book, make lanes skip books whose issue is claimed. (3) docs/CLAIMS.md + claims.py are per-clone claims; keep them for internal lanes only.
+
 **State saved tonight (leave as is until the owner decides):**
 - 6 lanes (C x2, E, A, B, D), benched checker pairs only (gpt-oss+kimi, gpt-oss+glm-5.2); reopened books first; one book per lane (claim()).
 - Narration drain com.saneapps.fathers-audio-next is ON with safe rules: narrates works with no audio and re-records changed sentences only in Orion works (Worker sentence cache). The old-voice backfill (39 bm_daniel works, ~$96 in Orion) was approved, then PAUSED by me at ~21:50 after the owner recalled docs/GPU_RENDER_COSTS.md (self-hosted Kokoro ~$5 per corpus, local Kokoro $0, keeps bm_daniel). I should have asked first. Owner decides Monday: resume the Orion re-voice, or re-record changed lines in bm_daniel locally.
