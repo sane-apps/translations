@@ -44,9 +44,10 @@
 - Still open from the audit: two lanes ran the same book at once (barnabas-epistle 18:04; didache x3) -> possible race in prev_running/update_log; GLM-5.3 failure types; pass old findings into held-section redrafts.
 
 **Audio policy (owner 2026-10-03 evening):** certified volume first; every published work must be complete, certified AND have audio; never re-voice finished audiobooks, re-record only changed lines.
-- Narration drain com.saneapps.fathers-audio-next PAUSED (plist renamed .disabled). Site repo commit 97c69a1: drain order = works without audio first, then changed files only; no whole-work re-voice; old-work quotation re-reads only with AUDIO_REREAD_OLD=1.
-- Before resuming: (1) work->book mapping: 96 of 306 live works (e.g. origen-on-prayer from book origen-prayer-martyrdom) never get audio because build_audio/inject_audio assume slug == book folder; (2) line-level reuse in CF worker mode (_render_via_worker re-speaks whole files). Then backfill audio, then add the publish gate (certified + audio).
-- Stopped 6 lanes still on the GLM-5.3 pair at ~20:10 (it billed ~\$21/hour); tick restarts 6 lanes on benched pairs.
+- Narration drain com.saneapps.fathers-audio-next PAUSED (plist renamed .disabled). Site repo (not pushed): 97c69a1 drain order = works without audio first, no whole-work re-voice, old-work quotation re-reads only with AUDIO_REREAD_OLD=1; 4a0f543 changed-text re-recording only with AUDIO_RESTEM=1.
+- Measured 21:45: 61 of 306 live works show no player. 45 = recorded but re-certification changed their text (audio no longer matches); 16 = split works whose parent book recording no longer matches (stale_stems cannot see a parent that has no dist/works page). CORRECTION: the earlier "96 works can never get audio" was wrong; split works get the parent's recording at ship. A work->book resolver was built, reviewed, and REVERTED (it would have re-voiced ~25 works that already have audio).
+- Re-recording all changed files in full = ~\$96 (39 works, 265 files; didymus-fragmenta-psalmos \$22.58, placeus-de-imputatione \$20.00). Next: line-level reuse in CF worker mode (build_audio._render_via_worker re-speaks whole files; reuse_plan exists for the local path), then stale detection for split-work parents, then a publish gate (certified + audio). Owner to approve spend for the restem backfill.
+- Stopped 6 lanes still on the GLM-5.3 pair at ~20:10; 20:36 tick: 6 lanes, 4 gpt-oss+kimi, 2 gpt-oss+glm-5.2.
 
 **Not changed, on purpose:** dropping findings whose quote is not in the English. 45 such findings: 33 noise but 10 real (misquoted), so it would let real errors through.
 
