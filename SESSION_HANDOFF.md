@@ -54,6 +54,12 @@
 
 **NOTHING PUBLISHES AUTOMATICALLY.** Lanes certify works into books/, but viapatrum.org changes only when someone runs websites/fathers.saneapps.com/scripts/ship.sh (fathers-e2e at 02:00 is a dry run). The last ship was 16:00 on Oct 3, so every work certified since (70 -> 76+) and tonight's audio wait for the next ship. Owner wants volume on the site: propose a regular ship (e.g. daily after the 04:30 held review, outside 22:37-03:30) and run one tomorrow morning. Ship rules: never edit a running ship.sh; preview into /tmp; kill orphans holding outputs/ship.lock.
 
+**Owner direction 2026-10-03 21:30: optimize waste per word ("accurate but not just churning for no reason").**
+- Done: one book, one lane (claim() in one lock hold; commit b325950f1) - lanes had run the same book 2-3x at once.
+- Corpus estimate (1 day of data, +/-50%): ~10M early source words in 660 repo books (57 certified, ~19k words). Today: ~315k source words of sections passed for ~$460 translation spend (~$1.50 per 1k). Full early corpus ~$14-18k incl. audio vs ~$9.2k credits; 8-12 weeks at 6 lanes. Re-estimate after 3 days of the daily metric.
+- NEXT (after 03:30, ultracode with adversarial checks): waste-per-word workflow. Levers from the spend audit: only ~4,400 of 18,750 DeepSeek Pro calls ended in passing attempts; held-section redrafts start blind (pass the old findings and the reviewer notes into the redraft; 68-86% of retried holds later pass); near-copy gate redrafts; read/fix rounds with flat scores. Report daily: cost per 1k source words passed and per 1k certified, 7-day rolling.
+- Free TTS backup: local Kokoro (bm_daniel) on the Mini already works at $0. NVIDIA Magpie TTS (open weights, NVIDIA Open Model License, needs an NVIDIA GPU; build.nvidia.com lists a free magpie-tts-zeroshot endpoint whose production terms are unverified) is a second backup to bench only if CF credits run low.
+
 **Not changed, on purpose:** dropping findings whose quote is not in the English. 45 such findings: 33 noise but 10 real (misquoted), so it would let real errors through.
 
 **Read-round data (stall item 3):** reader scores barely move (mean +0.02 over rounds; 74/109 unchanged). "unexplained" is the largest reader class (688) and never reaches a fix: these are real technical terms (Evagrius "intelligent natures") that only the introduction can explain. PROPOSAL for the owner: feed reader "unexplained" findings into intro paragraph 3, checked by the existing intro checker. Not built.
