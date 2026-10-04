@@ -1,3 +1,17 @@
+## RESUME MONDAY (owner 2026-10-03 21:55): "get through all the books, get them certified and live, then I can worry about audio."
+
+**Priority order for Monday:**
+1. Publishing: NOTHING ships automatically. Run ship.sh (websites/fathers.saneapps.com) so every work certified since the 16:00 Oct 3 ship goes live, then propose a regular ship schedule to the owner.
+2. Certification volume per dollar: daily metric = cost per 1k source words passed and certified (CF GraphQL + queue.json). Then the waste-per-word ultracode pass (blind held-section redrafts, near-copy redrafts, flat read rounds, Pro calls that end in held attempts).
+3. Audio: LATER, owner's call. Nothing decided yet.
+
+**State saved tonight (leave as is until the owner decides):**
+- 6 lanes (C x2, E, A, B, D), benched checker pairs only (gpt-oss+kimi, gpt-oss+glm-5.2); reopened books first; one book per lane (claim()).
+- Narration drain com.saneapps.fathers-audio-next is ON with safe rules: narrates works with no audio and re-records changed sentences only in Orion works (Worker sentence cache). The old-voice backfill (39 bm_daniel works, ~$96 in Orion) was approved, then PAUSED by me at ~21:50 after the owner recalled docs/GPU_RENDER_COSTS.md (self-hosted Kokoro ~$5 per corpus, local Kokoro $0, keeps bm_daniel). I should have asked first. Owner decides Monday: resume the Orion re-voice, or re-record changed lines in bm_daniel locally.
+- Open audio ideas for later: listening test (Orion, Qwen3-TTS, Chatterbox, Kokoro); voices may differ between works (owner corrected me); 16 split works whose parent recording is stale; a publish gate (certified + audio).
+- Weekly Claude held review runs Sunday 04:30 (com.saneapps.fathers-held-review).
+- CF case #02359041: reply sent asking whether Startup credits can fund Unified Billing and for a further credit tier. Spend Oct 3 ~$598; grant ~$9.2k left.
+
 ## 2026-10-03 night: Claude session (resume here; the evening section below still holds)
 
 **Fixed: lanes started by the tick died at once.** From 16:38 every lane the 30-min tick started died within seconds. launchd kills a job's children when the job script exits; the 3 lanes that lived were started by hand. Nothing certified 16:36-17:34. Fix: `AbandonProcessGroup=true` in ~/Library/LaunchAgents/com.saneapps.fathers-recert.plist (backup: outputs/com.saneapps.fathers-recert.plist.bak-20261003). 15/15 lanes alive after the 17:34 tick.
