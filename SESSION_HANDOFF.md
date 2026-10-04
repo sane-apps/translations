@@ -50,6 +50,10 @@
 - CORRECTIONS: "96 works can never get audio" was wrong (split works get the parent's recording at ship; a resolver built on it was reverted after review). "CF mode re-records whole files" was wrong for orion recordings (Worker sentence cache).
 - Next: stale detection for split-work parents (stale_stems returns [] when the parent has no dist/works page); then a publish gate (certified + audio).
 
+**Old-voice audio backfill APPROVED by owner (~$96), running since ~21:15:** run-audio-drain.sh exports AUDIO_RESTEM_OLD_VOICE=1 (site commit b7987fb, which also commits the cf-worker engine line). It re-records the changed text of 39 works / 265 files recorded in bm_daniel, in orion. Check Aura-2 spend (GraphQL by hour) and the drain log; remove the flag when the 39 are done.
+
+**NOTHING PUBLISHES AUTOMATICALLY.** Lanes certify works into books/, but viapatrum.org changes only when someone runs websites/fathers.saneapps.com/scripts/ship.sh (fathers-e2e at 02:00 is a dry run). The last ship was 16:00 on Oct 3, so every work certified since (70 -> 76+) and tonight's audio wait for the next ship. Owner wants volume on the site: propose a regular ship (e.g. daily after the 04:30 held review, outside 22:37-03:30) and run one tomorrow morning. Ship rules: never edit a running ship.sh; preview into /tmp; kill orphans holding outputs/ship.lock.
+
 **Not changed, on purpose:** dropping findings whose quote is not in the English. 45 such findings: 33 noise but 10 real (misquoted), so it would let real errors through.
 
 **Read-round data (stall item 3):** reader scores barely move (mean +0.02 over rounds; 74/109 unchanged). "unexplained" is the largest reader class (688) and never reaches a fix: these are real technical terms (Evagrius "intelligent natures") that only the introduction can explain. PROPOSAL for the owner: feed reader "unexplained" findings into intro paragraph 3, checked by the existing intro checker. Not built.
