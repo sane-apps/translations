@@ -43,6 +43,11 @@
 - Owner decisions open: pace of the orion/arcas re-voice (~\$307-360 one-off, runs in 2-3 days unless capped); the quotation-voice fix (saves ~\$53 one-off; audio only); Flash stays off (owner: stay on Pro).
 - Still open from the audit: two lanes ran the same book at once (barnabas-epistle 18:04; didache x3) -> possible race in prev_running/update_log; GLM-5.3 failure types; pass old findings into held-section redrafts.
 
+**Audio policy (owner 2026-10-03 evening):** certified volume first; every published work must be complete, certified AND have audio; never re-voice finished audiobooks, re-record only changed lines.
+- Narration drain com.saneapps.fathers-audio-next PAUSED (plist renamed .disabled). Site repo commit 97c69a1: drain order = works without audio first, then changed files only; no whole-work re-voice; old-work quotation re-reads only with AUDIO_REREAD_OLD=1.
+- Before resuming: (1) work->book mapping: 96 of 306 live works (e.g. origen-on-prayer from book origen-prayer-martyrdom) never get audio because build_audio/inject_audio assume slug == book folder; (2) line-level reuse in CF worker mode (_render_via_worker re-speaks whole files). Then backfill audio, then add the publish gate (certified + audio).
+- Stopped 6 lanes still on the GLM-5.3 pair at ~20:10 (it billed ~\$21/hour); tick restarts 6 lanes on benched pairs.
+
 **Not changed, on purpose:** dropping findings whose quote is not in the English. 45 such findings: 33 noise but 10 real (misquoted), so it would let real errors through.
 
 **Read-round data (stall item 3):** reader scores barely move (mean +0.02 over rounds; 74/109 unchanged). "unexplained" is the largest reader class (688) and never reaches a fix: these are real technical terms (Evagrius "intelligent natures") that only the introduction can explain. PROPOSAL for the owner: feed reader "unexplained" findings into intro paragraph 3, checked by the existing intro checker. Not built.
