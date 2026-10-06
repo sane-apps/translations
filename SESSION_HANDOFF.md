@@ -1,3 +1,103 @@
+## 2026-10-05 18:45 ET (Grok — Personal Books page shipped)
+
+SHIP OK. Log `websites/fathers.saneapps.com/outputs/ship-20261005-logos-publish.log`. Pages `https://20e6d8a5.fathers-site.pages.dev`. Live check 370 routes, 365 held, 0 failed. CSS `?v=b5ea80711e`.
+
+The public download page is `https://viapatrum.org/logos/`. Part 1 is 18,669,484 bytes (145 books). Part 2 is 7,859,649 bytes (77 books). Together 222 books. The old zip URL returns 302 to `/logos/`. Audio stayed on `audio.viapatrum.org`. The local preview server on port 48766 can be stopped.
+
+## 2026-10-05 16:55 ET (Grok — split pack and abbreviation links)
+
+The public download was still the old zip at this point. The 18:45 ship above replaced it. The local set is now two parts, both under 25 MB: `outputs/logos-share/fathers-personal-books-1.zip` (18669484 bytes, 145 books) and `fathers-personal-books-2.zip` (7859649 bytes, 77 books). 222 books included, the same 6 holds as before. The old single zip on disk was left in place. `build_site.py` copies the parts, writes `/logos/` as the share page, and redirects the old zip address there. Do not ship until the 32-PNG gate. Do not put the files on the audio bucket.
+
+Citations written as abbreviations (`1 Cor 1:10`, `Matt. 5:3`, `Ps. 50:1`, `1 Kor 16:10`) now become Bible links. A bare "the Apostle says" does not, and an LXX abbreviation is left plain. Tests: `pipeline/tests/test_abbrev_links.py`.
+
+Reviewed and rebuilt this turn: Olympiodorus, Fragment on "Rejoice in that day" (the deacon, not the philosopher, not the Job commentary). Didymus, Fragments on 1 Corinthians (resurrection and the last chapter, not the Psalms fragments). Evagrius, Sentences to Monks (not the virgin sentences, not the vices list). Evagrius, On the Vices Opposed to the Virtues (also named Nilus in the English). Severian, Fragments on 1 Thessalonians (thief, the dead in Christ, the bridegroom in the Gospel, not the Song of Songs). Theophilus, Fragments on Matthew (the two sons, not the John fragments). Eusebius of Emesa, Fragment on 1 Corinthians. Covers were clean. `check_research.py` is green (225 books). Shop-talk notes (Khazarzar footers, machine-draft lines, "series closeout") stay out of the Word file.
+
+Amphilochius, Iambi ad Seleucum, was on a translation lane and was left alone. Oecumenius stays undated. Empty English stays with the six lanes. Do not pad the scaffold books.
+
+## 2026-10-05 14:10 ET (Grok — sourced author dates written)
+
+The public zip is still `https://viapatrum.org/logos/fathers-personal-books.zip` (21404315 bytes, 160 books). Do not claim a newer count until a new publish is verified. Do not publish one zip over 25 MB.
+
+Author dates are now in `websites/fathers.saneapps.com/data/author-dates.json` and in `books/ante-nicene-topics/authors.json`. Blank bio dates were filled for Polycarp, the Letter to Diognetus, Alexander of Alexandria, the Passion of Perpetua, and Alexander the Monk. `check_research.py` is green (214 books). The live site still shows the old pages until the next `ship.sh`. Do not ship an oversized Logos zip with that ship.
+
+Dates use a slash where the handbooks disagree (John of Damascus `c. 645/675–749`, Athanasius `c. 293/298–373`, Nicephorus `c. 758–828/829`). Gennadius of Constantinople is `d. 471` (patriarch from 458, birth unknown), not a 458–471 lifespan. Olympiodorus is the deacon, `fl. early 6th c.`, not the pagan philosopher. Procopius of Gaza is the catena compiler, not Procopius of Caesarea.
+
+Still undated on purpose: Oecumenius (the Apocalypse commentary and the later Pauline catena share one author string), Theodorus (PG 86a), John of Antioch, Theophanes Kerameus, Georgius Peccator, Symeon Magister, and the Pseudo-Athanasius / Pseudo-Ignatius / Pseudo-Tertullian labels. Do not invent those. Empty English stays with the six lanes. Do not pad Bible links.
+
+Shelf batch 25 finished: built 4, failed 0. Reviewed and rebuilt. Refutation of Proclus is the short piece printed under Procopius, and the intro says a longer refutation is also credited to Nicholas of Methone. Fragments on Hebrews, Galatians, and 1–2 Corinthians now follow the English (radiance and the first lessons of faith; Moses and Christ, not the sun and the moon; the cloud, the sea, and faith like a mustard seed). Covers were clean. One ready book was left by the limit of 4. Do not pack these until the rest of a batch is read the same way. The public zip is still the 160-book file.
+
+## 2026-10-05 13:30 ET (Grok — shelf queue empty; batch 23 reviewed)
+
+The public zip is still `https://viapatrum.org/logos/fathers-personal-books.zip` (21404315 bytes, 160 books). Do not claim a newer count until a new publish is verified. 214 Word files are on disk (about 16 MB) plus covers (about 17 MB). One zip of all of them will not fit the 25 MB Pages file limit. Do not publish an oversized zip.
+
+Shelf batch 23 built five Cyril books and was reviewed. Fragments on Acts and the Catholic Epistles. Festal Letters (the first, the second, and the fifth through the fifteenth, not all thirty). Dialogue with Nestorius (the title of Mary, then the sacrifice and the meal). On the Falling Away of the Synagogue (Abram renamed Abraham, read as father, son, and Most High). Against Julian (preface and the first nine books; book 10 was only an editor line). Editor one-line openings are dropped. Shop-talk translator notes (True OET, copy-text, the stock fragmented line) no longer go into the Word file. Sentences to a Virgin no longer names Melania or Rufinus. Six translation lanes were still running. `lanes.paused` stays absent.
+
+Batch 24 found 0 of 0 ready works (269 undated, 246 empty English, 48 no Bible link or scaffold). Do not relaunch an empty shelf. Do not invent dates or Bible links.
+
+## 2026-10-05 12:58 ET (Grok — shelf batch 20 reviewed; batch 21 running)
+
+The public zip is still `https://viapatrum.org/logos/fathers-personal-books.zip` (21404315 bytes, 160 books). Do not pack yet.
+
+Batch 20 reviewed and rebuilt where the intro was wrong. Homilies on Isaiah and Ezekiel (Jerome; not the Ezekiel commentary fragments; 86 links). Homilies on Genesis (Rufinus; not the notes, the selections, or Didymus On Genesis; 152 links). Homilies on Exodus (Rufinus; not the notes or the selections; the song of the sea is once; 119 links). The Exodus part files `exod_hom6_1_7` and `exod_hom6_8_14` repeat the whole homily, and the builder now skips a tip file when the whole file already has that English. Demonstration of the Apostolic Preaching is all 100 sections (the source file had 20; `logos_english_tail` keeps the rest). It is study English based on Robinson, not a new translation from the Armenian, and not the letter to Victor. On Lazarus and the Palm Branches is the raising and the entry. It is not Homily II on Saint Lazarus. Against Celsus is a short reading of the preface and of each of the eight books (1,696 words, 14 links), not the full treatise. A heading that contained a Bible marker was stripping the build; headings are now plain text.
+
+Shelf batch 21 is pid 69560, log `outputs/logos-shelf/batch21.log`. Header: 6 of 17 ready. First intro: `hesychius-in-andream`. Do not edit that book while the shelf is on it. Six translation lanes were left running. `lanes.paused` stays absent.
+
+## 2026-10-05 12:43 ET (Grok — John later fixed; shelf batch 20 running)
+
+The public zip is still `https://viapatrum.org/logos/fathers-personal-books.zip` (21404315 bytes, 160 books). Nothing built after 11:45 ET is in it. Do not pack or ship until the new intros are read and `check_research.py` is green. Do not compile inside Logos.
+
+`outputs/work-pipeline/lanes.paused` is gone. Six queues are running (51614, 51617, 51620, 51623, 51626, 51629). Leave them. Do not recreate the pause file. The hang watch stays up.
+
+`origen-john-later` was rewritten and rebuilt. The file is books 13, 19, 20, 28, and 32 only: the Samaritan woman, the treasury, Abraham's children, Lazarus, and the washing of the feet. It is not a continuous run of books 13 through 32. Cover title is Commentary on John. XML has 281 Bible links. The research check for this slug passed. The receipt field `bible_links` printed 0.
+
+Shelf batch 20 is pid 60910, log `outputs/logos-shelf/batch20.log`. Header: 6 of 23 ready (268 undated, 246 empty English, 48 no Bible link or scaffold). First intro: `origen-isaiah-ezekiel`. Do not edit that book while the shelf is on it.
+
+Local only, built or rewritten after the live zip, and not yet packed: Judges selections, Didymus on Hebrews, On the Resurrection, Ezekiel fragments, Notes on Exodus, the Epiphanius prayer, On Joseph, Severian on Titus, Cyril of Jerusalem on "I go away," Gregory Thaumaturgus on Matthew, Theophilus on John, Notes on Joshua, Gregory's sentences, Notes on Judges, Photius on 2 Timothy, On Faith, On the Trinity, Didymus on Zechariah, Commentary on Romans, Homilies on Psalms 36-38, On First Principles, Commentary on Matthew, Homilies and Commentary on the Song, Homilies on Luke, Homilies on Leviticus, Homilies on Joshua, Homilies on Judges, and Commentary on John (books 13, 19, 20, 28, 32). Identity holds stay off: Homily I on Lazarus, and the Apocalypse scholia scrap. Cesti stays out.
+
+## 2026-10-05 12:08 ET (Grok — shelf batch 14 reviewed)
+
+Batch 14 built Gregory Thaumaturgus, Fragment on Matthew (the sound eye and pretended love; the English has the wolves and the cup), and Theophilus, Fragments on John. John was rewritten after the build: fragments, not a commentary, and not his fragments on Matthew. The file marks the quoted line as John 3. Held for no Bible links: the prophet list, the Hebrews homily scrap, Photius on Philemon. `origen-apocalypse-scholia-scrap` is an identity hold. The label says scholia on the Apocalypse. The English is the Pantainos and Heraclas training notice and never mentions the Apocalypse. Do not ship that mismatch. None of these are in the live zip yet.
+
+## 2026-10-05 12:05 ET (Grok — shelf batch 13 reviewed)
+
+Batch 13 built On Joseph, Fragments on Titus, and Cyril of Jerusalem's homily on "I go away." Titus was rewritten after the build: these are Severian's fragments, not Chrysostom's homilies on Titus. Held for no Bible links: Theophilus on Matthew, Severian on Philemon, Eustathius on Proverbs. Do not invent links. None of these are in the live zip yet.
+
+## 2026-10-05 11:55 ET (Grok — Logos download is live; shelf still building)
+
+The public file is live: `https://viapatrum.org/logos/fathers-personal-books.zip` (HTTP 200, `application/zip`, 21404315 bytes, 160 books). Someone downloads it and adds each Word file in Logos: Tools, Utilities, Personal Books; attach `cover.jpg`; paste `description.txt`; build. Do not compile or upload inside Logos while the lanes are up.
+
+`outputs/work-pipeline/lanes.paused` is in place (quality audit 2026-10-05). A1, C2, and E1 exited on `lanes.restart` between books. Do not restart them while that pause file exists. B1, C1, and D1 were still alive. The hang watch stays up. It already reported 4 of 6; A1's exit was the pause, not a crash.
+
+`hesychius-homilia-i-lazarum` is held off the shelf. The site title is Homily I on Saint Lazarus, but the Greek incipit is the homily on James and David. Do not ship that mismatch. Authors with no `author-dates.json` entry no longer use up a shelf slot. The letter to Theodosius and Eustathius's address to Constantine have no Bible links; they stay off. Built after the live zip, so not in the 160-book file: Judges selections, the Didymus Hebrews fragment, On the Resurrection, Ezekiel fragments, Notes on Exodus, and the Epiphanius prayer and exorcism. Hundreds of English works still have no DOCX.
+
+## 2026-10-05 11:35 ET (Grok — Logos download; lanes left running)
+
+The share file is `outputs/logos-share/fathers-personal-books.zip` (160 books, about 21 MB). Each folder has the Word file, `cover.jpg`, and `description.txt`. Someone adds the Word file in Logos under Tools, Utilities, Personal Books, attaches the cover, pastes the description, and builds. Bible links are in the Word file. Held out: Cesti (no links, no cover), Baron (short, no links), Crocius (shorter than the site), Epiphanius Anacephalaeosis (no links), Gregory To Tatian (no links), Gregory Panegyric (no links). A site publish was already running (`outputs/ship-20261005a.log` on the fathers site). The zip is in `dist/logos/` so that publish can carry it. Public address, once that publish is live: `https://viapatrum.org/logos/fathers-personal-books.zip`. Do not start a second ship while that lock is held.
+
+## 2026-10-05 11:26 ET (Grok — Logos shelf batch 8; lanes left running)
+
+Six recert lanes still alive (A1 42605, B1 29254, C1 29245, C2 29248, D1 57961, E1 19446). Do not start a second translation set. Do not compile or upload Logos tonight. The Sunday 04:00 job compiles covered DOCX files. Research gate OK, 146 books.
+
+Batch 8 is on its last book, `epiphanius-de-xii-gemmis`. The linker found no Bible links there, so the next shelf skips it. Do not invent links. Same hold, already in `no_link`: Severian on Genesis, Epiphanius on the Ascension of Christ (the Latin title says assumptionem Christi; it is not a sermon on Mary), the twelve gems and their fragments, the apostle and disciple indexes, the notices of episcopal sees, Severian on 1 and 2 Thessalonians, Evagrius on the vices and the spiritual sentences, the letter to Eusebius, the Acts of Justin, the apophthegmata, Dionysius of Corinth, and the index appendices.
+
+Built and read in this stretch: Amphilochius on the Nativity; Severian, Fragments on 1 Timothy (the English itself names the children of Nestorius; the intro does not make that his biography; not Chrysostom, Photius, or Oecumenius); Origen, Fragments on 1 Samuel; Hesychius, Homily II on Lazarus (not Homily I, not Amphilochius, not Eustathius); Amphilochius, Oration on the Resurrection; Didymus, Fragments on Romans (not Apollinaris, Diodorus, or Severian); Hesychius on Peter and Paul; Hesychius, Homily II on Mary (Annunciation and the Magi); Hesychius, Homily I on Mary (God-bearer, virgin conception, Emmanuel). Homily I does not claim the August 15 feast or the Council of Ephesus. That date was not in this English. Hundreds of English works still have no DOCX. Keep going down the site word-count list. Skip a book a lane is translating.
+
+## 2026-10-05 09:50 ET (Grok — Logos shelf; lanes left running)
+
+Six recert lanes still alive (A1 42605, B1 29254, C1 29245, C2 29248, D1 57961, E1 19446). Do not start a second translation set. Do not compile or upload Logos tonight. The Sunday 04:00 job compiles covered DOCX files.
+
+`work_pipeline.py intro` sources an introduction and does not copy English. `build_pbb_docx.py --shelf` turns that into a DOCX and a series cover. Research gate OK, 127 books. Church of Smyrna is fl. c. 156. Anonymous (Epistle to Diognetus) is fl. c. 150. Both match the year already locked on the book. Third shelf added the Psalm excerpts, both Romans fragment books, Eulogius, On Evil Thoughts, the man born blind, Evagrius on Ecclesiastes, both Origen Job books, the catholic epistles, and The Practice. The burial homily stays off: no Bible links. Keep Evagrius's Practice, Evil Thoughts, Eulogius, and the two Proverbs books distinct. Keep the four Job books distinct. Second shelf added Ephesians, 1 Corinthians (Severian), Evagrius's Exposition on Proverbs, the Greek Romans catena, the Witch of Endor, Apollinaris on John, Marcellus, Didymus on 2 Corinthians, Amphilochius Against the Heretics, and Origen's Greek Psalm fragments (Psalms 1–22, not Didymus). Sermons on Job and Lamentations fragments stay off: no Bible links. Severian, Fragments on 1 Corinthians, was rewritten by hand: the draft had called the fragments his sermons. Evagrius, Exposition on Proverbs, is not his Notes on Proverbs. Origen, Commentary on Romans (Greek), is the catena excerpts. Read every new intro against the book title before calling it done. Fragments on the Psalms is the PG 39 fragments book, not the Tura papyrus. Commentary on the Psalms is the other book. Do not put a section count in an intro.
+
+DOCX now on disk for the long English works: Fragments on the Psalms (256 sections, 326 links), Commentary on the Psalms (224, 688), Commentary on Job (96, 504), On Genesis (100, 358), On the Trinity (76, 421), Commentary on Ecclesiastes (64, 136), plus Homilies of Asterius (80), Fragments on 1 Corinthians, Apollinaris on the Psalms, Ammonius on John, the Hexaemeron commentary, and Evagrius's notes on Proverbs. Each has a series cover. Origen's Proverbs exposition and Minucius Octavius stay off: no Bible links, and links are not padded. About 750 English works still have no DOCX. The next shelf is the following word-count tier. Skip any book a lane is translating. Zachariah is running. Do not touch it.
+
+## 2026-10-05 00:35 ET (Grok — Logos DOCX catchup; lanes left running)
+
+Six recert lanes still alive (same pids as the evening). Do not start a second set. Logos: 36 short certified DOCX match the site pages they cover, with series covers. Those 36 are not compiled yet. Four books already in the Logos library kept their compiled titles so a rebuild does not insert a second row.
+
+## 2026-10-04 15:17 ET (Grok — lanes already running; left them running)
+
+Six recert lanes alive (A1 Cyril of Jerusalem to Constantius, B1 Origen Philocalia, C1 Tatian, C2 Minucius Felix, D1 Apollinaris on the Psalms, E1 Clement Stromata). Do not start a second set. Queue: 94 certified, 49 reopened, 58 held, 4 need a term decision. 14 certified today, 28 held today. Last public ship 14:15 ET `ship-20261004d.log` SHIP OK, https://viapatrum.org, deploy `05dd0405.fathers-site.pages.dev`, 371 routes, 0 failed. Batch broker up; 4 Kimi batches in flight (25 min deadline, not a hang). Overnight quota/catchup stay unloaded on purpose. Origen Greek Psalms local=live=99, next header 23.1, GAP 0; do not re-land 1–99. Photius 18–22 held. Cesti still 98. Work session on until 2026-10-05T01:16:32Z. Do not work_session_off. `always-awake` holds the Mini. Recert tick every 30 min restarts a dead lane.
+
 ## RESUME MONDAY (owner 2026-10-03 21:55): "get through all the books, get them certified and live, then I can worry about audio."
 
 **Priority order for Monday:**
@@ -3227,3 +3327,4 @@ Book 5 part 2 rem close stays free because the source is betacode, and the batch
 ## 2026-09-29 ~18:22 UTC (lanes check 2:22 EDT)
 - Lanes healthy: 16:54Z dual had 4 NV promotes (epiphanius testimonia), real spend both lanes. Current run active (supervisor 35min, workers 1-4min old, log in 'promote round 2'). No stall. Those 4 promotes predate ship #3's build -> already live. No new promotes since ship -> no ship run.
 - JEV unchanged (open 0). Logos unchanged. HOLD fresh (17:48Z).
+- 2026-10-04 · Ten Leopards (Ch II Troas) needs, from Lake's Greek, verified (pass_b_english): Ignatius Philadelphians 10-11, Smyrnaeans 10-11 and 13, Ignatius To Polycarp 7-8 (the game uses them only in spoken lines for now). Note: records ignatius_polycarp_1/5/6 are Polycarp's To the Philippians (ids misleading).
