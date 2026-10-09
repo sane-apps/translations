@@ -1,3 +1,60 @@
+## 2026-10-09 12:55 ET (Grok, dropped review fixes are on main)
+
+Lanes had left Didymus on the Psalms (01:59, 218 held) and Severian on Job (11:47, 9 held). Merge `27b9b8907` brings origin `0b638ecab` into local main. `verify_merge.py` on that restore (base `94dc3ccf2`, theirs `0b638ecab`, current `HEAD`) exited 0: 40 files, nothing lost. Spot-check: Severian says "you might appear righteous"; Didymus says "hypostasis" and "spun like a spider's web".
+
+That merge is on origin. Do not force-push. Air stays on `cursor/cyril-matthew-clean-1dff`. Do not merge main into that branch, and do not copy trees across machines.
+
+Disk is under 15 GB free, so the next auto-ship will skip until there is space. Do not delete the audiobook r2 cache to force a ship.
+
+## 2026-10-08 21:45 ET (Grok — review wording kept, books kept on the site)
+
+The 21:33 auto-ship had already decided to publish 317 works. Seven live books were going offline because the October review changed their English and the receipts no longer matched. Stopped that ship before deploy (SIGTERM, no upload). Copied the seven work folders back into `dist/works` from the last good ship so a lane does not treat them as unpublished.
+
+Commit `cedcc3837` puts the noted wording into the full section and refreshes the receipt:
+- Clement, Minucius Felix, Tertullian On Patience, and On Repentance had lost sentences when a short extract replaced the section. The previous English is back, with the noted phrase.
+- Eustathius's finished paragraph is back. It now says the cross draws all people to himself. The gloss that replaced it is gone.
+- Diognetus keeps the corrected chapter. The receipt matches the split sentences.
+- Proclus says "returns" again. A lane certify at 21:35 had written "nurtures" back over `325d602e6`.
+
+All seven `certified()` again. Local main is ahead 6, behind 1 (`0b638ecab`, Didymus Psalms and Severian on Job). A lane is still in both books. Do not merge that commit until the lane leaves them. Do not force-push. Air stays on `cursor/cyril-matthew-clean-1dff`.
+
+## 2026-10-08 21:35 ET (Grok — review sentences put into the real sections)
+
+Nine review files had appended a second copy of the section and left the old sentence in place. Commit `325d602e6` puts the corrected sentence into the real section and drops the extra copy. Checked: Procopius no longer "prevailed over God"; the rose is joined with the lily, not the leek; Thyrsus is the turtledove; Proclus's cycle is "returns", not "nurtures"; the Conception homily's missing opening is on the John the Baptist section.
+
+That commit is local. Origin has `0b638ecab`, which restores the Didymus Psalms and Severian on Job review text this merge had left out. Do not merge it into the tree while `ship_if_changed.py` is building. A lane is still in Didymus (u25, u26) and Severian on Job. Bring `0b638ecab` in after this build finishes reading.
+
+## 2026-10-08 21:25 ET (Grok — review merge, two books held back)
+
+Local `main` was 10 commits ahead of GitHub and 2 behind (`sane-apps/translations#24`). Those histories did not touch the same files. Merge commit `94dc3ccf2` brings the October review onto this tree.
+
+Left out of that merge, because a lane is writing them: `didymus-fragmenta-psalmos` and `severianus-in-job`. Their review files are still on parent `37ff9932e`. When the lane leaves each book, take those files from that parent if the lane did not replace them. Do not pull. Air is on `cursor/cyril-matthew-clean-1dff` with its own edits. Do not copy trees across machines.
+
+## 2026-10-08 daily operations goal
+
+The owner asked for regular daily progress: lanes stay up, a certified book is committed, and auto-ship publishes it every 30 minutes. The twice-a-day clock and the 2-ship cap were removed 2026-10-08 (`1468f56e6`). A committed site revision also ships and does not rebuild the shelf (`415b821af`). What still skips a ship: dirty site code (not assets/og), build.lock, under 15 GB free, a ship that does not verify, and the shrink guard. This is not the 700-item audit. Do not start a stronger paid check, a re-voice, or an unpark of the old held rows unless the owner asks.
+
+Fixed and checked this session:
+- `functions/authors/` is generated on every ship and was the one dirty path blocking auto-ship. It is gitignored, same as `functions/works/` (site `7481304`). The code gate is clear.
+- A lane no longer crashes when `dist/works` is missing during a ship, and an unpublished lane does not treat every book as new (translations `8c00f2fa9`). Tests: `SiteCodeGateTests`, `ParkAndQueueTests.test_missing_site_dist_does_not_list_books`, `test_queue_exits_when_the_site_dist_is_missing`.
+- Lanes started on 7 October, before apply() learned to commit. `outputs/work-pipeline/lanes.restart` was touched at 12:53 so each lane exits after its current book and the next tick loads the commit code. Do not kill a lane.
+- Cyprian, On the Unity of the Church, certified at 02:38 and was left uncommitted. `promote.py` committed it as `7d8a3ae27`.
+
+Still outside this daily loop: rows already marked stalled, the stronger paid checker (owner picks it), and audio, Logos, Beliefs, the game, and the app. They do not update because a book certified.
+
+Continued the same day, after 13:00:
+- Ignatius's letters met the current bar (98 sections, reader scores 3 and 3, reader edits off). `apply()` committed `98cbf034b`. Leopards text check: 23 quotes ok, 0 failed.
+- Old parked rows with no `stalled` field can finish when every section already passed and only a read or intro remains (`e443f7489`). A score already under the minimum stays parked. Withheld books stay parked. Do not extend this to rows that already recorded a stall.
+- The 13:17 tick started A1, B1, C1, and C2 on that code. A1 claimed the Origen Apocalypse scrap (244 words), the only other book the rule releases.
+- A draft is now held when it drops half the source or repeats a paragraph (`4be9ca2cc`). Certified sections of 80 source words or more measured 0.95 to 1.87 English words per source word; Macarius homily 5 is 0.33. This check is not in `content_errors`, so a site build does not newly hold a live work. `lanes.restart` touched 13:21.
+- The 13:30 auto-ship built, then died at 13:49 on the H1 "Scholia on the Apocalypse". Site `ea46849` rewrites that class of heading before the catalogue check. The dist from the next build showed "Notes on the Apocalypse" with the Latin line "Scholia in Apocalypsem".
+- The 14:18 retry died at 14:21 on the Latin subtitle "The Letters of Ignatius: Ephesians" (the first letter's English meta). Site `20e7d85` leaves an English section title out of that slot. One page of 335 had the fault. The part-only scope check was already clean.
+- The 14:27 retry verified at 14:36 (`outputs/ship-retry-20261008-b.log`). Live check: 323 works, H1 "Notes on the Apocalypse", Latin "Scholia in Apocalypsem", Ignatius with no English subtitle. Pages `https://29f0b2ca.fathers-site.pages.dev`.
+- Shelf finished 17:29 (`outputs/ship-shelf-20261008.log`): upload-direct 121 sent, 0 failed; upload-large 7 sent, 0 failed. `last_shelf.ok` true. Five worksheet-note files stayed off the shelf.
+- Library ship verified 17:36 (`outputs/ship-library-20261008.log`). Live /downloads/ lists Ignatius and the Apocalypse scrap. Works page still 323. Catalogue 369 checked / 364 held / 0 failed. The daily count is not a gate. `shelf_pending` was null after that ship.
+- Listen counts every slug in a manifest's `sites` list (site `1e967a0`). 475 manifests: 68 more pages, and the no-play label is no longer counted. Tests: `ListenCountTest` (4). Site-only auto-ship verified 18:32 (`fathers-ship-auto.log`, changed `site` only, no shelf). Pages `https://5b043873.fathers-site.pages.dev`. Live home and `/listen/` both say 323 works read aloud. Cyril Adoration 2, Wesley, Julian, and Ignatius are on Listen. `origen-letters` is not. Catalogue 369 checked / 364 held / 0 failed. CSS stayed `7bd4c15fc4`.
+- `origen-ezekiel-fragments` stays withheld. Certify `610999635` dropped "Its extension reaches toward the gathering." Do not un-withhold.
+
 ## 2026-10-05 18:45 ET (Grok — Personal Books page shipped)
 
 SHIP OK. Log `websites/fathers.saneapps.com/outputs/ship-20261005-logos-publish.log`. Pages `https://20e6d8a5.fathers-site.pages.dev`. Live check 370 routes, 365 held, 0 failed. CSS `?v=b5ea80711e`.
