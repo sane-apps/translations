@@ -1,3 +1,7 @@
+# Question dossiers support (2026-10-13, Claude Opus 5.5)
+
+`scripts/corpus_search.py` (build/find/grab/show) and `scripts/witness_fetch.py` (khaz/ia/url) back the 100 timeline dossiers in the fathers site repo. The normalizer now folds ae/oe/long s for Migne scans. New public-domain witnesses in outputs/question-dossiers/witnesses/ (gitignored): Denzinger 1911, Migne PL 44, City of God 1/13/18/20/21/22 (Latin Library; 22 lacks ch. 6-11), Nyssa on Ecclesiastes, Lumen Gentium. Queue after all 100: docs/question-priority.json 89 books, docs/question-intake.json 311 works (commit b77318f10). Origen Leviticus/Romans/Psalms-Rufinus and Joshua hom 3 sources are summaries despite "certified" receipts; re-lock from Lommatzsch/Baehrens scans.
+
 ## 2026-10-10 (Densify — De Veritate bonorum operum quae per Christi gratiam fiunt a Regenitis I-XVIII densify LOCAL)
 
 - Before: **2721**. After: **2739** (An & quatenus homo per Christi gratiam Legem implere possit I-LI (closed) → §§2722–2739).
