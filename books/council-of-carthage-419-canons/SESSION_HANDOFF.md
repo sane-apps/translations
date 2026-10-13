@@ -1,0 +1,1 @@
+Witness: la.wikisource.org Documenta iuris canonici veteris, Migne 1846, the block headed Canones concilii Carthaginensis celebrati anno 419. Canon 29 names five books of Solomon, Tobit, Judith, Esther, and two books of Maccabees. It does not name Baruch. Number 29 is this printing's number, not the English collection's canon 24.

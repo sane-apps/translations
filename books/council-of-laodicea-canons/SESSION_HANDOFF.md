@@ -1,0 +1,1 @@
+Witness for canons 59 and 60: Bruns 1839, page 79, and Westcott 1881. The other canons are the typed Greek transcription at el.wikisource.org, same sixty-canon series. Canon 60 names Jeremiah and Baruch. It does not name Tobit, Judith, Wisdom, Sirach, or Maccabees.

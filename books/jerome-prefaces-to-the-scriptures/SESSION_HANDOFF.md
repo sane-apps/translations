@@ -1,0 +1,1 @@
+Witness: la.wikisource.org Vulgata Clementina prefaces (1598). Checked sentences: Wisdom, Sirach, Judith, Tobias, and the Shepherd are not in the canon; the church reads Judith, Tobit, and Maccabees but does not receive them as canonical; the Hebrew Daniel lacks Susanna, the hymn, and Bel and the dragon.

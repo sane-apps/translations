@@ -784,7 +784,8 @@ Six recert lanes alive (A1 Cyril of Jerusalem to Constantius, B1 Origen Philocal
 - Tool: scripts/intake_first1k.py (Greek/Latin/PG modes, --edition, --skip-units).
 - Inventory of all 1,280 early works: docs/early-inventory.json.
 - Plans: docs/greek-intake-plan.json, docs/latin-intake-plan.json.
-- INTAKE IS PAUSED until certification flows.
+- INTAKE IS PAUSED until certification flows. Owner 2026-10-10: that pause does not block a work whose Greek or Latin can already be read. A Migne scan or a transcription of one is enough. See `docs/SOP.md` §1. Bulk catalog intake stays paused.
+- 2026-10-10: five canon-list books were hand-locked from readable Latin and Greek, not through intake_first1k: jerome-prefaces-to-the-scriptures, rufinus-commentary-on-the-apostles-creed, augustine-on-christian-doctrine, council-of-laodicea-canons, council-of-carthage-419-canons. English is empty. lanes.restart was touched so a living lane finishes its current book, then exits. The new books sit in date order.
 
 **Next, in order**
 1. Confirm certification resumed after the graceful restart: queue.json results, health_watch "certified" count. The last certification before the fixes was 12:18.
