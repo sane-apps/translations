@@ -24,7 +24,7 @@ without passing the gates, and no lane commits.
 | Cloudflare Workers AI draft/checker lanes | Mini, `scripts/llm_bakeoff.py` + lane config | Nothing; quota-capped | Draft translation passes and mechanical checker votes | Quota windows; check `outputs/overnight-quota/` before large runs |
 | NVIDIA NIM draft/checker lanes | Mini, same bakeoff path | Nothing; quota-capped | Same as above, different model family for second opinions | Same quota discipline |
 | Gemini prep/QA lane | Mini, `scripts/gemini_prep_lane.py` | Nothing; free tier | Prep work and third-opinion QA only; never promotes alone (`auto_promote` is false, keep it that way) | Enable with `docs/LLM_LANE_CONFIG.json` gemini flag or `FATHERS_ENABLE_GEMINI`; key is on the Mini |
-| TypeSafe Jev reviewer | Air (controller side) | Metered tokens, roughly 500 in / 50 out per judgment, under a second | Independent second opinions on judgments the gates cannot make: allusion certainty, ops-chatter vs scholarship, review-need triage | Typed output guarantees the interface, not the truth; flags mismatches for a stronger reviewer, never decides alone |
+| Jev-style reviewer (Clef by default since 2026-10-13; Jev only on owner ask, see LLM_VENDOR_API_SOP.md) | Air (controller side) | Workers AI tokens on the grant, roughly 500 in per judgment, under a second | Independent second opinions on judgments the gates cannot make: allusion certainty, ops-chatter vs scholarship, review-need triage | Typed output guarantees the interface, not the truth; flags mismatches for a stronger reviewer, never decides alone |
 
 The TypeSafe key lives at `~/.config/typesafe/env` (mode 600) on both
 hosts, so review can run wherever the data is. The key never appears in
