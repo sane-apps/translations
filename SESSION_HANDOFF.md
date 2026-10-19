@@ -1,3 +1,13 @@
+# Plans lanes live (2026-10-19, Claude Opus 5.5)
+
+Translation runs on subscription plans, not Workers AI credit (owner: "automate that … self aware of usage limits"). Commit cc24c1dc4.
+- Lanes (run-recert-lanes.sh, every 30 min) default to `plans`: Muse drafts/repairs, Claude Sonnet + Haiku check and read, no paid fallback, NV Nemotron referee unchanged. Revert: `workers-ai` > outputs/work-pipeline/lane-profile.
+- scripts/plan_calls.py: spent usage window -> plan paused until the named reset, lanes sleep; budgets Claude 60/h 500/day, Muse 120/h 600/day (owner's own sessions share them); 3 Claude / 4 Muse at once. `python3 scripts/plan_calls.py status`. fathers_watch `plans` check.
+- muse_runner heartbeat fix (froze under load -> "runner not alive" draft failures; none held). Load test 8 concurrent, heartbeat max 2 s.
+- 13 Muse-drafted martyr acts added to outputs/work-pipeline/finish_only.json; lanes re-translate + check them (Muse-only critic passed real errors: outputs/checker-bench-20261019). First: Carpus, Polycarp passing round 1.
+- Uncommitted, not mine: Muse-only lane scripts (muse_nightly/muse_review/run-muse-nightly), its AI_CROSSCHECK section, pipeline/verify_translation_qa.py muse schema (Spark, 10-18).
+- Open: Athanasius Incarnation all 57 pass, readability 3/3 (< 3.5) so not certified; Le Blanc 1,586 not started is parked.
+
 # Question dossiers support (2026-10-13, Claude Opus 5.5)
 
 `scripts/corpus_search.py` (build/find/grab/show) and `scripts/witness_fetch.py` (khaz/ia/url) back the 100 timeline dossiers in the fathers site repo. The normalizer now folds ae/oe/long s for Migne scans. New public-domain witnesses in outputs/question-dossiers/witnesses/ (gitignored): Denzinger 1911, Migne PL 44, City of God 1/13/18/20/21/22 (Latin Library; 22 lacks ch. 6-11), Nyssa on Ecclesiastes, Lumen Gentium. Queue after all 100: docs/question-priority.json 89 books, docs/question-intake.json 311 works (commit b77318f10). Origen Leviticus/Romans/Psalms-Rufinus and Joshua hom 3 sources are summaries despite "certified" receipts; re-lock from Lommatzsch/Baehrens scans.
@@ -3893,3 +3903,9 @@ Book 5 part 2 rem close stays free because the source is betacode, and the batch
 - Lanes healthy: 16:54Z dual had 4 NV promotes (epiphanius testimonia), real spend both lanes. Current run active (supervisor 35min, workers 1-4min old, log in 'promote round 2'). No stall. Those 4 promotes predate ship #3's build -> already live. No new promotes since ship -> no ship run.
 - JEV unchanged (open 0). Logos unchanged. HOLD fresh (17:48Z).
 - 2026-10-04 · Ten Leopards (Ch II Troas) needs, from Lake's Greek, verified (pass_b_english): Ignatius Philadelphians 10-11, Smyrnaeans 10-11 and 13, Ignatius To Polycarp 7-8 (the game uses them only in spoken lines for now). Note: records ignatius_polycarp_1/5/6 are Polycarp's To the Philippians (ids misleading).
+
+## 2026-10-19 afternoon: held backlog review on the plans (Claude)
+- Backlog: 3,886 held sections / 11,105 findings in outputs/held-review/2026-10-19-plans. Judge running: `held_review.py judge --model claude-opus-5-5` (restart form; the running process used the old --final flag) (Opus alone; Muse's fixes failed a live spot check). apply-loop.sh there applies every 2 h (apply.log); first apply released 21 sections in 15 books. Grok's X pool is spent (402), lanes use Sonnet + Muse until it returns.
+- Benches: outputs/referee-bench/REPORT.md (lane referee), REPORT-runs-judge.md (held judge), outputs/checker-bench-plans (checker, still running at low cap). Clef ratings for every backlog finding: clef.jsonl in the review dir.
+- Terra second opinion on 256 Opus verdicts: 76% agree, Opus held up; 5 polish items in outputs/held-review/2026-10-19-plans/SECOND_OPINION.md (incl. ἀγένητος consistency in athanasius-dialogi-de-trinitate). ChatGPT Go allowance spent again; owner cancelling the plan.
+- Session end 2026-10-19 ~18:15 (owner updating Claude). Still running detached: held_review judge (pid in /tmp/fathers-held-review.lock/pid; restart: `held_review.py judge --dir outputs/held-review/2026-10-19-plans --model claude-opus-5-5`), apply-loop.sh (2 h, apply.log; 17:16 pass released 204 sections in 42 books), outputs/plan-limits/grok-when-back.sh (referee bench when Grok returns). Budgets: outputs/plan-limits/budgets.json (Claude 15/h day, 100/h 22-08). Next: Grok referee decision; 5 polish items in SECOND_OPINION.md.
